@@ -7,7 +7,7 @@ upcoming_events_url = f'{domain}/calendar'
 def get_upcoming_event_urls():
     content = requests.get(upcoming_events_url)
 
-    soup = BeautifulSoup(content.text, 'html.parser')
+    soup = BeautifulSoup(content.text, 'html5lib')
     soup.prettify()
 
     view = soup.body.find(class_='view-id-calendar_list')
