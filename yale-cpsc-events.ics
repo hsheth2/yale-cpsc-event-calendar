@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+X-WR-CALDESC:Yale CPSC Event Calendar
+X-WR-CALNAME:Yale CS Events
+BEGIN:VEVENT
+SUMMARY:CS Talk - Yuhao Zhu\, University of Rochester
+DTSTART;VALUE=DATE-TIME:20191001T103000
+DTEND;VALUE=DATE-TIME:20191001T113000
+DESCRIPTION:Event description:\nCS Talk - Yuhao Zhu\, University of Roches
+ ter\n\nHost: Abhishek Bhattacharjee\n\nTitle: The Next Quintillion Pixels 
+ and Beyond: Architecting Next-Generation Mobile Visual Computing Systems\n
+ \nAbstract:\n\nAddressing the world’s more pressing issues such as healt
+ hcare and environmental sustainability increasingly relies on diverse visu
+ al applications running on emerging platforms such as AR/VR headsets\, aut
+ onomous machines\, and smart-city sensor nodes. In real-time and using low
+  power\, visual computing systems must generate visual data for humans to 
+ consume\, immersively\, or interpret visual data to provide personalized s
+ ervices\, intelligently.\n\nIn this talk\, I will explain why today’s co
+ mputer systems and architecture are not ready for the visual computing app
+ lications on the horizon\, and outline the road that might get us there. F
+ undamentally\, we have been over-emphasizing the vertical\, domain-specifi
+ c architecture design while future visual applications inherently encompas
+ s tasks from multiple domains. Simple stitching together systems designed 
+ and optimized for individual domains leads to a sub-optimal whole. I promo
+ te a horizontal\, cross-domain mindset\, and present two case-studies in c
+ ontinuous vision and point cloud processing.\n\nBio:\n\nYuhao Zhu is an As
+ sistant Professor of Computer Science at the University of Rochester. Prev
+ iously he was a visiting researcher at ARM Research and a Research Fellow 
+ at Harvard University before receiving his Ph.D. from The University of Te
+ xas at Austin. His current research focuses on architecting future visual 
+ computing systems. He received the Honorable Mention of the 2018 ACM SIGAR
+ CH/IEEE-CS TCCA Outstanding Dissertation Award\, IEEE Micro Top Picks from
+  Computer Architecture Conferences (2015\, 2018)\, and Best Paper Award/No
+ minee of MICRO 2019 and CAL 2014. More about his group’s research can be
+  found at:\nhttp://horizon-lab.org\n.\n
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-yuhao-zhu-university-rochester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Tim Roughgarden\, Columbia University
+DTSTART;VALUE=DATE-TIME:20191009T160000
+DTEND;VALUE=DATE-TIME:20191009T170000
+DESCRIPTION:Event description:\nCS Talk -\nTim Roughgarden\, Columbia Univ
+ ersity\n\nHosts: Yang Cai and Dirk Bergemann\n\nTitle: How Computer Scien
+ ce Informs Modern Auction Design\n\nAbstract:\n\nOver the last twenty year
+ s\, computer science has relied on concepts borrowed from game theory and 
+ economics to reason about applications ranging from internet routing to re
+ al-time auctions for online advertising. More recently\, ideas have increa
+ singly flowed in the opposite direction\, with concepts and techniques fro
+ m computer science beginning to influence economic theory and practice.\n\
+ nIn this talk\, I will illustrate this point with a detailed case study of
+  the 2016-2017 Federal Communications Commission incentive auction for rep
+ urposing wireless spectrum. Computer science techniques\, ranging from alg
+ orithms for NP-hard problems to nondeterministic communication complexity\
+ , have played a critical role both in the design of the reverse auction (w
+ ith the government procuring existing licenses from television broadcaster
+ s) and in the analysis of the forward auction (when the procured licenses 
+ sell to the highest bidder).\n\nBio:\n\nTim Roughgarden is a Professor of 
+ Computer Science at Columbia University. Prior to joining Columbia\, he sp
+ ent 15 years on the computer science faculty at Stanford\, following a PhD
+  at Cornell and a postdoc at UC Berkeley. His research interests include t
+ he many connections between computer science and economics\, as well as th
+ e design\, analysis\, applications\, and limitations of algorithms. For hi
+ s research\, he has been awarded the ACM Grace Murray Hopper Award\, the P
+ residential Early Career Award for Scientists and Engineers (PECASE)\, the
+  Kalai Prize in Computer Science and Game Theory\, the Social Choice and W
+ elfare Prize\, the Mathematical Programming Society’s Tucker Prize\, and
+  the EATCS-SIGACT Gödel Prize. He was an invited speaker at the 2006 Inte
+ rnational Congress of Mathematicians\, the Shapley Lecturer at the 2008 Wo
+ rld Congress of the Game Theory Society\, and a Guggenheim Fellow in 2017.
+  His books include Twenty Lectures on Algorithmic Game Theory (2016) and t
+ he Algorithms Illuminated book series (2017-2019).\n
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-tim-roughgarden-columbia-universit
+ y
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Sandhya Dwarkadas\, University of Rochester
+DTSTART;VALUE=DATE-TIME:20191010T160000
+DTEND;VALUE=DATE-TIME:20191010T170000
+DESCRIPTION:Event description:\nCS Colloquium\nSandhya Dwarkadas\, Univers
+ ity of Rochester\n\nHost: Abhishek Bhattacharjee\n\nTitle: Toward Efficien
+ t and Protected Address Translation in Memory Management\n\nMemory managem
+ ent support on state-of-the-art architectures and operating systems encoun
+ ters performance and protection challenges for today’s applications and 
+ execution environments.\n\nIn particular\, a variety of services\, ranging
+  from compilers to web user-interface frameworks (whether on mobile or ser
+ ver platforms)\, which provide the infrastructure for many high-level appl
+ ications\, suffer from performance degradation due to instruction address 
+ translation overheads.\n\nIn this talk\, I will focus largely on the instr
+ uction path to highlight\n\n(1) the impact of instruction address translat
+ ion on performance (including the importance of using superpages)\;\n\n(2)
+  the need to rethink protection architectures for performance\; and\n\n(3)
+  techniques that enable page table and translation lookaside buffer sharin
+ g across applications.\n\nMemory management can also be a source for side 
+ channel attacks in compromised operating systems.\n\nI will describe techn
+ iques that harden compiler-based approaches to protecting application data
+  from compromised operating systems against page table\, last-level cache 
+ (LLC)\, and speculation side-channel attacks.\n\nAs time permits\, I will 
+ also provide a glimpse of ongoing work on sharing-aware resource managemen
+ t for multicore systems with a goal of simultaneously achieving high overa
+ ll system efficiency and individual application progress guarantees.\n\nBi
+ o:\n\nSandhya Dwarkadas is the Albert Arendt Hopeman Professor of Engineer
+ ing\, and Professor and Chair of Computer Science with a secondary appoint
+ ment in Electrical and Computer Engineering\, at University of Rochester\,
+  where she has been on the faculty since 1996.\n\nShe received her Bachelo
+ r’s degree from the Indian Institute of Technology\, Madras\, India\, an
+ d her M.S. and Ph.D. from Rice University.\n\nShe is a fellow of the ACM a
+ nd IEEE.\n\nShe is also a member of the board and steering committee for t
+ he Computing Research Association’s Committee on Widening Participation 
+ (CRA-WP).\n\nHer areas of research interest include computer architecture\
+ , parallel and distributed systems\, and the interaction and interface bet
+ ween the compiler\, runtime/operating system\, and underlying architecture
+ .\n\nShe has made fundamental contributions to the design and implementati
+ on of shared memory both in hardware and in software\, and to hardware and
+  software energy- and resource-aware configurability.\n
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-sandhya-dwarkadas-university
+ -rochester
+END:VEVENT
+END:VCALENDAR
