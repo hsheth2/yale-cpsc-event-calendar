@@ -1,3 +1,4 @@
+import dateutil.parser
 import requests
 from bs4 import BeautifulSoup
 
@@ -18,7 +19,7 @@ def get_event_information(event_url):
     time_region = content.find(class_='field-name-field-event-time')
     time_element = time_region.find(class_='date-display-single')
     time_raw = time_element.get('content')
-    # TODO parse the time
+    time = dateutil.parser.parse(time_raw)
 
     location_region = content.find(class_='field-name-field-location')
     location_region = location_region.find(class_='location')
@@ -33,9 +34,10 @@ def get_event_information(event_url):
 
     return {
         'title': title,
-        'time': time_raw,
+        'time': time,
         'location': location_name,
         'description': description,
+        'url': event_url,
     }
 
 
