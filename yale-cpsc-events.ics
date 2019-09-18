@@ -3,8 +3,8 @@ X-WR-CALDESC:Yale CPSC Event Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
 SUMMARY:CS Talk - Yuhao Zhu\, University of Rochester
-DTSTART;VALUE=DATE-TIME:20191001T103000
-DTEND;VALUE=DATE-TIME:20191001T113000
+DTSTART;VALUE=DATE-TIME:20191001T143000Z
+DTEND;VALUE=DATE-TIME:20191001T153000Z
 DESCRIPTION:Event description:\nCS Talk - Yuhao Zhu\, University of Roches
  ter\n\nHost: Abhishek Bhattacharjee\n\nTitle: The Next Quintillion Pixels 
  and Beyond: Architecting Next-Generation Mobile Visual Computing Systems\n
@@ -38,8 +38,8 @@ URL:https://cpsc.yale.edu/event/cs-talk-yuhao-zhu-university-rochester
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Talk - Tim Roughgarden\, Columbia University
-DTSTART;VALUE=DATE-TIME:20191009T160000
-DTEND;VALUE=DATE-TIME:20191009T170000
+DTSTART;VALUE=DATE-TIME:20191009T200000Z
+DTEND;VALUE=DATE-TIME:20191009T210000Z
 DESCRIPTION:Event description:\nCS Talk -\nTim Roughgarden\, Columbia Univ
  ersity\n\nHosts: Yang Cai and Dirk Bergemann\n\nTitle: How Computer Scien
  ce Informs Modern Auction Design\n\nAbstract:\n\nOver the last twenty year
@@ -77,8 +77,8 @@ URL:https://cpsc.yale.edu/event/cs-talk-tim-roughgarden-columbia-universit
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Sandhya Dwarkadas\, University of Rochester
-DTSTART;VALUE=DATE-TIME:20191010T160000
-DTEND;VALUE=DATE-TIME:20191010T170000
+DTSTART;VALUE=DATE-TIME:20191010T200000Z
+DTEND;VALUE=DATE-TIME:20191010T210000Z
 DESCRIPTION:Event description:\nCS Colloquium\nSandhya Dwarkadas\, Univers
  ity of Rochester\n\nHost: Abhishek Bhattacharjee\n\nTitle: Toward Efficien
  t and Protected Address Translation in Memory Management\n\nMemory managem
