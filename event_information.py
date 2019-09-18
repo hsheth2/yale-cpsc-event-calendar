@@ -21,7 +21,7 @@ def get_event_information(event_url):
     time_element = time_region.find(class_='date-display-single')
     time_raw = time_element.get('content')
     time_aware = datetime.datetime.strptime(time_raw, "%Y-%m-%dT%H:%M:%S%z")
-    time_real = time_aware.astimezone(tz=pytz.utc)
+    time_real = time_aware.astimezone(tz=pytz.utc).replace(tzinfo=None)
 
     location_region = content.find(class_='field-name-field-location')
     location_region = location_region.find(class_='location')
