@@ -1,4 +1,5 @@
-import dateutil.parser
+import datetime
+import pytz
 import requests
 from bs4 import BeautifulSoup
 
@@ -19,7 +20,8 @@ def get_event_information(event_url):
     time_region = content.find(class_='field-name-field-event-time')
     time_element = time_region.find(class_='date-display-single')
     time_raw = time_element.get('content')
-    time = dateutil.parser.parse(time_raw)
+    time_aware = datetime.datetime.strptime(time_raw, "%Y-%m-%dT%H:%M:%S%z")
+    time_real = time_aware.astimezone(tz=pytz.utc)
 
     location_region = content.find(class_='field-name-field-location')
     location_region = location_region.find(class_='location')
@@ -34,7 +36,7 @@ def get_event_information(event_url):
 
     return {
         'title': title,
-        'time': time,
+        'time': time_real,
         'location': location_name,
         'description': description,
         'url': event_url,
