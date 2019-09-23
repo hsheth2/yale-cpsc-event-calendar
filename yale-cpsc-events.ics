@@ -6,32 +6,32 @@ SUMMARY:CS Talk - Yuhao Zhu\, University of Rochester
 DTSTART;VALUE=DATE-TIME:20191001T143000
 DTEND;VALUE=DATE-TIME:20191001T153000
 DESCRIPTION:Event description:\nCS Talk - Yuhao Zhu\, University of Roches
- ter\n\nHost: Abhishek Bhattacharjee\n\nTitle: The Next Quintillion Pixels 
- and Beyond: Architecting Next-Generation Mobile Visual Computing Systems\n
- \nAbstract:\n\nAddressing the world’s more pressing issues such as healt
- hcare and environmental sustainability increasingly relies on diverse visu
- al applications running on emerging platforms such as AR/VR headsets\, aut
- onomous machines\, and smart-city sensor nodes. In real-time and using low
-  power\, visual computing systems must generate visual data for humans to 
- consume\, immersively\, or interpret visual data to provide personalized s
- ervices\, intelligently.\n\nIn this talk\, I will explain why today’s co
- mputer systems and architecture are not ready for the visual computing app
- lications on the horizon\, and outline the road that might get us there. F
- undamentally\, we have been over-emphasizing the vertical\, domain-specifi
- c architecture design while future visual applications inherently encompas
- s tasks from multiple domains. Simple stitching together systems designed 
- and optimized for individual domains leads to a sub-optimal whole. I promo
- te a horizontal\, cross-domain mindset\, and present two case-studies in c
- ontinuous vision and point cloud processing.\n\nBio:\n\nYuhao Zhu is an As
- sistant Professor of Computer Science at the University of Rochester. Prev
- iously he was a visiting researcher at ARM Research and a Research Fellow 
- at Harvard University before receiving his Ph.D. from The University of Te
- xas at Austin. His current research focuses on architecting future visual 
- computing systems. He received the Honorable Mention of the 2018 ACM SIGAR
- CH/IEEE-CS TCCA Outstanding Dissertation Award\, IEEE Micro Top Picks from
-  Computer Architecture Conferences (2015\, 2018)\, and Best Paper Award/No
- minee of MICRO 2019 and CAL 2014. More about his group’s research can be
-  found at:\nhttp://horizon-lab.org\n.\n
+ ter\n\n\nHost: Abhishek Bhattacharjee\n\nTitle: The Next Quintillion Pixel
+ s and Beyond: Architecting Next-Generation Mobile Visual Computing Systems
+ \n\n\n\nAbstract:\n\nAddressing the world’s more pressing issues such as
+  healthcare and environmental sustainability increasingly relies on divers
+ e visual applications running on emerging platforms such as AR/VR headsets
+ \, autonomous machines\, and smart-city sensor nodes. In real-time and usi
+ ng low power\, visual computing systems must generate visual data for huma
+ n to consume\, immersively\, or interpret visual data to provide personali
+ zed services\, intelligently.\n\n\n\nIn this talk\, I will explain why tod
+ ay’s computer systems and architecture are not ready for the visual comp
+ uting applications on the horizon\, and outline the road that might get us
+  there. Fundamentally\, we have been over-emphasizing the vertical\, domai
+ n-specific architecture design while future visual applications inherently
+  encompass tasks from multiple domains. Simple stitching together systems 
+ designed and optimized for individual domains leads to a sub-optimal whole
+ . I promote a horizontal\, cross-domain mindset\, and present two case-stu
+ dies in continuous vision and point cloud processing.\n\n\n\nBio:\n\nYuhao
+  Zhu is an Assistant Professor of Computer Science at the University of Ro
+ chester. Previously he was a visiting researcher at ARM Research and a Res
+ earch Fellow at Harvard University before receiving his Ph.D. from The Uni
+ versity of Texas at Austin. His current research focuses on architecting f
+ uture visual computing systems. He received the Honorable Mention of the 2
+ 018 ACM SIGARCH/IEEE-CS TCCA Outstanding Dissertation Award\, IEEE Micro T
+ op Picks from Computer Architecture Conferences (2015\, 2018)\, and Best P
+ aper Award/Nominee of MICRO 2019 and CAL 2014. More about his group’s re
+ search can be found at:\nhttp://horizon-lab.org\n.\n\n
 LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-yuhao-zhu-university-rochester
