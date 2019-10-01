@@ -6,35 +6,69 @@ SUMMARY:CS Talk - Yuhao Zhu\, University of Rochester
 DTSTART;VALUE=DATE-TIME:20191001T143000
 DTEND;VALUE=DATE-TIME:20191001T153000
 DESCRIPTION:Event description:\nCS Talk - Yuhao Zhu\, University of Roches
- ter\n\n\nHost: Abhishek Bhattacharjee\n\nTitle: The Next Quintillion Pixel
- s and Beyond: Architecting Next-Generation Mobile Visual Computing Systems
- \n\n\n\nAbstract:\n\nAddressing the world’s more pressing issues such as
-  healthcare and environmental sustainability increasingly relies on divers
- e visual applications running on emerging platforms such as AR/VR headsets
- \, autonomous machines\, and smart-city sensor nodes. In real-time and usi
- ng low power\, visual computing systems must generate visual data for huma
- n to consume\, immersively\, or interpret visual data to provide personali
- zed services\, intelligently.\n\n\n\nIn this talk\, I will explain why tod
- ay’s computer systems and architecture are not ready for the visual comp
- uting applications on the horizon\, and outline the road that might get us
-  there. Fundamentally\, we have been over-emphasizing the vertical\, domai
- n-specific architecture design while future visual applications inherently
-  encompass tasks from multiple domains. Simple stitching together systems 
- designed and optimized for individual domains leads to a sub-optimal whole
- . I promote a horizontal\, cross-domain mindset\, and present two case-stu
- dies in continuous vision and point cloud processing.\n\n\n\nBio:\n\nYuhao
-  Zhu is an Assistant Professor of Computer Science at the University of Ro
- chester. Previously he was a visiting researcher at ARM Research and a Res
- earch Fellow at Harvard University before receiving his Ph.D. from The Uni
- versity of Texas at Austin. His current research focuses on architecting f
- uture visual computing systems. He received the Honorable Mention of the 2
- 018 ACM SIGARCH/IEEE-CS TCCA Outstanding Dissertation Award\, IEEE Micro T
- op Picks from Computer Architecture Conferences (2015\, 2018)\, and Best P
- aper Award/Nominee of MICRO 2019 and CAL 2014. More about his group’s re
- search can be found at:\nhttp://horizon-lab.org\n.\n\n
+ ter\n\n\nHost: Abhishek Bhattacharjee\n\nTitle: Toward Efficient Computer 
+ Systems for Augmented and Virtual Reality\n\nAbstract:\n\nAR/VR is fundame
+ ntally changing the computing landscape for the next decade by defining a 
+ whole new computing platform\, as opposed to adding new applications to ex
+ isting platforms (e.g.\, smartphones). In real-time and using low power\, 
+ AR/VR systems must generate visual data for human to consume\, immersively
+ \, or interpret visual data to provide personalized services\, intelligent
+ ly.\n\nIn this talk\, I will explain why today’s computer systems and ar
+ chitecture are not ready for the AR/VR landscape on the horizon\, and outl
+ ine the road that might get us there. Fundamentally\, we must innovate bot
+ h vertically\, by rethinking the systems stack for 3D perception\, and hor
+ izontally\, by co-designing across different computing domains. We will co
+ nclude by discussing the opportunities and challenges to expand the system
+ s research scope from computing to non-computing scopes in AR and VR.\n\n\
+ n\nBio:\n\nYuhao Zhu is an Assistant Professor of Computer Science at the 
+ University of Rochester. Previously he was a visiting researcher at ARM Re
+ search and a Research Fellow at Harvard University before receiving his Ph
+ .D. from The University of Texas at Austin. His current research focuses o
+ n architecting future visual computing systems. He received the Honorable 
+ Mention of the 2018 ACM SIGARCH/IEEE-CS TCCA Outstanding Dissertation Awar
+ d\, IEEE Micro Top Picks from Computer Architecture Conferences (2015\, 20
+ 18)\, and Best Paper Award/Nominee of MICRO 2019 and CAL 2014. More about 
+ his group’s research can be found at:\nhttp://horizon-lab.org\n.\n\n
 LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-yuhao-zhu-university-rochester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Kuldeep Meel\, National University of Singapore
+DTSTART;VALUE=DATE-TIME:20191002T190000
+DTEND;VALUE=DATE-TIME:20191002T200000
+DESCRIPTION:Event description:\nCS Talk\nKuldeep Meel\, National Universit
+ y of Singapore\n\nHost: Ruzica Piskac\nPlease let her know if you would li
+ ke to meet Kuldeep. He will be visiting the entire afternoon on Wednesday.
+ \n\nTitle: Beyond NP Revolution\n\nAbstract:\n\nThe paradigmatic NP-comple
+ te problem of Boolean satisfiability (SAT) solving is a central problem in
+  Computer Science. While the mention of SAT can be traced to early 19th ce
+ ntury\, efforts to develop practically successful SAT solvers go back to 1
+ 950s. The past 20 years have witnessed a “NP revolution” with the deve
+ lopment of conflict-driven clause-learning (CDCL) SAT solvers.  Such solv
+ ers combine a classical backtracking search with a rich set of effective h
+ euristics.  While 20 years ago SAT solvers were able to solve instances w
+ ith at most a few hundred variables\, modern SAT solvers solve instances w
+ ith up to millions of variables in a reasonable time.\n\nThe “NP-revolut
+ ion” opens up opportunities to design practical algorithms with rigorous
+  guarantees for problems in complexity classes beyond NP by replacing a NP
+  oracle with a SAT Solver. In this talk\, we will discuss how we use NP re
+ volution to design practical algorithms for two fundamental problems in ar
+ tificial intelligence and formal methods: Constrained Counting and Samplin
+ g\n\nBio:\n\nKuldeep Meel is Sung Kah Kay Assistant Professor of Computer 
+ Science in School of Computing at the National University of Singapore. He
+  received his Ph.D. (2017) and M.S. (2014) degree from Rice University\, a
+ nd B. Tech. (with Honors) degree (2012) in Computer Science and Engineerin
+ g from Indian Institute of Technology\, Bombay.  He is a recipient of 201
+ 9 NRF Fellowship for AI. His research interests lie at the intersection of
+  Artificial Intelligence and Formal Methods.His work received the 2018 Ral
+ ph Budd Award for Best PhD Thesis in Engineering\, 2014 Outstanding Master
+ s Thesis Award from Vienna Center of Logic and Algorithms and Best Student
+  Paper Award at CP 201\n
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-kuldeep-meel-national-university-s
+ ingapore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Talk - Tim Roughgarden\, Columbia University
