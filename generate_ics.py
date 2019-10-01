@@ -10,6 +10,7 @@ def get_events():
     urls = get_upcoming_event_urls()
     for url in urls:
         event_info = get_event_information(url)
+        print(event_info['title'], file=sys.stderr)
         events.append(event_info)
 
     return events
