@@ -24,7 +24,9 @@ jobs:
         pip install -r ./requirements.txt
 
     - name: Generate calendar
-      run: python generate_ics.py > public/yale-cpsc-events.ics
+      run: |
+        mkdir public
+        python generate_ics.py > public/yale-cpsc-events.ics
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.4.0
