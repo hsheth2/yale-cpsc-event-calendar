@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Event Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Yuhao Zhu\, University of Rochester
-DTSTART;VALUE=DATE-TIME:20191001T143000
-DTEND;VALUE=DATE-TIME:20191001T153000
-DESCRIPTION:Event description:\nCS Talk - Yuhao Zhu\, University of Roches
- ter\n\n\nHost: Abhishek Bhattacharjee\n\nTitle: Toward Efficient Computer 
- Systems for Augmented and Virtual Reality\n\nAbstract:\n\nAR/VR is fundame
- ntally changing the computing landscape for the next decade by defining a 
- whole new computing platform\, as opposed to adding new applications to ex
- isting platforms (e.g.\, smartphones). In real-time and using low power\, 
- AR/VR systems must generate visual data for human to consume\, immersively
- \, or interpret visual data to provide personalized services\, intelligent
- ly.\n\nIn this talk\, I will explain why today’s computer systems and ar
- chitecture are not ready for the AR/VR landscape on the horizon\, and outl
- ine the road that might get us there. Fundamentally\, we must innovate bot
- h vertically\, by rethinking the systems stack for 3D perception\, and hor
- izontally\, by co-designing across different computing domains. We will co
- nclude by discussing the opportunities and challenges to expand the system
- s research scope from computing to non-computing scopes in AR and VR.\n\n\
- n\nBio:\n\nYuhao Zhu is an Assistant Professor of Computer Science at the 
- University of Rochester. Previously he was a visiting researcher at ARM Re
- search and a Research Fellow at Harvard University before receiving his Ph
- .D. from The University of Texas at Austin. His current research focuses o
- n architecting future visual computing systems. He received the Honorable 
- Mention of the 2018 ACM SIGARCH/IEEE-CS TCCA Outstanding Dissertation Awar
- d\, IEEE Micro Top Picks from Computer Architecture Conferences (2015\, 20
- 18)\, and Best Paper Award/Nominee of MICRO 2019 and CAL 2014. More about 
- his group’s research can be found at:\nhttp://horizon-lab.org\n.\n\n
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-yuhao-zhu-university-rochester
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Kuldeep Meel\, National University of Singapore
 DTSTART;VALUE=DATE-TIME:20191002T190000
 DTEND;VALUE=DATE-TIME:20191002T200000
