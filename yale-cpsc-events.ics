@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Event Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Kuldeep Meel\, National University of Singapore
-DTSTART;VALUE=DATE-TIME:20191002T190000
-DTEND;VALUE=DATE-TIME:20191002T200000
-DESCRIPTION:Event description:\nCS Talk\nKuldeep Meel\, National Universit
- y of Singapore\n\nHost: Ruzica Piskac\nPlease let her know if you would li
- ke to meet Kuldeep. He will be visiting the entire afternoon on Wednesday.
- \n\nTitle: Beyond NP Revolution\n\nAbstract:\n\nThe paradigmatic NP-comple
- te problem of Boolean satisfiability (SAT) solving is a central problem in
-  Computer Science. While the mention of SAT can be traced to early 19th ce
- ntury\, efforts to develop practically successful SAT solvers go back to 1
- 950s. The past 20 years have witnessed a “NP revolution” with the deve
- lopment of conflict-driven clause-learning (CDCL) SAT solvers.  Such solv
- ers combine a classical backtracking search with a rich set of effective h
- euristics.  While 20 years ago SAT solvers were able to solve instances w
- ith at most a few hundred variables\, modern SAT solvers solve instances w
- ith up to millions of variables in a reasonable time.\n\nThe “NP-revolut
- ion” opens up opportunities to design practical algorithms with rigorous
-  guarantees for problems in complexity classes beyond NP by replacing a NP
-  oracle with a SAT Solver. In this talk\, we will discuss how we use NP re
- volution to design practical algorithms for two fundamental problems in ar
- tificial intelligence and formal methods: Constrained Counting and Samplin
- g\n\nBio:\n\nKuldeep Meel is Sung Kah Kay Assistant Professor of Computer 
- Science in School of Computing at the National University of Singapore. He
-  received his Ph.D. (2017) and M.S. (2014) degree from Rice University\, a
- nd B. Tech. (with Honors) degree (2012) in Computer Science and Engineerin
- g from Indian Institute of Technology\, Bombay.  He is a recipient of 201
- 9 NRF Fellowship for AI. His research interests lie at the intersection of
-  Artificial Intelligence and Formal Methods.His work received the 2018 Ral
- ph Budd Award for Best PhD Thesis in Engineering\, 2014 Outstanding Master
- s Thesis Award from Vienna Center of Logic and Algorithms and Best Student
-  Paper Award at CP 201\n
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-kuldeep-meel-national-university-s
- ingapore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Tim Roughgarden\, Columbia University
 DTSTART;VALUE=DATE-TIME:20191009T200000
 DTEND;VALUE=DATE-TIME:20191009T210000
