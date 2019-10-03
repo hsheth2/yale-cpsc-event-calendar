@@ -122,4 +122,38 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-sandhya-dwarkadas-university
  -rochester
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Rajiv Gandhi - Rutgers University\, Camden
+DTSTART;VALUE=DATE-TIME:20191106T210000
+DTEND;VALUE=DATE-TIME:20191106T220000
+DESCRIPTION:Event description:\nCS Talk\nRajiv Gandhi - Rutgers University
+ \, Camden\n\nHost: Abhishek Bhattacharjee\n\nTitle: From Potential to Prom
+ ise - Developing Scholars\, one Eureka moment at a time\n\nAbstract:\n\nIn
+  this talk\, I will tell the story of our work with some truly remarkable 
+ undergraduate students at Rutgers-Camden\, who despite many odds have achi
+ eved success that is unprecedented for the Camden campus. I will discuss t
+ he various challenges that we faced and some ideas that have worked very w
+ ell (and some that have not) for us. We have been applying some of these i
+ deas in our work with high school students and students at other instituti
+ ons.\n\nBio:\n\nDr. Rajiv Gandhi is a Professor of Computer Science at the
+  Rutgers University-Camden. He also teaches at the University of Pennsylva
+ nia. He received his Ph.D. in Computer Science in 2003 from the University
+  of Maryland\, College Park. His research interests  lie in the broad are
+ a of theoretical computer science. Specifically\, he is interested in appr
+ oximation and randomized algorithms.  He is a passionate educator who lov
+ es working with students with diverse backgrounds\, helping them achieve t
+ heir potential. He has been the recipient of several teaching excellence a
+ wards\, including the Warren I. Susman award for teaching excellence at Ru
+ tgers University in 2014. He also received the Chancellor’s award for Ci
+ vic Engagement at Rutgers-Camden in 2013. In 2017 he was inducted in the 
+  Computer Science Alumni Hall of Fame at the University of Maryland. He w
+ as a Fulbright Fellow from Jan-June 2011\, during which he worked with stu
+ dents in Mumbai\, India. Since 2009\, he has also been working with high s
+ chool students as part of the Program in Algorithmic and Combinatorial Thi
+ nking  (\nhttp://algorithmicthinking.org\n).\n
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-rajiv-gandhi-rutgers-university-ca
+ mden
+END:VEVENT
 END:VCALENDAR
