@@ -2,45 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Event Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Tim Roughgarden\, Columbia University
-DTSTART;VALUE=DATE-TIME:20191009T200000
-DTEND;VALUE=DATE-TIME:20191009T210000
-DESCRIPTION:Event description:\nCS Talk -\nTim Roughgarden\, Columbia Univ
- ersity\n\nHosts: Yang Cai and Dirk Bergemann\n\nTitle: How Computer Scien
- ce Informs Modern Auction Design\n\nAbstract:\n\nOver the last twenty year
- s\, computer science has relied on concepts borrowed from game theory and 
- economics to reason about applications ranging from internet routing to re
- al-time auctions for online advertising. More recently\, ideas have increa
- singly flowed in the opposite direction\, with concepts and techniques fro
- m computer science beginning to influence economic theory and practice.\n\
- nIn this talk\, I will illustrate this point with a detailed case study of
-  the 2016-2017 Federal Communications Commission incentive auction for rep
- urposing wireless spectrum. Computer science techniques\, ranging from alg
- orithms for NP-hard problems to nondeterministic communication complexity\
- , have played a critical role both in the design of the reverse auction (w
- ith the government procuring existing licenses from television broadcaster
- s) and in the analysis of the forward auction (when the procured licenses 
- sell to the highest bidder).\n\nBio:\n\nTim Roughgarden is a Professor of 
- Computer Science at Columbia University. Prior to joining Columbia\, he sp
- ent 15 years on the computer science faculty at Stanford\, following a PhD
-  at Cornell and a postdoc at UC Berkeley. His research interests include t
- he many connections between computer science and economics\, as well as th
- e design\, analysis\, applications\, and limitations of algorithms. For hi
- s research\, he has been awarded the ACM Grace Murray Hopper Award\, the P
- residential Early Career Award for Scientists and Engineers (PECASE)\, the
-  Kalai Prize in Computer Science and Game Theory\, the Social Choice and W
- elfare Prize\, the Mathematical Programming Society’s Tucker Prize\, and
-  the EATCS-SIGACT Gödel Prize. He was an invited speaker at the 2006 Inte
- rnational Congress of Mathematicians\, the Shapley Lecturer at the 2008 Wo
- rld Congress of the Game Theory Society\, and a Guggenheim Fellow in 2017.
-  His books include Twenty Lectures on Algorithmic Game Theory (2016) and t
- he Algorithms Illuminated book series (2017-2019).\n
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-tim-roughgarden-columbia-universit
- y
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Sandhya Dwarkadas\, University of Rochester
 DTSTART;VALUE=DATE-TIME:20191010T200000
 DTEND;VALUE=DATE-TIME:20191010T210000
