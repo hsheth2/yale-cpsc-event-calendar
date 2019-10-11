@@ -2,51 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Event Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Sandhya Dwarkadas\, University of Rochester
-DTSTART;VALUE=DATE-TIME:20191010T200000
-DTEND;VALUE=DATE-TIME:20191010T210000
-DESCRIPTION:Event description:\nCS Colloquium\nSandhya Dwarkadas\, Univers
- ity of Rochester\n\nHost: Abhishek Bhattacharjee\n\nTitle: Toward Efficien
- t and Protected Address Translation in Memory Management\n\nMemory managem
- ent support on state-of-the-art architectures and operating systems encoun
- ters performance and protection challenges for today’s applications and 
- execution environments.\n\nIn particular\, a variety of services\, ranging
-  from compilers to web user-interface frameworks (whether on mobile or ser
- ver platforms)\, which provide the infrastructure for many high-level appl
- ications\, suffer from performance degradation due to instruction address 
- translation overheads.\n\nIn this talk\, I will focus largely on the instr
- uction path to highlight\n\n(1) the impact of instruction address translat
- ion on performance (including the importance of using superpages)\;\n\n(2)
-  the need to rethink protection architectures for performance\; and\n\n(3)
-  techniques that enable page table and translation lookaside buffer sharin
- g across applications.\n\nMemory management can also be a source for side 
- channel attacks in compromised operating systems.\n\nI will describe techn
- iques that harden compiler-based approaches to protecting application data
-  from compromised operating systems against page table\, last-level cache 
- (LLC)\, and speculation side-channel attacks.\n\nAs time permits\, I will 
- also provide a glimpse of ongoing work on sharing-aware resource managemen
- t for multicore systems with a goal of simultaneously achieving high overa
- ll system efficiency and individual application progress guarantees.\n\nBi
- o:\n\nSandhya Dwarkadas is the Albert Arendt Hopeman Professor of Engineer
- ing\, and Professor and Chair of Computer Science with a secondary appoint
- ment in Electrical and Computer Engineering\, at University of Rochester\,
-  where she has been on the faculty since 1996.\n\nShe received her Bachelo
- r’s degree from the Indian Institute of Technology\, Madras\, India\, an
- d her M.S. and Ph.D. from Rice University.\n\nShe is a fellow of the ACM a
- nd IEEE.\n\nShe is also a member of the board and steering committee for t
- he Computing Research Association’s Committee on Widening Participation 
- (CRA-WP).\n\nHer areas of research interest include computer architecture\
- , parallel and distributed systems\, and the interaction and interface bet
- ween the compiler\, runtime/operating system\, and underlying architecture
- .\n\nShe has made fundamental contributions to the design and implementati
- on of shared memory both in hardware and in software\, and to hardware and
-  software energy- and resource-aware configurability.\n
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-sandhya-dwarkadas-university
- -rochester
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Rajiv Gandhi - Rutgers University\, Camden
 DTSTART;VALUE=DATE-TIME:20191106T210000
 DTEND;VALUE=DATE-TIME:20191106T220000
