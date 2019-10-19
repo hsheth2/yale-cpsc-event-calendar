@@ -36,57 +36,58 @@ URL:https://cpsc.yale.edu/event/cs-talk-rajiv-gandhi-rutgers-university-ca
  mden
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Computer Science and Computation & Society Colloquium - Francesca 
- Rossi
+SUMMARY:Computer Science Distinguished Speaker Series and Computation & So
+ ciety Colloquium - Francesca Rossi
 DTSTART;VALUE=DATE-TIME:20191114T210000
 DTEND;VALUE=DATE-TIME:20191114T220000
-DESCRIPTION:Event description:\nComputer Science and Computation & Society
-  Colloquium\n\nSpeaker: Francesca Rossi\n\nTitle: AI Ethics\n\nHost: Drago
- mir Radev\n\nAbstract:\n\nAI is going to bring huge benefits in terms of s
- cientific progress\, human wellbeing\, economic value\, and the possibilit
- y of finding solutions to major social and environmental problems. Support
- ed by AI\, we will be able to make more grounded decisions and to focus on
-  the main values and goals of a decision process rather than on routine an
- d repetitive tasks. However\, such a powerful technology also raises some 
- concerns\, related for example to the black-box nature of some AI approach
- es\, the possible discriminatory decisions that AI algorithms may recommen
- d\, and the accountability and responsibility when an AI system is involve
- d in an undesirable outcome. Also\, since many successful AI techniques re
- ly on huge amounts of data\, it is important to know how data are handled 
- by AI systems and by those who produce them. These concerns are among the 
- obstacles that hold AI back or that cause worry for current AI users\, ado
- pters\, and policy makers. Without answers to these questions\, many will 
- not trust AI\, and therefore will not fully adopt it nor get its positive 
- impact. In this talk I will present the main issues around AI ethics\, des
- cribe some of the proposed technical solutions\, and mention some of the m
- any initiatives that have been built in the past few years to address the 
- technical\, policy\, and legal challenges\, as well as the ethical concern
- s\, around AI.\n\nBio:\n\nIBM AI Ethics Global Leader and Distinguished Re
- search Staff Member at IBM Research. Previously\, Professor of Computer Sc
- ience at the University of Padova\, Italy.\n\nHer research interests focus
-  on artificial intelligence\, specifically they include constraint reasoni
- ng\, preferences\, multi-agent systems\, computational social choice\, and
-  collective decision making. She is also interested in ethical issues in t
- he development and behaviour of AI systems\, in particular for decision su
- pport systems for group decision making. She has published over 190 scient
- ific articles in journals and conference proceedings\, and as book chapter
- s. She has co-authored a book and she has edited 17 volumes\, between conf
- erence proceedings\, collections of contributions\, special issues of jour
- nals\, and a handbook. She is a fellow of both the worldwide association o
- f AI (AAAI) and of the European one (EurAI). She has been president of IJC
- AI (International Joint Conference on AI)\, an executive councillor of AAA
- I\, and the Editor in Chief of the Journal of AI Research. She is a member
-  of the scientific advisory board of the Future of Life Institute (Cambrid
- ge\, USA) and a deputy director of the Leverhulme Centre for the Future of
-  Intelligence (Cambridge\, UK). She is in the executive committee of the I
- EEE global initiative on ethical considerations on the development of auto
- nomous intelligent systems and she is a member of the board of directors o
- f the Partnership on AI\, where she represents IBM as one of the founding 
- partners. She is a member of the European Commission High Level Expert Gro
- up on AI and the general chair of the AAI 2020 conference.\n\n
+DESCRIPTION:Event description:\nComputer Science Distinguished Speaker Ser
+ ies and Computation & Society Colloquium\n\nSpeaker: Francesca Rossi\n\nTi
+ tle: AI Ethics\n\nHost: Dragomir Radev\n\nAbstract:\n\nAI is going to brin
+ g huge benefits in terms of scientific progress\, human wellbeing\, econom
+ ic value\, and the possibility of finding solutions to major social and en
+ vironmental problems. Supported by AI\, we will be able to make more groun
+ ded decisions and to focus on the main values and goals of a decision proc
+ ess rather than on routine and repetitive tasks. However\, such a powerful
+  technology also raises some concerns\, related for example to the black-b
+ ox nature of some AI approaches\, the possible discriminatory decisions th
+ at AI algorithms may recommend\, and the accountability and responsibility
+  when an AI system is involved in an undesirable outcome. Also\, since man
+ y successful AI techniques rely on huge amounts of data\, it is important 
+ to know how data are handled by AI systems and by those who produce them. 
+ These concerns are among the obstacles that hold AI back or that cause wor
+ ry for current AI users\, adopters\, and policy makers. Without answers to
+  these questions\, many will not trust AI\, and therefore will not fully a
+ dopt it nor get its positive impact. In this talk I will present the main 
+ issues around AI ethics\, describe some of the proposed technical solution
+ s\, and mention some of the many initiatives that have been built in the p
+ ast few years to address the technical\, policy\, and legal challenges\, a
+ s well as the ethical concerns\, around AI.\n\nBio:\n\nIBM AI Ethics Globa
+ l Leader and Distinguished Research Staff Member at IBM Research. Previous
+ ly\, Professor of Computer Science at the University of Padova\, Italy.\n\
+ nHer research interests focus on artificial intelligence\, specifically th
+ ey include constraint reasoning\, preferences\, multi-agent systems\, comp
+ utational social choice\, and collective decision making. She is also inte
+ rested in ethical issues in the development and behaviour of AI systems\, 
+ in particular for decision support systems for group decision making. She 
+ has published over 190 scientific articles in journals and conference proc
+ eedings\, and as book chapters. She has co-authored a book and she has edi
+ ted 17 volumes\, between conference proceedings\, collections of contribut
+ ions\, special issues of journals\, and a handbook. She is a fellow of bot
+ h the worldwide association of AI (AAAI) and of the European one (EurAI). 
+ She has been president of IJCAI (International Joint Conference on AI)\, a
+ n executive councillor of AAAI\, and the Editor in Chief of the Journal of
+  AI Research. She is a member of the scientific advisory board of the Futu
+ re of Life Institute (Cambridge\, USA) and a deputy director of the Leverh
+ ulme Centre for the Future of Intelligence (Cambridge\, UK). She is in the
+  executive committee of the IEEE global initiative on ethical consideratio
+ ns on the development of autonomous intelligent systems and she is a membe
+ r of the board of directors of the Partnership on AI\, where she represent
+ s IBM as one of the founding partners. She is a member of the European Com
+ mission High Level Expert Group on AI and the general chair of the AAI 202
+ 0 conference.\n\n
 LOCATION:Dunham Lab 220
 STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/computer-science-and-computation-society-c
- olloquium-francesca-rossi
+URL:https://cpsc.yale.edu/event/computer-science-distinguished-speaker-ser
+ ies-and-computation-society-colloquium-francesca
 END:VEVENT
 END:VCALENDAR
