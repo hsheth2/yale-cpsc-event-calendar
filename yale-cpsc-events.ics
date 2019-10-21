@@ -2,6 +2,97 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Event Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:CS Talk - Maximilian Schwenger
+DTSTART;VALUE=DATE-TIME:20191021T190000
+DTEND;VALUE=DATE-TIME:20191021T200000
+DESCRIPTION:Event description:\nCS Talk\nMaximilian Schwenger\n\nMonday - 
+ October 21\, 2019\n3:00 p.m.\, AKW 300\n\nHost: Ruzica Piskac\nPlease let 
+ her know if you would like to meet Max. He will be visiting today and tomo
+ rrow.\n\nTitle: Let’s not Trust Experience Blindly: Formal Runtime Verif
+ ication for CPS\n\nAbstract:\n\nThe control logic of complex systems is ba
+ sed on experience: Trained experts steer a machine directly until they hel
+ p develop an automated controller.  Recently\, this process was further i
+ mproved by successfully incorporating machine learning techniques\, where 
+ the controller was learned from tremendous amounts of empirical data.  Th
+ e resulting controller excels most of the time\, especially in situations 
+ similar to ones occurring in the training data.  In a safety-critical con
+ text\, however\, this is not enough\, so formal guarantees about the behav
+ ior of the controller become crucial.  When a full static analysis and su
+ bsequent verification is infeasible due to the complexity of the system\, 
+ runtime verification is still applicable.  It acts as a connecting link b
+ etween the efficiency of the developed controllers and formally verifiable
+  guarantees.  A runtime monitor assesses the system health by using a spe
+ cification that contains information about desired system states and their
+  expected evolution over time.  When the monitor encounters a violation o
+ f the specification\, it raises an alarm.  For complex systems\, characte
+ rizing the desired behavior requires an expressive language.  Moreover\, 
+ provably correct behavior requires formal semantics and an evaluation algo
+ rithm with static guarantees on its resource consumption to prevent crashe
+ s during runtime.\nIn this talk\, we present our approach to runtime verif
+ ication which revolves around the specification language RTLola.  We outl
+ ine RTLola’s formal semantics and illustrate its practicality in terms o
+ f expressiveness.  Static analyses allow for assessing upper bounds on th
+ e resource consumption of the respective monitor.  Lastly\, we briefly to
+ uch upon a compilation of an RTLola specification to VHDL code\, which can
+  be realized on an FPGA.\n\nBio:\n\nMaximilian Schwenger started his PhD i
+ n 2017 at Saarland University.  Supervised by Prof. Bernd Finkbeiner\, hi
+ s research focuses on formal runtime monitoring with a special interest in
+  cyber-physical systems and human health monitoring.  For this\, he contr
+ ibuted to the development of the monitoring framework StreamLAB\, specific
+ ally the real-time aspect thereof.  His wider interests include formal la
+ nguage design\, hybrid systems and machine learning.\n\nhttps://www.react.
+ uni-saarland.de/people/schwenger.html\n
+LOCATION:AKW 300
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-maximilian-schwenger
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Aasheesh Kolli\, Pennsylvania State University
+DTSTART;VALUE=DATE-TIME:20191104T210000
+DTEND;VALUE=DATE-TIME:20191104T220000
+DESCRIPTION:Event description:\nCS Talk - Aasheesh Kolli\, Pennsylvania St
+ ate University\n\nTitle: Architecting Persistent Memory Systems\n\nHost: A
+ bhishek Bhattacharjee\n\nAbstract:\n\nPersistent Memory (PM) technologies 
+ (also known as Non-Volatile RAM\, e.g.\, Intel’s 3D XPoint) offer the ex
+ citing possibility of disk-like durability with the performance of main me
+ mory. Persistent memory systems provide applications with direct access to
+  storage media via processor load and store instructions rather than havin
+ g to rely on performance sapping software intermediaries like the operatin
+ g system\, aiding the development of high-performance\, recoverable softwa
+ re. For example\, I envision storage software that provides the safety and
+  correctness of a conventional database management system like PostgreSQL 
+ and the performance of an in-memory store like Redis. However\, today’s 
+ computing systems have been optimized for block storage devices and cannot
+  fully exploit the benefits of PMs. Designing efficient systems for this n
+ ew storage paradigm requires a careful rethink of computer architectures\,
+  programming interfaces\, and application software.\n\nWhile maintaining r
+ ecoverable data structures in main memory is the central appeal of persist
+ ent memories\, current systems do not provide efficient mechanisms (if any
+ ) to do so.  Ensuring the recoverability of these data structures require
+ s constraining the order of PM writes\, whereas current architectures are 
+ designed to reorder memory accesses\, transparent to the programmer\, for 
+ performance. In this talk\, I will introduce recently proposed programming
+  interfaces\, called persistency models\, that will allow programmers to e
+ xpress the required order of PM writes. Then\, I will present my work on d
+ eveloping efficient hardware implementations to enforce the PM write order
+  prescribed by persistency models and tailoring software for these new pro
+ gramming interfaces.\n\nBio:\n\nAasheesh Kolli is an assistant professor a
+ t Pennsylvania State University and an affiliated researcher with VMware R
+ esearch. His interests are in computer systems architecture\; his work inc
+ ludes processor architectures\, memory subsystems\, programming interfaces
+ \, and systems software. His recent research focuses on designing next-gen
+ eration memory systems\, particularly on persistent memory and disaggregte
+ d memory systems. Aasheesh received his PhD (2017) and MS (2013) from the 
+ University of Michigan\, and his BE (2011) from BITS-Pilani in India. His 
+ work has resulted in multiple research papers\, including best paper award
+ \, at venues like SOSP\, ISCA\, ASPLOS\, and MICRO. He was awarded the 201
+ 8 ACM SIGARCH/IEEE CS TCCA Outstanding Dissertation Award.\n
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-aasheesh-kolli-pennsylvania-state-
+ university
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Talk - Rajiv Gandhi - Rutgers University\, Camden
 DTSTART;VALUE=DATE-TIME:20191106T210000
 DTEND;VALUE=DATE-TIME:20191106T220000
