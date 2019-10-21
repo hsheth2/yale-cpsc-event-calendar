@@ -23,11 +23,14 @@ def get_event_information(event_url):
     time_aware = datetime.datetime.strptime(time_raw, "%Y-%m-%dT%H:%M:%S%z")
     time_real = time_aware.astimezone(tz=pytz.utc).replace(tzinfo=None)
 
-    location_region = content.find(class_='field-name-field-location')
-    location_region = location_region.find(class_='location')
-    location_region.find('span', class_='map-icon').extract()
-    location_name = location_region.find(class_='fn').get_text().strip()
-    # TODO: Is it worthwhile getting the street address?
+    try:
+        location_region = content.find(class_='field-name-field-location')
+        location_region = location_region.find(class_='location')
+        location_region.find('span', class_='map-icon').extract()
+        location_name = location_region.find(class_='fn').get_text().strip()
+        # TODO: Is it worthwhile getting the street address?
+    except:
+        location_name = "TBA"
 
     description_region = content.find(class_='field-name-body')
     description_texts = description_region.findAll(text=True)
