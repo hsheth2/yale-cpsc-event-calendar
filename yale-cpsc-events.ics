@@ -105,8 +105,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Computer Science Distinguished Speaker Series and Computation & So
  ciety Colloquium - Francesca Rossi
-DTSTART;VALUE=DATE-TIME:20191114T210000
-DTEND;VALUE=DATE-TIME:20191114T220000
+DTSTART;VALUE=DATE-TIME:20191114T211500
+DTEND;VALUE=DATE-TIME:20191114T221500
 DESCRIPTION:Event description:\nComputer Science Distinguished Speaker Ser
  ies and Computation & Society Colloquium\n\nSpeaker: Francesca Rossi\n\nTi
  tle: AI Ethics\n\nHost: Dragomir Radev\n\nAbstract:\n\nAI is going to brin
