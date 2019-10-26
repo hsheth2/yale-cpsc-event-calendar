@@ -2,27 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Event Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:Theory Seminar @ Yale - Nisheeth Vishnoi\, Yale University
-DTSTART;VALUE=DATE-TIME:20191025T150000
-DTEND;VALUE=DATE-TIME:20191025T160000
-DESCRIPTION:Event description:\nTheory Seminar @ Yale\nNisheeth Vishnoi\n\
- nTitle: Entropy\, Optimization\, and Symmetry\n\nAbstract:\n\nThe princip
- le of maximum entropy states that among all possible ways to write a given
-  point as a convex combination of the domain\, pick the one that maximizes
-  the entropy of the probability distribution corresponding to the convex c
- ombination. This talk will start by reviewing the computational and struct
- ural properties of max-entropy distributions over discrete domains\, and t
- hen move on to defining and studying them over continuous manifolds with a
- pplications to quantum mechanics\, semidefinite programming\, and statisti
- cs. The latter part draws from mathematical physics\, in particular from t
- he theory of Lie groups.\n\nBased on joint works with Mohit Singh\, Damian
-  Straszak\, and Jonathan Leake.\n\n\nhttps://yaletheory.wordpress.com/\n
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/theory-seminar-yale-nisheeth-vishnoi-yale-
- university
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Aasheesh Kolli\, Pennsylvania State University
 DTSTART;VALUE=DATE-TIME:20191104T210000
 DTEND;VALUE=DATE-TIME:20191104T220000
