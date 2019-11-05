@@ -2,52 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Event Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Aasheesh Kolli\, Pennsylvania State University
-DTSTART;VALUE=DATE-TIME:20191104T210000
-DTEND;VALUE=DATE-TIME:20191104T220000
-DESCRIPTION:Event description:\nCS Talk - Aasheesh Kolli\, Pennsylvania St
- ate University\n\nTitle: Architecting Persistent Memory Systems\n\nHost: A
- bhishek Bhattacharjee\n\nAbstract:\n\nPersistent Memory (PM) technologies 
- (also known as Non-Volatile RAM\, e.g.\, Intel’s 3D XPoint) offer the ex
- citing possibility of disk-like durability with the performance of main me
- mory. Persistent memory systems provide applications with direct access to
-  storage media via processor load and store instructions rather than havin
- g to rely on performance sapping software intermediaries like the operatin
- g system\, aiding the development of high-performance\, recoverable softwa
- re. For example\, I envision storage software that provides the safety and
-  correctness of a conventional database management system like PostgreSQL 
- and the performance of an in-memory store like Redis. However\, today’s 
- computing systems have been optimized for block storage devices and cannot
-  fully exploit the benefits of PMs. Designing efficient systems for this n
- ew storage paradigm requires a careful rethink of computer architectures\,
-  programming interfaces\, and application software.\n\nWhile maintaining r
- ecoverable data structures in main memory is the central appeal of persist
- ent memories\, current systems do not provide efficient mechanisms (if any
- ) to do so.  Ensuring the recoverability of these data structures require
- s constraining the order of PM writes\, whereas current architectures are 
- designed to reorder memory accesses\, transparent to the programmer\, for 
- performance. In this talk\, I will introduce recently proposed programming
-  interfaces\, called persistency models\, that will allow programmers to e
- xpress the required order of PM writes. Then\, I will present my work on d
- eveloping efficient hardware implementations to enforce the PM write order
-  prescribed by persistency models and tailoring software for these new pro
- gramming interfaces.\n\nBio:\n\nAasheesh Kolli is an assistant professor a
- t Pennsylvania State University and an affiliated researcher with VMware R
- esearch. His interests are in computer systems architecture\; his work inc
- ludes processor architectures\, memory subsystems\, programming interfaces
- \, and systems software. His recent research focuses on designing next-gen
- eration memory systems\, particularly on persistent memory and disaggregte
- d memory systems. Aasheesh received his PhD (2017) and MS (2013) from the 
- University of Michigan\, and his BE (2011) from BITS-Pilani in India. His 
- work has resulted in multiple research papers\, including best paper award
- \, at venues like SOSP\, ISCA\, ASPLOS\, and MICRO. He was awarded the 201
- 8 ACM SIGARCH/IEEE CS TCCA Outstanding Dissertation Award.\n
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-aasheesh-kolli-pennsylvania-state-
- university
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Rajiv Gandhi - Rutgers University\, Camden
 DTSTART;VALUE=DATE-TIME:20191106T210000
 DTEND;VALUE=DATE-TIME:20191106T220000
