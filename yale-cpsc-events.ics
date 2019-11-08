@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Event Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Manolis Zampetakis\, MIT
-DTSTART;VALUE=DATE-TIME:20191107T210000
-DTEND;VALUE=DATE-TIME:20191107T220000
-DESCRIPTION:Event description:\nCS Talk - Manolis Zampetakis\, MIT\n\nHost
- : Yang Cai\n\nTitle: Computationally and Statistically Efficient Truncated
-  Statistics\n\nAbstract:\n\nCensoring and truncation occur when data falli
- ng outside of a subset of the population are not observable. In practice\,
-  it often arises as a result of saturation of measurement devices\, experi
- mental design\, and legal or privacy constraints preventing the use of som
- e of the data. Such phenomena have been known to affect experimental resul
- ts in a counterintuitive way\, as per Berkson’s paradox.\n\nIn our recen
- t work\, we provide the first provably computationally and statistically e
- fficient methods accomplishing the fundamental task of statistical estimat
- ion for the entire population out of exclusively censored data. Our first 
- result [w/ Daskalakis\, Gouleakis\, Tzamos FOCS’18] assumes that the pop
- ulation follows a multi-dimensional normal distribution and the survival s
- et is known. In follow-up works\, we have extended our result to the case 
- of censored linear [w/ Daskalakis\, Gouleakis\, Tzamos COLT’19]\, logist
- ic and probit regression [w/ Daskalakis\, Ilyas\, Rao ‘19] and we have a
- lso explored the case of unknown survival set [w/ Kontonis\, Tzamos FOCS
- ’19].\n\nBio:\n\nManolis is a Ph.D. Student in the Theory of Computation
-  Group at MIT working on theoretical problems in: machine learning and lea
- rning theory\, complexity theory\, and algorithmic game theory. Before MIT
- \, Manolis was an undergraduate student at National Technical University o
- f Athens. He has been an intern at Google Research NYC\, Yahoo! Research N
- YC and Microsoft Research New England. His graduate studies have been supp
- orted by a Google Ph.D. Fellowship.\n
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-manolis-zampetakis-mit
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Computer Science Distinguished Speaker Series and Computation & So
  ciety Colloquium - Francesca Rossi
 DTSTART;VALUE=DATE-TIME:20191114T211500
