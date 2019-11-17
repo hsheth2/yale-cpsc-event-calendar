@@ -7,30 +7,30 @@ from bs4 import BeautifulSoup
 from scraping_common import parse_event_urls_from_feed
 from generate_ics import generate_ics
 
-domain = 'https://cpsc.yale.edu'
-upcoming_events_url = f'{domain}/calendar'
+domain = 'https://yins.yale.edu'
+schedule_url = 'https://yins.yale.edu/calendar/speaker-schedule'
+programs_url = 'https://yins.yale.edu/calendar/conferences-workshops'
 
 
-def cpsc_upcoming_events():
-    return parse_event_urls_from_feed(domain, upcoming_events_url)
+def yins_get_events():
+    schedule_urls = parse_event_urls_from_feed(domain, schedule_url)
+    programs_urls = parse_event_urls_from_feed(domain, programs_url)
+
+    return schedule_urls + programs_urls
 
 
-def cpsc_event_info(event_url):
+def yins_event_info(event_url):
     page = requests.get(event_url)
 
     soup = BeautifulSoup(page.text, 'html5lib')
     soup.prettify()
 
-    content_region = soup.find(id='region-content')
+    content = soup.find(id='region-content')
 
-    title_region = content_region.find(id='page-title')
+    title_region = content.find(id='page-title')
     title = title_region.get_text().strip()
 
-    content = content_region.find('article', class_='node-event')
-    content = content.find(class_='content')
-
-    time_region = content.find(class_='field-name-field-event-time')
-    time_element = time_region.find(class_='date-display-single')
+    time_element = content.find('span', {'property': 'dc:date'})
     time_raw = time_element.get('content')
     time_aware = datetime.datetime.strptime(time_raw, "%Y-%m-%dT%H:%M:%S%z")
     time_real = time_aware.astimezone(tz=pytz.utc).replace(tzinfo=None)
@@ -44,9 +44,12 @@ def cpsc_event_info(event_url):
         location_name = "TBA"
 
     description_region = content.find(class_='field-name-body')
-    description_texts = description_region.findAll(text=True)
-    description = '\n'.join(text.strip() for text in description_texts)
-    # description = ''.join(description_texts)
+    if description_region:
+        description_texts = description_region.findAll(text=True)
+        description = '\n'.join(text.strip() for text in description_texts)
+        # description = ''.join(description_texts)
+    else:
+        description = 'No description provided'
 
     return {
         'title': title,
@@ -57,25 +60,25 @@ def cpsc_event_info(event_url):
     }
 
 
-def cpsc_generate(filename):
+def yins_generate(filename):
     with open(filename, 'wb') as f:
-        print('Generating CPSC Calendar')
+        print('Generating YINS Calendar')
 
         events = []
-        urls = cpsc_upcoming_events()
+        urls = yins_get_events()
         for url in urls:
-            event_info = cpsc_event_info(url)
+            event_info = yins_event_info(url)
             print(f"Event: {event_info['title']}")
             events.append(event_info)
 
-        cal = generate_ics('Yale CS Events', 'Yale CPSC Events Calendar', events)
+        cal = generate_ics('YINS Events', 'Yale Institute for Network Sciences (YINS) Events Calendar', events)
         f.write(cal)
         print()
 
 
 if __name__ == '__main__':
-    results = cpsc_upcoming_events()
+    results = yins_get_events()
     pprint(results)
 
-    event_info = cpsc_event_info(results[0])
+    event_info = yins_event_info(results[0])
     pprint(event_info)

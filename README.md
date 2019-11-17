@@ -1,7 +1,14 @@
-# Yale CPSC Event Calendar
+# Yale Event Calendars
+
 Because I like my calendars unified.
+The calendars are updated every four hours.
 
-Data source: https://cpsc.yale.edu/calendar.
+### CPSC
+CPSC data source: https://cpsc.yale.edu/calendar
 
-Calendar feed: https://hsheth2.github.io/yale-cpsc-event-calendar/yale-cpsc-events.ics. Updates regularly.
+CPSC calendar feed: https://hsheth2.github.io/yale-cpsc-event-calendar/yale-cpsc-events.ics
 
+### YINS
+YINS data source: https://yins.yale.edu/calendar/speaker-schedule
+
+YINS calendar feed: TODO
