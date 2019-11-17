@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+X-WR-CALDESC:Yale Institute for Network Sciences (YINS) Events Calendar
+X-WR-CALNAME:YINS Events
+BEGIN:VEVENT
+SUMMARY:YINS Guest Lecturer: Suvrit Sra (MIT)
+DTSTART;VALUE=DATE-TIME:20191120T170000
+DTEND;VALUE=DATE-TIME:20191120T180000
+DESCRIPTION:Event description:\n“ReLU nets are powerful memorizers: a ti
+ ght analysis of finite sample expressive power”\n\nSpeaker: Suvrit Sra\n
+ Associate Professor\, Department of Electrical Engineering & Computer Scie
+ nce\nInstitute for Data\, Systems & Society (IDSS)\nMassachusetts Institut
+ e of Technology\n\nAbstract:\nI will talk about finite sample expressivity
+ \, aka memorization power of ReLU networks. Recent results showed (unsurpr
+ isingly) that arbitrary input data could be perfectly memorized using a sh
+ allow ReLU network with one hidden layer having N hidden nodes. I will des
+ cribe a more careful construction that trades of width with depth to show 
+ that a ReLU network with 2 hidden layers\, each with 2*sqrt(N) hidden node
+ s\, can perfectly memorize arbitrary datasets. Moreover\, we prove that wi
+ dth of Θ(sqrt(N)) is necessary and sufficient for having perfect memoriza
+ tion power. A notable corollary of this result is that mild overparametriz
+ ation suffices to permit a NN to achieve zero training loss!\n\nWe extend 
+ our results to deep networks too and combined with recent results on VC-di
+ mension of deep nets\, we show that our results on memorization power are 
+ nearly tight. Time permitting\, I will mention expressive power results fo
+ r Resnets\, as well as how SGD behaves on optimizing such networks.\n\nSpe
+ aker Bio:\nSuvrit Sra is an Associate Professor in the EECS Department at 
+ MIT\, and also a core faculty member of the Laboratory for Information and
+  Decision Systems (LIDS)\, the Institute for Data\, Systems\, and Society 
+ (IDSS)\, as well as a member of MIT-ML and Statistics groups. He obtained 
+ his PhD in Computer Science from the University of Texas at Austin. Before
+  moving to MIT\, he was a Senior Research Scientist at the Max Planck Inst
+ itute for Intelligent Systems\, Tübingen\, Germany. He has held visiting 
+ faculty positions at UC Berkeley (EECS) and Carnegie Mellon University (Ma
+ chine Learning Department) during 2013-2014. His research bridges a number
+  of mathematical areas such as differential geometry\, matrix analysis\, c
+ onvex analysis\, probability theory\, and optimization with machine learni
+ ng. He founded the OPT (Optimization for Machine Learning) series of works
+ hops\, held from OPT2008–2017 at the NeurIPS (erstwhile NIPS) conference
+ . He has co-edited a book with the same name (MIT Press\, 2011). He is als
+ o a co-founder and chief scientist of a healthcare-AI startup.\n\n\n
+LOCATION:Yale Institute for Network Science
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-guest-lecturer-suvrit-sra-mit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS Distinguished Lecturer: Mikhail Belkin (OSU)
+DTSTART;VALUE=DATE-TIME:20200122T170000
+DTEND;VALUE=DATE-TIME:20200122T180000
+DESCRIPTION:Event description:\n“From classical statistics to modern mac
+ hine learning”\n\nSpeaker: Mikhail Belkin\nProfessor in the Department o
+ f Computer Science and Engineering and the Department of Statistics at the
+  Ohio State University\n\n\n\nAbstract:\n“A model with zero training err
+ or is  overfit to the training data and  will typically generalize poorl
+ y” goes statistical textbook wisdom. Yet\, in modern practice over-param
+ etrized deep networks with near perfect  fit on training data still show 
+ excellent test performance. As I will discuss in the talk\, this apparent 
+ contradiction is key to understanding the practice of modern machine learn
+ ing. While classical methods rely on a trade-off balancing the complexity 
+ of  predictors with  training error\,  modern models are best described
+  by interpolation\,  where  a predictor is chosen  among functions that
+   fit the training data exactly\, according  to a certain (implicit or e
+ xplicit) inductive bias. Furthermore\,  classical and modern models can b
+ e unified within a single  ”double descent” risk curve\,  which exte
+ nds the classical U-shaped  bias-variance curve  beyond the point of int
+ erpolation. This understanding of model performance  delineates the limit
+ s of the usual ”what you see is what you get” generalization bounds in
+  machine learning and  points to  new analyses required to understand  
+ computational\, statistical\, and mathematical properties of modern models
+ .\n\n\n\nI will proceed to discuss some important implications of interpol
+ ation for  optimization\,  both in terms of “easy” optimization due 
+ the scarcity of non-global minima\,  and to fast convergence of small min
+ i-batch SGD with fixed step size.\n\n\n\nSpeaker bio:\nMikhail Belkin is a
+  Professor in the Department of Computer Science and Engineering and the D
+ epartment of Statistics at the Ohio State University.  He received his Ph
+ D from  the University of Chicago in Mathematics in 2003.  His research 
+ focuses on understanding the fundamental structure in data\, the principle
+ s of recovering these structures and their computational\, mathematical an
+ d statistical properties.\n\nThis understanding\, in turn\, leads to algor
+ ithms for dealing with real-world data. His work includes algorithms such 
+ as Laplacian Eigenmaps and Manifold Regularization which use ideas of clas
+ sical differential geometry for analyzing non-linear high-dimensional data
+  and have been widely used in applications.  Prof. Belkin is a recipient 
+ of an NSF Career Award and a number of best paper and other awards. He has
+  served on the editorial boards of the Journal of Machine Learning Researc
+ h and IEEE PAMI.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.\n
+LOCATION:Yale Institute for Network Science
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-distinguished-lecturer-mikhail-belkin
+ -osu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS Distinguished Lecturer: Christos Papadimitriou (Columbia)
+DTSTART;VALUE=DATE-TIME:20200205T170000
+DTEND;VALUE=DATE-TIME:20200205T180000
+DESCRIPTION:No description provided
+LOCATION:Yale Institute for Network Science
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-distinguished-lecturer-christos-papad
+ imitriou-columbia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Science Special Seminar: Platform Business Models with Chr
+ istoph Riedl (Northeastern)
+DTSTART;VALUE=DATE-TIME:20191204T170000
+DTEND;VALUE=DATE-TIME:20191204T180000
+DESCRIPTION:Event description:\nDescription\n\nFive of the 10 most valuabl
+ e companies in the world today operate under a platform business model: Ap
+ ple\, Alphabet (Google)\, Amazon\, Facebook\, and Microsoft. Multisided pl
+ atforms facilitate interactions or transactions between parties. At their 
+ core\, they leverage network effects—positive externalities—to generat
+ e win-win situations for their suppliers and consumers. In this special to
+ pics seminar I will introduce platform business models\, how they are base
+ d on network science\, and provide examples. We will discuss how tradition
+ al products and services can be turned into platforms.\n\nInstructor Bio\n
+ \nChristoph Riedl is associate professor for Information Systems and Netwo
+ rk Science at the\nD’Amore-McKim School of Business\nat\nNortheastern Un
+ iversity\n. He hold a joint appointment with the\nKhoury College of Comput
+ er Sciences\nand is a core faculty member at the\nNetwork Science Institut
+ e\n. He is a fellow at the\nInstitute for Quantitative Social Science\n(IQ
+ SS) at Harvard. He is recipient of a Young Investigator Award (YIP) from t
+ he Army Research Office (ARO) for his work on social networks in collabora
+ tive decision-making. Before joining Northeastern University he was a post
+ -doctoral fellow at Harvard Business School and IQSS. He received a PhD in
+  Information Systems from Technische Universität München (TUM)\, Germany
+  in 2011\, a MSc in Information Systems in 2007\, and a BSc in Computer Sc
+ ience in 2006. His research interests are to understand how social and eco
+ nomic networks shape collaboration and decision-making on the individual\,
+  group\, and community level.\n
+LOCATION:Yale Institute for Network Science
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/network-science-special-seminar-platform-b
+ usiness-models-christoph-riedl-northeastern
+END:VEVENT
+END:VCALENDAR
