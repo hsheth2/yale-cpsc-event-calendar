@@ -25,8 +25,9 @@ jobs:
 
     - name: Generate calendar
       run: |
-        mkdir public
-        python generate_ics.py > public/yale-cpsc-events.ics
+        python main.py
+        cp -r calendar public
+        rm public/.keep
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.4.0

@@ -1,9 +1,33 @@
 import datetime
+from pprint import pprint
 import pytz
 import requests
 from bs4 import BeautifulSoup
 
-def get_event_information(event_url):
+from generate_ics import generate_ics
+
+domain = 'https://cpsc.yale.edu'
+upcoming_events_url = f'{domain}/calendar'
+
+
+def cpsc_upcoming_events():
+    content = requests.get(upcoming_events_url)
+
+    soup = BeautifulSoup(content.text, 'html5lib')
+    soup.prettify()
+
+    view = soup.body.find(class_='view-id-calendar_list')
+
+    urls = []
+    for link in view.find_all('a'):
+        url = link.get('href')
+        if url[0] == '/':
+            url = f'{domain}{url}'
+        urls.append(url)
+    return urls
+
+
+def cpsc_event_info(event_url):
     page = requests.get(event_url)
 
     soup = BeautifulSoup(page.text, 'html5lib')
@@ -28,14 +52,13 @@ def get_event_information(event_url):
         location_region = location_region.find(class_='location')
         location_region.find('span', class_='map-icon').extract()
         location_name = location_region.find(class_='fn').get_text().strip()
-        # TODO: Is it worthwhile getting the street address?
     except:
         location_name = "TBA"
 
     description_region = content.find(class_='field-name-body')
     description_texts = description_region.findAll(text=True)
     description = '\n'.join(text.strip() for text in description_texts)
-    #description = ''.join(description_texts)
+    # description = ''.join(description_texts)
 
     return {
         'title': title,
@@ -46,7 +69,29 @@ def get_event_information(event_url):
     }
 
 
+def cpsc_events():
+    events = []
+    urls = cpsc_upcoming_events()
+    for url in urls:
+        event_info = cpsc_event_info(url)
+        print(f"Event: {event_info['title']}")
+        events.append(event_info)
+
+    return events
+
+
+def cpsc_generate(filename):
+    with open(filename, 'wb') as f:
+        print('Generating CPSC Calendar')
+        events = cpsc_events()
+        cal = generate_ics('Yale CS Events', 'Yale CPSC Events Calendar', events)
+        f.write(cal)
+        print()
+
+
 if __name__ == '__main__':
-    url = 'https://cpsc.yale.edu/event/cs-talk-yuhao-zhu-university-rochester'
-    event_info = get_event_information(url)
-    print(event_info)
+    results = cpsc_upcoming_events()
+    pprint(results)
+
+    event_info = cpsc_event_info(results[0])
+    pprint(event_info)

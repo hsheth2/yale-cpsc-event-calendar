@@ -1,29 +1,16 @@
 import datetime
 import icalendar
-import sys
-
-from upcoming_urls import get_upcoming_event_urls
-from event_information import get_event_information
-
-def get_events():
-    events = []
-    urls = get_upcoming_event_urls()
-    for url in urls:
-        event_info = get_event_information(url)
-        print(event_info['title'], file=sys.stderr)
-        events.append(event_info)
-
-    return events
 
 
-def generate_ics(events):
+def generate_ics(title, desc, events):
     calendar = icalendar.Calendar()
-    calendar.add('X-WR-CALNAME', 'Yale CS Events')
-    calendar.add('X-WR-CALDESC', 'Yale CPSC Event Calendar')
+    calendar.add('X-WR-CALNAME', title)
+    calendar.add('X-WR-CALDESC', desc)
     for event in events:
         cal_event = ics_event_from_event(event)
         calendar.add_component(cal_event)
     return calendar.to_ical()
+
 
 def ics_event_from_event(event):
     cal = icalendar.Event()
@@ -35,12 +22,41 @@ def ics_event_from_event(event):
     cal.add('STATUS', 'CONFIRMED')
 
     cal.add('DTSTART', event['time'])
-    cal.add('DTEND', event['time'] + datetime.timedelta(hours = 1))
+    cal.add('DTEND', event['time'] + datetime.timedelta(hours=1))
 
     return cal
 
 
 if __name__ == '__main__':
-    events = get_events()
-    cal = generate_ics(events)
-    sys.stdout.buffer.write(cal)
+    event = {'description': 'Event description:\n'
+                            'Poynter Fellowship in Journalism\n'
+                            'Ashlyn Still, Graphics Reporter\n'
+                            'Washington Post\n'
+                            '\n'
+                            'Holly Rushmeier\n'
+                            'is hosting Ashlyn Still\n'
+                            '\n'
+                            'News Graphics and Data Visualization\n'
+                            '\n'
+                            'The media landscape is changing rapidly and the tools used '
+                            'for reporting and storytelling are changing with it. New '
+                            'technologies have made data analysis and visualization more '
+                            'accessible for reporters to tell stories in new and different '
+                            'ways. The graphics team at The Washington Post is no '
+                            'exception – they produce award-winning visual storytelling '
+                            'using data, design, code, cartography, illustration, '
+                            'animation, augmented reality and more. We’ll take a look at '
+                            'how graphics reporters at The Post are using all of these '
+                            'methods to enhance their storytelling and better reach '
+                            'audiences in both the print and digital space.\n'
+                            '\n',
+             'location': 'Franke Family Digital Humanities Laboratory in the Sterling '
+                         'Memorial Library',
+             'time': datetime.datetime(2019, 11, 18, 21, 0),
+             'title': 'Poynter Fellowship in Journalism - Ashlyn Still, Graphics '
+                      'Reporter/Washington Post',
+             'url': 'https://cpsc.yale.edu/event/poynter-fellowship-journalism-ashlyn-still-graphics-reporterwashington-post'}
+
+    with open('calendars/test.ics', 'wb') as f:
+        data = generate_ics('Test Calendar', 'Test Calendar Desc', [event])
+        f.write(data)
