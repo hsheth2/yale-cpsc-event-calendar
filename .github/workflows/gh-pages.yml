@@ -26,7 +26,7 @@ jobs:
     - name: Generate calendar
       run: |
         python main.py
-        cp -r calendar public
+        cp -r calendars public
         rm public/.keep
 
     - name: Deploy
