@@ -11,4 +11,4 @@ CPSC calendar feed: [webcal://hsheth2.github.io/yale-event-calendars/cpsc_events
 ### YINS
 YINS data source: https://yins.yale.edu/calendar/speaker-schedule
 
-YINS calendar feed: [https://hsheth2.github.io/yale-event-calendars/yins_events.ics](https://hsheth2.github.io/yale-event-calendars/yins_events.ics)
+YINS calendar feed: [webcal://hsheth2.github.io/yale-event-calendars/yins_events.ics](webcal://hsheth2.github.io/yale-event-calendars/yins_events.ics)
