@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:Poynter Fellowship in Journalism - Ashlyn Still\, Graphics Reporte
- r/Washington Post
-DTSTART;VALUE=DATE-TIME:20191118T210000
-DTEND;VALUE=DATE-TIME:20191118T220000
-DESCRIPTION:Event description:\nPoynter Fellowship in Journalism\nAshlyn S
- till\, Graphics Reporter\nWashington Post\n\nHolly Rushmeier\nis hosting A
- shlyn Still\n\nNews Graphics and Data Visualization\n\n\n\n\n\n\nThe media
-  landscape is changing rapidly and the tools used for reporting and storyt
- elling are changing with it. New technologies have made data analysis and 
- visualization more accessible for reporters to tell stories in new and dif
- ferent ways. The graphics team at The Washington Post is no exception – 
- they produce award-winning visual storytelling using data\, design\, code\
- , cartography\, illustration\, animation\, augmented reality and more. We
- ’ll take a look at how graphics reporters at The Post are using all of t
- hese methods to enhance their storytelling and better reach audiences in b
- oth the print and digital space.\n\n\n\n\n\n\n\nAshlyn Still is a graphics
-  reporter covering elections and politics at The Washington Post. She spen
- ds most of her time with the elections team\, creating maps\, charts and o
- ther visualizations to bring live election results to audiences on all pla
- tforms. Before joining The Post\, she was a developer on the graphics team
-  at Reuters in New York\, focusing on policy\, politics\, economics and la
- bor coverage. She has also worked as a news applications developer at The 
- Atlanta Journal-Constitution. Ashlyn graduated from the University of Nort
- h Carolina at Chapel Hill with a Bachelor’s degree in Journalism and Mas
- s Communication.\n\nhttps://communications.yale.edu/poynter/ashlyn-still\n
- \n\n\n\n\nThe Poynter Fellowship plays a unique role in the educational li
- fe of Yale University. Nelson Poynter (Yale\, M.A. 1927) established the p
- rogram to enable Yale to bring to its campus distinguished reporters\, edi
- tors and others who have made important contributions to the media.\n\n\n\
- n\n
-LOCATION:Franke Family Digital Humanities Laboratory in the Sterling Memor
- ial Library
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/poynter-fellowship-journalism-ashlyn-still
- -graphics-reporterwashington-post
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Theo Jepsen
 DTSTART;VALUE=DATE-TIME:20191125T160000
 DTEND;VALUE=DATE-TIME:20191125T170000
