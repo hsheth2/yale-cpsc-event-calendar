@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS) Events Calendar
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Guest Lecturer: Suvrit Sra (MIT)
-DTSTART;VALUE=DATE-TIME:20191120T170000
-DTEND;VALUE=DATE-TIME:20191120T180000
-DESCRIPTION:Event description:\n“ReLU nets are powerful memorizers: a ti
- ght analysis of finite sample expressive power”\n\nSpeaker: Suvrit Sra\n
- Associate Professor\, Department of Electrical Engineering & Computer Scie
- nce\nInstitute for Data\, Systems & Society (IDSS)\nMassachusetts Institut
- e of Technology\n\nAbstract:\nI will talk about finite sample expressivity
- \, aka memorization power of ReLU networks. Recent results showed (unsurpr
- isingly) that arbitrary input data could be perfectly memorized using a sh
- allow ReLU network with one hidden layer having N hidden nodes. I will des
- cribe a more careful construction that trades of width with depth to show 
- that a ReLU network with 2 hidden layers\, each with 2*sqrt(N) hidden node
- s\, can perfectly memorize arbitrary datasets. Moreover\, we prove that wi
- dth of Θ(sqrt(N)) is necessary and sufficient for having perfect memoriza
- tion power. A notable corollary of this result is that mild overparametriz
- ation suffices to permit a NN to achieve zero training loss!\n\nWe extend 
- our results to deep networks too and combined with recent results on VC-di
- mension of deep nets\, we show that our results on memorization power are 
- nearly tight. Time permitting\, I will mention expressive power results fo
- r Resnets\, as well as how SGD behaves on optimizing such networks.\n\nSpe
- aker Bio:\nSuvrit Sra is an Associate Professor in the EECS Department at 
- MIT\, and also a core faculty member of the Laboratory for Information and
-  Decision Systems (LIDS)\, the Institute for Data\, Systems\, and Society 
- (IDSS)\, as well as a member of MIT-ML and Statistics groups. He obtained 
- his PhD in Computer Science from the University of Texas at Austin. Before
-  moving to MIT\, he was a Senior Research Scientist at the Max Planck Inst
- itute for Intelligent Systems\, Tübingen\, Germany. He has held visiting 
- faculty positions at UC Berkeley (EECS) and Carnegie Mellon University (Ma
- chine Learning Department) during 2013-2014. His research bridges a number
-  of mathematical areas such as differential geometry\, matrix analysis\, c
- onvex analysis\, probability theory\, and optimization with machine learni
- ng. He founded the OPT (Optimization for Machine Learning) series of works
- hops\, held from OPT2008–2017 at the NeurIPS (erstwhile NIPS) conference
- . He has co-edited a book with the same name (MIT Press\, 2011). He is als
- o a co-founder and chief scientist of a healthcare-AI startup.\n\n\n
-LOCATION:Yale Institute for Network Science
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-guest-lecturer-suvrit-sra-mit
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Distinguished Lecturer: Mikhail Belkin (OSU)
 DTSTART;VALUE=DATE-TIME:20200122T170000
 DTEND;VALUE=DATE-TIME:20200122T180000
