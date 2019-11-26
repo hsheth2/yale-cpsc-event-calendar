@@ -1,28 +1,4 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
-BEGIN:VEVENT
-SUMMARY:CS Colloquium - Theo Jepsen
-DTSTART;VALUE=DATE-TIME:20191125T160000
-DTEND;VALUE=DATE-TIME:20191125T170000
-DESCRIPTION:Event description:\nCS Colloquium - Theo Jepsen\n\nHost: Rober
- t Soulé\n\nTitle: Packet Subscriptions for Programmable ASICs\n\nAbstract
- :\n\nIn this talk\, I explore how programmable data planes can provide a h
- igher-level of service to user applications via a new abstraction called p
- acket subscriptions. Packet subscriptions generalize forwarding rules\, an
- d can be used to express both traditional routing and more esoteric\, cont
- ent-based approaches. We describe a compiler for packet subscriptions that
-  uses a novel BDD-based algorithm to efficiently translate predicates into
-  P4 tables that can support O(100K) expressions. Using our compiler\, we
- ’ve built a proof-of-concept pub/sub financial application for splitting
-  market feeds (e.g.\, Nasdaq’s ITCH protocol) with line-rate message pro
- cessing\, using the full switch bandwidth of 6.5Tbps.\n\nBio:\n\nTheo Jeps
- en received his BA at Cornell University\, Masters at University of Wiscon
- sin Madison\, and is currently in his fourth year of a PhD program at USI\
- , Universita della Svizzera Italiana. His research interests are in in dis
- tributed systems\, networking and programmable data planes.\n
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-theo-jepsen
-END:VEVENT
 END:VCALENDAR
