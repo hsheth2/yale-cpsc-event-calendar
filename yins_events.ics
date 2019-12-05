@@ -57,37 +57,4 @@ STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-distinguished-lecturer-christos-papad
  imitriou-columbia
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Network Science Special Seminar: Platform Business Models with Chr
- istoph Riedl (Northeastern)
-DTSTART;VALUE=DATE-TIME:20191204T170000
-DTEND;VALUE=DATE-TIME:20191204T180000
-DESCRIPTION:Event description:\nDescription\n\nFive of the 10 most valuabl
- e companies in the world today operate under a platform business model: Ap
- ple\, Alphabet (Google)\, Amazon\, Facebook\, and Microsoft. Multisided pl
- atforms facilitate interactions or transactions between parties. At their 
- core\, they leverage network effects—positive externalities—to generat
- e win-win situations for their suppliers and consumers. In this special to
- pics seminar I will introduce platform business models\, how they are base
- d on network science\, and provide examples. We will discuss how tradition
- al products and services can be turned into platforms.\n\nInstructor Bio\n
- \nChristoph Riedl is associate professor for Information Systems and Netwo
- rk Science at the\nD’Amore-McKim School of Business\nat\nNortheastern Un
- iversity\n. He hold a joint appointment with the\nKhoury College of Comput
- er Sciences\nand is a core faculty member at the\nNetwork Science Institut
- e\n. He is a fellow at the\nInstitute for Quantitative Social Science\n(IQ
- SS) at Harvard. He is recipient of a Young Investigator Award (YIP) from t
- he Army Research Office (ARO) for his work on social networks in collabora
- tive decision-making. Before joining Northeastern University he was a post
- -doctoral fellow at Harvard Business School and IQSS. He received a PhD in
-  Information Systems from Technische Universität München (TUM)\, Germany
-  in 2011\, a MSc in Information Systems in 2007\, and a BSc in Computer Sc
- ience in 2006. His research interests are to understand how social and eco
- nomic networks shape collaboration and decision-making on the individual\,
-  group\, and community level.\n
-LOCATION:Yale Institute for Network Science
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/network-science-special-seminar-platform-b
- usiness-models-christoph-riedl-northeastern
-END:VEVENT
 END:VCALENDAR
