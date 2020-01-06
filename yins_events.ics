@@ -49,9 +49,41 @@ URL:https://yins.yale.edu/event/yins-distinguished-lecturer-mikhail-belkin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:YINS Distinguished Lecturer: Christos Papadimitriou (Columbia)
-DTSTART;VALUE=DATE-TIME:20200205T170000
-DTEND;VALUE=DATE-TIME:20200205T180000
-DESCRIPTION:No description provided
+DTSTART;VALUE=DATE-TIME:20200401T160000
+DTEND;VALUE=DATE-TIME:20200401T170000
+DESCRIPTION:Event description:\n“Language\, Brain\, and Computation”\n
+ \nSpeaker: Christos H. Papadimitriou\nProfessor of Computer Science\, Col
+ umbia University\n\nAbstract:\nComputation in the brain has been modeled p
+ roductively at many scales\, ranging from molecules to dendrites\, neurons
+  and synapses\, all the way to the whole brain models useful in cognitive 
+ science.  I will discuss recent work on anl intermediate computational la
+ yer\, involving assemblies of neurons — that is to say\, populations of 
+ neurons firing together in a repetitive pattern whenever we think of a par
+ ticular memory\, concept or idea.  Assemblies were conjectured seven deca
+ des ago by Hebb\, and have been over the past two decades noticed in both 
+ the animal and the human brain.  Further\, experiments\, simulations\, an
+ d theoretical analysis suggest that assemblies can be copied from one brai
+ n area to another\, can be associated with other assemblies\, and more.  
+ We propose a broader “calculus” of assemblies\, including the operatio
+ n “merge”\, comprising a powerful computational model.  One interesti
+ ng hypothesis is that assembly operations may underlie some of the most ad
+ vanced functions of the human brain\, especially language.  Joint work wi
+ th Santosh Vempala\, Wolfgang Maass\, and Michael Collins.\n\n\n\nSpeaker 
+ Bio:\nChristos H. Papadimitriou is the Donovan Family professor of compute
+ r science at Columbia University.  Before joining Columbia in 2017\, he t
+ aught at UC Berkeley for 22 years\, and before that at Harvard\, MIT\, NTU
+  Athens\, Stanford\, and UCSD.  He has written five textbooks and many ar
+ ticles on algorithms and complexity\, and their applications to optimizati
+ on\, databases\, control\, AI\, robotics\, economics and game theory\, the
+  Internet\, evolution\, and more recently the study of the brain.  He hol
+ ds a PhD from Princeton as well as eight honorary doctorates\, and he has 
+ won the Knuth prize\, the Goedel prize\, the von Neumann medal\, and most 
+ recently Technion’s Harvey prize.  He is a member of the National Acade
+ my of Sciences of the US\, the American Academy of Arts and Sciences\, and
+  the National Academy of Engineering\, while in 2013 the president of Gree
+ ce named him commander of the order of the phoenix.  He has also written 
+ three novels: “Turing”\, “Logicomix” and his latest “Independenc
+ e”.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.\n\n\n
 LOCATION:Yale Institute for Network Science
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-distinguished-lecturer-christos-papad
