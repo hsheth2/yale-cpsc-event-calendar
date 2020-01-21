@@ -47,6 +47,7 @@ def cpsc_event_info(event_url):
     description_texts = description_region.findAll(text=True)
     description = '\n'.join(text.strip() for text in description_texts)
     # description = ''.join(description_texts)
+    description += '\n\n' + event_url
 
     return {
         'title': title,

@@ -50,6 +50,7 @@ def yins_event_info(event_url):
         # description = ''.join(description_texts)
     else:
         description = 'No description provided'
+    description += '\n\n' + event_url
 
     return {
         'title': title,
