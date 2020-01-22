@@ -1,38 +1,4 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
-BEGIN:VEVENT
-SUMMARY:CS Talk - Akshitha Sriraman
-DTSTART;VALUE=DATE-TIME:20200121T210000
-DTEND;VALUE=DATE-TIME:20200121T220000
-DESCRIPTION:Event description:\nCS Talk - Akshitha Sriraman\n\nHost: Abhis
- hek Bhattacharjee\n\nTitle: Enabling Hyperscale Web Services\n\nAbstract:
- \n\nModern hyperscale web service systems introduce trade-offs between per
- formance and numerous features essential for cost- and energy-efficient op
- eration of data centers (e.g.\, high server utilization\, continuous power
-  management\, use of commodity hardware and software\, etc.). In this talk
- \, I will present two solutions to bridge the performance vs. cost and ene
- rgy efficiency gap in hyperscale web services (1) a software system that a
- uto-tunes threading models during system run-time to minimize web service 
- tail latency (OSDI 2018) and (2) a system that exploits coarse-grained OS 
- and hardware configuration knobs to tune limited cost-efficient commodity 
- hardware stock keeping units\, to better support their assigned service (I
- SCA 2019).\n\nBio\n:\n\n\nAkshitha Sriraman is a Ph.D. candidate at the Un
- iversity of Michigan. She is advised by Prof. Thomas F. Wenisch on her com
- puter architecture and systems dissertation research\, specifically on the
-  topic of enabling hyperscale web services. Her work bridges computer arch
- itecture and software systems and demonstrates the importance of that brid
- ge in improving the performance\, cost\, and energy efficiency of modern h
- yperscale data center systems. Sriraman has influenced the design of serve
- r architectures both via hardware analysis of production data center syste
- ms and her subsequent software design that uses data center hardware more 
- efficiently\; she received recognition for this work via the 2020 Facebook
-  Distributed Systems Fellowship. Additionally\, Sriraman has developed a n
- ovel software system that improves data center performance by minimizing t
- ail latency\; she was awarded the Rakham Merit Ph.D. Fellowship to help fu
- nd this work.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-akshitha-sriraman
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-akshitha-sriraman
-END:VEVENT
 END:VCALENDAR
