@@ -2,53 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS) Events Calendar
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Distinguished Lecturer: Mikhail Belkin (OSU)
-DTSTART;VALUE=DATE-TIME:20200122T170000
-DTEND;VALUE=DATE-TIME:20200122T180000
-DESCRIPTION:Event description:\n“From classical statistics to modern mac
- hine learning”\n\nSpeaker: Mikhail Belkin\nProfessor in the Department o
- f Computer Science and Engineering and the Department of Statistics at the
-  Ohio State University\n\n\n\nAbstract:\n“A model with zero training err
- or is  overfit to the training data and  will typically generalize poorl
- y” goes statistical textbook wisdom. Yet\, in modern practice over-param
- etrized deep networks with near perfect  fit on training data still show 
- excellent test performance. As I will discuss in the talk\, this apparent 
- contradiction is key to understanding the practice of modern machine learn
- ing. While classical methods rely on a trade-off balancing the complexity 
- of  predictors with  training error\,  modern models are best described
-  by interpolation\,  where  a predictor is chosen  among functions that
-   fit the training data exactly\, according  to a certain (implicit or e
- xplicit) inductive bias. Furthermore\,  classical and modern models can b
- e unified within a single  ”double descent” risk curve\,  which exte
- nds the classical U-shaped  bias-variance curve  beyond the point of int
- erpolation. This understanding of model performance  delineates the limit
- s of the usual ”what you see is what you get” generalization bounds in
-  machine learning and  points to  new analyses required to understand  
- computational\, statistical\, and mathematical properties of modern models
- .\n\n\n\nI will proceed to discuss some important implications of interpol
- ation for  optimization\,  both in terms of “easy” optimization due 
- the scarcity of non-global minima\,  and to fast convergence of small min
- i-batch SGD with fixed step size.\n\n\n\nSpeaker bio:\nMikhail Belkin is a
-  Professor in the Department of Computer Science and Engineering and the D
- epartment of Statistics at the Ohio State University.  He received his Ph
- D from  the University of Chicago in Mathematics in 2003.  His research 
- focuses on understanding the fundamental structure in data\, the principle
- s of recovering these structures and their computational\, mathematical an
- d statistical properties.\n\nThis understanding\, in turn\, leads to algor
- ithms for dealing with real-world data. His work includes algorithms such 
- as Laplacian Eigenmaps and Manifold Regularization which use ideas of clas
- sical differential geometry for analyzing non-linear high-dimensional data
-  and have been widely used in applications.  Prof. Belkin is a recipient 
- of an NSF Career Award and a number of best paper and other awards. He has
-  served on the editorial boards of the Journal of Machine Learning Researc
- h and IEEE PAMI.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.\n\n\nhttps://yins.yale.e
- du/event/yins-distinguished-lecturer-mikhail-belkin-osu
-LOCATION:Yale Institute for Network Science
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-distinguished-lecturer-mikhail-belkin
- -osu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Distinguished Lecturer: Christos Papadimitriou (Columbia)
 DTSTART;VALUE=DATE-TIME:20200401T160000
 DTEND;VALUE=DATE-TIME:20200401T170000
