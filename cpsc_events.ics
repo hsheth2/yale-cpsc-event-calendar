@@ -74,4 +74,43 @@ LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-oana-balmau
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Chenhao Tan\, Univ. of Colorado Boulder
+DTSTART;VALUE=DATE-TIME:20200227T210000
+DTEND;VALUE=DATE-TIME:20200227T220000
+DESCRIPTION:Event description:\nCS Colloquium\nChenhao Tan\, University of
+  Colorado Boulder\n\nCoffee available at 3:45\n\nHost: Dragomir Radev\n\nT
+ itle: Towards Human-Centered AI: Understanding Language in Social Contexts
+ \n\nAbstract:\n\nLanguage plays a central role in shaping human behavior a
+ nd opinions. However\, understanding language in social contexts is challe
+ nging. For instance\, it is well recognized that humans struggle with dete
+ cting deception. Such challenging tasks suggest that AI algorithms can dis
+ cover new knowledge from data beyond simply emulating human behavior. This
+  discovering mode gives rise to opportunities and challenges of augmenting
+  humans with AI. In this talk\, I will first present methods for advancing
+  AI in the discovering mode: 1) deriving insights from a text corpus by de
+ veloping a neural framework for incorporating document metadata such as to
+ ne\; 2) identifying the effect of wording in information diffusion by cont
+ rolling for confounding factors through natural experiments. I will then s
+ hare our recent effort in developing best practices for incorporating AI i
+ nto human decision making in such challenging tasks\, using deceptive revi
+ ew detection as a testbed. Our results demonstrate a tradeoff between huma
+ n performance and human agency and show that explanations of machine predi
+ ctions can moderate this tradeoff.\n\nBio:\n\nChenhao Tan is an assistant 
+ professor of computer science at the University of Colorado Boulder. He ob
+ tained his PhD degree in the Department of Computer Science at Cornell Uni
+ versity and bachelor’s degrees in computer science and in economics from
+  Tsinghua University. Prior to joining CU Boulder\, he spent a year at the
+  University of Washington as a postdoc. His research interests include hum
+ an-centered AI\, natural language processing\, and computational social sc
+ ience. His work has been covered by many news media outlets\, such as the 
+ New York Times and the Washington Post. He also won an NSF CRII award\, a 
+ Salesforce research award\, a Facebook fellowship\, and a Yahoo! Key Scien
+ tific Challenges award.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-che
+ nhao-tan-univ-colorado-boulder
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-chenhao-tan-univ-colorado-bo
+ ulder
+END:VEVENT
 END:VCALENDAR
