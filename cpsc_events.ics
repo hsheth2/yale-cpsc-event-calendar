@@ -77,35 +77,36 @@ DTSTART;VALUE=DATE-TIME:20200203T210000
 DTEND;VALUE=DATE-TIME:20200203T220000
 DESCRIPTION:Event description:\nCS Colloquium\nSimon S. Du\n\nHosts: Dan S
  pielman (DS) & Nisheeth Vishnoi (CS)\n(https://statistics.yale.edu/seminar
- s/sdscs-joint-seminar-simon-s-du)\n\nTitle: Foundations of Intelligent Sys
- tems with (Deep) Function Approximators\n\nAbstract:\n\nFunction approxima
- tors\, such as deep neural networks\, play a crucial role in building inte
- lligent systems that make predictions and decisions. In this talk\, I will
-  discuss my work on understanding\, designing\, and applying function appr
- oximators. First\, I will focus on understanding deep neural networks. The
-  main result is that the over-parameterized neural network is equivalent t
- o a new kernel\, Neural Tangent Kernel. This equivalence implies two surpr
- ising phenomena: 1) the simple algorithm gradient descent provably finds t
- he global optimum of the highly non-convex empirical risk\, and 2) the lea
- rned neural network generalizes well despite being highly over-parameteriz
- ed. Furthermore\, this equivalence helps us design a new class of function
-  approximators: we transform (fully-connected\, graph\, convolutional) neu
- ral networks to (fully-connected\, graph\, convolutional) Neural Tangent K
- ernels\, which achieve superior performance on standard benchmarks. In the
-  second part of the talk\, I will focus on applying function approximators
-  to decision-making\, aka reinforcement learning\, problems. In sharp cont
- rast to the (simpler) supervised prediction problems\, solving reinforceme
- nt learning problems requires an exponential number of samples\, even if o
- ne applies function approximators.  I will then discuss what additional s
- tructures that permit statistically efficient algorithms.\n\nBio: Simon S.
-  Du is a postdoc at the Institute for Advanced Study of Princeton\, hosted
-  by Sanjeev Arora. He completed his Ph.D. in Machine Learning at Carnegie 
- Mellon University\, where he was co-advised by Aarti Singh and Barnabás P
- óczos. Previously\, he studied EECS and EMS at UC Berkeley. He has also s
- pent time at Simons Institute and research labs of Facebook\, Google\, and
-  Microsoft. His research interests are broadly in machine learning\, with 
- a focus on the foundations of deep learning and reinforcement learning.\n\
- n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-simon-s-du
+ s/sdscs-joint-seminar-simon-s-du)\n\nCoffee available at 3:45\n\nTitle: Fo
+ undations of Learning Systems with (Deep) Function Approximators\n\nAbstra
+ ct:\n\nFunction approximators\, such as deep neural networks\, play a cruc
+ ial role in building intelligent systems that make predictions and decisio
+ ns. In this talk\, I will discuss my work on understanding\, designing\, a
+ nd applying function approximators. First\, I will focus on understanding 
+ deep neural networks. The main result is that the over-parameterized neura
+ l network is equivalent to a new kernel\, Neural Tangent Kernel. This equi
+ valence implies two surprising phenomena: 1) the simple algorithm gradient
+  descent provably finds the global optimum of the highly non-convex empiri
+ cal risk\, and 2) the learned neural network generalizes well despite bein
+ g highly over-parameterized. Furthermore\, this equivalence helps us desig
+ n a new class of function approximators: we transform (fully-connected\, g
+ raph\, convolutional) neural networks to (fully-connected\, graph\, convol
+ utional) Neural Tangent Kernels\, which achieve superior performance on st
+ andard benchmarks. In the second part of the talk\, I will focus on applyi
+ ng function approximators to decision-making\, aka reinforcement learning\
+ , problems. In sharp contrast to the (simpler) supervised prediction probl
+ ems\, solving reinforcement learning problems requires an exponential numb
+ er of samples\, even if one applies function approximators.  I will then 
+ discuss what additional structures that permit statistically efficient alg
+ orithms.\n\nBio: Simon S. Du is a postdoc at the Institute for Advanced St
+ udy of Princeton\, hosted by Sanjeev Arora. He completed his Ph.D. in Mach
+ ine Learning at Carnegie Mellon University\, where he was co-advised by Aa
+ rti Singh and Barnabás Póczos. Previously\, he studied EECS and EMS at U
+ C Berkeley. He has also spent time at Simons Institute and research labs o
+ f Facebook\, Google\, and Microsoft. His research interests are broadly in
+  machine learning\, with a focus on the foundations of deep learning and r
+ einforcement learning.\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-si
+ mon-s-du
 LOCATION:Dunham Lab 220
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-simon-s-du
@@ -114,8 +115,8 @@ BEGIN:VEVENT
 SUMMARY:CS Colloquium - Oana Balmau
 DTSTART;VALUE=DATE-TIME:20200205T210000
 DTEND;VALUE=DATE-TIME:20200205T220000
-DESCRIPTION:Event description:\nCS Colloquium - Oana Balmau\n\nCoffee avai
- lable at 3:45\n\nHost: Avi Silberschatz\n\nTitle: Redesigning Storage Syst
+DESCRIPTION:Event description:\nCS Colloquium - Oana Balmau\n\nHost: Avi S
+ ilberschatz\n\nCoffee available at 3:45\n\nTitle: Redesigning Storage Syst
  ems for Future Workloads\, Hardware\, and Performance Requirements\n\nAbst
  ract:\n\nThe storage stack needs to undergo radical change to keep up with
   future workloads\, hardware\, and performance requirements. First\, workl
@@ -152,11 +153,41 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-oana-balmau
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Cheng Tan
+DTSTART;VALUE=DATE-TIME:20200213T210000
+DTEND;VALUE=DATE-TIME:20200213T220000
+DESCRIPTION:Event description:\nCS Colloquium\nCheng Tan\n\nHost: Lin Zhon
+ g\n\nCoffee available at 3:45\n\nTitle: How to Audit Outsourced Services\n
+ \nAbstract:\n\nHow can users of a cloud service verify that the service tr
+ uly performs as promised? This question is vital today because clouds are 
+ complicated black boxes\, running in different administrative domains from
+  users. Their correctness can be undermined by internal corruptions—misc
+ onfigurations\, operational mistakes\, insider attacks\, unexpected failur
+ es\, or adversarial control at any layer of the execution stack. This talk
+  will present verifiable infrastructure\, a framework that lets users audi
+ t outsourced applications and services. I will introduce two systems: Oroc
+ hi and Cobra\, which verify the execution of\, respectively\, untrusted se
+ rvers and black-box databases. Orochi and Cobra introduce various techniqu
+ es\, including deduplicated re-execution\, consistent ordering verificatio
+ n\, GPU accelerated pruning\, and others. Beyond these two systems\, I wil
+ l also discuss verifiable infrastructure more generally.\n\nBio:\n\nCheng 
+ Tan is a computer science Ph.D. candidate in the Courant Institute at New 
+ York University. His interests are in operating systems\, networked system
+ s\, and security. His work on the Efficient Server Audit Problem was award
+ ed best paper at SOSP 2017. His work on data center network troubleshootin
+ g at Microsoft Research has been deployed globally in more than 30 data ce
+ nters in Microsoft Azure.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-c
+ heng-tan
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-cheng-tan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Chenhao Tan\, Univ. of Colorado Boulder
 DTSTART;VALUE=DATE-TIME:20200227T210000
 DTEND;VALUE=DATE-TIME:20200227T220000
 DESCRIPTION:Event description:\nCS Colloquium\nChenhao Tan\, University of
-  Colorado Boulder\n\nCoffee available at 3:45\n\nHost: Dragomir Radev\n\nT
+  Colorado Boulder\n\nHost: Dragomir Radev\n\nCoffee available at 3:45\n\nT
  itle: Towards Human-Centered AI: Understanding Language in Social Contexts
  \n\nAbstract:\n\nLanguage plays a central role in shaping human behavior a
  nd opinions. However\, understanding language in social contexts is challe
