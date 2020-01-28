@@ -3,57 +3,6 @@ X-WR-CALDESC:Yale Franke Program in Science and the Humanities Event Calen
  dar
 X-WR-CALNAME:Yale Franke Program
 BEGIN:VEVENT
-SUMMARY:Reckoning and Judgment:  The Promise of AI\, Talk by Brian Cantwel
- l Smith
-DTSTART;VALUE=DATE-TIME:20200127T210000
-DTEND;VALUE=DATE-TIME:20200127T220000
-DESCRIPTION:Event description:\nNew developments in Artificial Intelligenc
- e – particularly deep learning and other forms of “second-wave” AI 
- – are attracting enormous public attention.  Both triumphalists and doo
- msayers are predicting that human-level AI is “just around the corner.
- ”  To assess the situation we need a broad understanding of intelligenc
- e in terms of which to assess: (i) what kinds of intelligence machines cur
- rently have\, and will likely have in the future\; and (ii) what kinds peo
- ple have\, and may be capable of in the future.  As a first step in this 
- direction\, our speaker distinguishes two kinds of intelligence: (i) “re
- ckoning\,” the kind of calculative rationality that computers excel at\,
-  including both first- and second-wave AI\; and (ii) “judgment\,” a fo
- rm of dispassionate\, deliberative thought\, grounded in ethical commitmen
- t and responsible action\, that is appropriate to the situation in which i
- t is deployed.  AI will develop world-changing reckoning systems\, he arg
- ues\, but nothing in AI as currently conceived approaches what is required
-  to build a system capable of judgment.\n\n_______________________________
- _____\n\nBrian Cantwell Smith is Reid Hoffman Professor of Artificial Inte
- lligence and the Human at the University of Toronto\, where he is also Pro
- fessor of Information\, Philosophy\, Cognitive Science\, and the History a
- nd Philosophy of Science and Technology\, as well as being a Senior Fellow
-  at Massey College.\n\nSmith’s research focuses on the philosophical fou
- ndations of computation\, artificial intelligence\, and mind\, and on fund
- amental issues in metaphysics and epistemology.  In the 1980s he develope
- d the world’s first reflective programming language (3Lisp).  He is the
-  author of *On the Origin of Objects* (MIT Press\, 1996)\, and of *On the 
- Promise of Artificial Intelligence: Reckoning and Judgment* (MIT Press\, 2
- 019).\n\nSmith holds BS\, MS and PhD degrees from the Massachusetts Instit
- ute of Technology (MIT).  From 1981–96 he was a Principal Scientist at 
- the Xerox Palo Alto Research Center (PARC) and Adjunct Professor of Philos
- ophy at Stanford University.  He was a founder of the Center for the Stud
- y of Language and Information at Stanford University (CSLI)\, a founder an
- d first President of Computer Professionals for Social Responsibility (CPS
- R)\, and President (1998–99) of the Society for Philosophy and Psycholog
- y (SPP).  From 1996–2001 he was Professor of Cognitive Science\, Comput
- er Science\, and Philosophy at Indiana University\, and from 2001–03 was
-  Kimberly J. Jenkins University Distinguished Professor of Philosophy and 
- New Technologies at Duke University\, with appointments in the departments
-  of Philosophy and Computer Science.  He moved to the University of Toron
- to in 2003\, from 2003–08 serving as Dean of the Faculty of Information.
- \n\n\nhttps://frankeprogram.yale.edu/event/reckoning-and-judgment-promise-
- ai-talk-brian-cantwell-smith
-LOCATION:WHC Auditorium
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/reckoning-and-judgment-promise-ai
- -talk-brian-cantwell-smith
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YQI/Franke Nontechnical Talk - Werner Sun - Taking a Random Walk: 
  a scientific approach to art
 DTSTART;VALUE=DATE-TIME:20200129T003000
