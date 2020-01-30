@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Matt Weinberg\, Princeton University
-DTSTART;VALUE=DATE-TIME:20200129T211500
-DTEND;VALUE=DATE-TIME:20200129T221500
-DESCRIPTION:Event description:\nCS Talk\nMatt Weinberg\, Princeton Univers
- ity\n\nHost: Yang Cai\n\nTitle: (a biased selection of) Recent Development
- s in Combinatorial Auctions\n\nAbstract:\n\nIn a combinatorial auction the
- re are m items\, and each of n players has a valuation functionv_i which m
- aps sets of items to non-negative reals. A designer wishes to partition th
- e items into S_1\,…\,S_n to maximize the welfare (sum_iv_i(S_i) )\, perh
- aps assuming that allv_i lie in some class V (such as submodular\, subaddi
- tive\, etc.).\n\nWithin Algorithmic Game Theory\, this problem serves as a
-  lens through which to examine the interplay between computation and incen
- tives. For example: is it the case that whenever a poly-time/poly-communic
- ation algorithm for honest players can achieve an approximation guarantee 
- of c when all valuations lie in V\, a poly-time/poly-communication truthfu
- l mechanism for strategic players can achieve an approximation guarantee o
- f c when all valuations lie in V as well?\n\nIn this talk\, I’ll give a 
- brief history\, then survey three recent results on this topic which:\n\n-
-  provide the first separation between achievable guarantees of poly-commun
- ication algorithms and poly-communication truthful mechanisms for any V (j
- oint works with Mark Braverman and Jieming Mao\, and with Sepehr Assadi\, 
- Hrishikesh Khandeparkar\, and Raghuvansh Saxena).\n\n- resolve the communi
- cation complexity of combinatorial auctions for two subadditive players (j
- oint work with Tomer Ezra\, Michal Feldman\, Eric Neyman\, and Inbal Talga
- m-Cohen).\n\n- revisit existing separations between poly-time algorithms a
- nd poly-time truthful mechanisms via a solution concept we call “Impleme
- ntation in Advised Strategies” (joint work with Linda Cai and Clayton Th
- omas).\n\nBio:\n\nMatt Weinberg is an assistant professor of computer scie
- nce at Princeton University. Before that\, he was also a postdoc at Prince
- ton CS\, and a research fellow at the Simons Institute (Algorithmic Game T
- heory in 2015\, and Algorithms and Uncertainty in 2016). He received his P
- hD from MIT in 2014 with Costis Daskalakis.\n\n\nhttps://cpsc.yale.edu/eve
- nt/cs-talk-matt-weinberg-princeton-university
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-matt-weinberg-princeton-university
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Andrew Bridy\, Yale University
 DTSTART;VALUE=DATE-TIME:20200130T210000
 DTEND;VALUE=DATE-TIME:20200130T220000
