@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Simon S. Du
-DTSTART;VALUE=DATE-TIME:20200203T210000
-DTEND;VALUE=DATE-TIME:20200203T220000
-DESCRIPTION:Event description:\nCS Colloquium\nSimon S. Du\n\nHosts: Dan S
- pielman (DS) & Nisheeth Vishnoi (CS)\n(https://statistics.yale.edu/seminar
- s/sdscs-joint-seminar-simon-s-du)\n\nCoffee available at 3:45\n\nTitle: Fo
- undations of Learning Systems with (Deep) Function Approximators\n\nAbstra
- ct:\n\nFunction approximators\, such as deep neural networks\, play a cruc
- ial role in building intelligent systems that make predictions and decisio
- ns. In this talk\, I will discuss my work on understanding\, designing\, a
- nd applying function approximators. First\, I will focus on understanding 
- deep neural networks. The main result is that the over-parameterized neura
- l network is equivalent to a new kernel\, Neural Tangent Kernel. This equi
- valence implies two surprising phenomena: 1) the simple algorithm gradient
-  descent provably finds the global optimum of the highly non-convex empiri
- cal risk\, and 2) the learned neural network generalizes well despite bein
- g highly over-parameterized. Furthermore\, this equivalence helps us desig
- n a new class of function approximators: we transform (fully-connected\, g
- raph\, convolutional) neural networks to (fully-connected\, graph\, convol
- utional) Neural Tangent Kernels\, which achieve superior performance on st
- andard benchmarks. In the second part of the talk\, I will focus on applyi
- ng function approximators to decision-making\, aka reinforcement learning\
- , problems. In sharp contrast to the (simpler) supervised prediction probl
- ems\, solving reinforcement learning problems requires an exponential numb
- er of samples\, even if one applies function approximators.  I will then 
- discuss what additional structures that permit statistically efficient alg
- orithms.\n\nBio: Simon S. Du is a postdoc at the Institute for Advanced St
- udy of Princeton\, hosted by Sanjeev Arora. He completed his Ph.D. in Mach
- ine Learning at Carnegie Mellon University\, where he was co-advised by Aa
- rti Singh and Barnabás Póczos. Previously\, he studied EECS and EMS at U
- C Berkeley. He has also spent time at Simons Institute and research labs o
- f Facebook\, Google\, and Microsoft. His research interests are broadly in
-  machine learning\, with a focus on the foundations of deep learning and r
- einforcement learning.\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-si
- mon-s-du
-LOCATION:YINS
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-simon-s-du
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Oana Balmau
 DTSTART;VALUE=DATE-TIME:20200205T210000
 DTEND;VALUE=DATE-TIME:20200205T220000
