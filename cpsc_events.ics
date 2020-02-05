@@ -127,6 +127,59 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-cheng-tan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Robin Jia
+DTSTART;VALUE=DATE-TIME:20200217T210000
+DTEND;VALUE=DATE-TIME:20200217T220000
+DESCRIPTION:Event description:\nCS Colloquium\nRobin Jia\n\nHost: Dragomir
+  Radev\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-robin-jia
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-robin-jia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Aayush Bansal
+DTSTART;VALUE=DATE-TIME:20200220T153000
+DTEND;VALUE=DATE-TIME:20200220T163000
+DESCRIPTION:Event description:\nCS Colloquium\nAayush Bansal\n\nHost: Mary
+ nel Vazquez\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-aayush-bansal
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-aayush-bansal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Sanidhya Kashyap
+DTSTART;VALUE=DATE-TIME:20200220T210000
+DTEND;VALUE=DATE-TIME:20200220T220000
+DESCRIPTION:Event description:\nCS Colloquium\nSanidhya Kashyap\n\nHost: A
+ bhishek Bhattacharjee\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-sanid
+ hya-kashyap
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-sanidhya-kashyap
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Emma Pierson
+DTSTART;VALUE=DATE-TIME:20200224T210000
+DTEND;VALUE=DATE-TIME:20200224T220000
+DESCRIPTION:Event description:\nCS Colloquium\nEmma Pierson\n\nHosts: Nish
+ eeth Vishnoi (CS) and Dan Spielman (S&DS)\n\n\n\n\nhttps://cpsc.yale.edu/e
+ vent/cs-colloquium-emma-pierson
+LOCATION:YINS
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-emma-pierson
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Berk Ustun
+DTSTART;VALUE=DATE-TIME:20200226T210000
+DTEND;VALUE=DATE-TIME:20200226T220000
+DESCRIPTION:Event description:\nCS Colloquium\nBerk Ustun\n\nHosts: Nishee
+ th Vishnoi (CS) and Dan Spielman (S&DS)\n\n\nhttps://cpsc.yale.edu/event/c
+ s-colloquium-berk-ustun
+LOCATION:YINS
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-berk-ustun
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Chenhao Tan\, Univ. of Colorado Boulder
 DTSTART;VALUE=DATE-TIME:20200227T210000
 DTEND;VALUE=DATE-TIME:20200227T220000
@@ -164,5 +217,98 @@ LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-chenhao-tan-univ-colorado-bo
  ulder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Adji Bousso Dieng
+DTSTART;VALUE=DATE-TIME:20200302T210000
+DTEND;VALUE=DATE-TIME:20200302T220000
+DESCRIPTION:Event description:\nCS Colloquium\nAdji Boousso Dieng\n\nHosts
+ : Holly Rushmeier (CS) and Dan Spielman (S&DS)\n\n\nhttps://cpsc.yale.edu/
+ event/cs-colloquium-adji-bousso-dieng
+LOCATION:YINS
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-adji-bousso-dieng
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Minjoon Seo
+DTSTART;VALUE=DATE-TIME:20200303T210000
+DTEND;VALUE=DATE-TIME:20200303T220000
+DESCRIPTION:Event description:\nCS Colloquium\nMinjoon Seo\n\nHost: Dragom
+ ir Radev\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-minjoon-seo
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-minjoon-seo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Andre Wibisono
+DTSTART;VALUE=DATE-TIME:20200304T210000
+DTEND;VALUE=DATE-TIME:20200304T220000
+DESCRIPTION:Event description:\nCS Colloquium\nAndre Wibisono\n\nHost: Nis
+ heeth Vishnoi\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-andre-wibison
+ o
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-andre-wibisono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Aditya Grover
+DTSTART;VALUE=DATE-TIME:20200305T210000
+DTEND;VALUE=DATE-TIME:20200305T220000
+DESCRIPTION:Event description:\nCS Colloquium\nAditya Grover\n\nHost: Nish
+ eeth Vishnoi\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-aditya-grover
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-aditya-grover
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Zhihao Jia
+DTSTART;VALUE=DATE-TIME:20200323T200000
+DTEND;VALUE=DATE-TIME:20200323T210000
+DESCRIPTION:Event description:\nCS Colloquium\nZhihao Jia\n\nHost: Lin Zho
+ ng\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-zhihao-jia
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-zhihao-jia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Ashia Wilson
+DTSTART;VALUE=DATE-TIME:20200324T200000
+DTEND;VALUE=DATE-TIME:20200324T210000
+DESCRIPTION:Event description:\nCS Colloquium\nAshia Wilson\n\nHost: Holly
+  Rushmeier\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-ashia-wilson
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-ashia-wilson
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Jesse Thomason
+DTSTART;VALUE=DATE-TIME:20200330T200000
+DTEND;VALUE=DATE-TIME:20200330T210000
+DESCRIPTION:Event description:\nCS Colloquium\nJesse Thomason\n\nHost: Dra
+ gomir Radev\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-jesse-thomason
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-jesse-thomason
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Yongle Zhang
+DTSTART;VALUE=DATE-TIME:20200406T200000
+DTEND;VALUE=DATE-TIME:20200406T210000
+DESCRIPTION:Event description:\nCS Colloquium\nYongle Zhang\n\nHost: Abhis
+ hek Bhattacharjee\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-yongle-zh
+ ang
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-yongle-zhang
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Ming Liu
+DTSTART;VALUE=DATE-TIME:20200407T200000
+DTEND;VALUE=DATE-TIME:20200407T210000
+DESCRIPTION:Event description:\nCS Colloquium\nMing Liu\n\nHost: Anurag Kh
+ andelwal\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-ming-liu
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-ming-liu
 END:VEVENT
 END:VCALENDAR
