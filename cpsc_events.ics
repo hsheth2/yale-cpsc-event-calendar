@@ -43,6 +43,60 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-oana-balmau
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Karthika Mohan
+DTSTART;VALUE=DATE-TIME:20200211T153000
+DTEND;VALUE=DATE-TIME:20200211T163000
+DESCRIPTION:Event description:\nCS Colloquium - Karthika Mohan\n\nHost: Ni
+ sheeth Vishnoi\n\nCoffee available at 10:15\n\nTitle: Causal Inference & G
+ raphical Models: From Missing Data to the Future of Artificial Intelligenc
+ e\n\nAbstract:\n\nThe remarkable progress in AI and machine learning owe m
+ uch to the availability of massive amounts of data\, and where there is da
+ ta\, there is missingness. The rich tend to conceal their income\, smokers
+  hide their habit\, and patients drop out from clinical trials.\n\nThe bul
+ k of literature on missing data employs data-centric routines as opposed t
+ o process-centric methodology and relies on assumptions that are both opaq
+ ue and untestable and (e.g.: Missing At Random (MAR)\, Rubin 1976). As a r
+ esult\, this area of research is wanting in tools to encode knowledge abou
+ t the underlying data generating process\, methods to test this knowledge 
+ and procedures to decide if and how quantities of interest are estimable f
+ rom the available data.\n\nI address these deficiencies by using a graphic
+ al representation called “Missingness Graph” which portrays the causal
+  mechanisms responsible for missingness. Using this representation\, I def
+ ine the notion of recoverability\, i.e.\, deciding whether there exists a 
+ consistent estimator for a given quantity of interest such as joint distri
+ butions\, conditional distributions and causal effects. The resultant meth
+ ods apply to all types of missing data including the notorious and relativ
+ ely unexplored NMAR (Not Missing At Random) category. I further address th
+ e question of testability i.e.  if and how an assumed model can be subjec
+ ted to statistical tests\, considering the missingness in the data.\n\nVie
+ wing the missing data problem from a causal perspective has ushered in sev
+ eral notable surprises. These include recoverability when variables are ca
+ uses of their own missingness\, testability of MAR models\, alternatives t
+ o iterative procedures such as Expectation Maximization (EM) algorithm and
+  the indispensability of causal assumptions for handling missing data prob
+ lems.\n\nBuilding on the power and ubiquity of graphical causal models\, m
+ y agenda for the coming years is to explore other problem areas that have 
+ impeded progress in AI and machine learning. These include algorithms to b
+ ridge the gap between recoverability and estimation\, causal discovery alg
+ orithms\, robust solutions for problems in AI Ethics such as fairness and 
+ privacy and working towards developing human-level AI. I am particularly i
+ ntrigued by the prospects of using intervention and counterfactual logic t
+ o formulate and solve these problems. I will outline some of these wide-op
+ en frontiers in my talk.\n\nBio:\n\nKarthika Mohan is a postdoctoral schol
+ ar at the computer science department in University of California\, Berkel
+ ey. Karthika received her PhD in Computer Science (Artificial Intelligence
+ ) from University of California\, Los Angeles (UCLA) where she was advised
+  by Judea Pearl. Her research is of an interdisciplinary nature and her ar
+ eas of interest include Causal Inference\, Graphical Models and AI Safety.
+  She was awarded the Google Outstanding Graduate Research Award\, 2017 whi
+ ch is a UCLA Commencement Award. Currently she serves on the editorial boa
+ rd of the Journal of Causal Inference.\n\n\nhttps://cpsc.yale.edu/event/cs
+ -colloquium-karthika-mohan
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-karthika-mohan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Cheng Tan
 DTSTART;VALUE=DATE-TIME:20200213T210000
 DTEND;VALUE=DATE-TIME:20200213T220000
