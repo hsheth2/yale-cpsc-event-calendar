@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Oana Balmau
-DTSTART;VALUE=DATE-TIME:20200205T210000
-DTEND;VALUE=DATE-TIME:20200205T220000
-DESCRIPTION:Event description:\nCS Colloquium - Oana Balmau\n\nHost: Avi S
- ilberschatz\n\nCoffee available at 3:45\n\nTitle: Redesigning Storage Syst
- ems for Future Workloads\, Hardware\, and Performance Requirements\n\nAbst
- ract:\n\nThe storage stack needs to undergo radical change to keep up with
-  future workloads\, hardware\, and performance requirements. First\, workl
- oads evolved from following a read-heavy pattern (e.g.\, a static web-page
- ) to a\nwrite-heavy\nprofile where the read:write ratio is closer to 1:1 (
- e.g.\, users’ actions are being recorded\,\nwhile\nthey are browsing web
- -pages). Second\, the hardware is undergoing rapid changes.  The divide b
- etween fine-grained volatile memory and slow block-level storage is rapidl
- y being bridged by the emerging byte-addressable non-volatile memory devic
- es and the fast block-addressable NVMe SSDs (e.g.\, Intel Optane NVMe SSDs
- ). Third\, performance requirements in storage systems now emphasize low t
- ail latency\, in addition to high throughput. In this talk I discuss the m
- ain storage systems challenges raised by future workloads\, hardware\, and
-  performance requirements\, and present a new design paradigm for key-valu
- e stores to efficiently handle write-heavy workloads. Existing storage sys
- tems have fundamental limitations that do not allow them to fully leverage
-  modern hardware. These limitations stem from the longstanding idea that s
- torage systems need to optimize storage device usage. However\, new storag
- e hardware shifts the bottleneck from I/O to CPU. Based on this key observ
- ation\, I introduce a new key-value store design which minimizes the use o
- f CPU\, to achieve good performance on block-addressable NVMe SSDs. The ov
- erarching principles that optimize CPU use are: (1) avoid maintaining the 
- data sorted on-disk\, (2) minimize contention due to shared data structure
- s\, and (3) remove expensive maintenance operations ran internally by the 
- key-value store.\n\nBio:\n\nOana Balmau is a PhD candidate in the School o
- f Computer Science at the University of Sydney\, advised by Prof. Willy Zw
- aenepoel. She earned her Bachelors and Masters degrees in Computer Science
-  from EPFL\, Switzerland. Her research interests are computer systems and 
- storage technologies. Currently\, she is working towards redesigning stora
- ge systems\, aimed at future workloads and hardware. (Homepage:\noanabalma
- u.com\n.).\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-oana-balmau
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-oana-balmau
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Karthika Mohan
 DTSTART;VALUE=DATE-TIME:20200211T153000
 DTEND;VALUE=DATE-TIME:20200211T163000
