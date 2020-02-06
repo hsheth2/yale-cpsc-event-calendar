@@ -119,14 +119,14 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-robin-jia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Maji	Subhransu
+SUMMARY:CS Colloquium - Subhransu Maji
 DTSTART;VALUE=DATE-TIME:20200218T210000
 DTEND;VALUE=DATE-TIME:20200218T220000
-DESCRIPTION:Event description:\nCS Colloquium\nMaji Subhransu\n\nHost: Ste
- ven Zucker\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-maji-subhransu
+DESCRIPTION:Event description:\nCS Colloquium\nSubhransu Maji\n\nHost: Ste
+ ven Zucker\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-subhransu-maji
 LOCATION:AKW 200
 STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-maji-subhransu
+URL:https://cpsc.yale.edu/event/cs-colloquium-subhransu-maji
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - Prof. Umesh Vazirani\, UC Berkeley
