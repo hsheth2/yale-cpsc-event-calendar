@@ -342,16 +342,6 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-andre-wibisono
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Aditya Grover
-DTSTART;VALUE=DATE-TIME:20200305T210000
-DTEND;VALUE=DATE-TIME:20200305T220000
-DESCRIPTION:Event description:\nCS Colloquium\nAditya Grover\n\nHost: Nish
- eeth Vishnoi\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-aditya-grover
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-aditya-grover
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Zhihao Jia
 DTSTART;VALUE=DATE-TIME:20200323T200000
 DTEND;VALUE=DATE-TIME:20200323T210000
