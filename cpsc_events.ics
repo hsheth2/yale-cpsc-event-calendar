@@ -182,7 +182,7 @@ DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker: Pr
   supremacy\, certifiable quantum random generation and verification of qua
  ntum computation.\n\n\nhttps://cpsc.yale.edu/event/cs-distinguished-collo
  quium-prof-umesh-vazirani-uc-berkeley
-LOCATION:TBD
+LOCATION:Dunham Lab 220
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-prof-umesh-vaz
  irani-uc-berkeley
@@ -345,7 +345,7 @@ DTSTART;VALUE=DATE-TIME:20200303T200000
 DTEND;VALUE=DATE-TIME:20200303T210000
 DESCRIPTION:Event description:\nCS/YINS Seminar: Using Natural Language Ex
  planations to Incorporate Commonsense Reasoning in Neural Networks\n\nSpea
- ker: Nazneen Rajani (Salesforce Research)\n\nDescription:\nDeep learning m
+ ker: Nazneen Rajani\, Salesforce Research\n\nDescription:\nDeep learning m
  odels perform poorly on tasks that require commonsense reasoning\, which o
  ften necessitates some form of world knowledge or reasoning over informati
  on not immediately present in the input. In the first part of the talk\, I
@@ -361,14 +361,14 @@ DESCRIPTION:Event description:\nCS/YINS Seminar: Using Natural Language Ex
  amework first detects salient collisions and then generates natural langua
  ge reasoning about the events in those salient frames.\n\nSpeaker Bio:\nNa
  zneen Rajani is a Research Scientist at Salesforce Research since January 
- 2019. My primary research interests are in the fields of Natural Language 
- Understanding\, Machine Learning and Explainable Artificial Intelligence (
- XAI). I am currently working on projects in the areas of language modeling
-  with commonsense reasoning\, language grounding with vision\, gender bias
-  in language modeling and explainable reinforcement learning. Website:\nht
- tp://www.nazneenrajani.com/\n\n\n\nhttps://cpsc.yale.edu/event/csyins-semi
- nar-using-natural-language-explanations-incorporate-commonsense-reasoning-
- neural
+ 2019. Her primary research interests are in the fields of Natural Language
+  Understanding\, Machine Learning and Explainable Artificial Intelligence 
+ (XAI). She is currently working on projects in the areas of language model
+ ing with commonsense reasoning\, language grounding with vision\, gender b
+ ias in language modeling and explainable reinforcement learning. Website:\
+ nhttp://www.nazneenrajani.com/\n\n\n\nhttps://cpsc.yale.edu/event/csyins-s
+ eminar-using-natural-language-explanations-incorporate-commonsense-reasoni
+ ng-neural
 LOCATION:YINS
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/csyins-seminar-using-natural-language-expl
