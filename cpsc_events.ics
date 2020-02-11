@@ -338,41 +338,41 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-adji-bousso-dieng
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:YINS Industry Seminar: Using Natural Language Explanations to Inco
- rporate Commonsense Reasoning in Neural Networks with Nazneen Rajani (Sale
- sforce Research)
+SUMMARY:CS/YINS Seminar: Using Natural Language Explanations to Incorporat
+ e Commonsense Reasoning in Neural Networks\, talk by Nazneen Rajani (Sales
+ force Research)
 DTSTART;VALUE=DATE-TIME:20200303T200000
 DTEND;VALUE=DATE-TIME:20200303T210000
-DESCRIPTION:Event description:\nYINS Industry Seminar: Using Natural Langu
- age Explanations to Incorporate Commonsense Reasoning in Neural Networks\n
- \nSpeaker: Nazneen Rajani (Salesforce Research)\n\nDescription:\nDeep lear
- ning models perform poorly on tasks that require commonsense reasoning\, w
- hich often necessitates some form of world knowledge or reasoning over inf
- ormation not immediately present in the input. In the first part of the ta
- lk\, I will discuss how language models can be leveraged to generate natur
- al language explanations which are not just interpretable but can also be 
- used to improve performance on a downstream task such as CommonsenseQA and
-  empirically show that explanations are a way to incorporate commonsense r
- easoning in neural networks. Further\, I will discuss how explanations can
-  be transferred to other tasks without fine-tuning. In the second part of 
- the talk\, I will talk about how we can train neural networks to do common
- sense reasoning for qualitative physics and demonstrate on simulations inv
- olving physical laws such as collision\, friction\, and gravity. Our propo
- sed framework first detects salient collisions and then generates natural 
- language reasoning about the events in those salient frames.\n\nSpeaker Bi
- o:\nNazneen Rajani is a Research Scientist at Salesforce Research since Ja
- nuary 2019. My primary research interests are in the fields of Natural Lan
- guage Understanding\, Machine Learning and Explainable Artificial Intellig
- ence (XAI). I am currently working on projects in the areas of language mo
- deling with commonsense reasoning\, language grounding with vision\, gende
- r bias in language modeling and explainable reinforcement learning. Websit
- e:\nhttp://www.nazneenrajani.com/\n\n\n\nhttps://cpsc.yale.edu/event/yins-
- industry-seminar-using-natural-language-explanations-incorporate-commonsen
- se-reasoning
+DESCRIPTION:Event description:\nCS/YINS Seminar: Using Natural Language Ex
+ planations to Incorporate Commonsense Reasoning in Neural Networks\n\nSpea
+ ker: Nazneen Rajani (Salesforce Research)\n\nDescription:\nDeep learning m
+ odels perform poorly on tasks that require commonsense reasoning\, which o
+ ften necessitates some form of world knowledge or reasoning over informati
+ on not immediately present in the input. In the first part of the talk\, I
+  will discuss how language models can be leveraged to generate natural lan
+ guage explanations which are not just interpretable but can also be used t
+ o improve performance on a downstream task such as CommonsenseQA and empir
+ ically show that explanations are a way to incorporate commonsense reasoni
+ ng in neural networks. Further\, I will discuss how explanations can be tr
+ ansferred to other tasks without fine-tuning. In the second part of the ta
+ lk\, I will talk about how we can train neural networks to do commonsense 
+ reasoning for qualitative physics and demonstrate on simulations involving
+  physical laws such as collision\, friction\, and gravity. Our proposed fr
+ amework first detects salient collisions and then generates natural langua
+ ge reasoning about the events in those salient frames.\n\nSpeaker Bio:\nNa
+ zneen Rajani is a Research Scientist at Salesforce Research since January 
+ 2019. My primary research interests are in the fields of Natural Language 
+ Understanding\, Machine Learning and Explainable Artificial Intelligence (
+ XAI). I am currently working on projects in the areas of language modeling
+  with commonsense reasoning\, language grounding with vision\, gender bias
+  in language modeling and explainable reinforcement learning. Website:\nht
+ tp://www.nazneenrajani.com/\n\n\n\nhttps://cpsc.yale.edu/event/csyins-semi
+ nar-using-natural-language-explanations-incorporate-commonsense-reasoning-
+ neural
 LOCATION:YINS
 STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/yins-industry-seminar-using-natural-langua
- ge-explanations-incorporate-commonsense-reasoning
+URL:https://cpsc.yale.edu/event/csyins-seminar-using-natural-language-expl
+ anations-incorporate-commonsense-reasoning-neural
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Minjoon Seo
