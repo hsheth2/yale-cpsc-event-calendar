@@ -2,36 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Cheng Tan
-DTSTART;VALUE=DATE-TIME:20200213T210000
-DTEND;VALUE=DATE-TIME:20200213T220000
-DESCRIPTION:Event description:\nCS Colloquium\nCheng Tan\n\nHost: Lin Zhon
- g\n\nCoffee available at 3:45\n\nTitle: How to Audit Outsourced Services\n
- \nAbstract:\n\nHow can users of a cloud service verify that the service tr
- uly performs as promised? This question is vital today because clouds are 
- complicated black boxes\, running in different administrative domains from
-  users. Their correctness can be undermined by internal corruptions—misc
- onfigurations\, operational mistakes\, insider attacks\, unexpected failur
- es\, or adversarial control at any layer of the execution stack. This talk
-  will present verifiable infrastructure\, a framework that lets users audi
- t outsourced applications and services. I will introduce two systems: Oroc
- hi and Cobra\, which verify the execution of\, respectively\, untrusted se
- rvers and black-box databases. Orochi and Cobra introduce various techniqu
- es\, including deduplicated re-execution\, consistent ordering verificatio
- n\, GPU accelerated pruning\, and others. Beyond these two systems\, I wil
- l also discuss verifiable infrastructure more generally.\n\nBio:\n\nCheng 
- Tan is a computer science Ph.D. candidate in the Courant Institute at New 
- York University. His interests are in operating systems\, networked system
- s\, and security. His work on the Efficient Server Audit Problem was award
- ed best paper at SOSP 2017. His work on data center network troubleshootin
- g at Microsoft Research has been deployed globally in more than 30 data ce
- nters in Microsoft Azure.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-c
- heng-tan
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-cheng-tan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Robin Jia
 DTSTART;VALUE=DATE-TIME:20200217T210000
 DTEND;VALUE=DATE-TIME:20200217T220000
