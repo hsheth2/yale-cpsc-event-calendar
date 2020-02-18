@@ -48,27 +48,29 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-subhransu-maji
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS Distinguished Colloquium - Prof. Umesh Vazirani\, UC Berkeley
+SUMMARY:CANCELLED - CS Distinguished Colloquium - Prof. Umesh Vazirani\, U
+ C Berkeley
 DTSTART;VALUE=DATE-TIME:20200219T210000
 DTEND;VALUE=DATE-TIME:20200219T220000
-DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker: Pr
- of. Umesh Vazirani\, UC Berkeley\n\nTitle: Theoretical Reflections on Qua
- ntum Supremacy\n\nHost: Nisheeth Vishnoi\n\nAbstract:\n\nThe recent demons
- tration of quantum supremacy by Google is a first step towards the era of 
- small to medium scale quantum computers. In this talk I will explain what 
- the experiment accomplished and the theoretical work it is based on\, as w
- ell as what it did not accomplish and the many theoretical and practical c
- hallenges that remain. I will also describe recent breakthroughs in the 
- design of protocols for the testing and benchmarking of quantum computers
- \, a task that has deep computational and philosophical implications. Sp
- ecifically\, this leads to protocols for scalable and verifiable quantum
-  supremacy\, certifiable quantum random generation and verification of qua
- ntum computation.\n\n\nhttps://cpsc.yale.edu/event/cs-distinguished-collo
- quium-prof-umesh-vazirani-uc-berkeley
+DESCRIPTION:Event description:\nTHIS TALK HAS BEEN CANCELLED\n\nCS Disting
+ uished Colloquium\n\nSpeaker: Prof. Umesh Vazirani\, UC Berkeley\n\nTitle:
+  Theoretical Reflections on Quantum Supremacy\n\nHost: Nisheeth Vishnoi\n
+ \nAbstract:\n\nThe recent demonstration of quantum supremacy by Google is 
+ a first step towards the era of small to medium scale quantum computers. I
+ n this talk I will explain what the experiment accomplished and the theore
+ tical work it is based on\, as well as what it did not accomplish and the 
+ many theoretical and practical challenges that remain. I will also descri
+ be recent breakthroughs in the design of protocols for the testing and b
+ enchmarking of quantum computers\, a task that has deep computational an
+ d philosophical implications. Specifically\, this leads to protocols for 
+ scalable and verifiable quantum supremacy\, certifiable quantum random ge
+ neration and verification of quantum computation.\n\n\nhttps://cpsc.yale.
+ edu/event/cancelled-cs-distinguished-colloquium-prof-umesh-vazirani-uc-ber
+ keley
 LOCATION:Dunham Lab 220
 STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-prof-umesh-vaz
- irani-uc-berkeley
+URL:https://cpsc.yale.edu/event/cancelled-cs-distinguished-colloquium-prof
+ -umesh-vazirani-uc-berkeley
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Aayush Bansal
@@ -153,8 +155,24 @@ SUMMARY:CS Colloquium - Emma Pierson
 DTSTART;VALUE=DATE-TIME:20200224T210000
 DTEND;VALUE=DATE-TIME:20200224T220000
 DESCRIPTION:Event description:\nCS Colloquium\nEmma Pierson\n\nHosts: Nish
- eeth Vishnoi (CS) and Dan Spielman (S&DS)\n\n\n\n\nhttps://cpsc.yale.edu/e
- vent/cs-colloquium-emma-pierson
+ eeth Vishnoi (CS) & Dan Spielman (DS)\n\nTitle: Data Science Methods to Re
+ duce Inequality and Improve Healthcare\n\nAbstract:\n\nI will describe how
+  to use data science methods to understand and reduce inequality in two do
+ mains: criminal justice and healthcare. First\, I will discuss how to use 
+ Bayesian modeling to detect racial discrimination in policing. Second\, I 
+ will describe how to use machine learning to explain racial and socioecono
+ mic inequality in pain.\n\nBio:\n\nEmma Pierson is a PhD student in Comput
+ er Science at Stanford\, supported by Hertz and NDSEG Fellowships. Previou
+ sly\, she completed a master’s degree in statistics at Oxford on a Rhode
+ s Scholarship. She develops statistical and machine learning methods to st
+ udy two deeply entwined problems: reducing inequality and improving health
+ care. She also writes about these topics for broader audiences in publicat
+ ions including\nThe New York Times\n\,\nThe Washington Post\n\,\nFiveThirt
+ yEight\n\, and\nWired\n. Her work has been recognized by best paper (AISTA
+ TS 2018)\, best poster (ICML Workshop on Computational Biology)\, and best
+  talk (ISMB High Throughput Sequencing Workshop) awards\, and she has been
+  named a Rising Star in EECS and Forbes 30 Under 30 in Science.\n\n\nhttps
+ ://cpsc.yale.edu/event/cs-colloquium-emma-pierson
 LOCATION:YINS
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-emma-pierson
@@ -164,8 +182,35 @@ SUMMARY:CS Colloquium - Berk Ustun
 DTSTART;VALUE=DATE-TIME:20200226T210000
 DTEND;VALUE=DATE-TIME:20200226T220000
 DESCRIPTION:Event description:\nCS Colloquium\nBerk Ustun\n\nHosts: Nishee
- th Vishnoi (CS) and Dan Spielman (S&DS)\n\n\nhttps://cpsc.yale.edu/event/c
- s-colloquium-berk-ustun
+ th Vishnoi (CS) and Dan Spielman (S&DS)\n\nTitle: Designing for the Last M
+ ile in Machine Learning\n\nAbstract:\n\nMachine learning is now a general-
+ purpose technology. In many domains\, we can build models to support impor
+ tant decisions or automate routine tasks. Yet we may not reap their benefi
+ ts due to disuse\, or even inflict harm due to misuse. In this talk\, I wi
+ ll present methodological advances that address these “last mile” chal
+ lenges. First\, I will describe a method to learn simple risk scores that 
+ are readily adopted for medical decision support\, and discuss application
+ s to adult ADHD diagnosis and ICU seizure prediction. Next\, I will descri
+ be how machine learning models may harm individuals in consumer-facing app
+ lications by violating their right to autonomy. I will then introduce the 
+ notion of “recourse” and formalize methods to prevent such harms witho
+ ut interfering in model development.\n\nBio:\n\nBerk Ustun is a postdoc at
+  the Harvard Center for Research on Computation and Society. His research 
+ interests are in machine learning\, optimization\, and human-centered desi
+ gn. In particular\, he focuses on developing methods to promote the adopti
+ on and responsible use of machine learning in domains such as medicine\, c
+ onsumer finance\, and criminal justice.\n\nBerk has built machine learning
+  systems that are now used by major healthcare providers for hospital read
+ missions prediction\, ICU seizure prediction\, and adult ADHD screening. H
+ is work has been covered by various media outlets\, including NPR and Wire
+ d\, and has won major awards\, including the INFORMS Informative Applicati
+ ons in Analytics Award in 2016 and 2019\, and the INFORMS Computing Societ
+ y Best Student Paper.\n\nBerk holds a PhD in Electrical Engineering and Co
+ mputer Science from MIT\, an MS in Computation for Design and Optimization
+  from MIT\, and BS degrees in Operations Research and Economics from UC Be
+ rkeley.\n\nFor links to papers\, videos\, and software\, see:\nhttps://www
+ .berkustun.com\n.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-berk-ustu
+ n
 LOCATION:YINS
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-berk-ustun
@@ -214,8 +259,36 @@ SUMMARY:CS Colloquium - Adji Bousso Dieng
 DTSTART;VALUE=DATE-TIME:20200302T210000
 DTEND;VALUE=DATE-TIME:20200302T220000
 DESCRIPTION:Event description:\nCS Colloquium\nAdji Boousso Dieng\n\nHosts
- : Holly Rushmeier (CS) and Dan Spielman (S&DS)\n\n\nhttps://cpsc.yale.edu/
- event/cs-colloquium-adji-bousso-dieng
+ : Holly Rushmeier (CS) and Dan Spielman (S&DS)\n\nTitle: Deep Probabilisti
+ c Graphical Modeling\n\nAbstract:\n\nDeep learning (DL) is a powerful appr
+ oach to modeling complex and large scale data. However\, DL models lack in
+ terpretable quantities and calibrated uncertainty. In contrast\, probabili
+ stic graphical modeling (PGM) provides a framework for formulating an inte
+ rpretable generative process of data and a way to express uncertainty abou
+ t what we do not know. How can we develop machine learning methods that br
+ ing together the expressivity of DL with the interpretability and calibrat
+ ion of PGM to build flexible models endowed with an interpretable latent s
+ tructure that can be fit efficiently? I call this line of research deep pr
+ obabilistic graphical modeling (DPGM). In this talk\, I will discuss my wo
+ rk on developing DPGM for text data. In particular\, I will show how DPGM 
+ enables flexible and interpretable topic modeling at large scale\, unlocki
+ ng several known challenges. Furthermore\, I will describe how we can acco
+ unt for both local and long-range context\, under the DPGM framework\, to 
+ build a flexible sequential document model that leads to state-of-the-art 
+ performance on a downstream document classification task.\n\nBio:\n\nAdji 
+ Bousso Dieng is a PhD Candidate at Columbia University where she is jointl
+ y advised by David Blei and John Paisley. Her research is in Artificial In
+ telligence and Statistics\, bridging probabilistic graphical models and de
+ ep learning.\n\nDieng is supported by a Dean Fellowship from Columbia Univ
+ ersity. She won a Microsoft Azure Research Award and a Google PhD Fellowsh
+ ip in Machine Learning. She was recognized as a rising star in machine lea
+ rning by the University of Maryland.\n\nPrior to Columbia\, Dieng worked a
+ s a Junior Professional Associate at the World Bank. She did her undergrad
+ uate studies in France where she attended Lycee Henri IV and Telecom Paris
+ Tech–France’s Grandes Ecoles system. She spent the third year of Telec
+ om ParisTech’s curriculum at Cornell University where she earned a Maste
+ r in Statistics.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-adji-bouss
+ o-dieng
 LOCATION:YINS
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-adji-bousso-dieng
@@ -291,11 +364,81 @@ SUMMARY:CS Colloquium - Andre Wibisono
 DTSTART;VALUE=DATE-TIME:20200304T210000
 DTEND;VALUE=DATE-TIME:20200304T220000
 DESCRIPTION:Event description:\nCS Colloquium\nAndre Wibisono\n\nHost: Nis
- heeth Vishnoi\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-andre-wibison
- o
+ heeth Vishnoi\n\nCoffee available at 3:45\n\nTitle: A Variational Perspect
+ ive on Optimization\, Sampling\, and Games for Machine Learning\n\nAbstrac
+ t:\n\nMachine learning has been successful and is prevalent in everyday li
+ fe\, shaping many aspects of modern society. Nevertheless\, many fundament
+ al questions remain\, and it is important to develop a proper theoretical 
+ understanding of machine learning to guide its future development. In this
+  talk I will discuss the fundamental properties of optimization\, sampling
+ \, and game dynamics for machine learning. In optimization\, I will presen
+ t a variational perspective on accelerated methods via the principle of le
+ ast action in continuous time\, and derive new families of accelerated met
+ hods which achieve faster convergence under refined smoothness conditions.
+  In sampling\, I will present a study of sampling as optimization in the s
+ pace of measures\, and show fast convergence of Langevin algorithms under 
+ isoperimetry conditions which extend classical log-concavity results. In g
+ ame dynamics\, I will present an analysis of minimax games as skew-optimiz
+ ation in the space of joint configurations\, and show fast convergence of 
+ the classical fictitious play algorithm and its optimistic variant under s
+ moothness.\n\nBio:\n\nAndre Wibisono is a postdoctoral researcher in the S
+ chool of Computer Science at the Georgia Institute of Technology. He recei
+ ved his SB in Mathematics and in Computer Science in 2009 and his MEng in 
+ Computer Science in 2010 from MIT. He received his MA in Statistics in 201
+ 3 and his PhD in Computer Science in 2016 from the University of Californi
+ a\, Berkeley\, where he was advised by Michael I. Jordan. Andre was a post
+ doctoral researcher at the University of Wisconsin\, Madison from 2016 to 
+ 2018\, before he came to Georgia Tech. His research interests are in the t
+ heoretical and algorithmic aspects of optimization\, sampling\, and game d
+ ynamics for machine learning.\n\n\nhttps://cpsc.yale.edu/event/cs-colloqui
+ um-andre-wibisono
 LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-andre-wibisono
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Aditya Grover
+DTSTART;VALUE=DATE-TIME:20200306T153000
+DTEND;VALUE=DATE-TIME:20200306T163000
+DESCRIPTION:Event description:\nCS Colloquium\nAditya Grover\n\nHost: Nish
+ eeth Vishnoi\n\nCoffee available at 10:15\n\nTitle: Machine Learning for A
+ ccelerating Scientific Discovery\n\nAbstract:\n\nThe dramatic increase in 
+ both sensor capabilities and computational power over the last few decades
+  has created enormous opportunities for using machine learning (ML) to enh
+ ance scientific discovery. To realize this potential\, ML systems must sea
+ mlessly integrate with the key tools for scientific discovery. However\, d
+ ifficult problems stand in the way of this goal. For instance\, how can we
+  incorporate scientific domain knowledge within ML algorithms? How can we 
+ use ML to quantify uncertainty in simulations? How can we use ML to plan e
+ xperiments under real-world budget constraints?\n\nFor the above questions
+ \, I’ll first present the key computational and statistical challenges t
+ hrough the lens of probabilistic modeling. Next\, I’ll highlight limitat
+ ions of existing approaches for scaling to high-dimensional data and prese
+ nt algorithms from my research that can effectively overcome these challen
+ ges. These algorithms are theoretically principled\, domain-agnostic\, and
+  exhibit strong empirical performance. Notably\, I’ll describe a collabo
+ ration with chemists and material scientists where we used these algorithm
+ s to optimize an experimental pipeline for electric batteries and signific
+ antly reduced the overall time costs from about 1.5 years to 16 days. Fina
+ lly\, I’ll conclude with an overview of future opportunities for using M
+ L to accelerate scientific discovery.\n\nBio:\n\nAditya Grover is a fifth-
+ year Ph.D. candidate in Computer Science at Stanford University advised by
+  Stefano Ermon. His research focuses on learning and inference algorithms 
+ for probabilistic models and is grounded in applications to accelerate phy
+ sical sciences. Aditya’s research has been published in top scientific a
+ nd ML/AI venues (e.g.\, Nature\, NeurIPS\, ICML\, ICLR\, AAAI\, AISTATS)\,
+  included in popular open source ML software\, and deployed into productio
+ n at major technology companies. His work has been recognized with a best 
+ paper award (StarAI)\, a Lieberman Fellowship\, a Data Science Institute S
+ cholarship\, and a Microsoft Research Ph.D. Fellowship. He is also a Teach
+ ing Fellow at Stanford since 2018\, where he co-created and teaches a new 
+ class on Deep Generative Models. Previously\, Aditya obtained his bachelor
+ s in Computer Science and Engineering from IIT Delhi in 2015\, where he re
+ ceived a best undergraduate thesis award.\n\n\nhttps://cpsc.yale.edu/event
+ /cs-colloquium-aditya-grover-0
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-aditya-grover-0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Zhihao Jia
