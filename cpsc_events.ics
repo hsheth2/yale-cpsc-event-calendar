@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Robin Jia
-DTSTART;VALUE=DATE-TIME:20200217T210000
-DTEND;VALUE=DATE-TIME:20200217T220000
-DESCRIPTION:Event description:\nCS Colloquium\nRobin Jia\n\nHost: Dragomir
-  Radev\n\nCoffee available at 3:45\n\nTitle: Building Robust Natural Langu
- age Processing Systems\n\nAbstract:\n\nWhile modern NLP systems have achie
- ved outstanding performance on static benchmarks\, they often fail catastr
- ophically when presented with inputs from different sources or inputs that
-  have been adversarial perturbed. This lack of robustness exposes troublin
- g gaps in current models’ understanding capabilities\, and poses challen
- ges for deployment of NLP systems in high-stakes situations. In this talk\
- , I will demonstrate that building robust NLP systems requires reexamining
-  all aspects of the current model building paradigm. First\, I will show t
- hat adversarially constructed test data reveals vulnerabilities that are l
- eft unexposed by standard evaluation methods. Second\, I will demonstrate 
- that active learning\, in which data is adaptively collected based on a mo
- del’s current predictions\, can significantly improve the ability of mod
- els to generalize robustly\, compared to the use of static training datase
- ts. Finally\, I will show how to train NLP models to produce certificates 
- of robustness—guarantees that for a given example and combinatorially la
- rge class of possible perturbations\, no perturbation can cause a misclass
- ification.\n\nBio:\n\nRobin Jia is a sixth-year Ph.D. student at Stanford 
- University advised by Percy Liang. His research interests lie broadly in b
- uilding natural language processing systems that can generalize to unexpec
- ted test-time inputs. Robin’s work has received an Outstanding Paper Awa
- rd at EMNLP 2017 and a Best Short Paper Award at ACL 2018. He has been sup
- ported by an NSF Graduate Research Fellowship.\n\n\nhttps://cpsc.yale.edu/
- event/cs-colloquium-robin-jia
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-robin-jia
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Subhransu Maji
 DTSTART;VALUE=DATE-TIME:20200218T210000
 DTEND;VALUE=DATE-TIME:20200218T220000
