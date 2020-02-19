@@ -3,34 +3,6 @@ X-WR-CALDESC:Yale Franke Program in Science and the Humanities Event Calen
  dar
 X-WR-CALNAME:Yale Franke Program
 BEGIN:VEVENT
-SUMMARY:Eureka! Contest and Upcoming Master Class
-DTSTART;VALUE=DATE-TIME:20200218T223000
-DTEND;VALUE=DATE-TIME:20200218T233000
-DESCRIPTION:Event description:\nEUREKA! Competition Master Class\n\nWe are
-  delighted that Dr. Zuberoa Marcos will lead a Master Class for Eureka! Co
- mpetition participants on February 18th in Room 208 of the Whitney Humanit
- ies Center (53 Wall Street).\n\nBio:\n\nDr. Marcos strongly believes in th
- e power of science\, education\, and storytelling to change the world. She
-  is an award-winning producer and director known for her ability to captur
- e extraordinary stories that unravel the complexity of our universe with s
- implicity\, insight and beauty for a wide range of audiences. She has crea
- ted highly-successful documentaries and shows for TV\, short films and dig
- ital series that have reached over one billion people globally and have ga
- rnered her over 30 international awards. Her 2015 documentary series “Ro
- man Engineering” won the coveted Bronze World Medal at the New York Fest
- ivals TV & Film Awards\, as well as multiple recognitions for its visual e
- ffects\, cinematography\, script and educational value.\n\nZuberoa holds a
-  Ph.D. in Molecular Biology and a Master’s Degree in Communications/Film
- .  It’s her education and years of experience that enables her to bring
-  an authentic and unique perspective to her projects and has allowed her t
- o become a master in her field.\n\n\nhttps://frankeprogram.yale.edu/event/
- eureka-contest-and-upcoming-master-class
-LOCATION:WHC 208
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/eureka-contest-and-upcoming-maste
- r-class
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ross Andersen\, Poynter Fellowship\, Writing at the Intersection o
  f Science and the Arts
 DTSTART;VALUE=DATE-TIME:20200224T210000
