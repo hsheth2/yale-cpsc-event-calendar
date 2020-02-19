@@ -2,52 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Subhransu Maji
-DTSTART;VALUE=DATE-TIME:20200218T210000
-DTEND;VALUE=DATE-TIME:20200218T220000
-DESCRIPTION:Event description:\nCS Colloquium\nSubhransu Maji\n\nHost: Ste
- ven Zucker\n\nCoffee available at 3:45\n\nTitle: Task-specific Recognition
-  by Modeling Visual Tasks\n\nAbstract:\n\nThe AI revolution powered in par
- t by advances in deep learning has led to many successes in the last decad
- e. I’ll describe some of our work in this vein that has enabled us to in
- fer detailed properties of objects in images such as their 3D structure or
-  fine-grained category within a taxonomy\, as well as study ecological phe
- nomena at an unprecedented scale using data collected from RADAR networks.
- \n\nDespite these successes\, the vast majority of important applications 
- remain beyond the scope of current AI systems. One barrier is that existin
- g algorithms lack the ability to learn from limited data. This is a fundam
- ental challenge because real-world data is dynamic\, heavy-tailed\, where 
- supervision can be hard to acquire. I argue that a principled framework fo
- r reasoning about AI problems can enable modular and data-efficient soluti
- ons.\n\nTowards this end I will describe our framework for embedding compu
- ter vision tasks into a vector space that allows us to learn and reason ab
- out their properties. Our approach represents a task as the Fisher informa
- tion of the parameters of a generic “probe” network. We show that the 
- distance between these vectors correlates with natural metrics over tasks.
-  It is also predictive of transfer\, i.e.\, how much does training a deep 
- network on one task benefit another\, and can be used for model recommenda
- tion. On a portfolio of hundreds of vision tasks the recommended network u
- sing our approach outperforms the current gold standard of fine-tuning an 
- ImageNet pre-trained network\, especially when training data is limited.\n
- \nI’ll conclude with some of the life-cycle challenges that we need to a
- ddress to make AI systems widely applicable.\n\nBio:\n\nI am an Assistant 
- Professor in the College of Information and Computer Sciences at the Unive
- rsity of Massachusetts Amherst where I co-direct the Computer Vision Lab. 
- I am also affiliated with the Center of Data Science and AWS AI. Prior to 
- this I was a Research Assistant Professor at TTI Chicago\, a philanthropic
- ally endowed academic institute in the University of Chicago campus. I obt
- ained my Ph.D. in Computer Science from the University of California at Be
- rkeley in 2011 and B.Tech. in Computer Science and Engineering from IIT Ka
- npur in 2006. For my work\, I have received a Google graduate fellowship\,
-  NSF CAREER Award (2018)\, and a best paper honorable mention at CVPR 2018
- . I also serve on the editorial board of the International Journal of Comp
- uter Vision (IJCV).\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-subhran
- su-maji
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-subhransu-maji
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED - CS Distinguished Colloquium - Prof. Umesh Vazirani\, U
  C Berkeley
 DTSTART;VALUE=DATE-TIME:20200219T210000
