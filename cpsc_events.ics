@@ -132,6 +132,46 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-emma-pierson
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Microsoft Research AI Presentations & Meetup
+DTSTART;VALUE=DATE-TIME:20200226T170000
+DTEND;VALUE=DATE-TIME:20200226T180000
+DESCRIPTION:Event description:\nMicrosoft Research AI Presentations & Meet
+ up\n\nHost: Dragomir Radev\n\n12:00-1:00 pm: Presentations by Microsoft\n1
+ :00 – 2:00 pm: Please join us for a “Meetup” after the presentations
+  to introduce yourselves and learn more about Microsoft Research.\n\nLunch
+  provided\n\nRSVP:\nhttps://forms.gle/d3rpmZ4VyRrAHBse6\n\nSpeakers:\n\nAh
+ med Hassan Awadallah\nis part of the Microsoft Research AI where he leads 
+ the\nLanguage and Information Technologies\nteam. The team focuses on unde
+ rstanding how people interact with information and enabling machines to un
+ derstand and communicate in natural language and assist with task completi
+ on. Ahmed will share his team’s recent work on applying ML and NLP to pe
+ rsonal and enterprise data to improve productivity in the workplace and cr
+ eate models that scale across languages and domains.\n\nAsli Celikyilmaz\n
+ is a researcher in the Deep Learning Research Team at Microsoft Research A
+ I. She focuses on Deep Learning and Natural Language Processing\, with bro
+ ader interests in long form text generation\, automatic summarization\, im
+ proving encoder-decoder models\, conversational dialog modeling. Asli will
+  share her team’s recent work on DL/NLP on learning better representatio
+ ns with discourse for improving language modeling and text generation.\n\n
+ Rahul Jha\nis part of MSAI team working on Natural Language Processing and
+  Machine Learning problems. His current work focuses on text summarization
+  for Office 365 products. In the past\, he’s worked on dialog and langu
+ age understanding and ads relevance ranking. Rahul will talk about his tea
+ m’s work on summarization that fuels Sharepoint Filecard and other exper
+ iences in Office 365.\n\nRoy Zimmermann\nleads special initiatives and hel
+ ps strengthen Microsoft’s institutional relationships with universities 
+ and other partners around the world. Roy works with research and product g
+ roups inside Microsoft to help amplify their work and strengthen and foste
+ r new research partnerships and relationships with universities\, governme
+ nts\, industry and other organizations around the world. Roy will share ho
+ w Microsoft engages with faculty and graduate students through a variety o
+ f programs designed to foster open collaborative research.\n\n\nhttps://cp
+ sc.yale.edu/event/microsoft-research-ai-presentations-meetup
+LOCATION:Watson Center Room A53
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/microsoft-research-ai-presentations-meetup
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Berk Ustun
 DTSTART;VALUE=DATE-TIME:20200226T210000
 DTEND;VALUE=DATE-TIME:20200226T220000
@@ -447,7 +487,34 @@ SUMMARY:CS Colloquium - Jesse Thomason
 DTSTART;VALUE=DATE-TIME:20200330T200000
 DTEND;VALUE=DATE-TIME:20200330T210000
 DESCRIPTION:Event description:\nCS Colloquium\nJesse Thomason\n\nHost: Dra
- gomir Radev\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-jesse-thomason
+ gomir Radev\n\nCookies available at 3:45\n\nLanguage Grounding with Robots
+ \n\nAbstract:\n\nWe use language to refer to objects like “toast”\, 
+ “plate”\, and “table” and to communicate requests such as “Could
+  you make breakfast?” In this talk\, I will present work on computationa
+ l methods to tie language to physical\, grounded meaning. Robots are an id
+ eal platform for such work because they can perceive and interact with the
+  world. I will discuss dialog and learning strategies I have developed to 
+ enable robots to learn from their human partners\, similar to how people l
+ earn from one another through interaction. I will present methods enabling
+  robots to understand language referring expressions like “the heavy\, m
+ etallic mug”\, the first work showing that it is possible to learn to co
+ nnect words to their perceptual properties in the visual\, tactile\, and a
+ uditory senses of a physical robot. I will also present benchmarks and mod
+ els for translating high-level human language like “put the toast on the
+  table” that imply latent\, intermediate goals into executable sequences
+  of agent actions with the help of low-level\, step-by-step language instr
+ uctions. Finally\, I will discuss how my work in grounded language contrib
+ utes to NLP\, robotics\, and the broader goals of the AI community.\n\nBio
+ :\n\nJesse Thomason is a postdoctoral researcher at the University of Wash
+ ington working with Luke Zettlemoyer. He received his PhD from the Univers
+ ity of Texas at Austin with Raymond Mooney. His research focuses on langua
+ ge grounding and natural language processing applications for robotics (Ro
+ boNLP). Key to this work is using dialog with humans to facilitate both ro
+ bot task execution and learning to enable lifelong improvement of robots
+ ’ language understanding capabilities. He has worked to encourage and pr
+ omote work in RoboNLP through workshop organization at both NLP and roboti
+ cs conference venues.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-jesse
+ -thomason
 LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-jesse-thomason
