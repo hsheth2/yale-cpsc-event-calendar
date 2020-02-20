@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CANCELLED - CS Distinguished Colloquium - Prof. Umesh Vazirani\, U
- C Berkeley
-DTSTART;VALUE=DATE-TIME:20200219T210000
-DTEND;VALUE=DATE-TIME:20200219T220000
-DESCRIPTION:Event description:\nTHIS TALK HAS BEEN CANCELLED\n\nCS Disting
- uished Colloquium\n\nSpeaker: Prof. Umesh Vazirani\, UC Berkeley\n\nTitle:
-  Theoretical Reflections on Quantum Supremacy\n\nHost: Nisheeth Vishnoi\n
- \nAbstract:\n\nThe recent demonstration of quantum supremacy by Google is 
- a first step towards the era of small to medium scale quantum computers. I
- n this talk I will explain what the experiment accomplished and the theore
- tical work it is based on\, as well as what it did not accomplish and the 
- many theoretical and practical challenges that remain. I will also descri
- be recent breakthroughs in the design of protocols for the testing and b
- enchmarking of quantum computers\, a task that has deep computational an
- d philosophical implications. Specifically\, this leads to protocols for 
- scalable and verifiable quantum supremacy\, certifiable quantum random ge
- neration and verification of quantum computation.\n\n\nhttps://cpsc.yale.
- edu/event/cancelled-cs-distinguished-colloquium-prof-umesh-vazirani-uc-ber
- keley
-LOCATION:Dunham Lab 220
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cancelled-cs-distinguished-colloquium-prof
- -umesh-vazirani-uc-berkeley
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Aayush Bansal
 DTSTART;VALUE=DATE-TIME:20200220T153000
 DTEND;VALUE=DATE-TIME:20200220T163000
