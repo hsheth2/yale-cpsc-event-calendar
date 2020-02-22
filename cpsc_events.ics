@@ -107,6 +107,16 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-berk-ustun
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Timothy Barron
+DTSTART;VALUE=DATE-TIME:20200227T153000
+DTEND;VALUE=DATE-TIME:20200227T163000
+DESCRIPTION:Event description:\nCS Colloquium\nTimothy Barron\n\nHost: Hol
+ ly Rushmeier\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-timothy-barron
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-timothy-barron
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Chenhao Tan\, Univ. of Colorado Boulder
 DTSTART;VALUE=DATE-TIME:20200227T210000
 DTEND;VALUE=DATE-TIME:20200227T220000
