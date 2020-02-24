@@ -2,6 +2,44 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS) Events Calendar
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
+SUMMARY:YINS Distinguished Lecturer: Alexander (Sasha) Rakhlin (MIT)
+DTSTART;VALUE=DATE-TIME:20200304T170000
+DTEND;VALUE=DATE-TIME:20200304T180000
+DESCRIPTION:Event description:\n“Is Memorization Compatible with Learnin
+ g?”\n\nSpeaker:\nAlexander (Sasha) Rakhlin\, Associate Professor\, Massa
+ chusetts Institute of Technology\nCenter for Statistics\, IDSS\, Departmen
+ t of Brain & Cognitive Sciences\, Laboratory for Information & Decision Sy
+ stems\, Center for Brains\, Minds\, and Machines\n\n\nAbstract:\nOne of th
+ e key tenets taught in courses on Statistics and Machine Learning is that 
+ fitting the data too well inevitably leads to overfitting and poor predict
+ ion performance. Yet\, over-parametrized neural networks appear to defy th
+ is “rule”. We will provide theoretical evidence that challenges the co
+ mmon wisdom. In particular\, we will consider the minimum norm interpolant
+  in a reproducing kernel Hilbert space and show its good generalization pr
+ operties in certain high-dimensional regimes. Furthermore\, our estimates 
+ suggest a counterintuitive “multiple descent” phenomenon whereby more 
+ data leads to alternating phases of better and worse performance.\n\n\n\nS
+ ince gradient dynamics for wide randomly-initialized neural networks prova
+ bly converge to a minimum-norm interpolant (with respect to a certain kern
+ el)\, our results imply generalization and consistency for such neural net
+ works. We will contrast our approach with the classical techniques based o
+ n uniform convergence and Rademacher averages and argue that these techniq
+ ues are not sufficient for analyzing the memorization regime.\n\n\n\nJoint
+  work with Tengyuan Liang and Xiyu Zhai.\n\n\n\n\n\nSpeaker Bio:\nAlexande
+ r (Sasha) Rakhlin is an Associate Professor at MIT. His research is in Sta
+ tistics and Machine Learning. He received his bachelor’s degrees in math
+ ematics and computer science from Cornell University\, and doctoral degree
+  in computational neuroscience from MIT. He was a postdoc at UC Berkeley E
+ ECS before joining the University of Pennsylvania\, where he was an Associ
+ ate Professor in the Department of Statistics before joining MIT.\nhttp://
+ www.mit.edu/~rakhlin/\n\n\n\n\n\n\nhttps://yins.yale.edu/event/yins-distin
+ guished-lecturer-alexander-sasha-rakhlin-mit
+LOCATION:Yale Institute for Network Science
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-distinguished-lecturer-alexander-sash
+ a-rakhlin-mit
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:YINS Distinguished Lecturer: Christos Papadimitriou (Columbia)
 DTSTART;VALUE=DATE-TIME:20200401T160000
 DTEND;VALUE=DATE-TIME:20200401T170000
