@@ -388,7 +388,30 @@ SUMMARY:CS Colloquium - Ashia Wilson
 DTSTART;VALUE=DATE-TIME:20200324T200000
 DTEND;VALUE=DATE-TIME:20200324T210000
 DESCRIPTION:Event description:\nCS Colloquium\nAshia Wilson\n\nHost: Holly
-  Rushmeier\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-ashia-wilson
+  Rushmeier\n\nCoffee available at 3:45\n\nTitle: Variational Perspectives 
+ on Machine Learning: Algorithms\, Inference\, and Fairness\n\nAbstract:\n\
+ nMachine learning plays a key role in shaping the decisions made by a grow
+ ing number of institutions. This talk will share variational perspectives 
+ on aspects of inference\, algorithms and fairness. On the topic of algorit
+ hms\, I will present a variational framework on a classical family of conv
+ ex optimization algorithm called accelerated gradient algorithms and demon
+ strate how it leads to simpler\, faster gradient-based algorithms and gene
+ ralizations of existing acceleration frameworks. On the topic of inference
+ \, I will present a variational framework for developing computationally e
+ fficient approximations of cross-validation and show how it provides fast 
+ and reliable estimates of out-of-sample performance for many machine learn
+ ing models. On the topic of fairness\, I will present a variational model 
+ for reasoning about the long-term impacts of using machine learning models
+  to allocate scarce resources and opportunities to people\, such as employ
+ ment and educational decisions.\n\nBio:\n\nAshia Wilson is a postdoctoral 
+ researcher in the Machine Learning Group at Microsoft Research\, New Engla
+ nd. She received undergraduate degrees in Applied Mathematics and Philosop
+ hy from Harvard University in 2011. She received her doctorate in Statisti
+ cs from the University of California\, Berkeley in 2018 advised by Benjami
+ n Recht and Michael I. Jordan. Her research interests are in providing rig
+ orous guarantees for algorithmic performance\, and in developing framework
+ s for studying issues of fairness and governance in machine learning.\n\n\
+ nhttps://cpsc.yale.edu/event/cs-colloquium-ashia-wilson
 LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-ashia-wilson
