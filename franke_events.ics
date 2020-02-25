@@ -3,21 +3,6 @@ X-WR-CALDESC:Yale Franke Program in Science and the Humanities Event Calen
  dar
 X-WR-CALNAME:Yale Franke Program
 BEGIN:VEVENT
-SUMMARY:Ross Andersen\, Poynter Fellowship\, Writing at the Intersection o
- f Science and the Arts
-DTSTART;VALUE=DATE-TIME:20200224T210000
-DTEND;VALUE=DATE-TIME:20200224T220000
-DESCRIPTION:Event description:\nIn this talk\, Ross Andersen will discuss 
- what he has learned about bringing the humanities to bear on the sciences\
- , drawing from his own essays and other pieces in\nThe Atlantic.\n\n\nhtt
- ps://frankeprogram.yale.edu/event/ross-andersen-poynter-fellowship-writing
- -intersection-science-and-arts
-LOCATION:WHC Auditorium
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/ross-andersen-poynter-fellowship-
- writing-intersection-science-and-arts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Two Cultures in Imagination and Writing:  A Conversation with 
  Zia Haider Rahman
 DTSTART;VALUE=DATE-TIME:20200226T213000
