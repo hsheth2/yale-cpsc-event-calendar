@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Emma Pierson
-DTSTART;VALUE=DATE-TIME:20200224T210000
-DTEND;VALUE=DATE-TIME:20200224T220000
-DESCRIPTION:Event description:\nCS Colloquium\nEmma Pierson\n\nHosts: Nish
- eeth Vishnoi (CS) & Dan Spielman (DS)\n\nTitle: Data Science Methods to Re
- duce Inequality and Improve Healthcare\n\nAbstract:\n\nI will describe how
-  to use data science methods to understand and reduce inequality in two do
- mains: criminal justice and healthcare. First\, I will discuss how to use 
- Bayesian modeling to detect racial discrimination in policing. Second\, I 
- will describe how to use machine learning to explain racial and socioecono
- mic inequality in pain.\n\nBio:\n\nEmma Pierson is a PhD student in Comput
- er Science at Stanford\, supported by Hertz and NDSEG Fellowships. Previou
- sly\, she completed a master’s degree in statistics at Oxford on a Rhode
- s Scholarship. She develops statistical and machine learning methods to st
- udy two deeply entwined problems: reducing inequality and improving health
- care. She also writes about these topics for broader audiences in publicat
- ions including\nThe New York Times\n\,\nThe Washington Post\n\,\nFiveThirt
- yEight\n\, and\nWired\n. Her work has been recognized by best paper (AISTA
- TS 2018)\, best poster (ICML Workshop on Computational Biology)\, and best
-  talk (ISMB High Throughput Sequencing Workshop) awards\, and she has been
-  named a Rising Star in EECS and Forbes 30 Under 30 in Science.\n\n\nhttps
- ://cpsc.yale.edu/event/cs-colloquium-emma-pierson
-LOCATION:YINS
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-emma-pierson
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Microsoft Research AI Presentations & Meetup
 DTSTART;VALUE=DATE-TIME:20200226T170000
 DTEND;VALUE=DATE-TIME:20200226T180000
