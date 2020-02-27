@@ -2,84 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:Microsoft Research AI Presentations & Meetup
-DTSTART;VALUE=DATE-TIME:20200226T170000
-DTEND;VALUE=DATE-TIME:20200226T180000
-DESCRIPTION:Event description:\nMicrosoft Research AI Presentations & Meet
- up\n\nHost: Dragomir Radev\n\n12:00-1:00 pm: Presentations by Microsoft\n1
- :00 – 2:00 pm: Please join us for a “Meetup” after the presentations
-  to introduce yourselves and learn more about Microsoft Research.\n\nLunch
-  provided\n\nRSVP:\nhttps://forms.gle/d3rpmZ4VyRrAHBse6\n\nSpeakers:\n\nAh
- med Hassan Awadallah\nis part of the Microsoft Research AI where he leads 
- the\nLanguage and Information Technologies\nteam. The team focuses on unde
- rstanding how people interact with information and enabling machines to un
- derstand and communicate in natural language and assist with task completi
- on. Ahmed will share his team’s recent work on applying ML and NLP to pe
- rsonal and enterprise data to improve productivity in the workplace and cr
- eate models that scale across languages and domains.\n\nAsli Celikyilmaz\n
- is a researcher in the Deep Learning Research Team at Microsoft Research A
- I. She focuses on Deep Learning and Natural Language Processing\, with bro
- ader interests in long form text generation\, automatic summarization\, im
- proving encoder-decoder models\, conversational dialog modeling. Asli will
-  share her team’s recent work on DL/NLP on learning better representatio
- ns with discourse for improving language modeling and text generation.\n\n
- Rahul Jha\nis part of MSAI team working on Natural Language Processing and
-  Machine Learning problems. His current work focuses on text summarization
-  for Office 365 products. In the past\, he’s worked on dialog and langu
- age understanding and ads relevance ranking. Rahul will talk about his tea
- m’s work on summarization that fuels Sharepoint Filecard and other exper
- iences in Office 365.\n\nRoy Zimmermann\nleads special initiatives and hel
- ps strengthen Microsoft’s institutional relationships with universities 
- and other partners around the world. Roy works with research and product g
- roups inside Microsoft to help amplify their work and strengthen and foste
- r new research partnerships and relationships with universities\, governme
- nts\, industry and other organizations around the world. Roy will share ho
- w Microsoft engages with faculty and graduate students through a variety o
- f programs designed to foster open collaborative research.\n\n\nhttps://cp
- sc.yale.edu/event/microsoft-research-ai-presentations-meetup
-LOCATION:Watson Center Room A53
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/microsoft-research-ai-presentations-meetup
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS Colloquium - Berk Ustun
-DTSTART;VALUE=DATE-TIME:20200226T210000
-DTEND;VALUE=DATE-TIME:20200226T220000
-DESCRIPTION:Event description:\nCS Colloquium\nBerk Ustun\n\nHosts: Nishee
- th Vishnoi (CS) and Dan Spielman (S&DS)\n\nTitle: Designing for the Last M
- ile in Machine Learning\n\nAbstract:\n\nMachine learning is now a general-
- purpose technology. In many domains\, we can build models to support impor
- tant decisions or automate routine tasks. Yet we may not reap their benefi
- ts due to disuse\, or even inflict harm due to misuse. In this talk\, I wi
- ll present methodological advances that address these “last mile” chal
- lenges. First\, I will describe a method to learn simple risk scores that 
- are readily adopted for medical decision support\, and discuss application
- s to adult ADHD diagnosis and ICU seizure prediction. Next\, I will descri
- be how machine learning models may harm individuals in consumer-facing app
- lications by violating their right to autonomy. I will then introduce the 
- notion of “recourse” and formalize methods to prevent such harms witho
- ut interfering in model development.\n\nBio:\n\nBerk Ustun is a postdoc at
-  the Harvard Center for Research on Computation and Society. His research 
- interests are in machine learning\, optimization\, and human-centered desi
- gn. In particular\, he focuses on developing methods to promote the adopti
- on and responsible use of machine learning in domains such as medicine\, c
- onsumer finance\, and criminal justice.\n\nBerk has built machine learning
-  systems that are now used by major healthcare providers for hospital read
- missions prediction\, ICU seizure prediction\, and adult ADHD screening. H
- is work has been covered by various media outlets\, including NPR and Wire
- d\, and has won major awards\, including the INFORMS Informative Applicati
- ons in Analytics Award in 2016 and 2019\, and the INFORMS Computing Societ
- y Best Student Paper.\n\nBerk holds a PhD in Electrical Engineering and Co
- mputer Science from MIT\, an MS in Computation for Design and Optimization
-  from MIT\, and BS degrees in Operations Research and Economics from UC Be
- rkeley.\n\nFor links to papers\, videos\, and software\, see:\nhttps://www
- .berkustun.com\n.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-berk-ustu
- n
-LOCATION:YINS
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-berk-ustun
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Chenhao Tan\, Univ. of Colorado Boulder
 DTSTART;VALUE=DATE-TIME:20200227T210000
 DTEND;VALUE=DATE-TIME:20200227T220000
@@ -117,6 +39,45 @@ LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-chenhao-tan-univ-colorado-bo
  ulder
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Adji Bousso Dieng
+DTSTART;VALUE=DATE-TIME:20200302T210000
+DTEND;VALUE=DATE-TIME:20200302T220000
+DESCRIPTION:Event description:\nCS Colloquium\nAdji Boousso Dieng\n\nHosts
+ : Holly Rushmeier (CS) and Dan Spielman (S&DS)\n\nTitle: Deep Probabilisti
+ c Graphical Modeling\n\nAbstract:\n\nDeep learning (DL) is a powerful appr
+ oach to modeling complex and large scale data. However\, DL models lack in
+ terpretable quantities and calibrated uncertainty. In contrast\, probabili
+ stic graphical modeling (PGM) provides a framework for formulating an inte
+ rpretable generative process of data and a way to express uncertainty abou
+ t what we do not know. How can we develop machine learning methods that br
+ ing together the expressivity of DL with the interpretability and calibrat
+ ion of PGM to build flexible models endowed with an interpretable latent s
+ tructure that can be fit efficiently? I call this line of research deep pr
+ obabilistic graphical modeling (DPGM). In this talk\, I will discuss my wo
+ rk on developing DPGM for text data. In particular\, I will show how DPGM 
+ enables flexible and interpretable topic modeling at large scale\, unlocki
+ ng several known challenges. Furthermore\, I will describe how we can acco
+ unt for both local and long-range context\, under the DPGM framework\, to 
+ build a flexible sequential document model that leads to state-of-the-art 
+ performance on a downstream document classification task.\n\nBio:\n\nAdji 
+ Bousso Dieng is a PhD Candidate at Columbia University where she is jointl
+ y advised by David Blei and John Paisley. Her research is in Artificial In
+ telligence and Statistics\, bridging probabilistic graphical models and de
+ ep learning.\n\nDieng is supported by a Dean Fellowship from Columbia Univ
+ ersity. She won a Microsoft Azure Research Award and a Google PhD Fellowsh
+ ip in Machine Learning. She was recognized as a rising star in machine lea
+ rning by the University of Maryland.\n\nPrior to Columbia\, Dieng worked a
+ s a Junior Professional Associate at the World Bank. She did her undergrad
+ uate studies in France where she attended Lycee Henri IV and Telecom Paris
+ Tech–France’s Grandes Ecoles system. She spent the third year of Telec
+ om ParisTech’s curriculum at Cornell University where she earned a Maste
+ r in Statistics.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-adji-bouss
+ o-dieng
+LOCATION:YINS
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-adji-bousso-dieng
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Urs Muller and Larry Jackel\, NVIDIA
@@ -158,45 +119,6 @@ DESCRIPTION:Event description:\nSpeakers: Larry Jackel and Urs Muller of N
 LOCATION:Dunham Lab 220
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/urs-muller-and-larry-jackel-nvidia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS Colloquium - Adji Bousso Dieng
-DTSTART;VALUE=DATE-TIME:20200302T210000
-DTEND;VALUE=DATE-TIME:20200302T220000
-DESCRIPTION:Event description:\nCS Colloquium\nAdji Boousso Dieng\n\nHosts
- : Holly Rushmeier (CS) and Dan Spielman (S&DS)\n\nTitle: Deep Probabilisti
- c Graphical Modeling\n\nAbstract:\n\nDeep learning (DL) is a powerful appr
- oach to modeling complex and large scale data. However\, DL models lack in
- terpretable quantities and calibrated uncertainty. In contrast\, probabili
- stic graphical modeling (PGM) provides a framework for formulating an inte
- rpretable generative process of data and a way to express uncertainty abou
- t what we do not know. How can we develop machine learning methods that br
- ing together the expressivity of DL with the interpretability and calibrat
- ion of PGM to build flexible models endowed with an interpretable latent s
- tructure that can be fit efficiently? I call this line of research deep pr
- obabilistic graphical modeling (DPGM). In this talk\, I will discuss my wo
- rk on developing DPGM for text data. In particular\, I will show how DPGM 
- enables flexible and interpretable topic modeling at large scale\, unlocki
- ng several known challenges. Furthermore\, I will describe how we can acco
- unt for both local and long-range context\, under the DPGM framework\, to 
- build a flexible sequential document model that leads to state-of-the-art 
- performance on a downstream document classification task.\n\nBio:\n\nAdji 
- Bousso Dieng is a PhD Candidate at Columbia University where she is jointl
- y advised by David Blei and John Paisley. Her research is in Artificial In
- telligence and Statistics\, bridging probabilistic graphical models and de
- ep learning.\n\nDieng is supported by a Dean Fellowship from Columbia Univ
- ersity. She won a Microsoft Azure Research Award and a Google PhD Fellowsh
- ip in Machine Learning. She was recognized as a rising star in machine lea
- rning by the University of Maryland.\n\nPrior to Columbia\, Dieng worked a
- s a Junior Professional Associate at the World Bank. She did her undergrad
- uate studies in France where she attended Lycee Henri IV and Telecom Paris
- Tech–France’s Grandes Ecoles system. She spent the third year of Telec
- om ParisTech’s curriculum at Cornell University where she earned a Maste
- r in Statistics.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-adji-bouss
- o-dieng
-LOCATION:YINS
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-adji-bousso-dieng
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS/YINS Seminar: Using Natural Language Explanations to Incorporat
