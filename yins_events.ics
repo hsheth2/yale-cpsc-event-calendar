@@ -82,40 +82,4 @@ STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-distinguished-lecturer-christos-papad
  imitriou-columbia
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:YINS / CS Seminar: Using Natural Language Explanations to Incorpor
- ate Commonsense Reasoning in Neural Networks with Nazneen Rajani (Salesfor
- ce Research)
-DTSTART;VALUE=DATE-TIME:20200303T200000
-DTEND;VALUE=DATE-TIME:20200303T210000
-DESCRIPTION:Event description:\nSpeaker: Nazneen Rajani\,\nSalesforce Rese
- arch\n\nDescription:\nDeep learning models perform poorly on tasks that re
- quire commonsense reasoning\, which often necessitates some form of world 
- knowledge or reasoning over information not immediately present in the inp
- ut. In the first part of the talk\, I will discuss how language models can
-  be leveraged to generate natural language explanations which are not just
-  interpretable but can also be used to improve performance on a downstream
-  task such as CommonsenseQA and empirically show that explanations are a w
- ay to incorporate commonsense reasoning in neural networks. Further\, I wi
- ll discuss how explanations can be transferred to other tasks without fine
- -tuning. In the second part of the talk\, I will talk about how we can tra
- in neural networks to do commonsense reasoning for qualitative physics and
-  demonstrate on simulations involving physical laws such as collision\, fr
- iction\, and gravity. Our proposed framework first detects salient collisi
- ons and then generates natural language reasoning about the events in thos
- e salient frames.\n\nSpeaker Bio:\nI am a Research Scientist at Salesforce
-  Research since January 2019. My primary research interests are in the fie
- lds of Natural Language Understanding\, Machine Learning and Explainable A
- rtificial Intelligence (XAI). I am currently working on projects in the ar
- eas of language modeling with commonsense reasoning\, language grounding w
- ith vision\, gender bias in language modeling and explainable reinforcemen
- t learning. Website:\nhttp://www.nazneenrajani.com/\n\nClick here for the 
- Computer Science Event Posting\n\n\n\n\n\n\n\nhttps://yins.yale.edu/event/
- yins-cs-seminar-using-natural-language-explanations-incorporate-commonsens
- e-reasoning-neural
-LOCATION:Yale Institute for Network Science
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-cs-seminar-using-natural-language-exp
- lanations-incorporate-commonsense-reasoning-neural
-END:VEVENT
 END:VCALENDAR
