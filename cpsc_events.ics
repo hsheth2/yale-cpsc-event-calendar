@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Andre Wibisono
-DTSTART;VALUE=DATE-TIME:20200304T210000
-DTEND;VALUE=DATE-TIME:20200304T220000
-DESCRIPTION:Event description:\nCS Colloquium\nAndre Wibisono\n\nHost: Nis
- heeth Vishnoi\n\nCoffee available at 3:45\n\nTitle: A Variational Perspect
- ive on Optimization\, Sampling\, and Games for Machine Learning\n\nAbstrac
- t:\n\nMachine learning has been successful and is prevalent in everyday li
- fe\, shaping many aspects of modern society. Nevertheless\, many fundament
- al questions remain\, and it is important to develop a proper theoretical 
- understanding of machine learning to guide its future development. In this
-  talk I will discuss the fundamental properties of optimization\, sampling
- \, and game dynamics for machine learning. In optimization\, I will presen
- t a variational perspective on accelerated methods via the principle of le
- ast action in continuous time\, and derive new families of accelerated met
- hods which achieve faster convergence under refined smoothness conditions.
-  In sampling\, I will present a study of sampling as optimization in the s
- pace of measures\, and show fast convergence of Langevin algorithms under 
- isoperimetry conditions which extend classical log-concavity results. In g
- ame dynamics\, I will present an analysis of minimax games as skew-optimiz
- ation in the space of joint configurations\, and show fast convergence of 
- the classical fictitious play algorithm and its optimistic variant under s
- moothness.\n\nBio:\n\nAndre Wibisono is a postdoctoral researcher in the S
- chool of Computer Science at the Georgia Institute of Technology. He recei
- ved his SB in Mathematics and in Computer Science in 2009 and his MEng in 
- Computer Science in 2010 from MIT. He received his MA in Statistics in 201
- 3 and his PhD in Computer Science in 2016 from the University of Californi
- a\, Berkeley\, where he was advised by Michael I. Jordan. Andre was a post
- doctoral researcher at the University of Wisconsin\, Madison from 2016 to 
- 2018\, before he came to Georgia Tech. His research interests are in the t
- heoretical and algorithmic aspects of optimization\, sampling\, and game d
- ynamics for machine learning.\n\n\nhttps://cpsc.yale.edu/event/cs-colloqui
- um-andre-wibisono
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-andre-wibisono
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Aditya Grover
 DTSTART;VALUE=DATE-TIME:20200305T210000
 DTEND;VALUE=DATE-TIME:20200305T220000
