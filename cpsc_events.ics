@@ -2,50 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Aditya Grover
-DTSTART;VALUE=DATE-TIME:20200305T210000
-DTEND;VALUE=DATE-TIME:20200305T220000
-DESCRIPTION:Event description:\nCS Colloquium\nAditya Grover\n\nHost: Nish
- eeth Vishnoi\n\nCoffee available at 3:45\n\nTitle: Machine Learning for Ac
- celerating Scientific Discovery\n\nAbstract:\n\nThe dramatic increase in b
- oth sensor capabilities and computational power over the last few decades 
- has created enormous opportunities for using machine learning (ML) to enha
- nce scientific discovery. To realize this potential\, ML systems must seam
- lessly integrate with the key tools for scientific discovery. However\, di
- fficult problems stand in the way of this goal. For instance\, how can we 
- incorporate scientific domain knowledge within ML algorithms? How can we u
- se ML to quantify uncertainty in simulations? How can we use ML to plan ex
- periments under real-world budget constraints?\n\nFor the above questions\
- , I’ll first present the key computational and statistical challenges th
- rough the lens of probabilistic modeling. Next\, I’ll highlight limitati
- ons of existing approaches for scaling to high-dimensional data and presen
- t algorithms from my research that can effectively overcome these challeng
- es. These algorithms are theoretically principled\, domain-agnostic\, and 
- exhibit strong empirical performance. Notably\, I’ll describe a collabor
- ation with chemists and material scientists where we used these algorithms
-  to optimize an experimental pipeline for electric batteries and significa
- ntly reduced the overall time costs from about 1.5 years to 16 days. Final
- ly\, I’ll conclude with an overview of future opportunities for using ML
-  to accelerate scientific discovery.\n\nBio:\n\nAditya Grover is a fifth-y
- ear Ph.D. candidate in Computer Science at Stanford University advised by 
- Stefano Ermon. His research focuses on learning and inference algorithms f
- or probabilistic models and is grounded in applications to accelerate phys
- ical sciences. Aditya’s research has been published in top scientific an
- d ML/AI venues (e.g.\, Nature\, NeurIPS\, ICML\, ICLR\, AAAI\, AISTATS)\, 
- included in popular open source ML software\, and deployed into production
-  at major technology companies. His work has been recognized with a best p
- aper award (StarAI)\, a Lieberman Fellowship\, a Data Science Institute Sc
- holarship\, and a Microsoft Research Ph.D. Fellowship. He is also a Teachi
- ng Fellow at Stanford since 2018\, where he co-created and teaches a new c
- lass on Deep Generative Models. Previously\, Aditya obtained his bachelors
-  in Computer Science and Engineering from IIT Delhi in 2015\, where he rec
- eived a best undergraduate thesis award.\n\n\nhttps://cpsc.yale.edu/event/
- cs-colloquium-aditya-grover-0
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-aditya-grover-0
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Zhihao Jia
 DTSTART;VALUE=DATE-TIME:20200323T200000
 DTEND;VALUE=DATE-TIME:20200323T210000
