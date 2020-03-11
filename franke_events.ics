@@ -3,16 +3,6 @@ X-WR-CALDESC:Yale Franke Program in Science and the Humanities Event Calen
  dar
 X-WR-CALNAME:Yale Franke Program
 BEGIN:VEVENT
-SUMMARY:Eureka! Competition
-DTSTART;VALUE=DATE-TIME:20200218T223000
-DTEND;VALUE=DATE-TIME:20200218T233000
-DESCRIPTION:No description provided\n\nhttps://frankeprogram.yale.edu/even
- t/eureka-competition
-LOCATION:WHC 208
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/eureka-competition
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED:  Mapping as Knowing Lecture Series\, Talk by Victor Coe
  lho
 DTSTART;VALUE=DATE-TIME:20200331T200000
@@ -165,5 +155,17 @@ LOCATION:Marsh Hall\, Yale Science Building
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/cancelled-distinguished-lecturer-
  series-talk-susan-hockfield
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline Extended to August 1\, 2020:  Eureka! Competition
+DTSTART;VALUE=DATE-TIME:20200218T223000
+DTEND;VALUE=DATE-TIME:20200218T233000
+DESCRIPTION:Event description:\nThe screening of finalists slated to take 
+ place on April 21st is cancelled.\n\n\nhttps://frankeprogram.yale.edu/even
+ t/deadline-extended-august-1-2020-eureka-competition
+LOCATION:WHC 208
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/deadline-extended-august-1-2020-e
+ ureka-competition
 END:VEVENT
 END:VCALENDAR
