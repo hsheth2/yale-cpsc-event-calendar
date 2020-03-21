@@ -6,36 +6,37 @@ SUMMARY:CS Colloquium - Zhihao Jia
 DTSTART;VALUE=DATE-TIME:20200323T200000
 DTEND;VALUE=DATE-TIME:20200323T210000
 DESCRIPTION:Event description:\nCS Colloquium\nZhihao Jia\n\nHost: Lin Zho
- ng\n\nCoffee available at 3:45\n\nTitle: Automated Discovery of Machine Le
- arning Optimizations\n\nAbstract:\n\nAs an increasingly important workload
- \, machine learning (ML) applications require different performance optimi
- zation techniques from traditional runtimes and compilers. In particular\,
-  to accelerate ML applications\, it is generally necessary to perform ML c
- omputations on heterogeneous hardware and parallelize computations using m
- ultiple data dimensions\, neither of which is even expressible in traditio
- nal compilers and runtimes. In this talk\, I will describe my work on auto
- mated discovery of performance optimizations to accelerate ML computations
- .\n\nTASO\, the Tensor Algebra SuperOptimizer\, optimizes the computation 
- graphs of deep neural networks (DNNs) by automatically generating potentia
- l graph optimizations and formally verifying their correctness. TASO outpe
- rforms rule-based graph optimizers in existing ML systems (e.g.\, TensorFl
- ow\, TensorRT\, and TVM) by up to 3x by automatically discovering novel gr
- aph optimizations\, while also requiring significantly less human effort.\
- n\nFlexFlow is a system for accelerating distributed DNN training. FlexFlo
- w identifies parallelization dimensions not considered in existing ML syst
- ems (e.g.\, TensorFlow and PyTorch) and automatically discovers fast paral
- lelization strategies for a specific parallel machine. Companies and natio
- nal labs are using FlexFlow to train production ML models that do not scal
- e well in current ML systems\, achieving over 10x performance improvement.
- \n\nI will also outline future research directions for further automating 
- ML systems\, such as codesigning ML models\, software systems\, and hardwa
- re backends for end-to-end ML deployment.\n\nBio:\n\nZhihao Jia is a Ph.D.
-  candidate in the Computer Science department at Stanford University worki
- ng with Alex Aiken and Matei Zaharia. His research interests lie in the in
- tersection of computer systems and machine learning\, with a focus on buil
- ding efficient\, scalable\, and high-performance systems for ML computatio
- ns.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-zhihao-jia
-LOCATION:AKW 200
+ ng\n\nTitle: Automated Discovery of Machine Learning Optimizations\n\nAbst
+ ract:\n\nAs an increasingly important workload\, machine learning (ML) app
+ lications require different performance optimization techniques from tradi
+ tional runtimes and compilers. In particular\, to accelerate ML applicatio
+ ns\, it is generally necessary to perform ML computations on heterogeneous
+  hardware and parallelize computations using multiple data dimensions\, ne
+ ither of which is even expressible in traditional compilers and runtimes. 
+ In this talk\, I will describe my work on automated discovery of performan
+ ce optimizations to accelerate ML computations.\n\nTASO\, the Tensor Algeb
+ ra SuperOptimizer\, optimizes the computation graphs of deep neural networ
+ ks (DNNs) by automatically generating potential graph optimizations and fo
+ rmally verifying their correctness. TASO outperforms rule-based graph opti
+ mizers in existing ML systems (e.g.\, TensorFlow\, TensorRT\, and TVM) by 
+ up to 3x by automatically discovering novel graph optimizations\, while al
+ so requiring significantly less human effort.\n\nFlexFlow is a system for 
+ accelerating distributed DNN training. FlexFlow identifies parallelization
+  dimensions not considered in existing ML systems (e.g.\, TensorFlow and P
+ yTorch) and automatically discovers fast parallelization strategies for a 
+ specific parallel machine. Companies and national labs are using FlexFlow 
+ to train production ML models that do not scale well in current ML systems
+ \, achieving over 10x performance improvement.\n\nI will also outline futu
+ re research directions for further automating ML systems\, such as codesig
+ ning ML models\, software systems\, and hardware backends for end-to-end M
+ L deployment.\n\nBio:\n\nZhihao Jia is a Ph.D. candidate in the Computer S
+ cience department at Stanford University working with Alex Aiken and Matei
+  Zaharia. His research interests lie in the intersection of computer syste
+ ms and machine learning\, with a focus on building efficient\, scalable\, 
+ and high-performance systems for ML computations.\n\n\nhttps://cpsc.yale.e
+ du/event/cs-colloquium-zhihao-jia
+LOCATION:If you are interested in attending this virtual talk via Zoom\, p
+ lease write to Judi Paige (judi.paige@yale.edu).
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-zhihao-jia
 END:VEVENT
@@ -43,41 +44,32 @@ BEGIN:VEVENT
 SUMMARY:CS Colloquium - Ashia Wilson
 DTSTART;VALUE=DATE-TIME:20200324T200000
 DTEND;VALUE=DATE-TIME:20200324T210000
-DESCRIPTION:Event description:\nCS Colloquium - Zoom Presentation\nAshia W
- ilson\n\nHost: Holly Rushmeier\n\nTitle: Variational Perspectives on Machi
- ne Learning: Algorithms\, Inference\, and Fairness\n\nAbstract:\n\nMachine
-  learning plays a key role in shaping the decisions made by a growing numb
- er of institutions. This talk will share variational perspectives on aspec
- ts of inference\, algorithms and fairness. On the topic of algorithms\, I 
- will present a variational framework on a classical family of convex optim
- ization algorithm called accelerated gradient algorithms and demonstrate h
- ow it leads to simpler\, faster gradient-based algorithms and generalizati
- ons of existing acceleration frameworks. On the topic of inference\, I wil
- l present a variational framework for developing computationally efficient
-  approximations of cross-validation and show how it provides fast and reli
- able estimates of out-of-sample performance for many machine learning mode
- ls. On the topic of fairness\, I will present a variational model for reas
- oning about the long-term impacts of using machine learning models to allo
- cate scarce resources and opportunities to people\, such as employment and
-  educational decisions.\n\nBio:\n\nAshia Wilson is a postdoctoral research
- er in the Machine Learning Group at Microsoft Research\, New England. She 
- received undergraduate degrees in Applied Mathematics and Philosophy from 
- Harvard University in 2011. She received her doctorate in Statistics from 
- the University of California\, Berkeley in 2018 advised by Benjamin Recht 
- and Michael I. Jordan. Her research interests are in providing rigorous gu
- arantees for algorithmic performance\, and in developing frameworks for st
- udying issues of fairness and governance in machine learning.\n\n\n\nZoom 
- Instructions:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yal
- e.zoom.us/j/925909234\n\nOr Telephone：203-432-9666 (2-ZOOM if on-campus)
-  or 646 568 7788\n\nMeeting ID: 925 909 234\n\nInternational numbers avail
- able:\nhttps://yale.zoom.us/u/ab8KCM2RSL\n\nFor H.323 and SIP information 
- for video conferencing units please click here:\nhttps://yale.service-now.
- com/it?id=support_article&sys_id=434b72d3db9e8fc83514b1c0ef961924\n\nFor H
- .323 and SIP information for video conferencing units please click here:\n
- https://yale.service-now.com/it?id=support_article&sys_id=434b72d3db9e8fc8
- 3514b1c0ef961924\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-ashia-wils
- on
-LOCATION:Zoom presentation - SEE INSTRUCTIONS BELOW
+DESCRIPTION:Event description:\nCS Colloquium\nAshia Wilson\n\nHost: Holly
+  Rushmeier\n\nTitle: Variational Perspectives on Machine Learning: Algorit
+ hms\, Inference\, and Fairness\n\nAbstract:\n\nMachine learning plays a ke
+ y role in shaping the decisions made by a growing number of institutions. 
+ This talk will share variational perspectives on aspects of inference\, al
+ gorithms and fairness. On the topic of algorithms\, I will present a varia
+ tional framework on a classical family of convex optimization algorithm ca
+ lled accelerated gradient algorithms and demonstrate how it leads to simpl
+ er\, faster gradient-based algorithms and generalizations of existing acce
+ leration frameworks. On the topic of inference\, I will present a variatio
+ nal framework for developing computationally efficient approximations of c
+ ross-validation and show how it provides fast and reliable estimates of ou
+ t-of-sample performance for many machine learning models. On the topic of 
+ fairness\, I will present a variational model for reasoning about the long
+ -term impacts of using machine learning models to allocate scarce resource
+ s and opportunities to people\, such as employment and educational decisio
+ ns.\n\nBio:\n\nAshia Wilson is a postdoctoral researcher in the Machine Le
+ arning Group at Microsoft Research\, New England. She received undergradua
+ te degrees in Applied Mathematics and Philosophy from Harvard University i
+ n 2011. She received her doctorate in Statistics from the University of Ca
+ lifornia\, Berkeley in 2018 advised by Benjamin Recht and Michael I. Jorda
+ n. Her research interests are in providing rigorous guarantees for algorit
+ hmic performance\, and in developing frameworks for studying issues of fai
+ rness and governance in machine learning.\n\n\n\nhttps://cpsc.yale.edu/eve
+ nt/cs-colloquium-ashia-wilson
+LOCATION:Zoom presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-ashia-wilson
 END:VEVENT
@@ -86,35 +78,34 @@ SUMMARY:CS Colloquium - Jesse Thomason
 DTSTART;VALUE=DATE-TIME:20200330T200000
 DTEND;VALUE=DATE-TIME:20200330T210000
 DESCRIPTION:Event description:\nCS Colloquium\nJesse Thomason\n\nHost: Dra
- gomir Radev\n\nCookies available at 3:45\n\nLanguage Grounding with Robots
- \n\nAbstract:\n\nWe use language to refer to objects like “toast”\, 
- “plate”\, and “table” and to communicate requests such as “Could
-  you make breakfast?” In this talk\, I will present work on computationa
- l methods to tie language to physical\, grounded meaning. Robots are an id
- eal platform for such work because they can perceive and interact with the
-  world. I will discuss dialog and learning strategies I have developed to 
- enable robots to learn from their human partners\, similar to how people l
- earn from one another through interaction. I will present methods enabling
-  robots to understand language referring expressions like “the heavy\, m
- etallic mug”\, the first work showing that it is possible to learn to co
- nnect words to their perceptual properties in the visual\, tactile\, and a
- uditory senses of a physical robot. I will also present benchmarks and mod
- els for translating high-level human language like “put the toast on the
-  table” that imply latent\, intermediate goals into executable sequences
-  of agent actions with the help of low-level\, step-by-step language instr
- uctions. Finally\, I will discuss how my work in grounded language contrib
- utes to NLP\, robotics\, and the broader goals of the AI community.\n\nBio
- :\n\nJesse Thomason is a postdoctoral researcher at the University of Wash
- ington working with Luke Zettlemoyer. He received his PhD from the Univers
- ity of Texas at Austin with Raymond Mooney. His research focuses on langua
- ge grounding and natural language processing applications for robotics (Ro
- boNLP). Key to this work is using dialog with humans to facilitate both ro
- bot task execution and learning to enable lifelong improvement of robots
- ’ language understanding capabilities. He has worked to encourage and pr
- omote work in RoboNLP through workshop organization at both NLP and roboti
- cs conference venues.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-jesse
- -thomason
-LOCATION:AKW 200
+ gomir Radev\n\nLanguage Grounding with Robots\n\nAbstract:\n\nWe use langu
+ age to refer to objects like “toast”\, “plate”\, and “table” a
+ nd to communicate requests such as “Could you make breakfast?” In this
+  talk\, I will present work on computational methods to tie language to ph
+ ysical\, grounded meaning. Robots are an ideal platform for such work beca
+ use they can perceive and interact with the world. I will discuss dialog a
+ nd learning strategies I have developed to enable robots to learn from the
+ ir human partners\, similar to how people learn from one another through i
+ nteraction. I will present methods enabling robots to understand language 
+ referring expressions like “the heavy\, metallic mug”\, the first work
+  showing that it is possible to learn to connect words to their perceptual
+  properties in the visual\, tactile\, and auditory senses of a physical ro
+ bot. I will also present benchmarks and models for translating high-level 
+ human language like “put the toast on the table” that imply latent\, i
+ ntermediate goals into executable sequences of agent actions with the help
+  of low-level\, step-by-step language instructions. Finally\, I will discu
+ ss how my work in grounded language contributes to NLP\, robotics\, and th
+ e broader goals of the AI community.\n\nBio:\n\nJesse Thomason is a postdo
+ ctoral researcher at the University of Washington working with Luke Zettle
+ moyer. He received his PhD from the University of Texas at Austin with Ray
+ mond Mooney. His research focuses on language grounding and natural langua
+ ge processing applications for robotics (RoboNLP). Key to this work is usi
+ ng dialog with humans to facilitate both robot task execution and learning
+  to enable lifelong improvement of robots’ language understanding capabi
+ lities. He has worked to encourage and promote work in RoboNLP through wor
+ kshop organization at both NLP and robotics conference venues.\n\n\nhttps:
+ //cpsc.yale.edu/event/cs-colloquium-jesse-thomason
+LOCATION:Zoom presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-jesse-thomason
 END:VEVENT
@@ -123,33 +114,33 @@ SUMMARY:CS Colloquium - Yongle Zhang
 DTSTART;VALUE=DATE-TIME:20200406T200000
 DTEND;VALUE=DATE-TIME:20200406T210000
 DESCRIPTION:Event description:\nCS Colloquium\nYongle Zhang\n\nHost: Abhis
- hek Bhattacharjee\n\nCoffee available at 3:45\n\nTitle: Automating Failure
-  Diagnosis for Distributed Systems\n\nAbstract:\n\nDistributed software sy
- stems have become the backbone of Internet services. Consequently\, Failur
- es in production distributed systems have severe consequences. A 63-minute
-  outage of Amazon in 2018 caused a 100-million loss in revenue. Moreover\,
-  the frequency of failures rises with the increasing complexity of softwar
- e systems. 2019 has experienced noticeably more Internet outages and is so
- metimes considered as the “year of outages”.\n\nDiagnosing such failur
- es in distributed systems at data center scale is a particularly critical\
- , yet notoriously difficult task because these systems are complex: there 
- are numerous threads\, processes\, and nodes communicating concurrently. E
- xisting diagnosis techniques are either intrusive and incur non-negligible
-  performance overhead in a production environment\, or face scalability ch
- allenges when applied to complex software systems.\n\nA promising approach
-  is to replicate how developers diagnose these failures. Guided by this no
- tion\, this talk will describe two tools\, namely Pensieve and Kairux\, wh
- ich automate two major tasks of failure diagnosis: failure reproduction an
- d root cause localization. Given the logs and code of a distributed system
-  that has failed (in production)\, Pensieve is capable of formulating a mi
- nimal set of operations necessary to reproduce the failure\, and Kairux ca
- n further pinpoint the single instruction that is the root cause.\n\nBio:\
- n\nYongle Zhang is a PhD candidate in the Distributed Systems Research Gro
- up at the University of Toronto\, working with Prof. Ding Yuan. His resear
- ch interest is in systems software with a focus on improving the reliabili
- ty and availability of complex\, real-world systems.\n\n\n\n\nhttps://cpsc
- .yale.edu/event/cs-colloquium-yongle-zhang
-LOCATION:AKW 200
+ hek Bhattacharjee\n\nTitle: Automating Failure Diagnosis for Distributed S
+ ystems\n\nAbstract:\n\nDistributed software systems have become the backbo
+ ne of Internet services. Consequently\, Failures in production distributed
+  systems have severe consequences. A 63-minute outage of Amazon in 2018 ca
+ used a 100-million loss in revenue. Moreover\, the frequency of failures r
+ ises with the increasing complexity of software systems. 2019 has experien
+ ced noticeably more Internet outages and is sometimes considered as the 
+ “year of outages”.\n\nDiagnosing such failures in distributed systems 
+ at data center scale is a particularly critical\, yet notoriously difficul
+ t task because these systems are complex: there are numerous threads\, pro
+ cesses\, and nodes communicating concurrently. Existing diagnosis techniqu
+ es are either intrusive and incur non-negligible performance overhead in a
+  production environment\, or face scalability challenges when applied to c
+ omplex software systems.\n\nA promising approach is to replicate how devel
+ opers diagnose these failures. Guided by this notion\, this talk will desc
+ ribe two tools\, namely Pensieve and Kairux\, which automate two major tas
+ ks of failure diagnosis: failure reproduction and root cause localization.
+  Given the logs and code of a distributed system that has failed (in produ
+ ction)\, Pensieve is capable of formulating a minimal set of operations ne
+ cessary to reproduce the failure\, and Kairux can further pinpoint the sin
+ gle instruction that is the root cause.\n\nBio:\n\nYongle Zhang is a PhD c
+ andidate in the Distributed Systems Research Group at the University of To
+ ronto\, working with Prof. Ding Yuan. His research interest is in systems 
+ software with a focus on improving the reliability and availability of com
+ plex\, real-world systems.\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloqu
+ ium-yongle-zhang
+LOCATION:Zoom presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-yongle-zhang
 END:VEVENT
@@ -158,33 +149,33 @@ SUMMARY:CS Colloquium - Ming Liu
 DTSTART;VALUE=DATE-TIME:20200407T200000
 DTEND;VALUE=DATE-TIME:20200407T210000
 DESCRIPTION:Event description:\nCS Colloquium\nMing Liu\n\nHost: Anurag Kh
- andelwal\n\nCoffee available at 3:45\n\nTitle: Building Distributed System
- s Using Programmable Networks\n\nAbstract:\n\nThe continuing increase of d
- ata center network bandwidth\, coupled with a slower improvement in CPU pe
- rformance\, has challenged our conventional wisdom regarding data center n
- etworks: how to build distributed systems that can keep up with the networ
- k speeds and are high-performant and energy-efficient? The recent emergenc
- e of a programmable network fabric (PNF) suggests a potential solution. By
-  offloading suitable computations to a PNF device (i.e.\, SmartNIC\, recon
- figurable switch\, or network accelerator)\, one can reduce request servin
- g latency\, save end-host CPU cores\, and enable efficient traffic control
- .\n\nIn this talk\, I will present two frameworks for building PNF-enabled
-  distributed systems: (1) IncBricks\, an in-network caching fabric built w
- ith network accelerators and programmable switches\; (2) iPipe\, an actor-
- based framework for offloading distributed applications on SmartNICs. I wi
- ll show how to make efficient use of in-network heterogeneous computing re
- sources by applying approximation techniques\, co-designing with end-host 
- software layers\, employing new programming abstractions\, and designing e
- fficient control-/data-planes. Finally\, I will discuss how to use PNF to 
- re-architect other data center systems.\n\nBio:\n\nMing Liu is a Ph.D. can
- didate in the Paul G. Allen School of Computer Science & Engineering at th
- e University of Washington\, advised by Arvind Krishnamurthy\, Luis Ceze\,
-  and Simon Peter. His research interests are in computer systems and netwo
- rks\, with a focus on optimizing distributed systems by exploring the comp
- uting capabilities across the programmable network fabric (including Smart
- NICs\, reconfigurable switches\, and network accelerators).\n\n\nhttps://c
- psc.yale.edu/event/cs-colloquium-ming-liu
-LOCATION:AKW 200
+ andelwal\n\nTitle: Building Distributed Systems Using Programmable Network
+ s\n\nAbstract:\n\nThe continuing increase of data center network bandwidth
+ \, coupled with a slower improvement in CPU performance\, has challenged o
+ ur conventional wisdom regarding data center networks: how to build distri
+ buted systems that can keep up with the network speeds and are high-perfor
+ mant and energy-efficient? The recent emergence of a programmable network 
+ fabric (PNF) suggests a potential solution. By offloading suitable computa
+ tions to a PNF device (i.e.\, SmartNIC\, reconfigurable switch\, or networ
+ k accelerator)\, one can reduce request serving latency\, save end-host CP
+ U cores\, and enable efficient traffic control.\n\nIn this talk\, I will p
+ resent two frameworks for building PNF-enabled distributed systems: (1) In
+ cBricks\, an in-network caching fabric built with network accelerators and
+  programmable switches\; (2) iPipe\, an actor-based framework for offloadi
+ ng distributed applications on SmartNICs. I will show how to make efficien
+ t use of in-network heterogeneous computing resources by applying approxim
+ ation techniques\, co-designing with end-host software layers\, employing 
+ new programming abstractions\, and designing efficient control-/data-plane
+ s. Finally\, I will discuss how to use PNF to re-architect other data cent
+ er systems.\n\nBio:\n\nMing Liu is a Ph.D. candidate in the Paul G. Allen 
+ School of Computer Science & Engineering at the University of Washington\,
+  advised by Arvind Krishnamurthy\, Luis Ceze\, and Simon Peter. His resear
+ ch interests are in computer systems and networks\, with a focus on optimi
+ zing distributed systems by exploring the computing capabilities across th
+ e programmable network fabric (including SmartNICs\, reconfigurable switch
+ es\, and network accelerators).\n\n\nhttps://cpsc.yale.edu/event/cs-colloq
+ uium-ming-liu
+LOCATION:Zoom presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-ming-liu
 END:VEVENT
