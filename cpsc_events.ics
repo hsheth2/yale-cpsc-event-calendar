@@ -2,45 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Zhihao Jia
-DTSTART;VALUE=DATE-TIME:20200323T200000
-DTEND;VALUE=DATE-TIME:20200323T210000
-DESCRIPTION:Event description:\nCS Colloquium\nZhihao Jia\n\nHost: Lin Zho
- ng\n\nTitle: Automated Discovery of Machine Learning Optimizations\n\nAbst
- ract:\n\nAs an increasingly important workload\, machine learning (ML) app
- lications require different performance optimization techniques from tradi
- tional runtimes and compilers. In particular\, to accelerate ML applicatio
- ns\, it is generally necessary to perform ML computations on heterogeneous
-  hardware and parallelize computations using multiple data dimensions\, ne
- ither of which is even expressible in traditional compilers and runtimes. 
- In this talk\, I will describe my work on automated discovery of performan
- ce optimizations to accelerate ML computations.\n\nTASO\, the Tensor Algeb
- ra SuperOptimizer\, optimizes the computation graphs of deep neural networ
- ks (DNNs) by automatically generating potential graph optimizations and fo
- rmally verifying their correctness. TASO outperforms rule-based graph opti
- mizers in existing ML systems (e.g.\, TensorFlow\, TensorRT\, and TVM) by 
- up to 3x by automatically discovering novel graph optimizations\, while al
- so requiring significantly less human effort.\n\nFlexFlow is a system for 
- accelerating distributed DNN training. FlexFlow identifies parallelization
-  dimensions not considered in existing ML systems (e.g.\, TensorFlow and P
- yTorch) and automatically discovers fast parallelization strategies for a 
- specific parallel machine. Companies and national labs are using FlexFlow 
- to train production ML models that do not scale well in current ML systems
- \, achieving over 10x performance improvement.\n\nI will also outline futu
- re research directions for further automating ML systems\, such as codesig
- ning ML models\, software systems\, and hardware backends for end-to-end M
- L deployment.\n\nBio:\n\nZhihao Jia is a Ph.D. candidate in the Computer S
- cience department at Stanford University working with Alex Aiken and Matei
-  Zaharia. His research interests lie in the intersection of computer syste
- ms and machine learning\, with a focus on building efficient\, scalable\, 
- and high-performance systems for ML computations.\n\n\nhttps://cpsc.yale.e
- du/event/cs-colloquium-zhihao-jia
-LOCATION:If you are interested in attending this virtual talk via Zoom\, p
- lease write to Judi Paige (judi.paige@yale.edu).
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-zhihao-jia
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Ashia Wilson
 DTSTART;VALUE=DATE-TIME:20200324T200000
 DTEND;VALUE=DATE-TIME:20200324T210000
