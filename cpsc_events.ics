@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Ashia Wilson
-DTSTART;VALUE=DATE-TIME:20200324T200000
-DTEND;VALUE=DATE-TIME:20200324T210000
-DESCRIPTION:Event description:\nCS Colloquium\nAshia Wilson\n\nHost: Holly
-  Rushmeier\n\nTitle: Variational Perspectives on Machine Learning: Algorit
- hms\, Inference\, and Fairness\n\nAbstract:\n\nMachine learning plays a ke
- y role in shaping the decisions made by a growing number of institutions. 
- This talk will share variational perspectives on aspects of inference\, al
- gorithms and fairness. On the topic of algorithms\, I will present a varia
- tional framework on a classical family of convex optimization algorithm ca
- lled accelerated gradient algorithms and demonstrate how it leads to simpl
- er\, faster gradient-based algorithms and generalizations of existing acce
- leration frameworks. On the topic of inference\, I will present a variatio
- nal framework for developing computationally efficient approximations of c
- ross-validation and show how it provides fast and reliable estimates of ou
- t-of-sample performance for many machine learning models. On the topic of 
- fairness\, I will present a variational model for reasoning about the long
- -term impacts of using machine learning models to allocate scarce resource
- s and opportunities to people\, such as employment and educational decisio
- ns.\n\nBio:\n\nAshia Wilson is a postdoctoral researcher in the Machine Le
- arning Group at Microsoft Research\, New England. She received undergradua
- te degrees in Applied Mathematics and Philosophy from Harvard University i
- n 2011. She received her doctorate in Statistics from the University of Ca
- lifornia\, Berkeley in 2018 advised by Benjamin Recht and Michael I. Jorda
- n. Her research interests are in providing rigorous guarantees for algorit
- hmic performance\, and in developing frameworks for studying issues of fai
- rness and governance in machine learning.\n\n\n\nhttps://cpsc.yale.edu/eve
- nt/cs-colloquium-ashia-wilson
-LOCATION:Zoom presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-ashia-wilson
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Jesse Thomason
 DTSTART;VALUE=DATE-TIME:20200330T200000
 DTEND;VALUE=DATE-TIME:20200330T210000
