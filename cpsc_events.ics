@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Jesse Thomason
-DTSTART;VALUE=DATE-TIME:20200330T200000
-DTEND;VALUE=DATE-TIME:20200330T210000
-DESCRIPTION:Event description:\nCS Colloquium\nJesse Thomason\n\nHost: Dra
- gomir Radev\n\nLanguage Grounding with Robots\n\nAbstract:\n\nWe use langu
- age to refer to objects like “toast”\, “plate”\, and “table” a
- nd to communicate requests such as “Could you make breakfast?” In this
-  talk\, I will present work on computational methods to tie language to ph
- ysical\, grounded meaning. Robots are an ideal platform for such work beca
- use they can perceive and interact with the world. I will discuss dialog a
- nd learning strategies I have developed to enable robots to learn from the
- ir human partners\, similar to how people learn from one another through i
- nteraction. I will present methods enabling robots to understand language 
- referring expressions like “the heavy\, metallic mug”\, the first work
-  showing that it is possible to learn to connect words to their perceptual
-  properties in the visual\, tactile\, and auditory senses of a physical ro
- bot. I will also present benchmarks and models for translating high-level 
- human language like “put the toast on the table” that imply latent\, i
- ntermediate goals into executable sequences of agent actions with the help
-  of low-level\, step-by-step language instructions. Finally\, I will discu
- ss how my work in grounded language contributes to NLP\, robotics\, and th
- e broader goals of the AI community.\n\nBio:\n\nJesse Thomason is a postdo
- ctoral researcher at the University of Washington working with Luke Zettle
- moyer. He received his PhD from the University of Texas at Austin with Ray
- mond Mooney. His research focuses on language grounding and natural langua
- ge processing applications for robotics (RoboNLP). Key to this work is usi
- ng dialog with humans to facilitate both robot task execution and learning
-  to enable lifelong improvement of robots’ language understanding capabi
- lities. He has worked to encourage and promote work in RoboNLP through wor
- kshop organization at both NLP and robotics conference venues.\n\n\nhttps:
- //cpsc.yale.edu/event/cs-colloquium-jesse-thomason
-LOCATION:Zoom presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-jesse-thomason
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Yongle Zhang
 DTSTART;VALUE=DATE-TIME:20200406T200000
 DTEND;VALUE=DATE-TIME:20200406T210000
