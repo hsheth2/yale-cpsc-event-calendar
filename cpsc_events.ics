@@ -2,41 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Yongle Zhang
-DTSTART;VALUE=DATE-TIME:20200406T200000
-DTEND;VALUE=DATE-TIME:20200406T210000
-DESCRIPTION:Event description:\nCS Colloquium\nYongle Zhang\n\nHost: Abhis
- hek Bhattacharjee\n\nTitle: Automating Failure Diagnosis for Distributed S
- ystems\n\nAbstract:\n\nDistributed software systems have become the backbo
- ne of Internet services. Consequently\, Failures in production distributed
-  systems have severe consequences. A 63-minute outage of Amazon in 2018 ca
- used a 100-million loss in revenue. Moreover\, the frequency of failures r
- ises with the increasing complexity of software systems. 2019 has experien
- ced noticeably more Internet outages and is sometimes considered as the 
- “year of outages”.\n\nDiagnosing such failures in distributed systems 
- at data center scale is a particularly critical\, yet notoriously difficul
- t task because these systems are complex: there are numerous threads\, pro
- cesses\, and nodes communicating concurrently. Existing diagnosis techniqu
- es are either intrusive and incur non-negligible performance overhead in a
-  production environment\, or face scalability challenges when applied to c
- omplex software systems.\n\nA promising approach is to replicate how devel
- opers diagnose these failures. Guided by this notion\, this talk will desc
- ribe two tools\, namely Pensieve and Kairux\, which automate two major tas
- ks of failure diagnosis: failure reproduction and root cause localization.
-  Given the logs and code of a distributed system that has failed (in produ
- ction)\, Pensieve is capable of formulating a minimal set of operations ne
- cessary to reproduce the failure\, and Kairux can further pinpoint the sin
- gle instruction that is the root cause.\n\nBio:\n\nYongle Zhang is a PhD c
- andidate in the Distributed Systems Research Group at the University of To
- ronto\, working with Prof. Ding Yuan. His research interest is in systems 
- software with a focus on improving the reliability and availability of com
- plex\, real-world systems.\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloqu
- ium-yongle-zhang
-LOCATION:Zoom presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-yongle-zhang
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Ming Liu
 DTSTART;VALUE=DATE-TIME:20200407T200000
 DTEND;VALUE=DATE-TIME:20200407T210000
