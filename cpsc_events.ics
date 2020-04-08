@@ -1,39 +1,4 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale CPSC Events Calendar
 X-WR-CALNAME:Yale CS Events
-BEGIN:VEVENT
-SUMMARY:CS Colloquium - Ming Liu
-DTSTART;VALUE=DATE-TIME:20200407T200000
-DTEND;VALUE=DATE-TIME:20200407T210000
-DESCRIPTION:Event description:\nCS Colloquium\nMing Liu\n\nHost: Anurag Kh
- andelwal\n\nTitle: Building Distributed Systems Using Programmable Network
- s\n\nAbstract:\n\nThe continuing increase of data center network bandwidth
- \, coupled with a slower improvement in CPU performance\, has challenged o
- ur conventional wisdom regarding data center networks: how to build distri
- buted systems that can keep up with the network speeds and are high-perfor
- mant and energy-efficient? The recent emergence of a programmable network 
- fabric (PNF) suggests a potential solution. By offloading suitable computa
- tions to a PNF device (i.e.\, SmartNIC\, reconfigurable switch\, or networ
- k accelerator)\, one can reduce request serving latency\, save end-host CP
- U cores\, and enable efficient traffic control.\n\nIn this talk\, I will p
- resent two frameworks for building PNF-enabled distributed systems: (1) In
- cBricks\, an in-network caching fabric built with network accelerators and
-  programmable switches\; (2) iPipe\, an actor-based framework for offloadi
- ng distributed applications on SmartNICs. I will show how to make efficien
- t use of in-network heterogeneous computing resources by applying approxim
- ation techniques\, co-designing with end-host software layers\, employing 
- new programming abstractions\, and designing efficient control-/data-plane
- s. Finally\, I will discuss how to use PNF to re-architect other data cent
- er systems.\n\nBio:\n\nMing Liu is a Ph.D. candidate in the Paul G. Allen 
- School of Computer Science & Engineering at the University of Washington\,
-  advised by Arvind Krishnamurthy\, Luis Ceze\, and Simon Peter. His resear
- ch interests are in computer systems and networks\, with a focus on optimi
- zing distributed systems by exploring the computing capabilities across th
- e programmable network fabric (including SmartNICs\, reconfigurable switch
- es\, and network accelerators).\n\n\nhttps://cpsc.yale.edu/event/cs-colloq
- uium-ming-liu
-LOCATION:Zoom presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-ming-liu
-END:VEVENT
 END:VCALENDAR
