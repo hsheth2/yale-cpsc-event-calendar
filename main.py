@@ -7,7 +7,7 @@ import shutil
 from scraping_common import fetch_upcoming_urls, fetch_upcoming_events
 from ics import generate_ics
 
-DOMAIN_ROOT = 'https://hsheth2.github.io/yale-event-calendars'
+DOMAIN_ROOT = 'https://yale-calendars.sheth.io/'
 
 DataSource = collections.namedtuple('DataSource',
     ['shortname', 'domain', 'feeds', 'title', 'description'])

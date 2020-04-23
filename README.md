@@ -4,7 +4,7 @@ Add Yale-related calendars directly to your calendar, and keep them automaticall
 
 Why? Because I like my calendars unified.
 
-Add calendars from https://hsheth2.github.io/yale-event-calendars/.
+Add calendars from https://yale-calendars.sheth.io/.
 The calendars are updated every four hours.
 
 ### TODO
