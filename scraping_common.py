@@ -72,3 +72,19 @@ def scrape_event_info(event_url):
         'description': description,
         'url': event_url,
     }
+
+
+def fetch_upcoming_urls(domain, feeds):
+    urls = []
+    for feed in feeds:
+        urls += parse_event_urls_from_feed(domain, feed)
+    return urls
+
+def fetch_upcoming_events(urls):
+    events = []
+    for url in urls:
+        event_info = scrape_event_info(url)
+        print(f"Event: {event_info['title']}")
+        events.append(event_info)
+
+    return events
