@@ -26,11 +26,11 @@
       <p class="subtitle is-6">{{ data.description }}</p>
 
       <!-- For some reason, Google Calendar wants HTTP, not HTTPS. -->
-      <a class="button is-link" href="https://calendar.google.com/calendar/r?cid={{ ics_url.replace('https', 'http') }}">
+      <a class="button is-link" href="https://calendar.google.com/calendar/r?cid={{ ics_url.replace('https', 'webcal') }}">
         <span class="icon"><i class="fab fa-google"></i></span>
         <span>Add to Google Calendar</span>
       </a>
-      
+
       <a class="button" href="{{ ics_url.replace('https', 'webcal') }}">
         <span class="icon"><i class="far fa-calendar-plus"></i></span>
         <span>Add to Outlook</span>
@@ -39,7 +39,7 @@
       <div class="content">
         <ul>
           <li>Calendar ICS file: <a href="{{ ics_url }}">{{ ics_url }}</a></li>
-          <li>Feed source(s): 
+          <li>Feed source(s):
             {% for feed in data.feeds %}
               <a href="{{ feed }}">{{ feed }}</a>{{ ',' if not loop.last }}
             {% endfor %}
