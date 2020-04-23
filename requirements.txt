@@ -4,3 +4,4 @@ requests
 icalendar
 datetime
 pytz
+Jinja2

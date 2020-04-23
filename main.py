@@ -1,8 +1,13 @@
 import collections
 from pprint import pprint
+import jinja2
+import pathlib
+import shutil
 
 from scraping_common import fetch_upcoming_urls, fetch_upcoming_events
-from generate_ics import generate_ics
+from ics import generate_ics
+
+DOMAIN_ROOT = 'https://hsheth2.github.io/yale-event-calendars'
 
 DataSource = collections.namedtuple('DataSource',
     ['shortname', 'domain', 'feeds', 'title', 'description'])
@@ -34,16 +39,32 @@ yins = DataSource(
 
 
 def main(sources):
+    out_dir = 'gen'
+    pathlib.Path(out_dir).mkdir(exist_ok=True)
+    shutil.copyfile('templates/favicon.ico', f'{out_dir}/favicon.ico')
+
+    # Generate calendars.
     for data in sources:
         print(f'Generating {data.shortname} Calendar')
         urls = fetch_upcoming_urls(data.domain, data.feeds)
         events = fetch_upcoming_events(urls)
 
-        filename = f'calendars/{data.shortname.lower()}_events.ics'
+        filename = f'{out_dir}/{data.shortname.lower()}_events.ics'
         with open(filename, 'wb') as f:
             cal = generate_ics(data.title, data.description, events)
             f.write(cal)
         print()
+
+    # Generate index page.
+    loader = jinja2.FileSystemLoader('./templates')
+    env = jinja2.Environment(
+        loader=loader,
+        autoescape=jinja2.select_autoescape(['html', 'xml'])
+    )
+    template = env.get_template('index.html')
+    index = template.render(domain_root=DOMAIN_ROOT, sources=sources)
+    with open(f'{out_dir}/index.html', 'w') as index_file:
+        index_file.write(index)
 
 
 if __name__ == '__main__':

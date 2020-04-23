@@ -1,4 +1,4 @@
-*.ics
+/gen
 /keys
 
 # Created by https://www.gitignore.io/api/vim,linux,python,pycharm+all
