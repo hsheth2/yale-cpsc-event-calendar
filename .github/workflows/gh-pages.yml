@@ -34,3 +34,4 @@ jobs:
         publish_dir: ./gen
         publish_branch: gh-pages
         allow_empty_commits: false
+        cname: yale-calendars.sheth.io
