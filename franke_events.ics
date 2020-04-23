@@ -1,7 +1,6 @@
 BEGIN:VCALENDAR
-X-WR-CALDESC:Yale Franke Program in Science and the Humanities Event Calen
- dar
-X-WR-CALNAME:Yale Franke Program
+X-WR-CALDESC:Yale Franke Program in Science and the Humanities
+X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
 SUMMARY:Deadline Extended to August 1\, 2020:  Eureka! Competition
 DTSTART;VALUE=DATE-TIME:20200218T223000
