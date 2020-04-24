@@ -25,16 +25,18 @@
       <p class="title is-4">Yale CS Events</p>
       <p class="subtitle is-6">Yale Department of Computer Science</p>
 
-      <!-- For some reason, Google Calendar wants HTTP, not HTTPS. -->
-      <a class="button is-link" href="https://calendar.google.com/calendar/r?cid=webcal://yale-calendars.sheth.io/cpsc_events.ics">
-        <span class="icon"><i class="fab fa-google"></i></span>
-        <span>Add to Google Calendar</span>
-      </a>
+      <div class="buttons">
+        <!-- For some reason, Google Calendar wants HTTP, not HTTPS. -->
+        <a class="button is-link" href="https://calendar.google.com/calendar/r?cid=webcal://yale-calendars.sheth.io/cpsc_events.ics">
+          <span class="icon"><i class="fab fa-google"></i></span>
+          <span>Add to Google Calendar</span>
+        </a>
 
-      <a class="button" href="webcal://yale-calendars.sheth.io/cpsc_events.ics">
-        <span class="icon"><i class="far fa-calendar-plus"></i></span>
-        <span>Add to Outlook</span>
-      </a>
+        <a class="button" href="webcal://yale-calendars.sheth.io/cpsc_events.ics">
+          <span class="icon"><i class="far fa-calendar-plus"></i></span>
+          <span>Add to Outlook</span>
+        </a>
+      </div>
 
       <div class="content">
         <ul>
@@ -51,16 +53,18 @@
       <p class="title is-4">Yale Franke Program Events</p>
       <p class="subtitle is-6">Yale Franke Program in Science and the Humanities</p>
 
-      <!-- For some reason, Google Calendar wants HTTP, not HTTPS. -->
-      <a class="button is-link" href="https://calendar.google.com/calendar/r?cid=webcal://yale-calendars.sheth.io/franke_events.ics">
-        <span class="icon"><i class="fab fa-google"></i></span>
-        <span>Add to Google Calendar</span>
-      </a>
+      <div class="buttons">
+        <!-- For some reason, Google Calendar wants HTTP, not HTTPS. -->
+        <a class="button is-link" href="https://calendar.google.com/calendar/r?cid=webcal://yale-calendars.sheth.io/franke_events.ics">
+          <span class="icon"><i class="fab fa-google"></i></span>
+          <span>Add to Google Calendar</span>
+        </a>
 
-      <a class="button" href="webcal://yale-calendars.sheth.io/franke_events.ics">
-        <span class="icon"><i class="far fa-calendar-plus"></i></span>
-        <span>Add to Outlook</span>
-      </a>
+        <a class="button" href="webcal://yale-calendars.sheth.io/franke_events.ics">
+          <span class="icon"><i class="far fa-calendar-plus"></i></span>
+          <span>Add to Outlook</span>
+        </a>
+      </div>
 
       <div class="content">
         <ul>
@@ -77,16 +81,18 @@
       <p class="title is-4">YINS Events</p>
       <p class="subtitle is-6">Yale Institute for Network Sciences (YINS)</p>
 
-      <!-- For some reason, Google Calendar wants HTTP, not HTTPS. -->
-      <a class="button is-link" href="https://calendar.google.com/calendar/r?cid=webcal://yale-calendars.sheth.io/yins_events.ics">
-        <span class="icon"><i class="fab fa-google"></i></span>
-        <span>Add to Google Calendar</span>
-      </a>
+      <div class="buttons">
+        <!-- For some reason, Google Calendar wants HTTP, not HTTPS. -->
+        <a class="button is-link" href="https://calendar.google.com/calendar/r?cid=webcal://yale-calendars.sheth.io/yins_events.ics">
+          <span class="icon"><i class="fab fa-google"></i></span>
+          <span>Add to Google Calendar</span>
+        </a>
 
-      <a class="button" href="webcal://yale-calendars.sheth.io/yins_events.ics">
-        <span class="icon"><i class="far fa-calendar-plus"></i></span>
-        <span>Add to Outlook</span>
-      </a>
+        <a class="button" href="webcal://yale-calendars.sheth.io/yins_events.ics">
+          <span class="icon"><i class="far fa-calendar-plus"></i></span>
+          <span>Add to Outlook</span>
+        </a>
+      </div>
 
       <div class="content">
         <ul>
@@ -103,5 +109,21 @@
 
     </div>
   </section>
+
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        <strong>Yale Event Calendars</strong> by <a href="https://harshal.sheth.io/">Harshal Sheth</a>.
+        View the source code on <a href="https://github.com/hsheth2/yale-event-calendars">Github <i class="fab fa-github"></i></a>. 
+        Calendar feeds updated <span class="timeago" datetime="2020-04-24T05:42:16.759703">2020-04-24T05:42:16.759703</span>.
+      </p>
+    </div>
+  </footer>
+
+<script src="https://cdn.jsdelivr.net/npm/timeago.js@4.0.2/dist/timeago.min.js" integrity="sha256-sTurDi2etLN9CpnUIoCC9y5iynb2qr/uo6QJqzoO7mA=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+  const time_nodes = document.querySelectorAll('.timeago');
+  timeago.render(time_nodes)
+</script>
   </body>
 </html>
