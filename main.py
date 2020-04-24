@@ -66,7 +66,7 @@ def main(sources):
     index = template.render(
         domain_root=DOMAIN_ROOT,
         sources=sources,
-        last_updated=datetime.datetime.now().isoformat())
+        last_updated=datetime.datetime.now(datetime.timezone.utc).isoformat())
     with open(f'{out_dir}/index.html', 'w') as index_file:
         index_file.write(index)
 
