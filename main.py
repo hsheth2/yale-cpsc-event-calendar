@@ -1,6 +1,7 @@
 import collections
 from pprint import pprint
 import jinja2
+import datetime
 import pathlib
 import shutil
 
@@ -62,7 +63,10 @@ def main(sources):
         autoescape=jinja2.select_autoescape(['html', 'xml'])
     )
     template = env.get_template('index.html')
-    index = template.render(domain_root=DOMAIN_ROOT, sources=sources)
+    index = template.render(
+        domain_root=DOMAIN_ROOT,
+        sources=sources,
+        last_updated=datetime.datetime.now().isoformat())
     with open(f'{out_dir}/index.html', 'w') as index_file:
         index_file.write(index)
 

@@ -25,16 +25,18 @@
       <p class="title is-4">{{ data.title }}</p>
       <p class="subtitle is-6">{{ data.description }}</p>
 
-      <!-- For some reason, Google Calendar wants HTTP, not HTTPS. -->
-      <a class="button is-link" href="https://calendar.google.com/calendar/r?cid={{ ics_url.replace('https', 'webcal') }}">
-        <span class="icon"><i class="fab fa-google"></i></span>
-        <span>Add to Google Calendar</span>
-      </a>
+      <div class="buttons">
+        <!-- For some reason, Google Calendar wants HTTP, not HTTPS. -->
+        <a class="button is-link" href="https://calendar.google.com/calendar/r?cid={{ ics_url.replace('https', 'webcal') }}">
+          <span class="icon"><i class="fab fa-google"></i></span>
+          <span>Add to Google Calendar</span>
+        </a>
 
-      <a class="button" href="{{ ics_url.replace('https', 'webcal') }}">
-        <span class="icon"><i class="far fa-calendar-plus"></i></span>
-        <span>Add to Outlook</span>
-      </a>
+        <a class="button" href="{{ ics_url.replace('https', 'webcal') }}">
+          <span class="icon"><i class="far fa-calendar-plus"></i></span>
+          <span>Add to Outlook</span>
+        </a>
+      </div>
 
       <div class="content">
         <ul>
@@ -49,5 +51,21 @@
 {% endfor %}
     </div>
   </section>
+
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        <strong>Yale Event Calendars</strong> by <a href="https://harshal.sheth.io/">Harshal Sheth</a>.
+        View the source code on <a href="https://github.com/hsheth2/yale-event-calendars">Github <i class="fab fa-github"></i></a>. 
+        Calendar feeds updated <span class="timeago" datetime="{{ last_updated }}">{{ last_updated }}</span>.
+      </p>
+    </div>
+  </footer>
+
+<script src="https://cdn.jsdelivr.net/npm/timeago.js@4.0.2/dist/timeago.min.js" integrity="sha256-sTurDi2etLN9CpnUIoCC9y5iynb2qr/uo6QJqzoO7mA=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+  const time_nodes = document.querySelectorAll('.timeago');
+  timeago.render(time_nodes)
+</script>
   </body>
 </html>
