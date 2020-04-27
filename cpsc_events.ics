@@ -1,4 +1,35 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
+BEGIN:VEVENT
+SUMMARY:CS Talk - Dr. Eakta Jain\, Univerity of Florida
+DTSTART;VALUE=DATE-TIME:20200429T143000
+DTEND;VALUE=DATE-TIME:20200429T153000
+DESCRIPTION:Event description:\nCS Talk\nWednesday\, April 29\, 2020\n10:3
+ 0 am\,  Zoom Presentation\n\nDr. Eakta Jain\, Univ of Florida\n\nHost: Ho
+ lly Rushmeier\n\nTitle: User Security and Privacy in Pursuit of Compelling
+  Virtual Avatars\n\nAbstract:\n\nRapid advances in graphics and virtual re
+ ality are bringing us to the cusp of hyper-realistic digital virtual avata
+ rs. A key component in creating compelling virtual avatars is the level of
+  detail in the eyes. Built in eye trackers offers technologists ample oppo
+ rtunity to image the user’s eyes. Though this information provides us wi
+ th the data needed to cross the uncanny valley\, collecting such data at s
+ cale creates a hidden cost for the user: security and privacy vulnerabilit
+ ies. In this talk\, I will discuss our work on creating avatar eyes\, demo
+ nstrate a key vulnerability in eye tracking\, and present technological so
+ lutions that trade off security considerations with avatar realism.\n\nBio
+ :\n\nEakta Jain is an Assistant Professor of Computer and Information Scie
+ nce and Engineering at the University of Florida. She received her PhD and
+  MS degrees in Robotics from Carnegie Mellon University and her B.Tech. de
+ gree from IIT Kanpur. She has industry experience at Texas Instruments R&D
+  labs\, Disney Research Pittsburgh\, and the Walt Disney Animation Studios
+ . Her research group at the University of Florida is funded through facult
+ y research awards from Facebook/Oculus and Google/YouTube\, federal fundin
+ g from the National Science Foundation\, and state funding from the Florid
+ a Department of Transportation.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-d
+ r-eakta-jain-univerity-florida
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-dr-eakta-jain-univerity-florida
+END:VEVENT
 END:VCALENDAR
