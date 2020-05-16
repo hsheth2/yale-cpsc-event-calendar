@@ -33,5 +33,5 @@ jobs:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         publish_dir: ./gen
         publish_branch: gh-pages
-        allow_empty_commits: false
+        allow_empty_commit: false
         cname: yale-calendars.sheth.io
