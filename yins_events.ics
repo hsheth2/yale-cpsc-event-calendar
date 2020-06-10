@@ -1,42 +1,4 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
-BEGIN:VEVENT
-SUMMARY:SIGMETRICS Achievement Award Lecture: Leandros Tassiulas
-DTSTART;VALUE=DATE-TIME:20200609T150000
-DTEND;VALUE=DATE-TIME:20200609T160000
-DESCRIPTION:Event description:\n\n\nACM SIGMETRICS 2020 will be held onli
- ne Tuesday\, June 9 - Friday\, June 12\, 2020.\n\nPlease fill out the\nGo
- ogle form\nto access the online conference.  Registration is free!\n\nAft
- er filling out the Google form\, you will receive links to Zoom live openi
- ng session\, YouTube talk videos\, and Slack discussion channels.\n\nTo ac
- tively participate in the online conference\, please register for Slack to
-  access discussion channels.\n\n\n\nSIGMETRICS is the flagship conference 
- of the ACM Special Interest Group for the computer systems performance eva
- luation community.\n\nConference Website:\nhttps://www.sigmetrics.org/sigm
- etrics2020/\n\n\n\nAlthough we will not be able to enjoy the conventional 
- conference experience this year due to COVID-19\, we are looking forward t
- o a new and exciting online conference format\, where participation is eas
- ier than ever!\n\n\n\nThe SIGMETRICS Achievement Award lecture from Lea
- ndros Tassiulas and the Rising Star Award lecture from Kuang Xu will 
- be delivered live online\, and videos of accepted papers will be available
-  for viewing on YouTube!  Join our Slack channels to discuss papers and s
- ocialize!  Follow our updates on\nTwitter\nand\nLinkedIn\n.\n\n\n\nLive O
- pening Session: Tuesday\, June 9\, 11:00 AM - 1:00 PM US Eastern Time\n\nI
- ntroduction to Online Conference and Acknowledgments: Edmund Yeh (General 
- Chair)\n\nIntroduction to Technical Program and Acknowledgments: Athina Ma
- rkopoulou and Y.C. Tay (TPC Co-Chairs)\n\nBest Video Award Presentation: Z
- henhua Liu\n\nPreview of 2021 conference: Andrew Yao and Longbo Huang (Gen
- eral Co-Chairs)\n\nSigmetrics Achievement Award Lecture: Load balancing w
- ith and without adversaries by Leandros Tassiulas\n\nRising Star Award Le
- cture: Information-centric thinking in stochastic modeling and decision-m
- aking by Kuang Xu\n\n\n\nTechnical Program:\n\nhttps://www.sigmetrics.org
- /sigmetrics2020/program.html\n\nYouTube talk videos can be accessed from t
- he website.\n\n\n\n\n\nhttps://yins.yale.edu/event/sigmetrics-achievement-
- award-lecture-leandros-tassiulas
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/sigmetrics-achievement-award-lecture-leand
- ros-tassiulas
-END:VEVENT
 END:VCALENDAR
