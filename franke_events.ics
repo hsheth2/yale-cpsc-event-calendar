@@ -143,4 +143,42 @@ STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/welcome-our-new-undergraduate-fel
  lows
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On-line Distinguished Lecturer Series Talk by Professor Valerie Ha
+ nsen
+DTSTART;VALUE=DATE-TIME:20200917T200000
+DTEND;VALUE=DATE-TIME:20200917T210000
+DESCRIPTION:Event description:\nDetails to follow!\n\nIn her recent book\,
+  The Year 1000\, Professor Valerie Hansen\, an award-winning historian\, a
+ rgues that the year 1000 was the world’s first point of major cultural e
+ xchange and exploration. Drawing on nearly thirty years of research\, she 
+ presents a compelling account of first encounters between disparate societ
+ ies\, which sparked conflict and collaboration eerily reminiscent of our c
+ ontemporary moment.\n\n\nhttps://frankeprogram.yale.edu/event/line-disting
+ uished-lecturer-series-talk-professor-valerie-hansen
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/line-distinguished-lecturer-serie
+ s-talk-professor-valerie-hansen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On-line Distinguished Lecturer Series Talk by Professor Dan Esty
+DTSTART;VALUE=DATE-TIME:20201015T200000
+DTEND;VALUE=DATE-TIME:20201015T210000
+DESCRIPTION:Event description:\nDetails to follow!\n\nDan Esty is the Hill
+ house Professor at Yale University with primary appointments at Yale’s E
+ nvironment and Law Schools and a secondary appointment at the Yale School 
+ of Management. He serves as director of the\nYale Center for Environmental
+  Law and Policy\nand co-director of the Yale Initiative on Sustainable Fin
+ ance. Professor Esty is the author or editor of twelve books and dozens of
+  articles on environmental protection\, regulatory reform\, energy policy\
+ , and sustainability metrics – and their connections to corporate strate
+ gy\, competitiveness\, trade\, and economic success.\n\n\nhttps://frankepr
+ ogram.yale.edu/event/line-distinguished-lecturer-series-talk-professor-dan
+ -esty
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/line-distinguished-lecturer-serie
+ s-talk-professor-dan-esty
+END:VEVENT
 END:VCALENDAR
