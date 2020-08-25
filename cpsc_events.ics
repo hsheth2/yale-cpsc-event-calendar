@@ -1,4 +1,26 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
+BEGIN:VEVENT
+SUMMARY:JBPO Meeting Dates\, AY 2020-21 - Information Only
+DTSTART;VALUE=DATE-TIME:20201008T200000
+DTEND;VALUE=DATE-TIME:20201008T210000
+DESCRIPTION:Event description:\nThe dates for the Joint Boards of Permanen
+ t Officers (JBPO) have been scheduled for the 2020-21 academic year.  Ple
+ ase reserve:\n\nThursday\, October 8\, 2020\n\nThursday\, October 29\, 202
+ 0\n\nThursday\, December 10\, 2020\n\nThursday\, February 25\, 2021\n\nThu
+ rsday\, April 15\, 2021\n\nThursday\, May 13\, 2021\n\nAll meetings start 
+ at 4:00 p.m. and will be via Zoom for the foreseeable future. Two weeks pr
+ ior to each meeting\, an email will be sent with the link to preregister f
+ or the meeting\, along with the CONFIDENTIAL agenda and supporting materia
+ ls. After preregistering you will receive a confirmation email containing 
+ the Zoom link to join the meeting.\n\nIn order to ensure a quorum\, please
+  attend if you are able\, especially if you are a designated quorum office
+ r of your department or program.\n\n\nhttps://cpsc.yale.edu/event/jbpo-mee
+ ting-dates-ay-2020-21-information-only
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-
+ only
+END:VEVENT
 END:VCALENDAR
