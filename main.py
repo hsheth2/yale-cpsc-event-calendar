@@ -5,7 +5,7 @@ import datetime
 import pathlib
 import shutil
 
-from scraping_common import fetch_upcoming_urls, fetch_upcoming_events
+from scraper import fetch_upcoming_urls, fetch_upcoming_events
 from ics import generate_ics
 
 DOMAIN_ROOT = 'https://yale-calendars.sheth.io'
@@ -36,6 +36,14 @@ yins = DataSource(
         'https://yins.yale.edu/calendar/conferences-workshops'],
     title='YINS Events',
     description='Yale Institute for Network Sciences (YINS)',
+)
+
+comp_society = DataSource(
+    shortname='CompSoc',
+    domain='https://computationsociety.yale.edu',
+    feeds=['https://computationsociety.yale.edu/calendar'],
+    title='Computation and Society',
+    description='Yale Computation and Society Initiative',
 )
 
 
@@ -72,5 +80,4 @@ def main(sources):
 
 
 if __name__ == '__main__':
-    main([cpsc, franke, yins])
-
+    main([cpsc, franke, yins, comp_society])
