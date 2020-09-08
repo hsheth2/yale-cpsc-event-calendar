@@ -6,7 +6,8 @@ SUMMARY:On-line Distinguished Lecturer Series Talk by Professor Valerie Ha
  nsen
 DTSTART;VALUE=DATE-TIME:20200917T200000
 DTEND;VALUE=DATE-TIME:20200917T210000
-DESCRIPTION:Event description:\nBeyond the Historian’s Traditional Toolb
+DESCRIPTION:Event description:\nDetails on how to access this talk through
+  Zoom will be released soon!\n\nBeyond the Historian’s Traditional Toolb
  ox: What Archeology\, Lidar\, and Chemical Residues can Teach us about the
   Year 1000\n\nThe traditional focus of historians on written documents oft
  en results in greater attention to literate societies\, but scientific bre
@@ -44,5 +45,61 @@ LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/line-distinguished-lecturer-serie
  s-talk-professor-dan-esty
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mapping as Knowing Lecture Series Talk by Kim Stanley Robinson
+DTSTART;VALUE=DATE-TIME:20201114T210000
+DTEND;VALUE=DATE-TIME:20201114T220000
+DESCRIPTION:Event description:\nDetails to follow!\n\nKim Stanley Robinson
+  (born March 23\, 1952) is an American novelist\, widely recognized as on
+ e of the foremost living writers of science fiction. Robinson began publis
+ hing novels in 1984. His work has been described as “humanist science fi
+ ction” and “literary science fiction”. Robinson himself has been a p
+ roud defender and advocate of science fiction as a genre\, which he regard
+ s as one of the most powerful of all literary forms.\n\n\nhttps://frankepr
+ ogram.yale.edu/event/mapping-knowing-lecture-series-talk-kim-stanley-robin
+ son
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/mapping-knowing-lecture-series-ta
+ lk-kim-stanley-robinson
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RESCHEDULED - FINAL DATE TBD:  Mapping as Knowing Lecture Series\,
+  Talk by Victor Coelho
+DTSTART;VALUE=DATE-TIME:20210201T210000
+DTEND;VALUE=DATE-TIME:20210201T220000
+DESCRIPTION:Event description:\nTHIS EVENT IS BEING RESCHEDULED FOR SPRING
+  2020.  STAY TUNED!\n\nMusicologist and performer Professor Coelho (on sa
+ bbatical\, Spring\, 2020) is a specialist in sixteenth- and seventeenth-ce
+ ntury Italian music\, as well as popular music. His areas of research incl
+ ude Renaissance and Baroque instrumental styles\, popular music\, interdis
+ ciplinary approaches\, and cross-cultural perspectives. As a specialist on
+  popular music\, he is interested in\nBlues\n\, rock history\, improvisati
+ on\, and performance issues\, and has appears regularly in\ndigital\nand\n
+ print\nmedia.\n\nHe has held visiting appointments at the University of Wi
+ sconsin—Madison\, the Ecole Normale Supérieure in Paris (1990)\, the Un
+ iversity of Melbourne\, and Cornell University. In 2004\, he was Visiting 
+ Professor at Villa I Tatti in Florence. From 1986 to 2005\, he taught at t
+ he University of Calgary\, where he was named University Professor. From 2
+ 007-2011\, he held the position of Associate Provost for Undergraduate Edu
+ cation at Boston University\, and was the principal author of the Universi
+ ty’s\n“One BU”\nreport on undergraduate education. His books include
+ \nInstrumentalists and Renaissance Culture\n(Cambridge\, co-authored with 
+ Keith Polk)\,\nMusic and Science in the Age of Galileo\n(Kluwer)\,\nThe Ma
+ nuscript Sources of 17th–Century Italian Lute Music\n(Garland)\,\nPerfor
+ mance on Lute\, Guitar\, and Vihuela\n(Cambridge)\, the\nCambridge Compani
+ on to the Guitar\n\, and the\nCambridge Companion to the Rolling Stone\ns
+  (with John Covach). He is lutenist and co-director of the early music gr
+ oup “Il Furioso\,” and his recordings appear on the Stradivarius and T
+ occata Classics labels. He also tours regularly as a blues guitarist with 
+ the Rooster Blues Band. For further information\, clips\, concert schedule
+ \, and downloads\, please visit his\npersonal website\n.\n\n\nhttps://fran
+ keprogram.yale.edu/event/rescheduled-final-date-tbd-mapping-knowing-lectur
+ e-series-talk-victor-coelho
+LOCATION:WHC Auditorium
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/rescheduled-final-date-tbd-mappin
+ g-knowing-lecture-series-talk-victor-coelho
 END:VEVENT
 END:VCALENDAR
