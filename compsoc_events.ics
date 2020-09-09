@@ -31,4 +31,17 @@ STATUS:CONFIRMED
 URL:https://computationsociety.yale.edu/event/colloquium-on-the-ethical-al
  gorithm
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colloquium by Jon Kleinberg
+DTSTART;VALUE=DATE-TIME:20201023T150000
+DTEND;VALUE=DATE-TIME:20201023T160000
+DESCRIPTION:Event description\nSpeaker:\nJon Kleinberg\n\, Tisch Universit
+ y Professor\, Department of Computer Science\, Cornell\n\n\n\nTitle: TBD\n
+ \n\n\nHost:\nElisa Celis\n\n\n\nAbstract: TBD\n\n\n\nZoom:\nhttps://yale.z
+ oom.us/j/95164853371\n\n\nhttps://computationsociety.yale.edu/event/colloq
+ uium-by-jon-kleinberg
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/colloquium-by-jon-kleinberg
+END:VEVENT
 END:VCALENDAR
