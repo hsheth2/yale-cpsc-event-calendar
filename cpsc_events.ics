@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:Computation and Society Colloquium - Aaron Roth\, Univ. of Pennsyl
- vania
-DTSTART;VALUE=DATE-TIME:20200911T150000
-DTEND;VALUE=DATE-TIME:20200911T160000
-DESCRIPTION:Event description:\nComputation and Society Colloquium\n\nSpea
- ker:\nAaron Roth\n\, Univ. of Pennsylvania\nTitle: The Ethical Algorithm\n
- Host:\nElisa Celis\n\n\nAbstract:\n\n\n\nIn recent years\, there has been 
- an explosion of reports of automated systems exhibiting undesirable behavi
- or — often manifesting itself in terms of gross violations of social nor
- ms like privacy and fairness. This poses new challenges for regulation and
-  governance\, in part because these bad algorithmic behaviors are not the 
- result of mal-intent on the part of their designers\, but are instead the 
- unanticipated side effects of applying the standard tools of machine learn
- ing. The solution must therefore be in part algorithmic — we need to dev
- elop a scientific approach aiming to formalize the kinds of behaviors we w
- ant to avoid\, and design algorithms that avoid them. We will survey this 
- area\, focusing in both the more mature area of private algorithm design\,
-  as well as the more nascent area of algorithmic fairness. We will touch o
- n other issues\, including how we can think about the larger societal effe
- cts of imposing constraints on specific algorithmic parts of larger sociot
- echnical systems.\n\n\n\nThis talk is based on the book\n“The Ethical Al
- gorithm”\n\, which is jointly authored with Michael Kearns\, and is avai
- lable now\, from Oxford University Press.\n\n\n\nhttps://computationsociet
- y.yale.edu/event/colloquium-on-the-ethical-algorithm\n\n\nhttps://cpsc.yal
- e.edu/event/computation-and-society-colloquium-aaron-roth-univ-pennsylvani
- a
-LOCATION:Zoom
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/computation-and-society-colloquium-aaron-r
- oth-univ-pennsylvania
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JBPO Meeting Dates\, AY 2020-21 - Information Only
 DTSTART;VALUE=DATE-TIME:20201008T200000
 DTEND;VALUE=DATE-TIME:20201008T210000
