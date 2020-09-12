@@ -2,36 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
-SUMMARY:Colloquium on “The Ethical Algorithm”
-DTSTART;VALUE=DATE-TIME:20200911T150000
-DTEND;VALUE=DATE-TIME:20200911T160000
-DESCRIPTION:Event description\nSpeaker:\nAaron Roth\n\, Professor of Comp
- uter and Information Science at the\nUniversity of Pennsylvania\n\n\n\nTit
- le: The Ethical Algorithm\n\n\n\nHost:\nElisa Celis\n\n\n\nAbstract: In re
- cent years\, there has been an explosion of reports of automated systems e
- xhibiting undesirable behavior — often manifesting itself in terms of gr
- oss violations of social norms like privacy and fairness. This poses new c
- hallenges for regulation and governance\, in part because these bad algori
- thmic behaviors are not the result of mal-intent on the part of their desi
- gners\, but are instead the unanticipated side effects of applying the sta
- ndard tools of machine learning. The solution must therefore be in part al
- gorithmic — we need to develop a scientific approach aiming to formalize
-  the kinds of behaviors we want to avoid\, and design algorithms that avoi
- d them. We will survey this area\, focusing in both the more mature area o
- f private algorithm design\, as well as the more nascent area of algorithm
- ic fairness. We will touch on other issues\, including how we can think ab
- out the larger societal effects of imposing constraints on specific algori
- thmic parts of larger sociotechnical systems.\n\n\n\nThis talk is based on
-  the book\n“The Ethical Algorithm”\n\, which is jointly authored with 
- Michael Kearns\, and is available now\, from Oxford University Press.\n\n\
- n\nZoom:\nhttps://yale.zoom.us/j/97531583447\n\n\nhttps://computationsocie
- ty.yale.edu/event/colloquium-on-the-ethical-algorithm
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://computationsociety.yale.edu/event/colloquium-on-the-ethical-al
- gorithm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Colloquium by Jon Kleinberg
 DTSTART;VALUE=DATE-TIME:20201023T150000
 DTEND;VALUE=DATE-TIME:20201023T160000
