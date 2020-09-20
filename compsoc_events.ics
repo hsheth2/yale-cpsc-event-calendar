@@ -20,6 +20,28 @@ URL:https://computationsociety.yale.edu/event/related-event-challenges-of-
  making-unbiaised-decisions-in-a-world-of-data-and-algorithms-with
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Colloquium by Bernard Chazelle
+DTSTART;VALUE=DATE-TIME:20201009T150000
+DTEND;VALUE=DATE-TIME:20201009T160000
+DESCRIPTION:Event description\nSpeaker:\nBernard Chazelle\n\, Eugene Higgi
+ ns Professor of Computer Science\, Princeton\n\n\n\nTitle:  Building an A
+ lgorithmic Toolkit for Out-of-Equilibrium Systems\n\n\n\nHost:\nNisheeth V
+ ishnoi\n\n\n\nAbstract: Algorithms research has long been preoccupied with
+  systems that reach equilibrium: random processes should converge to stati
+ onary distributions\; dynamical systems should be attracting or\, at worst
+ \, periodic\; algorithms should terminate and land in a “good” place\;
+  etc. Natural algorithms\, those found in nature\, break all of these rule
+ s. What are we to do then? Answer: Build new algorithmic tools. I will ske
+ tch some of my efforts in that direction. The talk will be aimed at a gene
+ ral scientific audience and will require no background knowledge.\n\n\n\nZ
+ oom:\nhttps://yale.zoom.us/j/95783107535\n\n\nhttps://computationsociety.y
+ ale.edu/event/colloquium-by-bernard-chazelle
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/colloquium-by-bernard-chazel
+ le
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colloquium by Jon Kleinberg
 DTSTART;VALUE=DATE-TIME:20201023T150000
 DTEND;VALUE=DATE-TIME:20201023T160000
