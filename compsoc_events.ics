@@ -20,60 +20,62 @@ URL:https://computationsociety.yale.edu/event/related-event-challenges-of-
  making-unbiaised-decisions-in-a-world-of-data-and-algorithms-with
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colloquium by Bernard Chazelle
+SUMMARY:Colloquium by Bernard Chazelle\, Princeton
 DTSTART;VALUE=DATE-TIME:20201009T150000
 DTEND;VALUE=DATE-TIME:20201009T160000
-DESCRIPTION:Event description\nSpeaker:\nBernard Chazelle\n\, Eugene Higgi
- ns Professor of Computer Science\, Princeton\n\n\n\nTitle:  Building an A
- lgorithmic Toolkit for Out-of-Equilibrium Systems\n\n\n\nHost:\nNisheeth V
- ishnoi\n\n\n\nAbstract: Algorithms research has long been preoccupied with
-  systems that reach equilibrium: random processes should converge to stati
- onary distributions\; dynamical systems should be attracting or\, at worst
- \, periodic\; algorithms should terminate and land in a “good” place\;
-  etc. Natural algorithms\, those found in nature\, break all of these rule
- s. What are we to do then? Answer: Build new algorithmic tools. I will ske
- tch some of my efforts in that direction. The talk will be aimed at a gene
- ral scientific audience and will require no background knowledge.\n\n\n\nS
- peaker biography:\nBernard Chazelle (graduate of École des Mines de Paris
- \, PhD Yale) has been professor at Princeton University since 1986\, where
-  he holds the Eugene Higgins chair in Computer Science.\n\nAs Director of 
- the NSF Center for Computational Intractability\, his research focuses on 
- algorithms and complexity. He has been a visiting professor at École Norm
- ale Supérieure (ENS) Ulm\, École Polytechnique\, University of Paris-Sud
- \, and INRIA. He spent many years as a consultant for Xerox PARC\, DEC SRC
- \, NEC Research\, (where he chaired the Board of Fellows) and Tsinghua Uni
- versity in Beijing. He is\, or was\, member of the Scientific Committee at
-  ENS Ulm\, École Polytechnique\, and the Institut Henri Poincaré. He is 
- also a member of the American Academy of Arts and Sciences and the Europea
- n Academy of Sciences\, ACM Fellow\, Guggenheim Fellow\, and winner of sev
- eral awards from the SIAM mathematical society.\n\nA pioneering figure in 
- computational geometry\, Bernard Chazelle is known for his resolution of a
-  number of longstanding open questions in the field. His research has also
-  led him to investigate the role of randomness in computing\, a subject he
-  took up in his book\, The Discrepancy Method: Randomness and Complexity. 
- In the last few years\, his efforts have focused on “natural algorithms\
- ,” with the aim of building a bridge between dynamical systems and algor
- ithms from the living world. Professor Chazelle takes pride in having taug
- ht the very first “Integrated Science” program at Princeton University
- \, together with colleagues from physics and biology.\n\n\n\n\nZoom:\nhttp
- s://yale.zoom.us/j/95783107535\n\n\nhttps://computationsociety.yale.edu/ev
- ent/colloquium-by-bernard-chazelle
+DESCRIPTION:Event description\nComputation and Society Colloquium and Comp
+ uter Science Distinguished Speaker Series\n\n\n\nSpeaker:\nBernard Chazell
+ e\n\, Eugene Higgins Professor of Computer Science\, Princeton\n\n\n\nTit
+ le:  Building an Algorithmic Toolkit for Out-of-Equilibrium Systems\n\n\n
+ \nHost:\nNisheeth Vishnoi\n\n\n\nAbstract: Algorithms research has long be
+ en preoccupied with systems that reach equilibrium: random processes shoul
+ d converge to stationary distributions\; dynamical systems should be attra
+ cting or\, at worst\, periodic\; algorithms should terminate and land in a
+  “good” place\; etc. Natural algorithms\, those found in nature\, brea
+ k all of these rules. What are we to do then? Answer: Build new algorithmi
+ c tools. I will sketch some of my efforts in that direction. The talk will
+  be aimed at a general scientific audience and will require no background 
+ knowledge.\n\n\n\nSpeaker biography:\nBernard Chazelle (graduate of École
+  des Mines de Paris\, PhD Yale) has been professor at Princeton University
+  since 1986\, where he holds the Eugene Higgins chair in Computer Science.
+ \n\nAs Director of the NSF Center for Computational Intractability\, his r
+ esearch focuses on algorithms and complexity. He has been a visiting profe
+ ssor at École Normale Supérieure (ENS) Ulm\, École Polytechnique\, Univ
+ ersity of Paris-Sud\, and INRIA. He spent many years as a consultant for X
+ erox PARC\, DEC SRC\, NEC Research\, (where he chaired the Board of Fellow
+ s) and Tsinghua University in Beijing. He is\, or was\, member of the Scie
+ ntific Committee at ENS Ulm\, École Polytechnique\, and the Institut Henr
+ i Poincaré. He is also a member of the American Academy of Arts and Scien
+ ces and the European Academy of Sciences\, ACM Fellow\, Guggenheim Fellow\
+ , and winner of several awards from the SIAM mathematical society.\n\nA pi
+ oneering figure in computational geometry\, Bernard Chazelle is known for 
+ his resolution of a number of longstanding open questions in the field. Hi
+ s research has also led him to investigate the role of randomness in compu
+ ting\, a subject he took up in his book\, The Discrepancy Method: Randomne
+ ss and Complexity. In the last few years\, his efforts have focused on “
+ natural algorithms\,” with the aim of building a bridge between dynamica
+ l systems and algorithms from the living world. Professor Chazelle takes p
+ ride in having taught the very first “Integrated Science” program at P
+ rinceton University\, together with colleagues from physics and biology.\n
+ \n\n\n\nZoom:\nhttps://yale.zoom.us/j/95783107535\n\n\nhttps://computation
+ society.yale.edu/event/colloquium-by-bernard-chazelle-princeton
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://computationsociety.yale.edu/event/colloquium-by-bernard-chazel
- le
+ le-princeton
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colloquium by Jon Kleinberg
+SUMMARY:Colloquium by Jon Kleinberg\, Cornell
 DTSTART;VALUE=DATE-TIME:20201023T150000
 DTEND;VALUE=DATE-TIME:20201023T160000
 DESCRIPTION:Event description\nSpeaker:\nJon Kleinberg\n\, Tisch Universit
  y Professor\, Department of Computer Science\, Cornell\n\n\n\nTitle: TBD\n
  \n\n\nHost:\nElisa Celis\n\n\n\nAbstract: TBD\n\n\n\nZoom:\nhttps://yale.z
  oom.us/j/95164853371\n\n\nhttps://computationsociety.yale.edu/event/colloq
- uium-by-jon-kleinberg
+ uium-by-jon-kleinberg-cornell
 LOCATION:TBA
 STATUS:CONFIRMED
-URL:https://computationsociety.yale.edu/event/colloquium-by-jon-kleinberg
+URL:https://computationsociety.yale.edu/event/colloquium-by-jon-kleinberg-
+ cornell
 END:VEVENT
 END:VCALENDAR
