@@ -17,9 +17,74 @@ DESCRIPTION:Event description:\nCS Social Hour\n\nLast week\, a cohort of
  25\nth\nfrom 4:00 – 5:00pm.\n\nZoom link:\n\nJoin from PC\, Mac\, Linux\
  , iOS or Android:\nhttps://yale.zoom.us/j/92748598082?pwd=QWFHemZNTkZPZWVZ
  dGpvRHBRVFp6UT09\n\n\nhttps://cpsc.yale.edu/event/cs-social-hour
-LOCATION:Zoom
+LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-social-hour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yale Center for Biomedical Data Science CBDS Seminar Series “Tow
+ ards Broad and Robust AI” - Irina Rish\, Quebec AI Institute
+DTSTART;VALUE=DATE-TIME:20201007T200000
+DTEND;VALUE=DATE-TIME:20201007T210000
+DESCRIPTION:Event description:\nYale Center for Biomedical Data Science\nC
+ BDS Seminar Series “Towards Broad and Robust AI”\n\nSpeaker: Irina Ris
+ h\, PhD\nComputer Science and Operations Research Department\nUniversité 
+ de Montréal (UdeM) and Core Member of MILA - Quebec AI Institute\n\nZoom:
+ \nhttps://yale.zoom.us/j/92067328444\n\nAbstract:\n\nModern AI systems hav
+ e achieved impressive results in many specific domains\, from image and sp
+ eech recognition to natural language processing and mastering complex game
+ s such as chess and Go. However\, they remain largely inflexible\, fragile
+  and narrow\, unable to continually adapt to a wide range of changing envi
+ ronments and novel tasks without “catastrophically forgetting” what th
+ ey have learned before\, to infer higher-order abstractions allowing for s
+ ystematic generalization to out-of-distribution data\, and to achieve the 
+ level of robustness necessary to “survive” various perturbations in th
+ eir environment - a natural property of most biological intelligent system
+ s. In this talk\, we will provide a brief overview of several recent advan
+ ces in continual learning (CL) which aim to push AI from “narrow” to 
+ “broad”\, including unsupervised architectural adaptations inspired by
+  adult neurogenesis in mammalian brains [1]\; transfer/interference trade-
+ off approaches enforcing gradient alignment across examples\, and combinin
+ g experience replay with optimization- based meta-learning [2]\, as well a
+ s recently proposed CL framework for quickly solving new\, out-of-distribu
+ tion tasks\, while also allowing for fast remembering of the previous ones
+  [3]. The latter framework unifies continual-\, meta-\, meta-continual-\, 
+ and continual-meta learning and introduces continual-MAML\, an online exte
+ nsion of the popular MAML algorithm. We also address the robust representa
+ tion learning problem\, i.e. extracting features invariant to various stoc
+ hastic and/or adversarial perturbations of theenvironment - a common goal 
+ across continual-\, meta-\, transfer learning as well as adversarial robus
+ tness\, out-of-distribution generalization\, self-supervised learning\, an
+ d related subfields. As an example\, our  recent Adversarial Feature Dese
+ nsitization (AFD) approach [4] trains a feature extractor network to gener
+ ate representations which are both predictive and robust to input perturba
+ tions (e.g. adversarial attacks) and demonstrates a significant improvemen
+ t over the state-of-the-art\, despite its relative simplicity (i.e.\, feat
+ ure robustness is enforced via additional adversarial decoder with a GAN-l
+ ike objective attempting to discriminate between the original and perturbe
+ d inputs). Finally\, we conclude the talk with a discussion of several dir
+ ections for future work\, which including drawing inspirations from neuros
+ cience\, to develop truly broad and robust AI systems capable of continual
+ \, lifelong learning.\n\nBio:\n\nIrina Rish is an Associate Professor in t
+ he Computer Science and Operations Research department at the Université 
+ de Montréal (UdeM) and a core member of MILA - Quebec AI Institute. She h
+ olds MSc and PhD in AI from University of California\, Irvine and MSc in A
+ pplied Mathematics from Moscow Gubkin Institute. Dr. Rish’s research foc
+ us is on machine learning\, neural data analysis and neuroscience-inspired
+  AI. Her current research interests include continual lifelong learning\, 
+ optimization algorithms for deep neural networks\, sparse modeling and pro
+ babilistic inference\, dialog generation\, biologically plausible reinforc
+ ement learning\, and dynamical systems approaches to brain imaging analysi
+ s. Before joining UdeM and MILA in 2019\, Irina was a research scientist a
+ t the IBM T.J. Watson Research Center\, where she worked on various projec
+ ts at the intersection of neuroscience and AI\, and led the Neuro-AI chall
+ enge. She received multiple IBM awards\, including IBM Eminence & Excellen
+ ce.\n\n\nhttps://cpsc.yale.edu/event/yale-center-biomedical-data-science-c
+ bds-seminar-series-towards-broad-and-robust-ai-irina-rish
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/yale-center-biomedical-data-science-cbds-s
+ eminar-series-towards-broad-and-robust-ai-irina-rish
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JBPO Meeting Dates\, AY 2020-21 - Information Only
@@ -101,7 +166,7 @@ DESCRIPTION:Event description:\nComputation and Society Colloquium and Com
  e.zoom.us/j/95783107535\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://cpsc.yale.edu/eve
  nt/computation-and-society-colloquium-and-computer-science-distinguished-s
  peaker-series-bernard
-LOCATION:Zoom
+LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/computation-and-society-colloquium-and-com
  puter-science-distinguished-speaker-series-bernard
@@ -142,7 +207,7 @@ DESCRIPTION:Event description:\nCS Distinguished Colloquium\n(This is a jo
  tten three novels: “Turing \,” “Logicomix”  and his latest “Ind
  ependence.”\n\n\nhttps://cpsc.yale.edu/event/cs-distinguished-colloquium
  -christos-papdimitriou-columbia-university
-LOCATION:Zoom
+LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-christos-papdi
  mitriou-columbia-university
@@ -154,7 +219,7 @@ DTEND;VALUE=DATE-TIME:20201023T210000
 DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker:\n
  Éva Tardos\, Cornell University\n\nHost: Yang Cai\n\n\nhttps://cpsc.yale.
  edu/event/cs-distinguished-colloquium-eva-tardos-cornell-university
-LOCATION:Zoom
+LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-eva-tardos-cor
  nell-university
@@ -166,7 +231,7 @@ DTEND;VALUE=DATE-TIME:20201030T210000
 DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker:\nT
  heodore Kim\, Yale University\n\n\nhttps://cpsc.yale.edu/event/cs-distingu
  ished-colloquium-theodore-kim-yale-university
-LOCATION:Zoom
+LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-theodore-kim-y
  ale-university
@@ -178,7 +243,7 @@ DTEND;VALUE=DATE-TIME:20201113T220000
 DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker:\nH
  ayley Iben\, Pixar\n\nHost: Ted Kim\n\n\nhttps://cpsc.yale.edu/event/cs-di
  stinguished-colloquium-hayley-iben-pixar
-LOCATION:Zoom
+LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-hayley-iben-pi
  xar
@@ -190,7 +255,7 @@ DTEND;VALUE=DATE-TIME:20201204T220000
 DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker:\nJ
  oel Emer\, MIT\n\nHost: Abhishek Bhattacharjee\n\n\nhttps://cpsc.yale.edu/
  event/cs-distinguished-colloquium-joel-emer-mit
-LOCATION:Zoom
+LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-joel-emer-mit
 END:VEVENT
