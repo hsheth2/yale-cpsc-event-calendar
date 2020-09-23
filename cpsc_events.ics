@@ -27,21 +27,21 @@ SUMMARY:Yale Center for Biomedical Data Science CBDS Seminar Series “Tow
 DTSTART;VALUE=DATE-TIME:20201007T200000
 DTEND;VALUE=DATE-TIME:20201007T210000
 DESCRIPTION:Event description:\nYale Center for Biomedical Data Science\nC
- BDS Seminar Series “Towards Broad and Robust AI”\n\nSpeaker: Irina Ris
- h\, PhD\nComputer Science and Operations Research Department\nUniversité 
- de Montréal (UdeM) and Core Member of MILA - Quebec AI Institute\n\nZoom:
- \nhttps://yale.zoom.us/j/92067328444\n\nAbstract:\n\nModern AI systems hav
- e achieved impressive results in many specific domains\, from image and sp
- eech recognition to natural language processing and mastering complex game
- s such as chess and Go. However\, they remain largely inflexible\, fragile
-  and narrow\, unable to continually adapt to a wide range of changing envi
- ronments and novel tasks without “catastrophically forgetting” what th
- ey have learned before\, to infer higher-order abstractions allowing for s
- ystematic generalization to out-of-distribution data\, and to achieve the 
- level of robustness necessary to “survive” various perturbations in th
- eir environment - a natural property of most biological intelligent system
- s. In this talk\, we will provide a brief overview of several recent advan
- ces in continual learning (CL) which aim to push AI from “narrow” to 
+ BDS Seminar Series “Towards Broad and Robust AI”\n\nSpeaker:\nIrina Ri
+ sh\, PhD\nComputer Science and Operations Research Department\nUniversité
+  de Montréal (UdeM) and Core Member of MILA - Quebec AI Institute\n\nZoom
+ :\nhttps://yale.zoom.us/j/92067328444\n\nAbstract:\n\nModern AI systems ha
+ ve achieved impressive results in many specific domains\, from image and s
+ peech recognition to natural language processing and mastering complex gam
+ es such as chess and Go. However\, they remain largely inflexible\, fragil
+ e and narrow\, unable to continually adapt to a wide range of changing env
+ ironments and novel tasks without “catastrophically forgetting” what t
+ hey have learned before\, to infer higher-order abstractions allowing for 
+ systematic generalization to out-of-distribution data\, and to achieve the
+  level of robustness necessary to “survive” various perturbations in t
+ heir environment - a natural property of most biological intelligent syste
+ ms. In this talk\, we will provide a brief overview of several recent adva
+ nces in continual learning (CL) which aim to push AI from “narrow” to 
  “broad”\, including unsupervised architectural adaptations inspired by
   adult neurogenesis in mammalian brains [1]\; transfer/interference trade-
  off approaches enforcing gradient alignment across examples\, and combinin
@@ -235,18 +235,6 @@ LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-theodore-kim-y
  ale-university
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS Distinguished Colloquium - Hayley Iben\, Pixar
-DTSTART;VALUE=DATE-TIME:20201113T210000
-DTEND;VALUE=DATE-TIME:20201113T220000
-DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker:\nH
- ayley Iben\, Pixar\n\nHost: Ted Kim\n\n\nhttps://cpsc.yale.edu/event/cs-di
- stinguished-colloquium-hayley-iben-pixar
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-hayley-iben-pi
- xar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - Joel Emer\, MIT
