@@ -2,6 +2,26 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:CS Social Hour
+DTSTART;VALUE=DATE-TIME:20200925T200000
+DTEND;VALUE=DATE-TIME:20200925T210000
+DESCRIPTION:Event description:\nCS Social Hour\n\nLast week\, a cohort of 
+ Yale CS majors virtually attended two conferences: the\nACM Richard Tapia 
+ Celebration of Diversity in Computing\n\, as well as the\nGame Developers 
+ of Color Expo\n. In all thanks to\nProf. Theodore Kim’s\ninitiative on t
+ his topic\, this week’s CS Social Hour will host these attendees. They w
+ ill describe and discuss their experiences at these conferences\, such as 
+ what they saw\, and who they met. Come to hear about these experiences\, a
+ nd find out how you can help send a Yale contingent (which may include you
+ !) to the same conferences next year.\n\nPlease join us on Friday\, Sept. 
+ 25\nth\nfrom 4:00 – 5:00pm.\n\nZoom link:\n\nJoin from PC\, Mac\, Linux\
+ , iOS or Android:\nhttps://yale.zoom.us/j/92748598082?pwd=QWFHemZNTkZPZWVZ
+ dGpvRHBRVFp6UT09\n\n\nhttps://cpsc.yale.edu/event/cs-social-hour
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-social-hour
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JBPO Meeting Dates\, AY 2020-21 - Information Only
 DTSTART;VALUE=DATE-TIME:20201008T200000
 DTEND;VALUE=DATE-TIME:20201008T210000
@@ -38,5 +58,140 @@ LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-
  only
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Computation and Society Colloquium and Computer Science Distinguis
+ hed Speaker Series - Bernard Chazelle\, Princeton Univ.
+DTSTART;VALUE=DATE-TIME:20201009T150000
+DTEND;VALUE=DATE-TIME:20201009T160000
+DESCRIPTION:Event description:\nComputation and Society Colloquium and Com
+ puter Science Distinguished Speaker Series\n\nSpeaker:\nBernard Chazelle\n
+ \, Eugene Higgins Professor of Computer Science\, Princeton\n\nTitle: Bui
+ lding an Algorithmic Toolkit for Out-of-Equilibrium Systems\n\nHost:\nNish
+ eeth Vishnoi\n\n\n\nAbstract:\nAlgorithms research has long been preoccupi
+ ed with systems that reach equilibrium: random processes should converge t
+ o stationary distributions\; dynamical systems should be attracting or\, a
+ t worst\, periodic\; algorithms should terminate and land in a “good” 
+ place\; etc. Natural algorithms\, those found in nature\, break all of the
+ se rules. What are we to do then? Answer: Build new algorithmic tools. I w
+ ill sketch some of my efforts in that direction. The talk will be aimed at
+  a general scientific audience and will require no background knowledge.\n
+ \n\n\nBio:\nBernard Chazelle (graduate of École des Mines de Paris\, PhD 
+ Yale) has been professor at Princeton University since 1986\, where he hol
+ ds the Eugene Higgins chair in Computer Science.\n\nAs Director of the NSF
+  Center for Computational Intractability\, his research focuses on algorit
+ hms and complexity. He has been a visiting professor at École Normale Sup
+ érieure (ENS) Ulm\, École Polytechnique\, University of Paris-Sud\, and 
+ INRIA. He spent many years as a consultant for Xerox PARC\, DEC SRC\, NEC 
+ Research\, (where he chaired the Board of Fellows) and Tsinghua University
+  in Beijing. He is\, or was\, member of the Scientific Committee at ENS Ul
+ m\, École Polytechnique\, and the Institut Henri Poincaré. He is also a 
+ member of the American Academy of Arts and Sciences and the European Acade
+ my of Sciences\, ACM Fellow\, Guggenheim Fellow\, and winner of several aw
+ ards from the SIAM mathematical society.\n\nA pioneering figure in computa
+ tional geometry\, Bernard Chazelle is known for his resolution of a number
+  of longstanding open questions in the field. His research has also led hi
+ m to investigate the role of randomness in computing\, a subject he took u
+ p in his book\, The Discrepancy Method: Randomness and Complexity. In the 
+ last few years\, his efforts have focused on “natural algorithms\,” wi
+ th the aim of building a bridge between dynamical systems and algorithms f
+ rom the living world. Professor Chazelle takes pride in having taught the 
+ very first “Integrated Science” program at Princeton University\, toge
+ ther with colleagues from physics and biology.\n\n\n\n\nZoom:\nhttps://yal
+ e.zoom.us/j/95783107535\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://cpsc.yale.edu/eve
+ nt/computation-and-society-colloquium-and-computer-science-distinguished-s
+ peaker-series-bernard
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/computation-and-society-colloquium-and-com
+ puter-science-distinguished-speaker-series-bernard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Distinguished Colloquium - Christos Papdimitriou\, Columbia Uni
+ versity
+DTSTART;VALUE=DATE-TIME:20201015T200000
+DTEND;VALUE=DATE-TIME:20201015T210000
+DESCRIPTION:Event description:\nCS Distinguished Colloquium\n(This is a jo
+ int event with YINS)\n\nSpeaker :\nChristos Papdimitriou\n\, Columbia Uni
+ versity\n\nTitle: “Language\, Brain\, and Computation”\n\nAbstract:\n\
+ nHow does the brain beget the mind?  How do molecules\, cells and synapse
+ s effect reasoning\, intelligence\, language?   Despite dazzling progres
+ s in experimental neuroscience\, as well as in cognitive science at the ot
+ her extreme of scale\, we do not seem to be making progress in the overarc
+ hing question – the gap is huge and a completely new approach seems to b
+ e required.  As Richard Axel recently put it:  “We don’t have a logi
+ c for the transformation of neural activity into thought […].”\n\nWhat
+  kind of formal system would qualify as this “logic”?\n\nI will introd
+ uce a computational system whose basic data structure is the assembly – 
+ assemblies are large populations of neurons representing concepts\, words\
+ , thoughts\, etc. –\, and which is informed by recent progress in unders
+ tanding how language happens in the brain.\n\nBio:\n\nChristos Harilaos Pa
+ padimitriou is the Donovan Family Professor of Computer Science at Columbi
+ a University.  Before joining Columbia in 2017\, he was a professor at UC
+  Berkeley for the previous 22 years\, and before that he taught at Harvard
+ \, MIT\, NTU Athens\, Stanford\, and UCSD.  He has written five textbooks
+  and many articles on algorithms and complexity\, and their applications t
+ o optimization\, databases\, control\, AI\, robotics\, economics and game 
+ theory\, the Internet\, evolution\, and the brain.  He holds a PhD from P
+ rinceton (1976)\, and eight honorary doctorates.  He is a member of the N
+ ational Academy of Sciences of the US\, the American Academy of Arts and S
+ ciences\, and the National Academy of Engineering\, and he has received th
+ e Knuth prize\, the Go”del prize\, the von Neumann medal\, as well as th
+ e 2018 Harvey Prize by Technion.  In 2015 the president of the Hellenic r
+ epublic named him commander of the order of the Phoenix.  He has also wri
+ tten three novels: “Turing \,” “Logicomix”  and his latest “Ind
+ ependence.”\n\n\nhttps://cpsc.yale.edu/event/cs-distinguished-colloquium
+ -christos-papdimitriou-columbia-university
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-christos-papdi
+ mitriou-columbia-university
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Distinguished Colloquium - Eva Tardos\, Cornell University
+DTSTART;VALUE=DATE-TIME:20201023T200000
+DTEND;VALUE=DATE-TIME:20201023T210000
+DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker:\n
+ Éva Tardos\, Cornell University\n\nHost: Yang Cai\n\n\nhttps://cpsc.yale.
+ edu/event/cs-distinguished-colloquium-eva-tardos-cornell-university
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-eva-tardos-cor
+ nell-university
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Distinguished Colloquium - Theodore Kim\, Yale University
+DTSTART;VALUE=DATE-TIME:20201030T200000
+DTEND;VALUE=DATE-TIME:20201030T210000
+DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker:\nT
+ heodore Kim\, Yale University\n\n\nhttps://cpsc.yale.edu/event/cs-distingu
+ ished-colloquium-theodore-kim-yale-university
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-theodore-kim-y
+ ale-university
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Distinguished Colloquium - Hayley Iben\, Pixar
+DTSTART;VALUE=DATE-TIME:20201113T210000
+DTEND;VALUE=DATE-TIME:20201113T220000
+DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker:\nH
+ ayley Iben\, Pixar\n\nHost: Ted Kim\n\n\nhttps://cpsc.yale.edu/event/cs-di
+ stinguished-colloquium-hayley-iben-pixar
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-hayley-iben-pi
+ xar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Distinguished Colloquium - Joel Emer\, MIT
+DTSTART;VALUE=DATE-TIME:20201204T210000
+DTEND;VALUE=DATE-TIME:20201204T220000
+DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker:\nJ
+ oel Emer\, MIT\n\nHost: Abhishek Bhattacharjee\n\n\nhttps://cpsc.yale.edu/
+ event/cs-distinguished-colloquium-joel-emer-mit
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-joel-emer-mit
 END:VEVENT
 END:VCALENDAR
