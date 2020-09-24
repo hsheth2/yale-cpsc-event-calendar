@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
-SUMMARY:Related event: “Challenges of Making Unbiaised Decisions in a Wo
- rld of Data and Algorithms” with Nisheeth Vishnoi\, Professor of Compute
- r Science
-DTSTART;VALUE=DATE-TIME:20200923T154500
-DTEND;VALUE=DATE-TIME:20200923T164500
-DESCRIPTION:Event description\nSpeaker: Nisheeth Vishnoi\, Professor of C
- omputer Science\n\n\n\nTitle: Challenges of Making Unbiaised Decisions in 
- a World of Data and Algorithms\n\n\n\nDetails and registration:\nhttps://s
- om.yale.edu/event/2020/09/challenges-of-making-unbiaised-decisions-in-worl
- d-of-data-and-algorithms-with-nisheeth-vishnoi-professor-of-computer-scien
- ce\n\n\nhttps://computationsociety.yale.edu/event/related-event-challenges
- -of-making-unbiaised-decisions-in-a-world-of-data-and-algorithms-with
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://computationsociety.yale.edu/event/related-event-challenges-of-
- making-unbiaised-decisions-in-a-world-of-data-and-algorithms-with
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Colloquium by Bernard Chazelle\, Princeton
 DTSTART;VALUE=DATE-TIME:20201009T150000
 DTEND;VALUE=DATE-TIME:20201009T160000
