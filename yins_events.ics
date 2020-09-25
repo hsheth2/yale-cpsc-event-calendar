@@ -1,4 +1,42 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
+BEGIN:VEVENT
+SUMMARY:YINS Seminar\, Christos Papadimitriou
+DTSTART;VALUE=DATE-TIME:20201015T200000
+DTEND;VALUE=DATE-TIME:20201015T210000
+DESCRIPTION:Event description:\nYINS Seminar\,\n“Language\, Brain\, and 
+ Computation”\n\n\n\nSpeaker: Christos Papadimitriou\n\nAbstract:\nHow d
+ oes the brain beget the mind?  How do molecules\, cells and synapses effe
+ ct reasoning\, intelligence\, language?   Despite dazzling progress in ex
+ perimental neuroscience\, as well as in cognitive  science at the other e
+ xtreme of scale\, we do not seem to be making progress in the overarching 
+ question – the gap is huge and a completely new approach seems to be req
+ uired.  As Richard Axel recently put it:  ”We don’t have a logic for
+  the transformation  of neural activity into thought […].”       
+     What kind of formal system would qualify as this “logic”?     
+       I will introduce a computational system whose basic data structur
+ e is the assembly – assemblies are large populations of neurons represen
+ ting concepts\, words\, thoughts\, etc. –\, and which is informed by rec
+ ent  progress in understanding how language happens in the brain.\n\nSpea
+ ker Bio:\nChristos Harilaos Papadimitriou is the Donovan Family Professor 
+ of Computer Science at Columbia University.  Before joining Columbia in 2
+ 017\, he was a professor at UC Berkeley for the previous 22 years\,  and 
+ before that he taught at Harvard\, MIT\, NTU Athens\, Stanford\, and UCSD.
+   He has written five textbooks and many articles on algorithms and compl
+ exity\, and their applications to optimization\, databases\, control\, AI\
+ , robotics\, economics and game theory\, the  Internet\, evolution\, and 
+ the brain.  He holds a PhD from Princeton (1976)\, and eight honorary doc
+ torates.  He is a member of the National Academy of Sciences of the US\, 
+ the American Academy of Arts and Sciences\, and the National Academy of En
+ gineering\, and  he has received the Knuth prize\, the Go”del prize\, t
+ he von Neumann medal\, as well as the 2018 Harvey Prize by Technion.  In 
+ 2015 the president of the Hellenic republic named him commander of the ord
+ er of the Phoenix.  He has also written three novels: “Turing\,” “L
+ ogicomix”  and his latest “Independence.”\n\n.\n\n\nhttps://yins.ya
+ le.edu/event/yins-seminar-christos-papadimitriou
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-christos-papadimitriou
+END:VEVENT
 END:VCALENDAR
