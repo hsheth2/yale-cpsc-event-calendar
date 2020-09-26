@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Social Hour
-DTSTART;VALUE=DATE-TIME:20200925T200000
-DTEND;VALUE=DATE-TIME:20200925T210000
-DESCRIPTION:Event description:\nCS Social Hour\n\nLast week\, a cohort of 
- Yale CS majors virtually attended two conferences: the\nACM Richard Tapia 
- Celebration of Diversity in Computing\n\, as well as the\nGame Developers 
- of Color Expo\n. In all thanks to\nProf. Theodore Kim’s\ninitiative on t
- his topic\, this week’s CS Social Hour will host these attendees. They w
- ill describe and discuss their experiences at these conferences\, such as 
- what they saw\, and who they met. Come to hear about these experiences\, a
- nd find out how you can help send a Yale contingent (which may include you
- !) to the same conferences next year.\n\nPlease join us on Friday\, Sept. 
- 25\nth\nfrom 4:00 – 5:00pm.\n\nZoom link:\nhttps://yale.zoom.us/j/927485
- 98082\n\n\n\nhttps://cpsc.yale.edu/event/cs-social-hour
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-social-hour
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yale Center for Biomedical Data Science CBDS Seminar Series “Tow
  ards Broad and Robust AI” - Irina Rish\, Quebec AI Institute
 DTSTART;VALUE=DATE-TIME:20201007T200000
