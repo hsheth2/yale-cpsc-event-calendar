@@ -2,7 +2,8 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Pathways to a Sustainable Future
+SUMMARY:A Better Planet:  40 Big Ideas for a Sustainable Future\, On-line 
+ Talk by Professor Dan Esty
 DTSTART;VALUE=DATE-TIME:20201015T200000
 DTEND;VALUE=DATE-TIME:20201015T210000
 DESCRIPTION:Event description:\n**Zoom link to follow soon.**\n\nSustainab
@@ -22,11 +23,12 @@ DESCRIPTION:Event description:\n**Zoom link to follow soon.**\n\nSustainab
  ronment and Yale Law School. He served as head of the Connecticut Departme
  nt of Energy and Environmental Protection from 2011 to 2014 and in several
   leadership roles at the U.S. Environmental Protection Agency from 1989 to
-  1993.\n\n\nhttps://frankeprogram.yale.edu/event/pathways-sustainable-futu
- re
+  1993.\n\n\nhttps://frankeprogram.yale.edu/event/better-planet-40-big-idea
+ s-sustainable-future-line-talk-professor-dan-esty
 LOCATION:Zoom
 STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/pathways-sustainable-future
+URL:https://frankeprogram.yale.edu/event/better-planet-40-big-ideas-sustai
+ nable-future-line-talk-professor-dan-esty
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mapping as Knowing Lecture Series Talk by Kim Stanley Robinson
