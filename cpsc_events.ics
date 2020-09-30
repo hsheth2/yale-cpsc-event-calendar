@@ -104,44 +104,6 @@ URL:https://cpsc.yale.edu/event/yale-center-biomedical-data-science-cbds-s
  eminar-series-towards-broad-and-robust-ai-irina-rish
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JBPO Meeting Dates\, AY 2020-21 - Information Only
-DTSTART;VALUE=DATE-TIME:20201008T200000
-DTEND;VALUE=DATE-TIME:20201008T210000
-DESCRIPTION:Event description:\nThe dates for the Joint Boards of Permanen
- t Officers (JBPO) have been scheduled for the 2020-21 academic year.  Ple
- ase reserve:\n\nThursday\, October 8\, 2020\n\nThursday\, October 29\, 202
- 0\n\nThursday\, December 10\, 2020\n\nThursday\, February 25\, 2021\n\nThu
- rsday\, April 15\, 2021\n\nThursday\, May 13\, 2021\n\nAll meetings start 
- at 4:00 p.m. and will be via Zoom for the foreseeable future. Two weeks pr
- ior to each meeting\, an email will be sent with the link to preregister f
- or the meeting\, along with the CONFIDENTIAL agenda and supporting materia
- ls. After preregistering you will receive a confirmation email containing 
- the Zoom link to join the meeting.\n\nIn order to ensure a quorum*\, pleas
- e attend if you are able\, especially if you are a designated quorum offic
- er of your department or program.\n\n*Voting in the Joint Boards of Perman
- ent Officers. Full professors whose primary or fully joint appointments ar
- e in a Faculty of Arts and Sciences department may vote\, as may full prof
- essors of professional schools with secondary appointments in a Faculty of
-  Arts and Sciences department and explicit Corporation approval for such v
- oting rights. The only exception to this rule is for faculty in Molecular 
- Biophysics and Biochemistry who are assigned to vote in the School of Medi
- cine’s Board of Permanent Officers and may not also vote in the Joint Bo
- ards of Permanent Officers of Yale College and the Graduate School. By lon
- g standing custom\, a quorum for the conduct of business at a meeting of t
- he Joint Boards consists of 37 members eligible to vote. No vote has force
-  if the number of votes\, plus recorded abstentions\, falls short of that 
- number. Tenure appointments are forwarded to the Corporation only upon an 
- affirmative vote by two-thirds of the members present and eligible to vote
- . All other appointments are approved by majority vote. (Faculty Handbook\
- , Section IV.F.5)\n\nYale University | Faculty of Arts and Sciences |\nhtt
- p://fas.yale.edu/\n\n\nhttps://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2
- 020-21-information-only
-LOCATION:Zoom
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-
- only
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Computation and Society Colloquium and Computer Science Distinguis
  hed Speaker Series - Bernard Chazelle\, Princeton Univ.
 DTSTART;VALUE=DATE-TIME:20201009T150000
@@ -240,6 +202,43 @@ LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-eva-tardos-cor
  nell-university
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JBPO Meeting Dates\, AY 2020-21 - Information Only
+DTSTART;VALUE=DATE-TIME:20201029T200000
+DTEND;VALUE=DATE-TIME:20201029T210000
+DESCRIPTION:Event description:\nThe dates for the Joint Boards of Permanen
+ t Officers (JBPO) have been scheduled for the 2020-21 academic year.  Ple
+ ase reserve:\n\nThursday\, October 29\, 2020\n\nThursday\, December 10\, 2
+ 020\n\nThursday\, February 25\, 2021\n\nThursday\, April 15\, 2021\n\nThur
+ sday\, May 13\, 2021\n\nAll meetings start at 4:00 p.m. and will be via Zo
+ om for the foreseeable future. Two weeks prior to each meeting\, an email 
+ will be sent with the link to preregister for the meeting\, along with the
+  CONFIDENTIAL agenda and supporting materials. After preregistering you wi
+ ll receive a confirmation email containing the Zoom link to join the meeti
+ ng.\n\nIn order to ensure a quorum*\, please attend if you are able\, espe
+ cially if you are a designated quorum officer of your department or progra
+ m.\n\n*Voting in the Joint Boards of Permanent Officers. Full professors w
+ hose primary or fully joint appointments are in a Faculty of Arts and Scie
+ nces department may vote\, as may full professors of professional schools 
+ with secondary appointments in a Faculty of Arts and Sciences department a
+ nd explicit Corporation approval for such voting rights. The only exceptio
+ n to this rule is for faculty in Molecular Biophysics and Biochemistry who
+  are assigned to vote in the School of Medicine’s Board of Permanent Off
+ icers and may not also vote in the Joint Boards of Permanent Officers of Y
+ ale College and the Graduate School. By long standing custom\, a quorum fo
+ r the conduct of business at a meeting of the Joint Boards consists of 37 
+ members eligible to vote. No vote has force if the number of votes\, plus 
+ recorded abstentions\, falls short of that number. Tenure appointments are
+  forwarded to the Corporation only upon an affirmative vote by two-thirds 
+ of the members present and eligible to vote. All other appointments are ap
+ proved by majority vote. (Faculty Handbook\, Section IV.F.5)\n\nYale Unive
+ rsity | Faculty of Arts and Sciences |\nhttp://fas.yale.edu/\n\n\nhttps://
+ cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-only
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-
+ only
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - Theodore Kim\, Yale University
