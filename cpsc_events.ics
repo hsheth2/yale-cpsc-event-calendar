@@ -2,6 +2,43 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:CS Talk - Voicu Popescu\, Purdue University
+DTSTART;VALUE=DATE-TIME:20201006T190000
+DTEND;VALUE=DATE-TIME:20201006T200000
+DESCRIPTION:Event description:\nCS Talk\nSpeaker:\nVoicu Popescu\n\, Purdu
+ e University\n\nTitle: Image Generalization Through Camera Model Design\n\
+ nHost: Holly Rushmeier\n\nAbstract:\n\nMost computer graphics and visualiz
+ ation applications rely on images rendered with the planar pinhole camera\
+ , which approximates the human eye. Whereas for some applications it is im
+ portant to generate images that closely resemble what users would actually
+  see if they explored a physical replica of the dataset\, for many other a
+ pplications the constraints of the planar pinhole camera are unnecessarily
+  restrictive. In this talk we give an overview of our work to remove the u
+ niform sampling rate and the single viewpoint constraints of conventional 
+ images. The image generalization is implemented through an intervention at
+  the camera model level. We present the camera model design paradigm that 
+ abandons the conventional rigidity of the camera model in favor of designi
+ ng and optimizing the camera model for each application\, for each dataset
+ \, and for each view. The resulting generalized image is more effective th
+ an a conventional image\, yet it remains easy to compute\, continuous\, an
+ d non-redundant. We illustrate the benefits of image generalization in a w
+ ide range of applications such as focus+context\, remote\, and multiperspe
+ ctive visualization\, visibility computation\, rendering acceleration\, vi
+ rtual and augmented reality navigation\, and diminished reality.\n\nBio:\n
+ \nVoicu Popescu is an Associate Professor of Computer Science at Purdue Un
+ iversity. He has a Computer Science Ph.D. degree from the University of No
+ rth Carolina at Chapel Hill\, and a Computer Science B.Sc. degree from the
+  Technical University of Cluj-Napoca\, Romania. His research interests lie
+  at the confluence of computer graphics\, visualization\, computer human i
+ nteraction\, and computer vision\, with applications in defense\, healthca
+ re\, and education.\n\nZoom Link:\nhttps://yale.zoom.us/j/95740385111?pwd=
+ aHQwOFlhb01GTkZKT0hKcEYwN2g1UT09\n\n\n\n\n\nhttps://cpsc.yale.edu/event/cs
+ -talk-voicu-popescu-purdue-university
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-voicu-popescu-purdue-university
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yale Center for Biomedical Data Science CBDS Seminar Series “Tow
  ards Broad and Robust AI” - Irina Rish\, Quebec AI Institute
 DTSTART;VALUE=DATE-TIME:20201007T200000
