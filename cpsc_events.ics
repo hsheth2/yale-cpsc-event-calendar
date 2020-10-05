@@ -151,6 +151,35 @@ URL:https://cpsc.yale.edu/event/computation-and-society-colloquium-and-com
  puter-science-distinguished-speaker-series-bernard
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Distinguished Colloquium - Ramana Kompella\, Cisco
+DTSTART;VALUE=DATE-TIME:20201009T200000
+DTEND;VALUE=DATE-TIME:20201009T210000
+DESCRIPTION:Event description:\nCS Distinguished Colloquium\nRamana Kompel
+ la\, Cisco\n\nTitle: Research topics of interest in emerging tech areas fo
+ r Cisco\n\nZoom link:\nhttps://yale.zoom.us/j/92748598082\n\nHost: Robert 
+ Soule\n\nAbstract:\n\nIn the past few months\, Cisco Research has started 
+ focusing on several emerging technology areas of interest to Cisco. In thi
+ s talk\, I will be talking a bit about  what these areas are of research
+  interest are\, how we are leveraging and engaging with universities for t
+ ech and societal impact.\n\nBio:\n\nDr. Ramana Kompella is currently the H
+ ead of Research in the Emerging Technology and Incubation group at Cisco. 
+ His previous experience includes co-founding successful startups\, and pro
+ viding engineering leadership to build world class products currently in u
+ se in several hundreds of customers’ data centers. Prior to his industry
+  roles\, he was a tenured faculty at Purdue in Computer Science Department
+ \, where he conducted research on systems and networking areas\, with mult
+ i-million dollar grants from NSF and other industry sources. He co-advised
+  several PhD and Masters students\, and has co-authored 70+ publications i
+ n top networking and systems conferences such as SIGCOMM. He was the recip
+ ient of several awards including the prestigious NSF CAREER award.\n\n\nht
+ tps://cpsc.yale.edu/event/cs-distinguished-colloquium-ramana-kompella-cisc
+ o
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-ramana-kompell
+ a-cisco
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - Christos Papdimitriou\, Columbia Uni
  versity
 DTSTART;VALUE=DATE-TIME:20201015T200000
@@ -195,9 +224,47 @@ BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - Eva Tardos\, Cornell University
 DTSTART;VALUE=DATE-TIME:20201023T200000
 DTEND;VALUE=DATE-TIME:20201023T210000
-DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker:\n
- Éva Tardos\, Cornell University\n\nHost: Yang Cai\n\n\nhttps://cpsc.yale.
- edu/event/cs-distinguished-colloquium-eva-tardos-cornell-university
+DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nÉva Tardos
+ \, Cornell University\n\nTitle: Selfish Learning in Queueing Systems\n\nHo
+ st: Yang Cai\n\nZoom link:\nhttps://yale.zoom.us/j/92748598082\n\nAbstract
+ :\n\nOver the last two decades we have developed good understanding how to
+  quantify the impact of strategic user behavior on overall performance in 
+ many games (including traffic routing as well as online auctions)\, and sh
+ owed that the resulting bounds extend to repeated games assuming players u
+ se a form of no-regret learning that helps them adapt to the environment.
+   Unfortunately these results do not apply when outcomes in one iteration
+  effect the game in the future\, which is typically the case in applicatio
+ ns. In this talk we will study this phenomenon in the context of a game mo
+ deling queuing systems: routers compete for servers\, where packets that d
+ o not get service will be resent at future rounds\, resulting in a system 
+ where the number of packets at each round depends on the success of the ro
+ uters in the previous rounds. In joint work with Jason Gaitonde\, we analy
+ ze the resulting highly dependent random process and find that if the capa
+ city of the servers is high enough to allow a centralized and knowledgeabl
+ e scheduler to get all packets served even with double the packet arrival 
+ rate\, then learning can help the queues in coordinating their behavior\, 
+ the expected number of packets in the queues will remain bounded throughou
+ t time\, assuming older packets have priority.\n\nBio:\n\nÉva Tardos is
+  a Jacob Gould Schurman Professor of Computer Science\, currently chair of
+  the Department of Computer Science for a second term after being chair 20
+ 06-2010. She was Interim Dean for Computing and Information Sciences 2012-
+ 2013 and more recently was Associate Dean for Diversity & Inclusion at Cor
+ nell University. She received her BA and PhD from Eötvös University in B
+ udapest. She joined the faculty at Cornell in 1989. Tardos’s research i
+ nterest is algorithms and interface of algorithms and incentives.  She is
+  most known for her work on network-flow algorithms and quantifying the ef
+ ficiency of selfish routing. She has been elected to the National Academy 
+ of Engineering\, the National Academy of Sciences\, the American Philosoph
+ ical Society\, the American Academy of Arts and Sciences\, and to the Hung
+ arian Academy of Sciences. She is the recipient of a number of fellowships
+  and awards including the Packard Fellowship\, the Gödel Prize\, Dantzig 
+ Prize\, Fulkerson Prize\, ETACS prize\, and the IEEE von Neumann Medal. Sh
+ e co-wrote the widely used textbook\nAlgorithms Design\n. She is editor ed
+ itor-in-Chief of the Journal of the ACM\, has been editor-in-Chief of SIAM
+  Journal of Computing\, and editor of several other journals\, and was pro
+ gram committee member and chair for several ACM and IEEE conferences in he
+ r area.\n\n\nhttps://cpsc.yale.edu/event/cs-distinguished-colloquium-eva-t
+ ardos-cornell-university
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-eva-tardos-cor
