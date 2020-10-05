@@ -2,41 +2,104 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar\, Christos Papadimitriou
-DTSTART;VALUE=DATE-TIME:20201015T200000
-DTEND;VALUE=DATE-TIME:20201015T210000
-DESCRIPTION:Event description:\nYINS Seminar\,\n“Language\, Brain\, and 
- Computation”\n\n\n\nSpeaker: Christos Papadimitriou\n\nAbstract:\nHow d
- oes the brain beget the mind?  How do molecules\, cells and synapses effe
- ct reasoning\, intelligence\, language?   Despite dazzling progress in ex
- perimental neuroscience\, as well as in cognitive  science at the other e
- xtreme of scale\, we do not seem to be making progress in the overarching 
- question – the gap is huge and a completely new approach seems to be req
- uired.  As Richard Axel recently put it:  ”We don’t have a logic for
-  the transformation  of neural activity into thought […].”       
-     What kind of formal system would qualify as this “logic”?     
-       I will introduce a computational system whose basic data structur
- e is the assembly – assemblies are large populations of neurons represen
- ting concepts\, words\, thoughts\, etc. –\, and which is informed by rec
- ent  progress in understanding how language happens in the brain.\n\nSpea
- ker Bio:\nChristos Harilaos Papadimitriou is the Donovan Family Professor 
- of Computer Science at Columbia University.  Before joining Columbia in 2
- 017\, he was a professor at UC Berkeley for the previous 22 years\,  and 
- before that he taught at Harvard\, MIT\, NTU Athens\, Stanford\, and UCSD.
-   He has written five textbooks and many articles on algorithms and compl
- exity\, and their applications to optimization\, databases\, control\, AI\
- , robotics\, economics and game theory\, the  Internet\, evolution\, and 
- the brain.  He holds a PhD from Princeton (1976)\, and eight honorary doc
- torates.  He is a member of the National Academy of Sciences of the US\, 
- the American Academy of Arts and Sciences\, and the National Academy of En
- gineering\, and  he has received the Knuth prize\, the Go”del prize\, t
- he von Neumann medal\, as well as the 2018 Harvey Prize by Technion.  In 
- 2015 the president of the Hellenic republic named him commander of the ord
- er of the Phoenix.  He has also written three novels: “Turing\,” “L
- ogicomix”  and his latest “Independence.”\n\n.\n\n\nhttps://yins.ya
- le.edu/event/yins-seminar-christos-papadimitriou
+SUMMARY:YINS Seminar: Dimitris Papailiopoulos (University of Wisconsin-Mad
+ ison)
+DTSTART;VALUE=DATE-TIME:20201007T160000
+DTEND;VALUE=DATE-TIME:20201007T170000
+DESCRIPTION:Event description:\nYINS Seminar\,\n“Learning is Pruning”\
+ n\nSpeaker: Dimitris Papailiopoulos\n\nAssistant Professor of Electrical 
+ and Computer Engineering and Computer Sciences (by courtesy)\nUniversity o
+ f Wisconsin-Madison\n\nTo participate:\nJoin from PC\, Mac\, Linux\, iOS o
+ r Android:\nhttps://yale.zoom.us/j/91203891352\n\nOr Telephone：203-432-9
+ 666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 912 0389 1352\nInte
+ rnational numbers available:\nhttps://yale.zoom.us/u/aBVxXEOVF\n\n\nAbstra
+ ct:\nThe strong lottery ticket hypothesis (LTH) postulates that any neural
+  network can be approximated by simply pruning a sufficiently larger netwo
+ rk of random weights. Recent work establishes that the strong LTH is true 
+ if the random network to be pruned is a large poly-factor wider than the t
+ arget one. This polynomial over-parameterization is at odds with experimen
+ tal research that achieves good approximation by pruning networks that are
+  only a small factor wider than the target one. In this talk\, I will tell
+  you how we close this gap and offer an exponential improvement to the ove
+ r-parameterization requirement. I will give a sketch of the proof that any
+  target network can be approximated by pruning a random one that is only a
+  logarithmic factor wider. This is possible by establishing a connection b
+ etween pruning random ReLU networks and random instances of the weakly NP-
+ hard SubsetSum problem. Our work indicates the existence of a universal st
+ riking phenomenon: neural network training is equivalent to pruning slight
+ ly overparameterized networks of random weights. I will conclude with shar
+ ing hints of a general framework indicating the existence of good pruned n
+ etworks for a variety of activation functions\, architectures\, even appli
+ cable for the case where both initialization weights and activations are b
+ inary.\n\nSpeaker Bio:\nDimitris Papailiopoulos is an Assistant Professor 
+ of Electrical and Computer Engineering and Computer Sciences (by courtesy)
+  at the University of Wisconsin-Madison\, a faculty fellow of the Grainger
+  Institute for Engineering\, and a faculty affiliate at the Wisconsin Inst
+ itute for Discovery. His research interests span machine learning\, inform
+ ation theory\, and distributed systems\, with a current focus on communica
+ tion-efficient training algorithms and coding-theoretic techniques that gu
+ arantee robustness during training and inference. Between 2014 and 2016\, 
+ Dimitris was a postdoctoral researcher at UC Berkeley and a member of the 
+ AMPLab. He earned his Ph.D. in ECE from UT Austin in 2014\, under the supe
+ rvision of Alex Dimakis. In 2007 he received his ECE Diploma and in 2009 h
+ is M.Sc. degree from the Technical University of Crete\, in Greece. Dimitr
+ is is a recipient of the NSF CAREER Award (2019)\, two Sony Faculty Innova
+ tion Awards (2019 and 2020)\, the Benjamin Smith Reynolds Award for Excell
+ ence in Teaching (2019)\, a joint IEEE ComSoc/ITSoc Best Paper Award (2020
+ )\, and an IEEE Signal Processing Society\, Young Author Best Paper Award 
+ (2015). In 2018\, he co-founded MLSys\, a new conference that targets rese
+ arch at the intersection of machine learning and systems. In 2018 and 2020
+  he was program co-chair for MLSys\, and in 2019 he co-chaired the 3rd Mid
+ west Machine Learning Symposium.\n\n.\n\n\nhttps://yins.yale.edu/event/yin
+ s-seminar-dimitris-papailiopoulos-university-wisconsin-madison
 LOCATION:Zoom
 STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-christos-papadimitriou
+URL:https://yins.yale.edu/event/yins-seminar-dimitris-papailiopoulos-unive
+ rsity-wisconsin-madison
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS+CS Distinguished Seminar: Christos Papadimitriou (Columbia Un
+ iversity)
+DTSTART;VALUE=DATE-TIME:20201015T200000
+DTEND;VALUE=DATE-TIME:20201015T210000
+DESCRIPTION:Event description:\nYINS+CS Distinguished Seminar\,\n“Langua
+ ge\, Brain\, and Computation”\n\n\n\nSpeaker: Christos Papadimitriou\n\n
+ Donovan Family Professor of Computer Science\nColumbia University\n\nTo jo
+ in:\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/
+ 92748598082\n\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 56
+ 8 7788\nMeeting ID: 927 4859 8082\nInternational numbers available:\nhttps
+ ://yale.zoom.us/u/adNtvlS8bv\n\n\nAbstract:\nHow does the brain beget the 
+ mind?  How do molecules\, cells and synapses effect reasoning\, intellige
+ nce\, language?   Despite dazzling progress in experimental neuroscience\
+ , as well as in cognitive  science at the other extreme of scale\, we do 
+ not seem to be making progress in the overarching question – the gap is 
+ huge and a completely new approach seems to be required.  As Richard Axel
+  recently put it:  ”We don’t have a logic for the transformation  of
+  neural activity into thought […].”           What kind of formal
+  system would qualify as this “logic”?           I will introduce
+  a computational system whose basic data structure is the assembly – ass
+ emblies are large populations of neurons representing concepts\, words\, t
+ houghts\, etc. –\, and which is informed by recent  progress in underst
+ anding how language happens in the brain.\n\nSpeaker Bio:\nChristos Harila
+ os Papadimitriou is the Donovan Family Professor of Computer Science at Co
+ lumbia University.  Before joining Columbia in 2017\, he was a professor 
+ at UC Berkeley for the previous 22 years\,  and before that he taught at 
+ Harvard\, MIT\, NTU Athens\, Stanford\, and UCSD.  He has written five te
+ xtbooks and many articles on algorithms and complexity\, and their applica
+ tions to optimization\, databases\, control\, AI\, robotics\, economics an
+ d game theory\, the  Internet\, evolution\, and the brain.  He holds a P
+ hD from Princeton (1976)\, and eight honorary doctorates.  He is a member
+  of the National Academy of Sciences of the US\, the American Academy of A
+ rts and Sciences\, and the National Academy of Engineering\, and  he has 
+ received the Knuth prize\, the Go”del prize\, the von Neumann medal\, as
+  well as the 2018 Harvey Prize by Technion.  In 2015 the president of the
+  Hellenic republic named him commander of the order of the Phoenix.  He h
+ as also written three novels: “Turing\,” “Logicomix”  and his lat
+ est “Independence.”\n\n.\n\n\nhttps://yins.yale.edu/event/yinscs-disti
+ nguished-seminar-christos-papadimitriou-columbia-university
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yinscs-distinguished-seminar-christos-papa
+ dimitriou-columbia-university
 END:VEVENT
 END:VCALENDAR

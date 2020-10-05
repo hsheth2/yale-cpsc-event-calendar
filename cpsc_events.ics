@@ -151,33 +151,63 @@ URL:https://cpsc.yale.edu/event/computation-and-society-colloquium-and-com
  puter-science-distinguished-speaker-series-bernard
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS Distinguished Colloquium - Ramana Kompella\, Cisco
+SUMMARY:CS Distinguished Colloquium - Ramana Kompella and John Marshall\, 
+ Cisco
 DTSTART;VALUE=DATE-TIME:20201009T200000
 DTEND;VALUE=DATE-TIME:20201009T210000
 DESCRIPTION:Event description:\nCS Distinguished Colloquium\nRamana Kompel
- la\, Cisco\n\nTitle: Research topics of interest in emerging tech areas fo
- r Cisco\n\nZoom link:\nhttps://yale.zoom.us/j/92748598082\n\nHost: Robert 
- Soule\n\nAbstract:\n\nIn the past few months\, Cisco Research has started 
- focusing on several emerging technology areas of interest to Cisco. In thi
- s talk\, I will be talking a bit about  what these areas are of research
-  interest are\, how we are leveraging and engaging with universities for t
- ech and societal impact.\n\nBio:\n\nDr. Ramana Kompella is currently the H
- ead of Research in the Emerging Technology and Incubation group at Cisco. 
- His previous experience includes co-founding successful startups\, and pro
- viding engineering leadership to build world class products currently in u
- se in several hundreds of customers’ data centers. Prior to his industry
-  roles\, he was a tenured faculty at Purdue in Computer Science Department
- \, where he conducted research on systems and networking areas\, with mult
- i-million dollar grants from NSF and other industry sources. He co-advised
-  several PhD and Masters students\, and has co-authored 70+ publications i
- n top networking and systems conferences such as SIGCOMM. He was the recip
- ient of several awards including the prestigious NSF CAREER award.\n\n\nht
- tps://cpsc.yale.edu/event/cs-distinguished-colloquium-ramana-kompella-cisc
- o
+ la\, Cisco\nJohn Marshall\, Cisco\n\nZoom link:\nhttps://yale.zoom.us/j/92
+ 748598082\n\nHost: Robert Soule\n\nRamana Kompella\, Cisco\nTitle: Researc
+ h topics of interest in emerging tech areas for Cisco\n\nAbstract:\n\nIn t
+ he past few months\, Cisco Research has started focusing on several emergi
+ ng technology areas of interest to Cisco. In this talk\, I will be talking
+  a bit about  what these areas are of research interest are\, how we are
+  leveraging and engaging with universities for tech and societal impact.\n
+ \nBio:\n\nDr. Ramana Kompella is currently the Head of Research in the Eme
+ rging Technology and Incubation group at Cisco. His previous experience in
+ cludes co-founding successful startups\, and providing engineering leaders
+ hip to build world class products currently in use in several hundreds of 
+ customers’ data centers. Prior to his industry roles\, he was a tenured 
+ faculty at Purdue in Computer Science Department\, where he conducted rese
+ arch on systems and networking areas\, with multi-million dollar grants fr
+ om NSF and other industry sources. He co-advised several PhD and Masters s
+ tudents\, and has co-authored 70+ publications in top networking and syste
+ ms conferences such as SIGCOMM. He was the recipient of several awards inc
+ luding the prestigious NSF CAREER award.\n\nJohn Marshall\, Cisco\nTitle: 
+ Exploring the Potential of Edge Computing\n\nAbstract:\n\nWith the growth 
+ of end-points\, 5G mobility\, and volumes of data used for analytics\, edg
+ e computing brings computation closer to where data is generated that allo
+ ws machine learning algorithms to provide faster response times and improv
+ ed efficiency.  Local processing can also offer autonomous operation impr
+ oving availability and greater network utilization.\n\nThe benefits are cl
+ ear\; however\, the definition of the edge will continue to evolve to supp
+ ort the processing needs of the Internet of Things (IoT).  Architectural 
+ trade-offs need to be considered which enables efficient distributed proce
+ ssing to occur between IoT devices\, local edge servers\, and cloud comput
+ ing resources.  The datacenter’s physical operating environment isn’t
+  able to be easily extended in terms of power delivery\, cooling needs\, o
+ r even physical space.  Simply using smaller compute units\, CPUs & GPUs\
+ , is not sufficient.\n\nTomorrow’s edge computing environment needs to s
+ upport vastly improved power efficiency over a range of physical operating
+  environments while enabling a common software-defined framework for opera
+ tional agility.  Applications will likely adapt to enable edge-compute to
+  augment IoT processing while maintaining data privacy & security.\n\nBio:
+ \n\nJohn Marshall is a Distinguished Engineer at Cisco Systems.  His inte
+ rest in network innovation includes programmable data planes\, network pro
+ cessor architecture\, and high-performance packet classification.  His cu
+ rrent focus is on the development of a next-generation Data Processing Uni
+ t (DPU) for edge computing.  John has held numerous silicon architectural
+  and design roles at Cisco involving the application advanced memory techn
+ ologies.\n\nBefore joining Cisco\, he worked for IBM as a senior designer 
+ in disciplines that include network processors\, switch fabrics\, and vect
+ or processing.  John holds over 25 patents in processor and system design
+ .  He also has several publications in the areas of computer architecture
+  & networking.\n\n\nhttps://cpsc.yale.edu/event/cs-distinguished-colloquiu
+ m-ramana-kompella-and-john-marshall-cisco
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-ramana-kompell
- a-cisco
+ a-and-john-marshall-cisco
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - Christos Papdimitriou\, Columbia Uni
