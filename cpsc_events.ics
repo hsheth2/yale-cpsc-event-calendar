@@ -39,6 +39,49 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-voicu-popescu-purdue-university
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Special Electrical Engineering Seminar In Memory Computing with Em
+ erging Hardware - Qiangfei Xia\, UMass Amherst
+DTSTART;VALUE=DATE-TIME:20201007T193000
+DTEND;VALUE=DATE-TIME:20201007T203000
+DESCRIPTION:Event description:\nSpecial Electrical Engineering Seminar\n\n
+ In Memory Computing with Emerging Hardware\n\nQiangfei Xia\nDept. of Elect
+ rical and Computer Engineering\nUniversity of Massachusetts\, Amherst\n\nZ
+ oom link:\nhttps://yale.zoom.us/j/92934216152\n\nHost: T.P. Ma\n\nAbstract
+ :\n\nIt becomes increasingly difficult to improve the speed-energy efficie
+ ncy of traditional digital processors because of limitations in transistor
+  scaling and the von Neumann architecture. To address this issue\, computi
+ ng systems augmented with emerging devices such as resistance switches off
+ er an attractive solution. Because of its non-volatility\, small size\, an
+ d fast switching speed\, a resistance switch consumes only a small amount 
+ of energy to update the internal state while requires no power to maintain
+  the state. Built into large-scale crossbar arrays\, they perform in-memor
+ y computing by utilizing physical laws\, such as Ohm’s law for multiplic
+ ation and Kirchhoff’s current law for accumulation. The current readout 
+ at all columns is finished simultaneously regardless of the array size\, o
+ ffering a huge parallelism and hence superior computing throughput.\n\nIn 
+ this Lecture\, fundamentals of a number of emerging resistance switching d
+ evices\, namely\, PCM\, RRAM\, MRAM and FeRAM will be introduced first. Th
+ e required device properties for in-memory computing in artificial neural 
+ networks will then be elaborated. Finally\, large array integration and ap
+ plications of such emerging hardware as AI accelerators will be discussed.
+ \n\nBio:\n\nDr. Xia is a professor of Electrical & Computer Engineering at
+  UMass Amherst and head of the Nanodevices and Integrated Systems Lab (\nh
+ ttp://nano.ecs.umass.edu/\n). Before joining UMass\, he spent three years 
+ at Hewlett-Packard Laboratories. He received his Ph.D. in Electrical Engin
+ eering in 2007 from Princeton University. Dr. Xia’s research interests i
+ nclude beyond-CMOS devices\, integrated systems and enabling fabrication &
+  integration technologies\, with applications in machine intelligence\, re
+ configurable RF systems and hardware security. He is a recipient of DARPA 
+ Young Faculty Award (YFA)\, NSF CAREER Award\, and the Barbara H. and Jose
+ ph I. Goldstein Outstanding Junior Faculty Award.\n\n\nhttps://cpsc.yale.e
+ du/event/special-electrical-engineering-seminar-memory-computing-emerging-
+ hardware-qiangfei-xia-umass
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/special-electrical-engineering-seminar-mem
+ ory-computing-emerging-hardware-qiangfei-xia-umass
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yale Center for Biomedical Data Science CBDS Seminar Series “Tow
  ards Broad and Robust AI” - Irina Rish\, Quebec AI Institute
 DTSTART;VALUE=DATE-TIME:20201007T200000
