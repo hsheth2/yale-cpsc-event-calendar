@@ -5,35 +5,35 @@ BEGIN:VEVENT
 SUMMARY:CS Talk - Voicu Popescu\, Purdue University
 DTSTART;VALUE=DATE-TIME:20201006T190000
 DTEND;VALUE=DATE-TIME:20201006T200000
-DESCRIPTION:Event description:\nCS Talk\nSpeaker:\nVoicu Popescu\n\, Purdu
- e University\n\nTitle: Image Generalization Through Camera Model Design\n\
- nHost: Holly Rushmeier\n\nAbstract:\n\nMost computer graphics and visualiz
- ation applications rely on images rendered with the planar pinhole camera\
- , which approximates the human eye. Whereas for some applications it is im
- portant to generate images that closely resemble what users would actually
-  see if they explored a physical replica of the dataset\, for many other a
- pplications the constraints of the planar pinhole camera are unnecessarily
-  restrictive. In this talk we give an overview of our work to remove the u
- niform sampling rate and the single viewpoint constraints of conventional 
- images. The image generalization is implemented through an intervention at
-  the camera model level. We present the camera model design paradigm that 
- abandons the conventional rigidity of the camera model in favor of designi
- ng and optimizing the camera model for each application\, for each dataset
- \, and for each view. The resulting generalized image is more effective th
- an a conventional image\, yet it remains easy to compute\, continuous\, an
- d non-redundant. We illustrate the benefits of image generalization in a w
- ide range of applications such as focus+context\, remote\, and multiperspe
- ctive visualization\, visibility computation\, rendering acceleration\, vi
- rtual and augmented reality navigation\, and diminished reality.\n\nBio:\n
- \nVoicu Popescu is an Associate Professor of Computer Science at Purdue Un
- iversity. He has a Computer Science Ph.D. degree from the University of No
- rth Carolina at Chapel Hill\, and a Computer Science B.Sc. degree from the
-  Technical University of Cluj-Napoca\, Romania. His research interests lie
-  at the confluence of computer graphics\, visualization\, computer human i
- nteraction\, and computer vision\, with applications in defense\, healthca
- re\, and education.\n\nZoom Link:\nhttps://yale.zoom.us/j/95740385111?pwd=
- aHQwOFlhb01GTkZKT0hKcEYwN2g1UT09\n\n\n\n\n\nhttps://cpsc.yale.edu/event/cs
- -talk-voicu-popescu-purdue-university
+DESCRIPTION:Event description:\nCS Talk\n\nVoicu Popescu\n\, Purdue Univer
+ sity\n\nTitle: Image Generalization Through Camera Model Design\n\nZoom Li
+ nk:\nhttps://yale.zoom.us/j/95740385111?pwd=aHQwOFlhb01GTkZKT0hKcEYwN2g1UT
+ 09\n\nHost: Holly Rushmeier\n\nAbstract:\n\nMost computer graphics and vis
+ ualization applications rely on images rendered with the planar pinhole ca
+ mera\, which approximates the human eye. Whereas for some applications it 
+ is important to generate images that closely resemble what users would act
+ ually see if they explored a physical replica of the dataset\, for many ot
+ her applications the constraints of the planar pinhole camera are unnecess
+ arily restrictive. In this talk we give an overview of our work to remove 
+ the uniform sampling rate and the single viewpoint constraints of conventi
+ onal images. The image generalization is implemented through an interventi
+ on at the camera model level. We present the camera model design paradigm 
+ that abandons the conventional rigidity of the camera model in favor of de
+ signing and optimizing the camera model for each application\, for each da
+ taset\, and for each view. The resulting generalized image is more effecti
+ ve than a conventional image\, yet it remains easy to compute\, continuous
+ \, and non-redundant. We illustrate the benefits of image generalization i
+ n a wide range of applications such as focus+context\, remote\, and multip
+ erspective visualization\, visibility computation\, rendering acceleration
+ \, virtual and augmented reality navigation\, and diminished reality.\n\nB
+ io:\n\nVoicu Popescu is an Associate Professor of Computer Science at Purd
+ ue University. He has a Computer Science Ph.D. degree from the University 
+ of North Carolina at Chapel Hill\, and a Computer Science B.Sc. degree fro
+ m the Technical University of Cluj-Napoca\, Romania. His research interest
+ s lie at the confluence of computer graphics\, visualization\, computer hu
+ man interaction\, and computer vision\, with applications in defense\, hea
+ lthcare\, and education.\n\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-talk-vo
+ icu-popescu-purdue-university
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-voicu-popescu-purdue-university
@@ -44,60 +44,60 @@ SUMMARY:Yale Center for Biomedical Data Science CBDS Seminar Series “Tow
 DTSTART;VALUE=DATE-TIME:20201007T200000
 DTEND;VALUE=DATE-TIME:20201007T210000
 DESCRIPTION:Event description:\nYale Center for Biomedical Data Science\nC
- BDS Seminar Series “Towards Broad and Robust AI”\n\nSpeaker:\nIrina Ri
- sh\, PhD\nComputer Science and Operations Research Department\nUniversité
-  de Montréal (UdeM) and Core Member of MILA - Quebec AI Institute\n\nZoom
- :\nhttps://yale.zoom.us/j/92067328444\n\nAbstract:\n\nModern AI systems ha
- ve achieved impressive results in many specific domains\, from image and s
- peech recognition to natural language processing and mastering complex gam
- es such as chess and Go. However\, they remain largely inflexible\, fragil
- e and narrow\, unable to continually adapt to a wide range of changing env
- ironments and novel tasks without “catastrophically forgetting” what t
- hey have learned before\, to infer higher-order abstractions allowing for 
- systematic generalization to out-of-distribution data\, and to achieve the
-  level of robustness necessary to “survive” various perturbations in t
- heir environment - a natural property of most biological intelligent syste
- ms. In this talk\, we will provide a brief overview of several recent adva
- nces in continual learning (CL) which aim to push AI from “narrow” to 
- “broad”\, including unsupervised architectural adaptations inspired by
-  adult neurogenesis in mammalian brains [1]\; transfer/interference trade-
- off approaches enforcing gradient alignment across examples\, and combinin
- g experience replay with optimization- based meta-learning [2]\, as well a
- s recently proposed CL framework for quickly solving new\, out-of-distribu
- tion tasks\, while also allowing for fast remembering of the previous ones
-  [3]. The latter framework unifies continual-\, meta-\, meta-continual-\, 
- and continual-meta learning and introduces continual-MAML\, an online exte
- nsion of the popular MAML algorithm. We also address the robust representa
- tion learning problem\, i.e. extracting features invariant to various stoc
- hastic and/or adversarial perturbations of theenvironment - a common goal 
- across continual-\, meta-\, transfer learning as well as adversarial robus
- tness\, out-of-distribution generalization\, self-supervised learning\, an
- d related subfields. As an example\, our  recent Adversarial Feature Dese
- nsitization (AFD) approach [4] trains a feature extractor network to gener
- ate representations which are both predictive and robust to input perturba
- tions (e.g. adversarial attacks) and demonstrates a significant improvemen
- t over the state-of-the-art\, despite its relative simplicity (i.e.\, feat
- ure robustness is enforced via additional adversarial decoder with a GAN-l
- ike objective attempting to discriminate between the original and perturbe
- d inputs). Finally\, we conclude the talk with a discussion of several dir
- ections for future work\, which including drawing inspirations from neuros
- cience\, to develop truly broad and robust AI systems capable of continual
- \, lifelong learning.\n\nBio:\n\nIrina Rish is an Associate Professor in t
- he Computer Science and Operations Research department at the Université 
- de Montréal (UdeM) and a core member of MILA - Quebec AI Institute. She h
- olds MSc and PhD in AI from University of California\, Irvine and MSc in A
- pplied Mathematics from Moscow Gubkin Institute. Dr. Rish’s research foc
- us is on machine learning\, neural data analysis and neuroscience-inspired
-  AI. Her current research interests include continual lifelong learning\, 
- optimization algorithms for deep neural networks\, sparse modeling and pro
- babilistic inference\, dialog generation\, biologically plausible reinforc
- ement learning\, and dynamical systems approaches to brain imaging analysi
- s. Before joining UdeM and MILA in 2019\, Irina was a research scientist a
- t the IBM T.J. Watson Research Center\, where she worked on various projec
- ts at the intersection of neuroscience and AI\, and led the Neuro-AI chall
- enge. She received multiple IBM awards\, including IBM Eminence & Excellen
- ce.\n\n\nhttps://cpsc.yale.edu/event/yale-center-biomedical-data-science-c
- bds-seminar-series-towards-broad-and-robust-ai-irina-rish
+ BDS Seminar Series “Towards Broad and Robust AI”\n\nIrina Rish\, PhD\n
+ Computer Science and Operations Research Department\nUniversité de Montr
+ éal (UdeM) and Core Member of MILA - Quebec AI Institute\n\nZoom link:\nh
+ ttps://yale.zoom.us/j/92067328444\n\nAbstract:\n\nModern AI systems have a
+ chieved impressive results in many specific domains\, from image and speec
+ h recognition to natural language processing and mastering complex games s
+ uch as chess and Go. However\, they remain largely inflexible\, fragile an
+ d narrow\, unable to continually adapt to a wide range of changing environ
+ ments and novel tasks without “catastrophically forgetting” what they 
+ have learned before\, to infer higher-order abstractions allowing for syst
+ ematic generalization to out-of-distribution data\, and to achieve the lev
+ el of robustness necessary to “survive” various perturbations in their
+  environment - a natural property of most biological intelligent systems. 
+ In this talk\, we will provide a brief overview of several recent advances
+  in continual learning (CL) which aim to push AI from “narrow” to “b
+ road”\, including unsupervised architectural adaptations inspired by adu
+ lt neurogenesis in mammalian brains [1]\; transfer/interference trade-off 
+ approaches enforcing gradient alignment across examples\, and combining ex
+ perience replay with optimization- based meta-learning [2]\, as well as re
+ cently proposed CL framework for quickly solving new\, out-of-distribution
+  tasks\, while also allowing for fast remembering of the previous ones [3]
+ . The latter framework unifies continual-\, meta-\, meta-continual-\, and 
+ continual-meta learning and introduces continual-MAML\, an online extensio
+ n of the popular MAML algorithm. We also address the robust representation
+  learning problem\, i.e. extracting features invariant to various stochast
+ ic and/or adversarial perturbations of theenvironment - a common goal acro
+ ss continual-\, meta-\, transfer learning as well as adversarial robustnes
+ s\, out-of-distribution generalization\, self-supervised learning\, and re
+ lated subfields. As an example\, our  recent Adversarial Feature Desensit
+ ization (AFD) approach [4] trains a feature extractor network to generate 
+ representations which are both predictive and robust to input perturbation
+ s (e.g. adversarial attacks) and demonstrates a significant improvement ov
+ er the state-of-the-art\, despite its relative simplicity (i.e.\, feature 
+ robustness is enforced via additional adversarial decoder with a GAN-like 
+ objective attempting to discriminate between the original and perturbed in
+ puts). Finally\, we conclude the talk with a discussion of several directi
+ ons for future work\, which including drawing inspirations from neuroscien
+ ce\, to develop truly broad and robust AI systems capable of continual\, l
+ ifelong learning.\n\nBio:\n\nIrina Rish is an Associate Professor in the C
+ omputer Science and Operations Research department at the Université de M
+ ontréal (UdeM) and a core member of MILA - Quebec AI Institute. She holds
+  MSc and PhD in AI from University of California\, Irvine and MSc in Appli
+ ed Mathematics from Moscow Gubkin Institute. Dr. Rish’s research focus i
+ s on machine learning\, neural data analysis and neuroscience-inspired AI.
+  Her current research interests include continual lifelong learning\, opti
+ mization algorithms for deep neural networks\, sparse modeling and probabi
+ listic inference\, dialog generation\, biologically plausible reinforcemen
+ t learning\, and dynamical systems approaches to brain imaging analysis. B
+ efore joining UdeM and MILA in 2019\, Irina was a research scientist at th
+ e IBM T.J. Watson Research Center\, where she worked on various projects a
+ t the intersection of neuroscience and AI\, and led the Neuro-AI challenge
+ . She received multiple IBM awards\, including IBM Eminence & Excellence.\
+ n\n\nhttps://cpsc.yale.edu/event/yale-center-biomedical-data-science-cbds-
+ seminar-series-towards-broad-and-robust-ai-irina-rish
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/yale-center-biomedical-data-science-cbds-s
@@ -109,42 +109,41 @@ SUMMARY:Computation and Society Colloquium and Computer Science Distinguis
 DTSTART;VALUE=DATE-TIME:20201009T150000
 DTEND;VALUE=DATE-TIME:20201009T160000
 DESCRIPTION:Event description:\nComputation and Society Colloquium and Com
- puter Science Distinguished Speaker Series\n\nSpeaker:\nBernard Chazelle\n
- \, Eugene Higgins Professor of Computer Science\, Princeton\n\nTitle: Bui
- lding an Algorithmic Toolkit for Out-of-Equilibrium Systems\n\nHost:\nNish
- eeth Vishnoi\n\n\n\nAbstract:\nAlgorithms research has long been preoccupi
- ed with systems that reach equilibrium: random processes should converge t
- o stationary distributions\; dynamical systems should be attracting or\, a
- t worst\, periodic\; algorithms should terminate and land in a “good” 
- place\; etc. Natural algorithms\, those found in nature\, break all of the
- se rules. What are we to do then? Answer: Build new algorithmic tools. I w
- ill sketch some of my efforts in that direction. The talk will be aimed at
-  a general scientific audience and will require no background knowledge.\n
- \n\n\nBio:\nBernard Chazelle (graduate of École des Mines de Paris\, PhD 
- Yale) has been professor at Princeton University since 1986\, where he hol
- ds the Eugene Higgins chair in Computer Science.\n\nAs Director of the NSF
-  Center for Computational Intractability\, his research focuses on algorit
- hms and complexity. He has been a visiting professor at École Normale Sup
- érieure (ENS) Ulm\, École Polytechnique\, University of Paris-Sud\, and 
- INRIA. He spent many years as a consultant for Xerox PARC\, DEC SRC\, NEC 
- Research\, (where he chaired the Board of Fellows) and Tsinghua University
-  in Beijing. He is\, or was\, member of the Scientific Committee at ENS Ul
- m\, École Polytechnique\, and the Institut Henri Poincaré. He is also a 
- member of the American Academy of Arts and Sciences and the European Acade
- my of Sciences\, ACM Fellow\, Guggenheim Fellow\, and winner of several aw
- ards from the SIAM mathematical society.\n\nA pioneering figure in computa
- tional geometry\, Bernard Chazelle is known for his resolution of a number
-  of longstanding open questions in the field. His research has also led hi
- m to investigate the role of randomness in computing\, a subject he took u
- p in his book\, The Discrepancy Method: Randomness and Complexity. In the 
- last few years\, his efforts have focused on “natural algorithms\,” wi
- th the aim of building a bridge between dynamical systems and algorithms f
- rom the living world. Professor Chazelle takes pride in having taught the 
- very first “Integrated Science” program at Princeton University\, toge
- ther with colleagues from physics and biology.\n\n\n\n\nZoom:\nhttps://yal
- e.zoom.us/j/95783107535\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://cpsc.yale.edu/eve
- nt/computation-and-society-colloquium-and-computer-science-distinguished-s
- peaker-series-bernard
+ puter Science Distinguished Speaker Series\n\nBernard Chazelle\n\, Eugene
+  Higgins Professor of Computer Science\, Princeton\n\nTitle: Building an A
+ lgorithmic Toolkit for Out-of-Equilibrium Systems\n\nZoom link:\nhttps://y
+ ale.zoom.us/j/95783107535\n\nHost:\nNisheeth Vishnoi\n\n\n\nAbstract:\nAlg
+ orithms research has long been preoccupied with systems that reach equilib
+ rium: random processes should converge to stationary distributions\; dynam
+ ical systems should be attracting or\, at worst\, periodic\; algorithms sh
+ ould terminate and land in a “good” place\; etc. Natural algorithms\, 
+ those found in nature\, break all of these rules. What are we to do then? 
+ Answer: Build new algorithmic tools. I will sketch some of my efforts in t
+ hat direction. The talk will be aimed at a general scientific audience and
+  will require no background knowledge.\n\n\n\nBio:\nBernard Chazelle (grad
+ uate of École des Mines de Paris\, PhD Yale) has been professor at Prince
+ ton University since 1986\, where he holds the Eugene Higgins chair in Com
+ puter Science.\n\nAs Director of the NSF Center for Computational Intracta
+ bility\, his research focuses on algorithms and complexity. He has been a 
+ visiting professor at École Normale Supérieure (ENS) Ulm\, École Polyte
+ chnique\, University of Paris-Sud\, and INRIA. He spent many years as a co
+ nsultant for Xerox PARC\, DEC SRC\, NEC Research\, (where he chaired the B
+ oard of Fellows) and Tsinghua University in Beijing. He is\, or was\, memb
+ er of the Scientific Committee at ENS Ulm\, École Polytechnique\, and the
+  Institut Henri Poincaré. He is also a member of the American Academy of 
+ Arts and Sciences and the European Academy of Sciences\, ACM Fellow\, Gugg
+ enheim Fellow\, and winner of several awards from the SIAM mathematical so
+ ciety.\n\nA pioneering figure in computational geometry\, Bernard Chazelle
+  is known for his resolution of a number of longstanding open questions in
+  the field. His research has also led him to investigate the role of rando
+ mness in computing\, a subject he took up in his book\, The Discrepancy Me
+ thod: Randomness and Complexity. In the last few years\, his efforts have 
+ focused on “natural algorithms\,” with the aim of building a bridge be
+ tween dynamical systems and algorithms from the living world. Professor Ch
+ azelle takes pride in having taught the very first “Integrated Science
+ ” program at Princeton University\, together with colleagues from physic
+ s and biology.\n\n\n\nhttps://cpsc.yale.edu/event/computation-and-society-
+ colloquium-and-computer-science-distinguished-speaker-series-bernard
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/computation-and-society-colloquium-and-com
@@ -155,100 +154,101 @@ SUMMARY:CS Distinguished Colloquium - Ramana Kompella and John Marshall\,
  Cisco
 DTSTART;VALUE=DATE-TIME:20201009T200000
 DTEND;VALUE=DATE-TIME:20201009T210000
-DESCRIPTION:Event description:\nCS Distinguished Colloquium\nRamana Kompel
- la\, Cisco\nJohn Marshall\, Cisco\n\nZoom link:\nhttps://yale.zoom.us/j/92
- 748598082\n\nHost: Robert Soule\n\nRamana Kompella\, Cisco\nTitle: Researc
- h topics of interest in emerging tech areas for Cisco\n\nAbstract:\n\nIn t
- he past few months\, Cisco Research has started focusing on several emergi
- ng technology areas of interest to Cisco. In this talk\, I will be talking
-  a bit about  what these areas are of research interest are\, how we are
-  leveraging and engaging with universities for tech and societal impact.\n
- \nBio:\n\nDr. Ramana Kompella is currently the Head of Research in the Eme
- rging Technology and Incubation group at Cisco. His previous experience in
- cludes co-founding successful startups\, and providing engineering leaders
- hip to build world class products currently in use in several hundreds of 
- customers’ data centers. Prior to his industry roles\, he was a tenured 
- faculty at Purdue in Computer Science Department\, where he conducted rese
- arch on systems and networking areas\, with multi-million dollar grants fr
- om NSF and other industry sources. He co-advised several PhD and Masters s
- tudents\, and has co-authored 70+ publications in top networking and syste
- ms conferences such as SIGCOMM. He was the recipient of several awards inc
- luding the prestigious NSF CAREER award.\n\nJohn Marshall\, Cisco\nTitle: 
- Exploring the Potential of Edge Computing\n\nAbstract:\n\nWith the growth 
- of end-points\, 5G mobility\, and volumes of data used for analytics\, edg
- e computing brings computation closer to where data is generated that allo
- ws machine learning algorithms to provide faster response times and improv
- ed efficiency.  Local processing can also offer autonomous operation impr
- oving availability and greater network utilization.\n\nThe benefits are cl
- ear\; however\, the definition of the edge will continue to evolve to supp
- ort the processing needs of the Internet of Things (IoT).  Architectural 
- trade-offs need to be considered which enables efficient distributed proce
- ssing to occur between IoT devices\, local edge servers\, and cloud comput
- ing resources.  The datacenter’s physical operating environment isn’t
-  able to be easily extended in terms of power delivery\, cooling needs\, o
- r even physical space.  Simply using smaller compute units\, CPUs & GPUs\
- , is not sufficient.\n\nTomorrow’s edge computing environment needs to s
- upport vastly improved power efficiency over a range of physical operating
-  environments while enabling a common software-defined framework for opera
- tional agility.  Applications will likely adapt to enable edge-compute to
-  augment IoT processing while maintaining data privacy & security.\n\nBio:
- \n\nJohn Marshall is a Distinguished Engineer at Cisco Systems.  His inte
- rest in network innovation includes programmable data planes\, network pro
- cessor architecture\, and high-performance packet classification.  His cu
- rrent focus is on the development of a next-generation Data Processing Uni
- t (DPU) for edge computing.  John has held numerous silicon architectural
-  and design roles at Cisco involving the application advanced memory techn
- ologies.\n\nBefore joining Cisco\, he worked for IBM as a senior designer 
- in disciplines that include network processors\, switch fabrics\, and vect
- or processing.  John holds over 25 patents in processor and system design
- .  He also has several publications in the areas of computer architecture
-  & networking.\n\n\nhttps://cpsc.yale.edu/event/cs-distinguished-colloquiu
- m-ramana-kompella-and-john-marshall-cisco
+DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nRamana Komp
+ ella\, Cisco\nJohn Marshall\, Cisco\n\nZoom link:\nhttps://yale.zoom.us/j/
+ 92748598082\n\nHost: Robert Soule\n\nRamana Kompella\, Cisco\nTitle: Resea
+ rch topics of interest in emerging tech areas for Cisco\n\nAbstract:\n\nIn
+  the past few months\, Cisco Research has started focusing on several emer
+ ging technology areas of interest to Cisco. In this talk\, I will be talki
+ ng a bit about  what these areas are of research interest are\, how we a
+ re leveraging and engaging with universities for tech and societal impact.
+ \n\nBio:\n\nDr. Ramana Kompella is currently the Head of Research in the E
+ merging Technology and Incubation group at Cisco. His previous experience 
+ includes co-founding successful startups\, and providing engineering leade
+ rship to build world class products currently in use in several hundreds o
+ f customers’ data centers. Prior to his industry roles\, he was a tenure
+ d faculty at Purdue in Computer Science Department\, where he conducted re
+ search on systems and networking areas\, with multi-million dollar grants 
+ from NSF and other industry sources. He co-advised several PhD and Masters
+  students\, and has co-authored 70+ publications in top networking and sys
+ tems conferences such as SIGCOMM. He was the recipient of several awards i
+ ncluding the prestigious NSF CAREER award.\n\nJohn Marshall\, Cisco\nTitle
+ : Exploring the Potential of Edge Computing\n\nAbstract:\n\nWith the growt
+ h of end-points\, 5G mobility\, and volumes of data used for analytics\, e
+ dge computing brings computation closer to where data is generated that al
+ lows machine learning algorithms to provide faster response times and impr
+ oved efficiency.  Local processing can also offer autonomous operation im
+ proving availability and greater network utilization.\n\nThe benefits are 
+ clear\; however\, the definition of the edge will continue to evolve to su
+ pport the processing needs of the Internet of Things (IoT).  Architectura
+ l trade-offs need to be considered which enables efficient distributed pro
+ cessing to occur between IoT devices\, local edge servers\, and cloud comp
+ uting resources.  The datacenter’s physical operating environment isn
+ ’t able to be easily extended in terms of power delivery\, cooling needs
+ \, or even physical space.  Simply using smaller compute units\, CPUs & G
+ PUs\, is not sufficient.\n\nTomorrow’s edge computing environment needs 
+ to support vastly improved power efficiency over a range of physical opera
+ ting environments while enabling a common software-defined framework for o
+ perational agility.  Applications will likely adapt to enable edge-comput
+ e to augment IoT processing while maintaining data privacy & security.\n\n
+ Bio:\n\nJohn Marshall is a Distinguished Engineer at Cisco Systems.  His 
+ interest in network innovation includes programmable data planes\, network
+  processor architecture\, and high-performance packet classification.  Hi
+ s current focus is on the development of a next-generation Data Processing
+  Unit (DPU) for edge computing.  John has held numerous silicon architect
+ ural and design roles at Cisco involving the application advanced memory t
+ echnologies.\n\nBefore joining Cisco\, he worked for IBM as a senior desig
+ ner in disciplines that include network processors\, switch fabrics\, and 
+ vector processing.  John holds over 25 patents in processor and system de
+ sign.  He also has several publications in the areas of computer architec
+ ture & networking.\n\n\nhttps://cpsc.yale.edu/event/cs-distinguished-collo
+ quium-ramana-kompella-and-john-marshall-cisco
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-ramana-kompell
  a-and-john-marshall-cisco
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS Distinguished Colloquium - Christos Papdimitriou\, Columbia Uni
- versity
+SUMMARY:CS Distinguished Colloquium/YINS - Christos Papdimitriou\, Columbi
+ a University
 DTSTART;VALUE=DATE-TIME:20201015T200000
 DTEND;VALUE=DATE-TIME:20201015T210000
-DESCRIPTION:Event description:\nCS Distinguished Colloquium\n(This is a jo
- int event with YINS)\n\nSpeaker :\nChristos Papdimitriou\n\, Columbia Uni
- versity\n\nTitle: “Language\, Brain\, and Computation”\n\nAbstract:\n\
- nHow does the brain beget the mind?  How do molecules\, cells and synapse
- s effect reasoning\, intelligence\, language?   Despite dazzling progres
- s in experimental neuroscience\, as well as in cognitive science at the ot
- her extreme of scale\, we do not seem to be making progress in the overarc
- hing question – the gap is huge and a completely new approach seems to b
- e required.  As Richard Axel recently put it:  “We don’t have a logi
- c for the transformation of neural activity into thought […].”\n\nWhat
-  kind of formal system would qualify as this “logic”?\n\nI will introd
- uce a computational system whose basic data structure is the assembly – 
- assemblies are large populations of neurons representing concepts\, words\
- , thoughts\, etc. –\, and which is informed by recent progress in unders
- tanding how language happens in the brain.\n\nBio:\n\nChristos Harilaos Pa
- padimitriou is the Donovan Family Professor of Computer Science at Columbi
- a University.  Before joining Columbia in 2017\, he was a professor at UC
-  Berkeley for the previous 22 years\, and before that he taught at Harvard
- \, MIT\, NTU Athens\, Stanford\, and UCSD.  He has written five textbooks
-  and many articles on algorithms and complexity\, and their applications t
- o optimization\, databases\, control\, AI\, robotics\, economics and game 
- theory\, the Internet\, evolution\, and the brain.  He holds a PhD from P
- rinceton (1976)\, and eight honorary doctorates.  He is a member of the N
- ational Academy of Sciences of the US\, the American Academy of Arts and S
- ciences\, and the National Academy of Engineering\, and he has received th
- e Knuth prize\, the Go”del prize\, the von Neumann medal\, as well as th
- e 2018 Harvey Prize by Technion.  In 2015 the president of the Hellenic r
- epublic named him commander of the order of the Phoenix.  He has also wri
- tten three novels: “Turing \,” “Logicomix”  and his latest “Ind
- ependence.”\n\n\nhttps://cpsc.yale.edu/event/cs-distinguished-colloquium
- -christos-papdimitriou-columbia-university
+DESCRIPTION:Event description:\nCS Distinguished Colloquium/YINS\n(This is
+  a joint event with YINS)\n\nChristos Papdimitriou\n\, Columbia University
+ \n\nTitle: “Language\, Brain\, and Computation”\n\nZoom link:\nhttps:/
+ /yale.zoom.us/j/9274859808\n\nHost: Yang Cai\n\nAbstract:\n\nHow does the 
+ brain beget the mind?  How do molecules\, cells and synapses effect reaso
+ ning\, intelligence\, language?   Despite dazzling progress in experimen
+ tal neuroscience\, as well as in cognitive science at the other extreme of
+  scale\, we do not seem to be making progress in the overarching question 
+ – the gap is huge and a completely new approach seems to be required.  
+ As Richard Axel recently put it:  “We don’t have a logic for the tran
+ sformation of neural activity into thought […].”\n\nWhat kind of forma
+ l system would qualify as this “logic”?\n\nI will introduce a computat
+ ional system whose basic data structure is the assembly – assemblies are
+  large populations of neurons representing concepts\, words\, thoughts\, e
+ tc. –\, and which is informed by recent progress in understanding how la
+ nguage happens in the brain.\n\nBio:\n\nChristos Harilaos Papadimitriou is
+  the Donovan Family Professor of Computer Science at Columbia University.
+   Before joining Columbia in 2017\, he was a professor at UC Berkeley for
+  the previous 22 years\, and before that he taught at Harvard\, MIT\, NTU 
+ Athens\, Stanford\, and UCSD.  He has written five textbooks and many art
+ icles on algorithms and complexity\, and their applications to optimizatio
+ n\, databases\, control\, AI\, robotics\, economics and game theory\, the 
+ Internet\, evolution\, and the brain.  He holds a PhD from Princeton (197
+ 6)\, and eight honorary doctorates.  He is a member of the National Acade
+ my of Sciences of the US\, the American Academy of Arts and Sciences\, and
+  the National Academy of Engineering\, and he has received the Knuth prize
+ \, the Go”del prize\, the von Neumann medal\, as well as the 2018 Harvey
+  Prize by Technion.  In 2015 the president of the Hellenic republic named
+  him commander of the order of the Phoenix.  He has also written three no
+ vels: “Turing \,” “Logicomix”  and his latest “Independence.”
+ \n\n\nhttps://cpsc.yale.edu/event/cs-distinguished-colloquiumyins-christos
+ -papdimitriou-columbia-university
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-christos-papdi
- mitriou-columbia-university
+URL:https://cpsc.yale.edu/event/cs-distinguished-colloquiumyins-christos-p
+ apdimitriou-columbia-university
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - Eva Tardos\, Cornell University
