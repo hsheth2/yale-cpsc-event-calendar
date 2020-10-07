@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Voicu Popescu\, Purdue University
-DTSTART;VALUE=DATE-TIME:20201006T190000
-DTEND;VALUE=DATE-TIME:20201006T200000
-DESCRIPTION:Event description:\nCS Talk\n\nVoicu Popescu\n\, Purdue Univer
- sity\n\nTitle: Image Generalization Through Camera Model Design\n\nZoom Li
- nk:\nhttps://yale.zoom.us/j/95740385111?pwd=aHQwOFlhb01GTkZKT0hKcEYwN2g1UT
- 09\n\nHost: Holly Rushmeier\n\nAbstract:\n\nMost computer graphics and vis
- ualization applications rely on images rendered with the planar pinhole ca
- mera\, which approximates the human eye. Whereas for some applications it 
- is important to generate images that closely resemble what users would act
- ually see if they explored a physical replica of the dataset\, for many ot
- her applications the constraints of the planar pinhole camera are unnecess
- arily restrictive. In this talk we give an overview of our work to remove 
- the uniform sampling rate and the single viewpoint constraints of conventi
- onal images. The image generalization is implemented through an interventi
- on at the camera model level. We present the camera model design paradigm 
- that abandons the conventional rigidity of the camera model in favor of de
- signing and optimizing the camera model for each application\, for each da
- taset\, and for each view. The resulting generalized image is more effecti
- ve than a conventional image\, yet it remains easy to compute\, continuous
- \, and non-redundant. We illustrate the benefits of image generalization i
- n a wide range of applications such as focus+context\, remote\, and multip
- erspective visualization\, visibility computation\, rendering acceleration
- \, virtual and augmented reality navigation\, and diminished reality.\n\nB
- io:\n\nVoicu Popescu is an Associate Professor of Computer Science at Purd
- ue University. He has a Computer Science Ph.D. degree from the University 
- of North Carolina at Chapel Hill\, and a Computer Science B.Sc. degree fro
- m the Technical University of Cluj-Napoca\, Romania. His research interest
- s lie at the confluence of computer graphics\, visualization\, computer hu
- man interaction\, and computer vision\, with applications in defense\, hea
- lthcare\, and education.\n\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-talk-vo
- icu-popescu-purdue-university
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-voicu-popescu-purdue-university
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Special Electrical Engineering Seminar In Memory Computing with Em
  erging Hardware - Qiangfei Xia\, UMass Amherst
 DTSTART;VALUE=DATE-TIME:20201007T193000
