@@ -46,4 +46,41 @@ STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yinscs-distinguished-seminar-christos-papa
  dimitriou-columbia-university
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Postdoc job talk: Farzin Haddadpour
+DTSTART;VALUE=DATE-TIME:20201009T140000
+DTEND;VALUE=DATE-TIME:20201009T150000
+DESCRIPTION:Event description:\n“Communication-Efficient Federated Learn
+ ing”\n\nSpeaker:\nFarzin Haddadpour\n\nPh.D. Candidate\,\nPennsylvania 
+ State University\n\nTo join:\n\nhttps://yale.zoom.us/j/93538759725\nOr Tel
+ ephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 9
+ 35 3875 9725\nInternational numbers available:\nhttps://yale.zoom.us/u/acL
+ OfSpEXK\n\nTalk summary:\nIn federated learning\, communication cost is of
+ ten a critical bottleneck to scale up distributed optimization algorithms 
+ to collaboratively learn a model from millions of devices with potentially
+  unreliable or limited communication and heterogeneous data distributions.
+  The main idea to deal with the communication overhead of federated algori
+ thms is local computation with periodic communication. Despite many attemp
+ ts\, characterizing the communication-cost of this method has proven elusi
+ ve. We address this by proposing a set of algorithms with periodical commu
+ nication and analyze their convergence properties in both homogeneous and 
+ heterogeneous local data distributions settings. For the homogeneous setti
+ ng\, our analysis improves existing bounds by providing tighter convergenc
+ e rates for both strongly convex and non-convex objective functions. To mi
+ tigate data heterogeneity\, we introduce a local gradient tracking scheme 
+ and obtain sharp convergence rates that match the best-known communication
+  complexities for convex\, strongly convex\, and non-convex settings.\n\nS
+ peaker bio:\nFarzin Haddadpour received the B.Sc. degree in electrical eng
+ ineering from University of Tabriz\, Tabriz\, Iran\, in 2010 and his M.Sc.
+  degree from Sharif University of Technology\, Tehran\, Iran in 2012\, res
+ pectively. He is working towards the Ph.D. degree in the Department of Ele
+ ctrical Engineering and Computer Science\, Pennsylvania State University\,
+  State College\, PA. He was awarded the Trust scholarship from the Cambrid
+ ge University in 2014. His research interests include distributed optimiza
+ tion for machine learning problems and coding and information theory.\n\n.
+ \n\n\nhttps://yins.yale.edu/event/postdoc-job-talk-farzin-haddadpour
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/postdoc-job-talk-farzin-haddadpour
+END:VEVENT
 END:VCALENDAR

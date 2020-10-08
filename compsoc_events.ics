@@ -60,4 +60,22 @@ STATUS:CONFIRMED
 URL:https://computationsociety.yale.edu/event/colloquium-by-jon-kleinberg-
  cornell
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colloquium with Surya Deva\, Asako Hattori and Caitlin Kraft-Buchm
+ an
+DTSTART;VALUE=DATE-TIME:20201030T150000
+DTEND;VALUE=DATE-TIME:20201030T160000
+DESCRIPTION:Event description\nSpeakers:\n\nSurya Deva\n\, School of Law C
+ ity University of Hong Kong\; UN Working Group on Business and Human Right
+ s\n\nAsako Hattori\, Women’s Human Rights and Gender Section\, Office of
+  the United Nations High Commissioner for Human Rights\n\nCaitlin Kraft-Bu
+ chman\, <A+> Alliance\, Women at the Table\n\n\n\nTitle:  AI & Gender: A
+  Human Rights Toolbox Approach\n\n\n\nHost:\nElisa Celis\n\n\n\nZoom:\nhtt
+ ps://yale.zoom.us/j/99259504681\n\n\nhttps://computationsociety.yale.edu/e
+ vent/colloquium-with-surya-deva-asako-hattori-and-caitlin-kraft-buchman
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/colloquium-with-surya-deva-a
+ sako-hattori-and-caitlin-kraft-buchman
+END:VEVENT
 END:VCALENDAR
