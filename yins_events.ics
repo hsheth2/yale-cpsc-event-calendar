@@ -2,62 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Dimitris Papailiopoulos (University of Wisconsin-Mad
- ison)
-DTSTART;VALUE=DATE-TIME:20201007T160000
-DTEND;VALUE=DATE-TIME:20201007T170000
-DESCRIPTION:Event description:\nYINS Seminar\,\n“Learning is Pruning”\
- n\nSpeaker: Dimitris Papailiopoulos\n\nAssistant Professor of Electrical 
- and Computer Engineering and Computer Sciences (by courtesy)\nUniversity o
- f Wisconsin-Madison\n\nTo participate:\nJoin from PC\, Mac\, Linux\, iOS o
- r Android:\nhttps://yale.zoom.us/j/91203891352\n\nOr Telephone：203-432-9
- 666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 912 0389 1352\nInte
- rnational numbers available:\nhttps://yale.zoom.us/u/aBVxXEOVF\n\n\nAbstra
- ct:\nThe strong lottery ticket hypothesis (LTH) postulates that any neural
-  network can be approximated by simply pruning a sufficiently larger netwo
- rk of random weights. Recent work establishes that the strong LTH is true 
- if the random network to be pruned is a large poly-factor wider than the t
- arget one. This polynomial over-parameterization is at odds with experimen
- tal research that achieves good approximation by pruning networks that are
-  only a small factor wider than the target one. In this talk\, I will tell
-  you how we close this gap and offer an exponential improvement to the ove
- r-parameterization requirement. I will give a sketch of the proof that any
-  target network can be approximated by pruning a random one that is only a
-  logarithmic factor wider. This is possible by establishing a connection b
- etween pruning random ReLU networks and random instances of the weakly NP-
- hard SubsetSum problem. Our work indicates the existence of a universal st
- riking phenomenon: neural network training is equivalent to pruning slight
- ly overparameterized networks of random weights. I will conclude with shar
- ing hints of a general framework indicating the existence of good pruned n
- etworks for a variety of activation functions\, architectures\, even appli
- cable for the case where both initialization weights and activations are b
- inary.\n\nSpeaker Bio:\nDimitris Papailiopoulos is an Assistant Professor 
- of Electrical and Computer Engineering and Computer Sciences (by courtesy)
-  at the University of Wisconsin-Madison\, a faculty fellow of the Grainger
-  Institute for Engineering\, and a faculty affiliate at the Wisconsin Inst
- itute for Discovery. His research interests span machine learning\, inform
- ation theory\, and distributed systems\, with a current focus on communica
- tion-efficient training algorithms and coding-theoretic techniques that gu
- arantee robustness during training and inference. Between 2014 and 2016\, 
- Dimitris was a postdoctoral researcher at UC Berkeley and a member of the 
- AMPLab. He earned his Ph.D. in ECE from UT Austin in 2014\, under the supe
- rvision of Alex Dimakis. In 2007 he received his ECE Diploma and in 2009 h
- is M.Sc. degree from the Technical University of Crete\, in Greece. Dimitr
- is is a recipient of the NSF CAREER Award (2019)\, two Sony Faculty Innova
- tion Awards (2019 and 2020)\, the Benjamin Smith Reynolds Award for Excell
- ence in Teaching (2019)\, a joint IEEE ComSoc/ITSoc Best Paper Award (2020
- )\, and an IEEE Signal Processing Society\, Young Author Best Paper Award 
- (2015). In 2018\, he co-founded MLSys\, a new conference that targets rese
- arch at the intersection of machine learning and systems. In 2018 and 2020
-  he was program co-chair for MLSys\, and in 2019 he co-chaired the 3rd Mid
- west Machine Learning Symposium.\n\n.\n\n\nhttps://yins.yale.edu/event/yin
- s-seminar-dimitris-papailiopoulos-university-wisconsin-madison
-LOCATION:Zoom
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-dimitris-papailiopoulos-unive
- rsity-wisconsin-madison
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS+CS Distinguished Seminar: Christos Papadimitriou (Columbia Un
  iversity)
 DTSTART;VALUE=DATE-TIME:20201015T200000
