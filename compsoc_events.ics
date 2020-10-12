@@ -16,8 +16,7 @@ URL:https://computationsociety.yale.edu/event/colloquium-by-jon-kleinberg-
  cornell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colloquium with Surya Deva\, Asako Hattori and Caitlin Kraft-Buchm
- an
+SUMMARY:Colloquium on AI & Gender: A Human Rights Toolbox Approach
 DTSTART;VALUE=DATE-TIME:20201030T150000
 DTEND;VALUE=DATE-TIME:20201030T160000
 DESCRIPTION:Event description\nSpeakers:\n\nSurya Deva\n\,\nSchool of Law\
@@ -81,11 +80,11 @@ DESCRIPTION:Event description\nSpeakers:\n\nSurya Deva\n\,\nSchool of Law\
  t embed an already biased system into our future. <A+> is one of the leade
  rs of the UN Women Generation Equality Action Coalition for Technology and
   Innovation for Gender Equality.\n\n\n\nZoom:\nhttps://yale.zoom.us/j/9925
- 9504681\n\n\nhttps://computationsociety.yale.edu/event/colloquium-with-sur
- ya-deva-asako-hattori-and-caitlin-kraft-buchman
+ 9504681\n\n\nhttps://computationsociety.yale.edu/event/colloquium-on-ai-ge
+ nder-a-human-rights-toolbox-approach
 LOCATION:TBA
 STATUS:CONFIRMED
-URL:https://computationsociety.yale.edu/event/colloquium-with-surya-deva-a
- sako-hattori-and-caitlin-kraft-buchman
+URL:https://computationsociety.yale.edu/event/colloquium-on-ai-gender-a-hu
+ man-rights-toolbox-approach
 END:VEVENT
 END:VCALENDAR
