@@ -6,10 +6,30 @@ SUMMARY:Colloquium by Jon Kleinberg\, Cornell
 DTSTART;VALUE=DATE-TIME:20201023T150000
 DTEND;VALUE=DATE-TIME:20201023T160000
 DESCRIPTION:Event description\nSpeaker:\nJon Kleinberg\n\, Tisch Universit
- y Professor\, Department of Computer Science\, Cornell\n\n\n\nTitle: TBD\n
- \n\n\nHost:\nElisa Celis\n\n\n\nAbstract: TBD\n\n\n\nZoom:\nhttps://yale.z
- oom.us/j/95164853371\n\n\nhttps://computationsociety.yale.edu/event/colloq
- uium-by-jon-kleinberg-cornell
+ y Professor\, Departments of Computer Science and Information Science\, Co
+ rnell\n\n\n\nTitle:  Fairness and Bias in Algorithmic Decision-Making\n\n
+ \n\nHost:\nElisa Celis\n\n\n\nAbstract: As algorithms trained via machine 
+ learning are increasingly used as a component of screening decisions in ar
+ eas such as hiring\, lending\, and education\, discussion in the public sp
+ here has turned to the question of what it means for algorithmic classific
+ ation to be fair to different groups. We consider several of the key fairn
+ ess conditions that lie at the heart of these debates\, and discuss recent
+  research establishing inherent trade-offs between these conditions. We al
+ so explore how the complexity of a classification rule interacts with its 
+ fairness properties\, showing how natural ways of approximating a classifi
+ er via a simpler rule can act in conflict with fairness goals.\n\n\n\nThe 
+ talk will be based on joint work with Jens Ludwig\, Sendhil Mullainathan\,
+  Manish Raghavan\, and Cass Sunstein.\n\n\n\nAuthor biography: Jon Kleinbe
+ rg is the Tisch University Professor in the Departments of Computer Scienc
+ e and Information Science at Cornell University. His research focuses on t
+ he interaction of algorithms and networks\, the roles they play in large-s
+ cale social and information systems\, and their broader societal implicati
+ ons. He is a member of the National Academy of Sciences and the National A
+ cademy of Engineering\, and the recipient of MacArthur\, Packard\, Simons\
+ , Sloan\, and Vannevar Bush research fellowships\, as well awards includin
+ g the Harvey Prize\, the Nevanlinna Prize\, and the ACM Prize in Computing
+ .\n\n\n\nZoom:\nhttps://yale.zoom.us/j/95164853371\n\n\nhttps://computatio
+ nsociety.yale.edu/event/colloquium-by-jon-kleinberg-cornell
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://computationsociety.yale.edu/event/colloquium-by-jon-kleinberg-
