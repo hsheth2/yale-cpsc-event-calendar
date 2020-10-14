@@ -131,16 +131,15 @@ URL:https://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-
  only
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS Distinguished Colloquium - Theodore Kim\, Yale University
+SUMMARY:CS Colloquium - Theodore Kim\, Yale University
 DTSTART;VALUE=DATE-TIME:20201030T200000
 DTEND;VALUE=DATE-TIME:20201030T210000
-DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker:\nT
- heodore Kim\, Yale University\n\n\nhttps://cpsc.yale.edu/event/cs-distingu
- ished-colloquium-theodore-kim-yale-university
+DESCRIPTION:Event description:\nCS Colloquium\n\nSpeaker:\nTheodore Kim\, 
+ Yale University\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-theodore-ki
+ m-yale-university
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-theodore-kim-y
- ale-university
+URL:https://cpsc.yale.edu/event/cs-colloquium-theodore-kim-yale-university
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - Joel Emer\, MIT
