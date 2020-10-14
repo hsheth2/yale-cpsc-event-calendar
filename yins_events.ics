@@ -46,4 +46,19 @@ STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yinscs-distinguished-seminar-christos-papa
  dimitriou-columbia-university
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS Seminar: Daniel Roy (University of Toronto)
+DTSTART;VALUE=DATE-TIME:20201118T170000
+DTEND;VALUE=DATE-TIME:20201118T180000
+DESCRIPTION:Event description:\n“Title TBD”\n\nSpeaker: Daniel Roy\n\n
+ Associate Professor\, University of Toronto\n\nTo participate:\n\nJoin fro
+ m PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/95827054840\n
+ \nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeti
+ ng ID: 958 2705 4840\nInternational numbers available:\nhttps://yale.zoom.
+ us/u/aciY0peggr\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-daniel-
+ roy-university-toronto
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-daniel-roy-university-toronto
+END:VEVENT
 END:VCALENDAR

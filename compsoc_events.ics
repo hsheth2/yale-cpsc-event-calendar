@@ -2,7 +2,8 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
-SUMMARY:Colloquium by Jon Kleinberg\, Cornell
+SUMMARY:Colloquium on Fairness and Bias in Algorithmic Decision-Making by 
+ Jon Kleinberg
 DTSTART;VALUE=DATE-TIME:20201023T150000
 DTEND;VALUE=DATE-TIME:20201023T160000
 DESCRIPTION:Event description\nSpeaker:\nJon Kleinberg\n\, Tisch Universit
@@ -28,12 +29,13 @@ DESCRIPTION:Event description\nSpeaker:\nJon Kleinberg\n\, Tisch Universit
  cademy of Engineering\, and the recipient of MacArthur\, Packard\, Simons\
  , Sloan\, and Vannevar Bush research fellowships\, as well awards includin
  g the Harvey Prize\, the Nevanlinna Prize\, and the ACM Prize in Computing
- .\n\n\n\nZoom:\nhttps://yale.zoom.us/j/95164853371\n\n\nhttps://computatio
- nsociety.yale.edu/event/colloquium-by-jon-kleinberg-cornell
+ .\n\n\n\nZoom:\nhttps://yale.zoom.us/j/92573843263\n\n\nhttps://computatio
+ nsociety.yale.edu/event/colloquium-on-fairness-and-bias-in-algorithmic-dec
+ ision-making-by-jon-kleinberg
 LOCATION:TBA
 STATUS:CONFIRMED
-URL:https://computationsociety.yale.edu/event/colloquium-by-jon-kleinberg-
- cornell
+URL:https://computationsociety.yale.edu/event/colloquium-on-fairness-and-b
+ ias-in-algorithmic-decision-making-by-jon-kleinberg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colloquium on AI & Gender: A Human Rights Toolbox Approach
