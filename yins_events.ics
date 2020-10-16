@@ -2,51 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS+CS Distinguished Seminar: Christos Papadimitriou (Columbia Un
- iversity)
-DTSTART;VALUE=DATE-TIME:20201015T200000
-DTEND;VALUE=DATE-TIME:20201015T210000
-DESCRIPTION:Event description:\nYINS+CS Distinguished Seminar\,\n“Langua
- ge\, Brain\, and Computation”\n\n\n\nSpeaker: Christos Papadimitriou\n\n
- Donovan Family Professor of Computer Science\nColumbia University\n\nTo jo
- in:\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/
- 92748598082\n\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 56
- 8 7788\nMeeting ID: 927 4859 8082\nInternational numbers available:\nhttps
- ://yale.zoom.us/u/adNtvlS8bv\n\n\nAbstract:\nHow does the brain beget the 
- mind?  How do molecules\, cells and synapses effect reasoning\, intellige
- nce\, language?   Despite dazzling progress in experimental neuroscience\
- , as well as in cognitive  science at the other extreme of scale\, we do 
- not seem to be making progress in the overarching question – the gap is 
- huge and a completely new approach seems to be required.  As Richard Axel
-  recently put it:  ”We don’t have a logic for the transformation  of
-  neural activity into thought […].”           What kind of formal
-  system would qualify as this “logic”?           I will introduce
-  a computational system whose basic data structure is the assembly – ass
- emblies are large populations of neurons representing concepts\, words\, t
- houghts\, etc. –\, and which is informed by recent  progress in underst
- anding how language happens in the brain.\n\nSpeaker Bio:\nChristos Harila
- os Papadimitriou is the Donovan Family Professor of Computer Science at Co
- lumbia University.  Before joining Columbia in 2017\, he was a professor 
- at UC Berkeley for the previous 22 years\,  and before that he taught at 
- Harvard\, MIT\, NTU Athens\, Stanford\, and UCSD.  He has written five te
- xtbooks and many articles on algorithms and complexity\, and their applica
- tions to optimization\, databases\, control\, AI\, robotics\, economics an
- d game theory\, the  Internet\, evolution\, and the brain.  He holds a P
- hD from Princeton (1976)\, and eight honorary doctorates.  He is a member
-  of the National Academy of Sciences of the US\, the American Academy of A
- rts and Sciences\, and the National Academy of Engineering\, and  he has 
- received the Knuth prize\, the Go”del prize\, the von Neumann medal\, as
-  well as the 2018 Harvey Prize by Technion.  In 2015 the president of the
-  Hellenic republic named him commander of the order of the Phoenix.  He h
- as also written three novels: “Turing\,” “Logicomix”  and his lat
- est “Independence.”\n\n.\n\n\nhttps://yins.yale.edu/event/yinscs-disti
- nguished-seminar-christos-papadimitriou-columbia-university
-LOCATION:Zoom
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yinscs-distinguished-seminar-christos-papa
- dimitriou-columbia-university
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Seminar: Daniel Roy (University of Toronto)
 DTSTART;VALUE=DATE-TIME:20201118T170000
 DTEND;VALUE=DATE-TIME:20201118T180000
