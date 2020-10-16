@@ -2,48 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Distinguished Colloquium/YINS - Christos Papdimitriou\, Columbi
- a University
-DTSTART;VALUE=DATE-TIME:20201015T200000
-DTEND;VALUE=DATE-TIME:20201015T210000
-DESCRIPTION:Event description:\nCS Distinguished Colloquium/YINS\n(This is
-  a joint event with YINS)\n\nChristos Papdimitriou\n\, Columbia University
- \n\nTitle: “Language\, Brain\, and Computation”\n\nZoom link:\nhttps:/
- /yale.zoom.us/j/9274859808\n\nHost: Yang Cai\n\nAbstract:\n\nHow does the 
- brain beget the mind?  How do molecules\, cells and synapses effect reaso
- ning\, intelligence\, language?   Despite dazzling progress in experimen
- tal neuroscience\, as well as in cognitive science at the other extreme of
-  scale\, we do not seem to be making progress in the overarching question 
- – the gap is huge and a completely new approach seems to be required.  
- As Richard Axel recently put it:  “We don’t have a logic for the tran
- sformation of neural activity into thought […].”\n\nWhat kind of forma
- l system would qualify as this “logic”?\n\nI will introduce a computat
- ional system whose basic data structure is the assembly – assemblies are
-  large populations of neurons representing concepts\, words\, thoughts\, e
- tc. –\, and which is informed by recent progress in understanding how la
- nguage happens in the brain.\n\nBio:\n\nChristos Harilaos Papadimitriou is
-  the Donovan Family Professor of Computer Science at Columbia University.
-   Before joining Columbia in 2017\, he was a professor at UC Berkeley for
-  the previous 22 years\, and before that he taught at Harvard\, MIT\, NTU 
- Athens\, Stanford\, and UCSD.  He has written five textbooks and many art
- icles on algorithms and complexity\, and their applications to optimizatio
- n\, databases\, control\, AI\, robotics\, economics and game theory\, the 
- Internet\, evolution\, and the brain.  He holds a PhD from Princeton (197
- 6)\, and eight honorary doctorates.  He is a member of the National Acade
- my of Sciences of the US\, the American Academy of Arts and Sciences\, and
-  the National Academy of Engineering\, and he has received the Knuth prize
- \, the Go”del prize\, the von Neumann medal\, as well as the 2018 Harvey
-  Prize by Technion.  In 2015 the president of the Hellenic republic named
-  him commander of the order of the Phoenix.  He has also written three no
- vels: “Turing \,” “Logicomix”  and his latest “Independence.”
- \n\n\nhttps://cpsc.yale.edu/event/cs-distinguished-colloquiumyins-christos
- -papdimitriou-columbia-university
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-distinguished-colloquiumyins-christos-p
- apdimitriou-columbia-university
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Computation and Society Initiative Colloquium - Jon Kleinberg\, Co
  rnell University
 DTSTART;VALUE=DATE-TIME:20201023T150000
