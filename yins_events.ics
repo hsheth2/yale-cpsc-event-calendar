@@ -2,6 +2,22 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
+SUMMARY:YINS Seminar: Boaz Barak (Harvard University)
+DTSTART;VALUE=DATE-TIME:20201111T170000
+DTEND;VALUE=DATE-TIME:20201111T180000
+DESCRIPTION:Event description:\nYINS Distinguished Lecturer Series:\n\nSpe
+ aker: Boaz Barak\nGordon McKay Professor of Computer Science\nHarvard John
+  A. Paulson School of Engineering and Applied Sciences\nHarvard University
+ \n\nTo participate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps
+ ://yale.zoom.us/j/91899440944\n\nOr Telephone：203-432-9666 (2-ZOOM if on
+ -campus) or 646 568 7788\n\nMeeting ID: 918 9944 0944\n\nInternational num
+ bers available:\nhttps://yale.zoom.us/u/abfSsSysEh\n\n.\n\n\nhttps://yins.
+ yale.edu/event/yins-seminar-boaz-barak-harvard-university
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-boaz-barak-harvard-university
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:YINS Seminar: Daniel Roy (University of Toronto)
 DTSTART;VALUE=DATE-TIME:20201118T170000
 DTEND;VALUE=DATE-TIME:20201118T180000
