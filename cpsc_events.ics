@@ -39,6 +39,88 @@ URL:https://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-
  only
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Computation and Society Initiative - Panel on AI & Gender
+DTSTART;VALUE=DATE-TIME:20201030T150000
+DTEND;VALUE=DATE-TIME:20201030T160000
+DESCRIPTION:Event description:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPanel on AI 
+ & Gender\nThe\nComputation and Society Initiative\nwelcomes\n\n\nSurya Dev
+ a\n\, School of Law\, City University of Hong Kong\, UN Working Group on
+  Business and Human Rights\n\nAsako Hattori\,\nWomen’s Human Rights and 
+ Gender Section\, Office of the United Nations High Commissioner for Human 
+ Rights\n\nCaitlin Kraft-Buchman\,\n<A+> Alliance\n\,\nWomen at the Table\n
+ \n\nThey will lead a Computation and Society Panel on\n\n“AI & Gender:
+  A Human Rights Toolbox Approach”\n\n\nHost:\nProfessor Elisa Celis\, D
+ epartment of Statistics and Data Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSury
+ a Deva\nSchool of Law\, City University of Hong Kong\; UN Working Group on
+  Business and Human Rights\n\n\nAsako Hattori\nWomen’s Human Rights and 
+ Gender Section\, Office of the United Nations High Commissioner for Human 
+ Rights\n\n\nCaitlin Kraft-Buchman\n<A+> Alliance\; Women at the Table\n\nF
+ riday\, October 30\, 2020\n11:00am to 12:00pm Eastern\n\n\nZoom:\n\nhttps
+ ://yale.zoom.us/j/99259504681\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbstract:\nIn thi
+ s crucial moment when AI is transforming the fabric of our society — pot
+ entially the greatest global paradigm shift yet — it is crystal clear th
+ at the design and deployment of Artificial Intelligence must be grounded i
+ n human rights. Similarly\, gender equality — the very heart of human ri
+ ghts — must be included in Artificial Intelligence design and deployment
+ . How can a human rights based approach be applied to computer science\, e
+ ngineering and innovation? It is urgent that computer scientists\, enginee
+ rs and policy makers understand the nature of bias\, its technical roots\,
+  its social impact\, and have practical frameworks to think about solution
+ s. It is equally important that scientists as well as policy makers and ci
+ tizens feel empowered to act upon their desires for a just and inclusive t
+ echnology. Our three speakers work in multilateral environments: the Offic
+ e of the High Commissioner for Human Rights\, the UN Working Group on the 
+ Guiding Principles to Business and Human Rights\, and the activist <A+> Al
+ liance for Inclusive Algorithms. They will discuss the growing movement to
+  apply a human-rights based approach — grounded in human rights concepts
+  and settled international law — to AI as opposed to à la carte Tech Et
+ hics\, and discuss an integration of a gender perspective into the everyda
+ y work of AI design and deployment. This conversation is particularly urge
+ nt given the scale at which Automated Decision-Making (ADM) systems and ma
+ chine learning are being deployed.\n\n\nSpeaker biographies:\n\n\nSurya De
+ va\nis an Associate Professor at the\nSchool of Law\nof City University of
+  Hong Kong\, and a member of the\nUN Working Group on Business and Human R
+ ights\n. Prof Deva’s primary research interests lie in Business and Huma
+ n Rights\, India-China Constitutional Law\, and Sustainable Development. H
+ e has published extensively in these areas\, and has advised the UN bodies
+ \, governments\, multinational corporations and civil society organization
+ s on matters related to business and human rights. He is one of the foundi
+ ng Editors-in-Chief of the\nBusiness and Human Rights Journal\n. Prof Deva
+  drafted the report on\ngender dimensions\nof the UN Guiding Principles on
+  Business and Human Rights.\n\nAsako Hattori\nis Human Rights Officer at 
+ the\nWomen’s Human Rights and Gender Section\, the Office of the United 
+ Nations High Commissioner for Human Rights\n(UN Human Rights Office – OH
+ CHR). At the UN Human Rights Office\, she also works on economic\, social 
+ and cultural rights\, land and human rights\, gender stereotyping\, digita
+ l technologies and women’s rights.\n\nCaitlin Kraft-Buchman\nis CEO/Foun
+ der of\nWomen at the Table\n\, a growing global CSO based in Geneva\, Swit
+ zerland – and the first organization to focus on systems change by helpi
+ ng feminists gain influence in sectors that have key structural impact: ec
+ onomy\, sustainability\, democracy and governance\, and technology.\n\nA s
+ erial coalition builder focused on impact\, she is founder of Internationa
+ l Gender Champions (IGC) with hubs in Geneva\, New York\, Vienna\, Nairobi
+ \, The Hague\, and Paris\, with 300+ Champion heads of organizations inclu
+ ding the UN Secretary General\, heads of UN-Habitat\, UNHCR\, ICRC\, WTO\,
+  ILO\, WHO\, WIPO\, ISO\, Ambassadors\, and Civil Society. She is responsi
+ ble for IGC’s Trade Impact Group (Buenos Aires Declaration on Trade + Wo
+ men’s Economic Empowerment\, 2017)\; Disarmament Impact Group (nominated
+  Arms Control Person/s of the Year\, 2018)\; Standards Impact Group (Gende
+ r Responsive Standards Declaration\, 2019).\n\nCaitlin founded and co-lead
+ s the new\n<A+> Alliance for Inclusive Algorithms\nwith Ciudadania Intelig
+ ente\, a global coalition focused on affirmative action for algorithms\, s
+ o that machine learning does not embed an already biased system into our f
+ uture. <A+> is one of the leaders of the UN Women Generation Equality Acti
+ on Coalition for Technology and Innovation for Gender Equality.\n\n\n\n\n\
+ n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+ n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+ n\n\n\n\n\n\n\n\nhttps://cpsc.yale.edu/event/computation-and-society-initi
+ ative-panel-ai-gender
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/computation-and-society-initiative-panel-a
+ i-gender
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Theodore Kim\, Yale University
 DTSTART;VALUE=DATE-TIME:20201030T200000
 DTEND;VALUE=DATE-TIME:20201030T210000
@@ -66,6 +148,49 @@ DESCRIPTION:Event description:\nCS Colloquium\n\nSpeaker: Theodore Kim\, Y
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-theodore-kim-yale-university
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Yuanzhi Li\, CMU
+DTSTART;VALUE=DATE-TIME:20201106T160000
+DTEND;VALUE=DATE-TIME:20201106T170000
+DESCRIPTION:Event description:\nCS Talk\n\nYuanzhi Li\n\, CMU\n\nTitle: On
+  the power of over-parameterization in neural networks – Going beyond N
+ TKs\n\nZoom link:\nhttps://yale.zoom.us/j/97035602733\n\nHost: Nisheeth Vi
+ shnoi\n\nAbstract:\n\nOver-parameterization is one of the most widely used
+  tools in deep learning: It has been observed that larger neural networks 
+ (e.g. networks with much more parameters than the total number of trainin
+ g data) are often much easier to train and also generalizes better compar
+ ing to smaller ones. Prior works try to explain this phenomenon in the lan
+ guage of neural tangent kernels (NTKs)\, which shows the power of the over
+ -parameterized neural network to learn functions that are learnable by ker
+ nel methods. In this work\, we go beyond the theory of NTKs and consider 
+ the power of over-parameterization in ReLU neural networks when the target
+  function is (provably) not learnable by kernel methods.\n\nIn this work\,
+  we look at the most simple example in this regime\, where the concept cla
+ ss consists of (proper-parameterized) two-layer ReLU neural networks and t
+ he input follows from standard Gaussian distribution. In this case\, to le
+ arn functions from this concept class\, we prove (1). Any kernel methods (
+ including those NTKs given by any neural networks of any structure) can n
+ ot achieve small generalization error unless super polynomially many trai
+ ning examples are used. (2). (Poly-size) Over-parameterized two-layer ReLU
+  neural networks can learn the target efficiently (using poly-sample and 
+ in poly-time)\, simply using (stochastic) gradient descent starting from
+  random initialization.\n\nOur work relies on a brand new framework for an
+ alyzing over-parameterization in deep learning: We first show that in the 
+ ideal case where there are infinitely many neurons and infinitely many tra
+ ining examples\, the training objective reduces to a mixture of PCA + ten
+ sor decomposition objectives. Although being highly non-convex\, we show t
+ hat starting from random initialization\, gradient descent can still opt
+ imize this objective efficiently. We then introduce an efficient coupling 
+ between the idealized process and the poly-sample\, poly-neuron case\, sho
+ wing the convergence of the latter.\n\nPaper:\nhttps://arxiv.org/abs/2007.
+ 04596\n\nBio:\n\nYuanzhi Li is an assistant professor at CMU\, Machine Le
+ arning Department (2019-present). He did his Ph.D. at Princeton\, under th
+ e advice of Sanjeev Arora (2014-2018) followed by a one-year postdoc at St
+ anford.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-yuanzhi-li-cmu
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-yuanzhi-li-cmu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - Hayley Iben\, Pixar
