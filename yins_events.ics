@@ -5,14 +5,44 @@ BEGIN:VEVENT
 SUMMARY:YINS Seminar: Boaz Barak (Harvard University)
 DTSTART;VALUE=DATE-TIME:20201111T170000
 DTEND;VALUE=DATE-TIME:20201111T180000
-DESCRIPTION:Event description:\nYINS Distinguished Lecturer Series:\n\nSpe
- aker: Boaz Barak\nGordon McKay Professor of Computer Science\nHarvard John
-  A. Paulson School of Engineering and Applied Sciences\nHarvard University
- \n\nTo participate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps
- ://yale.zoom.us/j/91899440944\n\nOr Telephone：203-432-9666 (2-ZOOM if on
- -campus) or 646 568 7788\n\nMeeting ID: 918 9944 0944\n\nInternational num
- bers available:\nhttps://yale.zoom.us/u/abfSsSysEh\n\n.\n\n\nhttps://yins.
- yale.edu/event/yins-seminar-boaz-barak-harvard-university
+DESCRIPTION:Event description:\nYINS Distinguished Lecturer Series:\n\n“
+ Understanding generalization requires rethinking deep learning?”\n\nSpea
+ ker: Boaz Barak\n\nGordon McKay Professor of Computer Science\nHarvard Joh
+ n A. Paulson School of Engineering and Applied Sciences\nHarvard Universit
+ y\n\nTo participate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttp
+ s://yale.zoom.us/j/91899440944\nOr Telephone：203-432-9666 (2-ZOOM if on-
+ campus) or 646 568 7788\nMeeting ID: 918 9944 0944\nInternational numbers 
+ available:\nhttps://yale.zoom.us/u/abfSsSysEh\n\nTalk summary:\nIn classic
+ al statistical learning theory\, we can place bounds on the generalization
+  gap - the difference between the empirical performance of a learned class
+ ifier on its training set and the population performance on unseen test ex
+ amples. Such bounds are hard to prove for deep learning. There is also emp
+ irical evidence that they are simply not true and deep-learning algorithms
+  actually do have non-vanishing generalization gaps.\n\nIn this talk we wi
+ ll see that there is a variant of supervised deep learning that does have 
+ small generalization gaps\, both in practice and in theory. This variant i
+ s “Self-Supervised + Simple fit” (SSS) algorithms that are obtained by
+  first using self-supervision to learn a complex representation of the (la
+ bel free) training data\, and then fitting a simple (e.g.\, linear) classi
+ fier to the labels. Such classifiers have become increasingly popular in r
+ ecent years\, as they offer several practical advantages and have been sho
+ wn to approach state-of-art results.\n\nWe show that (under assumptions de
+ scribed below) the generalization gap of such classifiers tends to zero as
+  long as the complexity of the simple classifier is asymptotically smaller
+  than the number of training samples. Our bound is independent of the comp
+ lexity of the representation\,  which can use an arbitrarily large number
+  of parameters. Our bound holds assuming that the learning algorithm satis
+ fies certain noise-robustness (adding a small amount of label noise causes
+  small degradation in performance) and rationality (getting the wrong labe
+ l is not better than getting no label at all) properties.  These conditio
+ ns hold widely across many standard architectures. We complement this resu
+ lt with an empirical study\, demonstrating that the generalization gap is 
+ in fact small in practice and our bound is non-vacuous for many popular re
+ presentation-learning based classifiers on CIFAR-10 and ImageNet\, includi
+ ng SimCLR\, AMDIM and BigBiGAN.\n\nThe talk will not assume any specific b
+ ackground in machine learning\, and should be accessible to a general math
+ ematical audience. Joint work with Yamini Bansal and Gal Kaplun.\n\n.\n\n\
+ nhttps://yins.yale.edu/event/yins-seminar-boaz-barak-harvard-university
 LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-boaz-barak-harvard-university
