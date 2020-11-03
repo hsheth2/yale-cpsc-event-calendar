@@ -85,8 +85,61 @@ SUMMARY:CS Distinguished Colloquium - Joel Emer\, MIT
 DTSTART;VALUE=DATE-TIME:20201204T210000
 DTEND;VALUE=DATE-TIME:20201204T220000
 DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker:\nJ
- oel Emer\, MIT\n\nHost: Abhishek Bhattacharjee\n\n\nhttps://cpsc.yale.edu/
- event/cs-distinguished-colloquium-joel-emer-mit
+ oel Emer\, MIT\n\nHost: Abhishek Bhattacharjee\n\nTitle: Data Orchestratio
+ n is the New Compute: Computer Architecture for the Post-Moore Era\n\nHost
+ : Abhishek Bhattacharjee\n\nAbstract:\n\nRecent history is replete with my
+ riad examples of new applications that have changed the course of computin
+ g and the world. These include the spreadsheet\, visual editing\, graphics
+ \, networking and many more. Behind each of these advances were programs d
+ eveloped on easily-programmable and ever-faster processors. Unfortunately\
+ , as is widely acknowledged\, the technological trend articulated by Moore
+ ’s Law\, which contributed significantly to creating the “ever faster
+ ” part of that recipe\, is dead (or at least slowing significantly). How
+ ever\, as outlined in our “Science” article\, “There’s plenty of r
+ oom at the top”\, there is promise in continuing Moore’s Law-like impr
+ ovements through a multi-pronged approach that includes software performan
+ ce engineering\, algorithm improvements and hardware architecture advances
+ . Among those researchers focusing on the hardware architecture advances p
+ rong\, there are many who advocate significant specialization of the hardw
+ are to specific domains\, which will typically be well-understood and of w
+ idely-acknowledged importance. This approach\, however\, is likely to impe
+ de the development of the next big application because there will be no ge
+ nerally-programmable platform on which to develop it. Therefore\, I believ
+ e that the biggest challenge in evolving hardware architectures in the pos
+ t-Moore era lies in striking the right balance between preserving broad pr
+ ogammability and enhancing efficiency. In this talk\, I will discuss how w
+ e have approached that challenge by focusing on the aspects of the hardwar
+ e that gives the most leverage to improve efficiency and by providing an a
+ bstraction that make it possible to compile to the new hardware.  More s
+ pecifically\, since data movement has become the dominant consumer of ener
+ gy\, I will describe structures that facilitate “data orchestration” t
+ hat reduce and optimize data movement. I also will describe abstractions t
+ hat are intended to made it possible to compile high-level programs to the
+ se new hardware structures.\n\nBio:\n\nFor over 40 years\, Joel Emer held 
+ various research and advanced development positions investigating processo
+ r microarchitecture and developing performance modeling and evaluation tec
+ hniques. He has made architectural contributions to a number of VAX\, Alph
+ a and X86 processors and is recognized as one of the developers of the wid
+ ely employed quantitative approach to processor performance evaluation. Mo
+ re recently\, he has been recognized for his contributions in the advancem
+ ent of deep learning accelerator design\, spatial and parallel architectur
+ es\, processor reliability analysis\, cache organization and simultaneous 
+ multithreading. Currently he is a professor at the Massachusetts Institute
+  of Technology and spends part time as a Senior Distinguished Research Sci
+ entist in Nvidia’s Architecture Research group. Previously\, he worked a
+ t Intel where he was an Intel Fellow and Director of Microarchitecture Res
+ earch.  Even earlier\, he worked at Compaq and Digital Equipment Corpora
+ tion. He earned a doctorate in electrical engineering from the University 
+ of Illinois in 1979. He received a bachelor’s degree with highest honors
+  in electrical engineering in 1974\, and his master’s degree in 1975 –
+  both from Purdue University. Recognitions of his contributions include an
+  ACM/SIGARCH-IEEE-CS/TCCA Most Influential Paper Award for his work on sim
+ ultaneous multithreading\, and six other papers that were selected as IEEE
+  Micro’s Top Picks in Computer Architecture.  Among hisprofessional ho
+ nors\, he is a Fellow of both the ACM and IEEE\, and a member of the NAE. 
+ In 2009 he was recipient of the Eckert-Mauchly award for lifetime contribu
+ tions in computer architecture.\n\n\nhttps://cpsc.yale.edu/event/cs-distin
+ guished-colloquium-joel-emer-mit
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-joel-emer-mit
