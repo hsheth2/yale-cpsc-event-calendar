@@ -81,6 +81,39 @@ URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-hayley-iben-pi
  xar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Distinguished Colloquium - Umesh Vazirani\, UC Berkeley
+DTSTART;VALUE=DATE-TIME:20201120T160000
+DTEND;VALUE=DATE-TIME:20201120T170000
+DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nUmesh Vazir
+ ani\,\nUC Berkeley\n\nTitle: Theoretical Reflections on Quantum Supremacy\
+ n\nZoom Link:\nhttps://yale.zoom.us/j/9857560888\n\nHost: Nisheeth VIshnoi
+ \n\nAbstract:\n\nThe recent demonstration of quantum supremacy by Google i
+ s a first step towards the era of small to medium scale quantum computers.
+  In this talk I will explain what the experiment accomplished and the theo
+ retical work it is based on\, as well as what it did not accomplish and th
+ e many theoretical and practical challenges that remain. I will also descr
+ ibe recent breakthroughs in the design of protocols for the testing and be
+ nchmarking of quantum computers\, a task that has deep computational and p
+ hilosophical implications. Specifically\, this leads to protocols for scal
+ able and verifiable quantum supremacy\, certifiable quantum random generat
+ ion and verification of quantum computation.\n\nThe talk will be aimed at 
+ a broad CS and Physics audience.\n\nBio:\n\nUmesh Virkumar Vazirani is the
+  Roger A. Strauch Professor of Electrical Engineering and Computer Science
+  at the University of California\, Berkeley\, and the director of the Berk
+ eley Quantum Computation Center. He is one of the pioneers of quantum comp
+ utation\, and has worked on the computational foundations of randomness an
+ d the theory of classical algorithms. Vazirani is member of the National A
+ cademy of Science\, and the author of two books: An Introduction to Comput
+ ational Learning Theory with Michael Kearns (MIT Press) and Algorithms wit
+ h Sanjoy Dasgupta and Christos Papadimitriou (McGraw Hill)\n\nAbstrac\n\n\
+ nhttps://cpsc.yale.edu/event/cs-distinguished-colloquium-umesh-vazirani-uc
+ -berkeley
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-umesh-vazirani
+ -uc-berkeley
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - Joel Emer\, MIT
 DTSTART;VALUE=DATE-TIME:20201204T210000
 DTEND;VALUE=DATE-TIME:20201204T220000
