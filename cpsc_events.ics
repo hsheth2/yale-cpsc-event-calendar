@@ -2,49 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Yuanzhi Li\, CMU
-DTSTART;VALUE=DATE-TIME:20201106T160000
-DTEND;VALUE=DATE-TIME:20201106T170000
-DESCRIPTION:Event description:\nCS Talk\n\nYuanzhi Li\n\, CMU\n\nTitle: On
-  the power of over-parameterization in neural networks – Going beyond N
- TKs\n\nZoom link:\nhttps://yale.zoom.us/j/97035602733\n\nHost: Nisheeth Vi
- shnoi\n\nAbstract:\n\nOver-parameterization is one of the most widely used
-  tools in deep learning: It has been observed that larger neural networks 
- (e.g. networks with much more parameters than the total number of trainin
- g data) are often much easier to train and also generalizes better compar
- ing to smaller ones. Prior works try to explain this phenomenon in the lan
- guage of neural tangent kernels (NTKs)\, which shows the power of the over
- -parameterized neural network to learn functions that are learnable by ker
- nel methods. In this work\, we go beyond the theory of NTKs and consider 
- the power of over-parameterization in ReLU neural networks when the target
-  function is (provably) not learnable by kernel methods.\n\nIn this work\,
-  we look at the most simple example in this regime\, where the concept cla
- ss consists of (proper-parameterized) two-layer ReLU neural networks and t
- he input follows from standard Gaussian distribution. In this case\, to le
- arn functions from this concept class\, we prove (1). Any kernel methods (
- including those NTKs given by any neural networks of any structure) can n
- ot achieve small generalization error unless super polynomially many trai
- ning examples are used. (2). (Poly-size) Over-parameterized two-layer ReLU
-  neural networks can learn the target efficiently (using poly-sample and 
- in poly-time)\, simply using (stochastic) gradient descent starting from
-  random initialization.\n\nOur work relies on a brand new framework for an
- alyzing over-parameterization in deep learning: We first show that in the 
- ideal case where there are infinitely many neurons and infinitely many tra
- ining examples\, the training objective reduces to a mixture of PCA + ten
- sor decomposition objectives. Although being highly non-convex\, we show t
- hat starting from random initialization\, gradient descent can still opt
- imize this objective efficiently. We then introduce an efficient coupling 
- between the idealized process and the poly-sample\, poly-neuron case\, sho
- wing the convergence of the latter.\n\nPaper:\nhttps://arxiv.org/abs/2007.
- 04596\n\nBio:\n\nYuanzhi Li is an assistant professor at CMU\, Machine Le
- arning Department (2019-present). He did his Ph.D. at Princeton\, under th
- e advice of Sanjeev Arora (2014-2018) followed by a one-year postdoc at St
- anford.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-yuanzhi-li-cmu
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-yuanzhi-li-cmu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - Hayley Iben\, Pixar
 DTSTART;VALUE=DATE-TIME:20201113T210000
 DTEND;VALUE=DATE-TIME:20201113T220000
