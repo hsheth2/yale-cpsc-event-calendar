@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Distinguished Colloquium - Hayley Iben\, Pixar
-DTSTART;VALUE=DATE-TIME:20201113T210000
-DTEND;VALUE=DATE-TIME:20201113T220000
-DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nSpeaker: Ha
- yley Iben\, Pixar\n\nTitle: Simulating Hair for Animated Films\n\nHost: Te
- d Kim\n\nAbstract:\n\nHair simulation in animated feature films presents m
- any challenges\, ranging from incorporating artistic control to dealing wi
- th extreme\, non-physical character motion. In a production environment\, 
- hair simulation needs to be fast\, stable\, and usable without excessive p
- arameter tuning in order to produce content efficiently. These challenges 
- only increase when simulating a variety of hair styles on numerous charact
- ers in the film. In this talk I will present our method for stably simulat
- ing stylized hair that addresses these artistic needs and performance dema
- nds. In addition to the underlying hair model that defines the physical mo
- tion\, I will discuss various artistic controls and approaches used to pro
- duce our final hair simulations in several feature films.\n\nBio:\n\nHayle
- y Iben is the Director of Engineering for Applications in the Software R&D
-  department at Pixar Animation Studios. Her teams are responsible for film
-  production technologies for sets\, layout\, characters\, shading\, crowds
- \, animation\, simulation\, lighting and rendering. Prior to undertaking t
- his role\, Hayley led the engineering team responsible for character simul
- ation technologies\, including cloth\, hair\, flesh\, and skin\, for seven
-  of her fourteen years at the studio. Hayley’s expertise is in hair simu
- lation and she has been developing the studio’s hair technology\, Taz\, 
- that debuted in Disney Pixar’s “Brave”. She has also built tools for
-  character articulation and animation\, focusing on inverse kinematics and
-  mathematical techniques. Hayley earned a B.S. in computer science from Du
- quesne University and a M.S. and Ph.D. in computer science from the Univer
- sity of California\, Berkeley.\n\n\nhttps://cpsc.yale.edu/event/cs-disting
- uished-colloquium-hayley-iben-pixar
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-hayley-iben-pi
- xar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - Umesh Vazirani\, UC Berkeley
 DTSTART;VALUE=DATE-TIME:20201120T160000
 DTEND;VALUE=DATE-TIME:20201120T170000
