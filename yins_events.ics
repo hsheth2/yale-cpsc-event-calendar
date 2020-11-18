@@ -7,29 +7,29 @@ DTSTART;VALUE=DATE-TIME:20201118T170000
 DTEND;VALUE=DATE-TIME:20201118T180000
 DESCRIPTION:Event description:\n“In Defense of Uniform Convergence: Gene
  ralization via derandomization with an application to interpolating predic
- tors”\n\nSpeaker: Daniel Roy\n\nAssociate Professor\, University of Toro
- nto\n\nTo participate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nht
- tps://yale.zoom.us/j/95827054840\n\nOr Telephone：203-432-9666 (2-ZOOM if
-  on-campus) or 646 568 7788\nMeeting ID: 958 2705 4840\nInternational numb
- ers available:\nhttps://yale.zoom.us/u/aciY0peggr\n\nTalk Summary:\nWe pro
- pose to study the generalization error of a learned predictor ^h in terms 
- of that of a surrogate (potentially randomized) predictor that is coupled 
- to ^h and designed to trade empirical risk for control of generalization e
- rror. In the case where ^h interpolates the data\, it is interesting to co
- nsider theoretical surrogate classifiers that are partially derandomized o
- r rerandomized\, e.g.\, fit to the training data but with modified label n
- oise. We also show that replacing ^h by its conditional distribution with 
- respect to an arbitrary σ-field is a convenient way to derandomize. We st
- udy two examples\, inspired by the work of Nagarajan and Kolter (2019) and
-  Bartlett et al. (2019)\, where the learned classifier ^h interpolates the
-  training data with high probability\, has small risk\, and\, yet\, does n
- ot belong to a nonrandom class with a tight uniform bound on two-sided gen
- eralization error. At the same time\, we bound the risk of ^h in terms of 
- surrogates constructed by conditioning and denoising\, respectively\, and 
- shown to belong to nonrandom classes with uniformly small generalization e
- rror.\n\nJoint work by Jeffrey Negrea\, Gintare Karolina Dziugaite\, Danie
- l M. Roy\n\n.\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-daniel-ro
- y-university-toronto
+ tors”\n\nSpeakers:\n\nDaniel Roy\n\nAssociate Professor\, University of 
+ Toronto\n\nJeffrey Negrea\n\nPhD Candidate\n\nTo participate:\n\nJoin from
+  PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/95827054840\n\
+ nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeetin
+ g ID: 958 2705 4840\nInternational numbers available:\nhttps://yale.zoom.u
+ s/u/aciY0peggr\n\nTalk Summary:\nWe propose to study the generalization er
+ ror of a learned predictor ^h in terms of that of a surrogate (potentially
+  randomized) predictor that is coupled to ^h and designed to trade empiric
+ al risk for control of generalization error. In the case where ^h interpol
+ ates the data\, it is interesting to consider theoretical surrogate classi
+ fiers that are partially derandomized or rerandomized\, e.g.\, fit to the 
+ training data but with modified label noise. We also show that replacing ^
+ h by its conditional distribution with respect to an arbitrary σ-field is
+  a convenient way to derandomize. We study two examples\, inspired by the 
+ work of Nagarajan and Kolter (2019) and Bartlett et al. (2019)\, where the
+  learned classifier ^h interpolates the training data with high probabilit
+ y\, has small risk\, and\, yet\, does not belong to a nonrandom class with
+  a tight uniform bound on two-sided generalization error. At the same time
+ \, we bound the risk of ^h in terms of surrogates constructed by condition
+ ing and denoising\, respectively\, and shown to belong to nonrandom classe
+ s with uniformly small generalization error.\n\nJoint work by Jeffrey Negr
+ ea\, Gintare Karolina Dziugaite\, Daniel M. Roy\n\n.\n\n.\n\n\nhttps://yin
+ s.yale.edu/event/yins-seminar-daniel-roy-university-toronto
 LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-daniel-roy-university-toronto
