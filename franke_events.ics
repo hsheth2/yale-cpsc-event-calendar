@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Maps and Epidemiology\, Lessons for COVID-19:  Virtual Mapping as 
+SUMMARY:Maps and Epidemiology:  Lessons for COVID-19:  Virtual Mapping as 
  Knowing Series Talk by Professor Frank Snowden
 DTSTART;VALUE=DATE-TIME:20201202T210000
 DTEND;VALUE=DATE-TIME:20201202T220000
