@@ -2,6 +2,58 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:YINS Distinguished Lecturer Seminar - Peter Bartlett\, Univ. of Ca
+ lifornia at Berkeley
+DTSTART;VALUE=DATE-TIME:20201202T170000
+DTEND;VALUE=DATE-TIME:20201202T180000
+DESCRIPTION:Event description:\nYINS Distinguished Lecturer Seminar\n\nSpe
+ aker: Peter Bartlett\nProfessor of Computer Science and Statistics\, Unive
+ rsity of California at Berkeley\nAssociate Director of the Simons Institut
+ e for the Theory of Computing\nDirector of the Foundations of Data Science
+  Institute\nDirector of the Collaboration on the Theoretical Foundations o
+ f Deep Learning\n\nTitle: “Benign Overfitting”\n\nZoom Link:\nhttps://
+ yale.zoom.us/j/97135219127\n\nAbstract:\n\nClassical theory that guides th
+ e design of nonparametric prediction methods like deep neural networks inv
+ olves a tradeoff between the fit to the training data and the complexity o
+ f the prediction rule. Deep learning seems to operate outside the regime w
+ here these results are informative\, since deep networks can perform well 
+ even with a perfect fit to noisy training data. We investigate this phenom
+ enon of ‘benign overfitting’ in the simplest setting\, that of linear 
+ prediction. We give a characterization of linear regression problems for w
+ hich the minimum norm interpolating prediction rule has near-optimal predi
+ ction accuracy. The characterization is in terms of two notions of effecti
+ ve rank of the data covariance. It shows that overparameterization is esse
+ ntial: the number of directions in parameter space that are unimportant fo
+ r prediction must significantly exceed the sample size.  It also shows an
+  important role for finite-dimensional data: benign overfitting occurs for
+  a much narrower range of properties of the data distribution when the dat
+ a lies in an infinite dimensional space versus when it lies in a finite di
+ mensional space whose dimension grows faster than the sample size. We disc
+ uss implications for deep networks\, for robustness to adversarial example
+ s\, and for the rich variety of possible behaviors of excess risk as a fun
+ ction of dimension\, and we describe extensions to ridge regression and ba
+ rriers to analyzing benign overfitting based on model-dependent generaliza
+ tion bounds.  Joint work with Phil Long\, Gábor Lugosi\, and Alex Tsigle
+ r.\n\nBio:\n\nPeter Bartlett is professor of Computer Science and Statisti
+ cs at the University of California at Berkeley\, Associate Director of the
+  Simons Institute for the Theory of Computing\, Director of the Foundation
+ s of Data Science Institute\, and Director of the Collaboration on the The
+ oretical Foundations of Deep Learning. His research interests include mach
+ ine learning and statistical learning theory\, and he is the co-author of 
+ the book Neural Network Learning: Theoretical Foundations. He has been Ins
+ titute of Mathematical Statistics Medallion Lecturer\, winner of the Malco
+ lm McIntosh Prize for Physical Scientist of the Year\, and Australian Laur
+ eate Fellow\, and he is a Fellow of the IMS\, Fellow of the ACM\, and Fell
+ ow of the Australian Academy of Science.\n\nyins.yale.edu/event/yins-disti
+ nguished-lecturer-seminar-peter-bartlett-uc-berkeley\n\n\nhttps://cpsc.yal
+ e.edu/event/yins-distinguished-lecturer-seminar-peter-bartlett-univ-califo
+ rnia-berkeley
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/yins-distinguished-lecturer-seminar-peter-
+ bartlett-univ-california-berkeley
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - Joel Emer\, MIT
 DTSTART;VALUE=DATE-TIME:20201204T210000
 DTEND;VALUE=DATE-TIME:20201204T220000
