@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Maps and Epidemiology:  Lessons for COVID-19:  Virtual Mapping as 
- Knowing Series Talk by Professor Frank Snowden
-DTSTART;VALUE=DATE-TIME:20201202T210000
-DTEND;VALUE=DATE-TIME:20201202T220000
-DESCRIPTION:Event description:\nThis talk will consider the importance of 
- mapping for the understanding of epidemic diseases since John Snow’s wor
- k on cholera in London. The focus will be on ways in which traditional map
- s have greatly helped to understand the way in which race\, pre-existing c
- onditions\, and air pollution have served as drivers of the coronavirus pa
- ndemic.\n\nProfessor Snowden received his Ph.D. from Oxford University in 
- 1975. His books include Violence and Great Estates in the South of Italy:
-  Apulia\, 1900-1922 (1984)\; The Fascist Revolution in Tuscany\, 1919-19
- 22 (1989)\; Naples in the Times of Cholera (1995) and The Conquest of 
- Malaria: Italy\, 1900-1962 (2006).  Conquest was awarded the Gustav Ra
- nis Prize from the MacMillan Center at Yale in 2007 as “the best book on
-  an international topic by a member of the Yale Faculty\,” the Helen and
-  Howard R. Marraro Prize by the American Historical Association as the bes
- t work on Italy in any period\, and the 2008 Welch Medal from the American
-  Association for the History of Medicine.\n\nHe teaches undergraduate and 
- graduate courses in Italian history\, European social and political histor
- y\, and the history of medicine.\n\n\nRegister in advance for this meeting
- :\n\nhttps://yale.zoom.us/meeting/register/tJEpce6hrDMpGtcN6InkrbB73JRMGvu
- 7KT…\n\n\n\nAfter registering\, you will receive a confirmation email co
- ntaining information about joining the meeting.\n\n\n\nhttps://frankeprogr
- am.yale.edu/event/maps-and-epidemiology-lessons-covid-19-virtual-mapping-k
- nowing-series-talk-professor-frank
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/maps-and-epidemiology-lessons-cov
- id-19-virtual-mapping-knowing-series-talk-professor-frank
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RESCHEDULED - FINAL DATE TBD:  Mapping as Knowing Lecture Series\,
   Talk by Victor Coelho
 DTSTART;VALUE=DATE-TIME:20210201T210000
