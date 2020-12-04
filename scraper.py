@@ -17,6 +17,11 @@ def parse_event_urls_from_feed(domain, feed):
         url = link.get('href')
         if url[0] == '/':
             url = f'{domain}{url}'
+        if url.startswith('https://yale.zoom.us'):
+            # Sometimes we accidentally pick up zoom links as event URLs.
+            # We want to filter these out, since we'll get them later when
+            # we parse the event descriptions.
+            continue
         urls.append(url)
     return urls
 

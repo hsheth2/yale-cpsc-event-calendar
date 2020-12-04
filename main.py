@@ -80,4 +80,9 @@ def main(sources):
 
 
 if __name__ == '__main__':
-    main([cpsc, franke, yins, comp_society])
+    main([
+        cpsc, 
+        franke, 
+        yins, 
+        comp_society,
+    ])
