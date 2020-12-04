@@ -1,4 +1,33 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
+BEGIN:VEVENT
+SUMMARY:Paxton Turner (MIT) "A Statistical Perspective on Coresets"
+DTSTART;VALUE=DATE-TIME:20201204T160000
+DTEND;VALUE=DATE-TIME:20201204T170000
+DESCRIPTION:Event description:\nPaxton Turner\, “A Statistical Perspecti
+ ve on Coresets”\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps:/
+ /yale.zoom.us/j/92154541809\nOr Telephone：203-432-9666 (2-ZOOM if on-cam
+ pus) or 646 568 7788\nMeeting ID: 921 5454 1809\nInternational numbers ava
+ ilable:\nhttps://yale.zoom.us/u/aeBbzflf8h\n\nTitle\n: A Statistical Persp
+ ective on Coresets\n\nAbstract\n: Coresets have emerged as a powerful tool
+  to summarize data by selecting a small subset of the original observation
+ s while retaining most of its information. This approach has led to signif
+ icant computational speedups\, but the statistical performance of procedur
+ es run on coresets is largely unexplored. I will introduce a statistical f
+ ramework to study coresets and focus on the task of nonparametric density 
+ estimation. Then I will characterize the statistical performance of corese
+ t-based estimators and show that the practical coreset kernel density esti
+ mators are near-minimax optimal.\n\nSpeaker Bio\n: Paxton Turner is a fift
+ h year Ph.D. student in the department of mathematics at MIT\, advised by 
+ Philippe Rigollet. His research interests span statistics\, algorithms\, a
+ nd theoretical aspects of machine learning. Before coming to MIT\, he did 
+ his undergraduate studies in mathematics at Louisiana State University.\n\
+ n.\n\n\nhttps://yins.yale.edu/event/paxton-turner-mit-statistical-perspect
+ ive-coresets
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/paxton-turner-mit-statistical-perspective-
+ coresets
+END:VEVENT
 END:VCALENDAR
