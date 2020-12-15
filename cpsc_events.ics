@@ -1,4 +1,41 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
+BEGIN:VEVENT
+SUMMARY:JBPO Meeting Dates\, AY 2020-21 - Information Only
+DTSTART;VALUE=DATE-TIME:20210225T210000
+DTEND;VALUE=DATE-TIME:20210225T220000
+DESCRIPTION:Event description:\nThe dates for the Joint Boards of Permanen
+ t Officers (JBPO) have been scheduled for the 2020-21 academic year.  Ple
+ ase reserve:\n\nThursday\, February 25\, 2021\n\nThursday\, April 15\, 202
+ 1\n\nThursday\, May 13\, 2021\n\nAll meetings start at 4:00 p.m. and will 
+ be via Zoom for the foreseeable future. Two weeks prior to each meeting\, 
+ an email will be sent with the link to preregister for the meeting\, along
+  with the CONFIDENTIAL agenda and supporting materials. After preregisteri
+ ng you will receive a confirmation email containing the Zoom link to join 
+ the meeting.\n\nIn order to ensure a quorum*\, please attend if you are ab
+ le\, especially if you are a designated quorum officer of your department 
+ or program.\n\n*Voting in the Joint Boards of Permanent Officers. Full pro
+ fessors whose primary or fully joint appointments are in a Faculty of Arts
+  and Sciences department may vote\, as may full professors of professional
+  schools with secondary appointments in a Faculty of Arts and Sciences dep
+ artment and explicit Corporation approval for such voting rights. The only
+  exception to this rule is for faculty in Molecular Biophysics and Biochem
+ istry who are assigned to vote in the School of Medicine’s Board of Perm
+ anent Officers and may not also vote in the Joint Boards of Permanent Offi
+ cers of Yale College and the Graduate School. By long standing custom\, a 
+ quorum for the conduct of business at a meeting of the Joint Boards consis
+ ts of 37 members eligible to vote. No vote has force if the number of vote
+ s\, plus recorded abstentions\, falls short of that number. Tenure appoint
+ ments are forwarded to the Corporation only upon an affirmative vote by tw
+ o-thirds of the members present and eligible to vote. All other appointmen
+ ts are approved by majority vote. (Faculty Handbook\, Section IV.F.5)\n\nY
+ ale University | Faculty of Arts and Sciences |\nhttp://fas.yale.edu/\n\n\
+ nhttps://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-onl
+ y
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-
+ only
+END:VEVENT
 END:VCALENDAR
