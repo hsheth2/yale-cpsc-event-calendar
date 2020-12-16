@@ -2,6 +2,22 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:Computer Science Holiday Party
+DTSTART;VALUE=DATE-TIME:20201218T210000
+DTEND;VALUE=DATE-TIME:20201218T220000
+DESCRIPTION:Event description:\n\nRSVP Here\n\n\nZOOM LINK\n\nYou are invi
+ ted to a scheduled Zoom meeting. Zoom is Yale’s audio and visual confere
+ ncing platform.\n\nTopic: Computer Science Holiday Party\n\nTime: Dec 18\,
+  2020 04:00 PM Eastern Time (US and Canada)\n\nJoin from PC\, Mac\, Linux\
+ , iOS or Android:\nhttps://yale.zoom.us/j/95971941320\n\nOr Telephone：20
+ 3-432-9666 (2-ZOOM if on-campus) or 646 568 7788\n\nMeeting ID: 959 7194 1
+ 320\n\nInternational numbers available:\nhttps://yale.zoom.us/u/abRY0lhGnE
+ \n\n\nhttps://cpsc.yale.edu/event/computer-science-holiday-party
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/computer-science-holiday-party
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JBPO Meeting Dates\, AY 2020-21 - Information Only
 DTSTART;VALUE=DATE-TIME:20210225T210000
 DTEND;VALUE=DATE-TIME:20210225T220000
