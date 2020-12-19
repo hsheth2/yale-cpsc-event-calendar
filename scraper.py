@@ -37,18 +37,11 @@ def scrape_event_info(event_url):
     title_region = content.find(id='page-title')
     title = title_region.get_text().strip()
 
-    """
-    time_element = content.find('span', {'property': 'dc:date'})
-    time_raw = time_element.get('content')
-    time_aware = datetime.datetime.strptime(time_raw, "%Y-%m-%dT%H:%M:%S%z")
-    time_real = time_aware.astimezone(tz=pytz.utc).replace(tzinfo=None)
-    """
-
     time_region = content.find(class_='field-name-field-event-time')
     time_element = time_region.find(class_='date-display-single')
-    if time_element.find(class_='date-display-range'):
-        time_element = time_element.find(class_='date-display-range')
-        time_element = time_element.find(class_='date-display-start')
+    if not time_element:
+        # TODO: Capture start and end times.
+        time_element = time_region.find(class_='date-display-start')
     time_raw = time_element.get('content')
     time_aware = datetime.datetime.strptime(time_raw, "%Y-%m-%dT%H:%M:%S%z")
     time_real = time_aware.astimezone(tz=pytz.utc).replace(tzinfo=None)
@@ -88,6 +81,7 @@ def fetch_upcoming_urls(domain, feeds):
 def fetch_upcoming_events(urls):
     events = []
     for url in urls:
+        print(f'starting {url}')
         event_info = scrape_event_info(url)
         print(f"Event: {event_info['title']}")
         events.append(event_info)
