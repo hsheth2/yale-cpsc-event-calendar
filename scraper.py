@@ -37,11 +37,12 @@ def scrape_event_info(event_url):
     title_region = content.find(id='page-title')
     title = title_region.get_text().strip()
 
+    # TODO: Capture start and end times.
     time_region = content.find(class_='field-name-field-event-time')
-    time_element = time_region.find(class_='date-display-single')
+    time_element = time_region.find(class_='date-display-start')
     if not time_element:
-        # TODO: Capture start and end times.
-        time_element = time_region.find(class_='date-display-start')
+        # Fallback to date-display-single if start is not available.
+        time_element = time_region.find(class_='date-display-single')
     time_raw = time_element.get('content')
     time_aware = datetime.datetime.strptime(time_raw, "%Y-%m-%dT%H:%M:%S%z")
     time_real = time_aware.astimezone(tz=pytz.utc).replace(tzinfo=None)
