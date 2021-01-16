@@ -28,6 +28,24 @@ URL:https://frankeprogram.yale.edu/event/learning-doing-science-video-proj
  ect
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Folding the Map on Segregation\, Virtual Talk by Tonika Johnson
+DTSTART;VALUE=DATE-TIME:20210121T210000
+DTEND;VALUE=DATE-TIME:20210121T220000
+DESCRIPTION:Event description:\nIn this virtual conversation\, Tonika John
+ son will discuss how she came to use her creativity to explore urban segre
+ gation in Chicago with her Folded Map project and how it can serve as a re
+ source for understanding\, an empathy generator\, and a conduit for action
+ .\nRegister in advance for this meeting:\n\nhttps://yale.zoom.us/meeting/r
+ egister/tJwpd\n–srzwvGNZnFzkwAZ0KR-xngo9tbf…\n\nAfter registering\, yo
+ u will receive a confirmation email containing information about joining t
+ he meeting.\n\n\nhttps://frankeprogram.yale.edu/event/folding-map-segregat
+ ion-virtual-talk-tonika-johnson
+LOCATION:Whitney Humanities Center (WALL53 )\, 118 (Whitney Theater)
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/folding-map-segregation-virtual-t
+ alk-tonika-johnson
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Folding the Map on Segregation\, Mapping as Knowing Lecture Series
   Talk by Tonika Johnson
 DTSTART;VALUE=DATE-TIME:20210121T210000
