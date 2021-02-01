@@ -52,6 +52,54 @@ URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-james-e-smith-
  university-wisconsin-madison-emeritus
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Jonathan K. Kummerfeld
+DTSTART;VALUE=DATE-TIME:20210215T210000
+DTEND;VALUE=DATE-TIME:20210215T220000
+DESCRIPTION:Event description:\nCS Colloquium\nJonathan K. Kummerfeld\n\nT
+ itle: You Are What You Train On:  Creating Robust Natural Language Inte
+ rfaces\n\nZoom Presentation*\n\nHost: Dragomir Radev\n\nAbstract:\n\nNatur
+ al Language Interfaces like Siri and Alexa help people do things more effi
+ ciently\, but they are brittle\, unable to handle the full range of ways p
+ eople naturally express themselves. Each of their actions is manually defi
+ ned by developers\, with limited ability to compose actions to make more s
+ ophisticated ones. The choice of action is made by a statistical model tha
+ t is limited by the range of data seen in training. Despite steady progres
+ s in the accuracy of these systems\, the true scope of remaining challenge
+ s has been obscured by the way researchers collect and prepare data.\n\nIn
+  this talk\, I will describe two of my projects that have revealed previou
+ sly unknown limitations of natural language interfaces and ways to address
+  them. First\, I will show that systems for converting questions to SQL qu
+ eries have limited generalizability beyond examples seen in training (ACL 
+ 2018). I propose a new model and a new way to split data into training and
+  test sets that explore this challenge. Second\, I will show that standard
+  crowd-worker data collection processes miss the long and heavy tail of wa
+ ys people speak (ACL 2017). I propose an outlier-based data collection wor
+ kflow (NAACL 2019)\, and a complementary taboo list workflow (EMNLP 2020)\
+ , that improve data diversity and reduce the cost of data cleaning. I will
+  conclude by outlining a research agenda for fundamentally changing the ca
+ pabilities of these systems. Today we use these systems to do simple tasks
+ \, e.g. “start a 5 minute timer”. My work will enable systems to do co
+ mplex tasks as part of applications\, e.g. “Plot population over the las
+ t 2000 years with a trend line only and a log scale on the y-axis”.\n\nB
+ io:\n\nJonathan K. Kummerfeld is a Postdoctoral Research Fellow in Compute
+ r Science and Engineering at the University of Michigan. He completed his 
+ Ph.D. at the University of California\, Berkeley\, advised by Prof. Dan Kl
+ ein. Jonathan’s research has revealed new challenges in syntactic parsin
+ g\, coreference resolution\, and dialogue. He has proposed models and algo
+ rithms to address these challenges\, improving the speed and accuracy of n
+ atural language processing systems. He has been on the program committee f
+ or 55 conferences and workshops\, including Area Chair at ACL and Shared T
+ ask Coordinator for the DSTC workshops. He currently serves as a standing 
+ reviewer for the Computational Linguistics journal and the Transactions of
+  the Association for Computational Linguistics journal. For more details\,
+  see his website:\nhttps://www.jkk.name\n\n*Contact\nalicia.vignola@yale.e
+ du\nor\nnancy.pellegrino@yale.edu\nfor Zoom link\n\n\n\n\nhttps://cpsc.yal
+ e.edu/event/cs-colloquium-jonathan-k-kummerfeld
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-jonathan-k-kummerfeld
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JBPO Meeting Dates\, AY 2020-21 - Information Only
 DTSTART;VALUE=DATE-TIME:20210225T210000
 DTEND;VALUE=DATE-TIME:20210225T220000
