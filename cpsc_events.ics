@@ -2,6 +2,17 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Pranav Rajpurkar
+DTSTART;VALUE=DATE-TIME:20210208T210000
+DTEND;VALUE=DATE-TIME:20210208T220000
+DESCRIPTION:Event description:\nCS Colloquium\nPranav Rajpurkar\n\nHost: S
+ teven Zucker\n\nCheck back for abstract and bio.\n\n\nhttps://cpsc.yale.ed
+ u/event/cs-colloquium-pranav-rajpurkar
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-pranav-rajpurkar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - James E. Smith\, University of Wisco
  nsin-Madison (Emeritus)
 DTSTART;VALUE=DATE-TIME:20210212T150000
@@ -57,47 +68,128 @@ DTSTART;VALUE=DATE-TIME:20210215T210000
 DTEND;VALUE=DATE-TIME:20210215T220000
 DESCRIPTION:Event description:\nCS Colloquium\nJonathan K. Kummerfeld\n\nT
  itle: You Are What You Train On:  Creating Robust Natural Language Inte
- rfaces\n\nZoom Presentation*\n\nHost: Dragomir Radev\n\nAbstract:\n\nNatur
- al Language Interfaces like Siri and Alexa help people do things more effi
- ciently\, but they are brittle\, unable to handle the full range of ways p
- eople naturally express themselves. Each of their actions is manually defi
- ned by developers\, with limited ability to compose actions to make more s
- ophisticated ones. The choice of action is made by a statistical model tha
- t is limited by the range of data seen in training. Despite steady progres
- s in the accuracy of these systems\, the true scope of remaining challenge
- s has been obscured by the way researchers collect and prepare data.\n\nIn
-  this talk\, I will describe two of my projects that have revealed previou
- sly unknown limitations of natural language interfaces and ways to address
-  them. First\, I will show that systems for converting questions to SQL qu
- eries have limited generalizability beyond examples seen in training (ACL 
- 2018). I propose a new model and a new way to split data into training and
-  test sets that explore this challenge. Second\, I will show that standard
-  crowd-worker data collection processes miss the long and heavy tail of wa
- ys people speak (ACL 2017). I propose an outlier-based data collection wor
- kflow (NAACL 2019)\, and a complementary taboo list workflow (EMNLP 2020)\
- , that improve data diversity and reduce the cost of data cleaning. I will
-  conclude by outlining a research agenda for fundamentally changing the ca
- pabilities of these systems. Today we use these systems to do simple tasks
- \, e.g. “start a 5 minute timer”. My work will enable systems to do co
- mplex tasks as part of applications\, e.g. “Plot population over the las
- t 2000 years with a trend line only and a log scale on the y-axis”.\n\nB
- io:\n\nJonathan K. Kummerfeld is a Postdoctoral Research Fellow in Compute
- r Science and Engineering at the University of Michigan. He completed his 
- Ph.D. at the University of California\, Berkeley\, advised by Prof. Dan Kl
- ein. Jonathan’s research has revealed new challenges in syntactic parsin
- g\, coreference resolution\, and dialogue. He has proposed models and algo
- rithms to address these challenges\, improving the speed and accuracy of n
- atural language processing systems. He has been on the program committee f
- or 55 conferences and workshops\, including Area Chair at ACL and Shared T
- ask Coordinator for the DSTC workshops. He currently serves as a standing 
- reviewer for the Computational Linguistics journal and the Transactions of
-  the Association for Computational Linguistics journal. For more details\,
-  see his website:\nhttps://www.jkk.name\n\n*Contact\nalicia.vignola@yale.e
- du\nor\nnancy.pellegrino@yale.edu\nfor Zoom link\n\n\n\n\nhttps://cpsc.yal
- e.edu/event/cs-colloquium-jonathan-k-kummerfeld
-LOCATION:Zoom Presentation
+ rfaces\n\nHost: Dragomir Radev\n\nAbstract:\n\nNatural Language Interfaces
+  like Siri and Alexa help people do things more efficiently\, but they are
+  brittle\, unable to handle the full range of ways people naturally expres
+ s themselves. Each of their actions is manually defined by developers\, wi
+ th limited ability to compose actions to make more sophisticated ones. The
+  choice of action is made by a statistical model that is limited by the ra
+ nge of data seen in training. Despite steady progress in the accuracy of t
+ hese systems\, the true scope of remaining challenges has been obscured by
+  the way researchers collect and prepare data.\n\nIn this talk\, I will de
+ scribe two of my projects that have revealed previously unknown limitation
+ s of natural language interfaces and ways to address them. First\, I will 
+ show that systems for converting questions to SQL queries have limited gen
+ eralizability beyond examples seen in training (ACL 2018). I propose a new
+  model and a new way to split data into training and test sets that explor
+ e this challenge. Second\, I will show that standard crowd-worker data col
+ lection processes miss the long and heavy tail of ways people speak (ACL 2
+ 017). I propose an outlier-based data collection workflow (NAACL 2019)\, a
+ nd a complementary taboo list workflow (EMNLP 2020)\, that improve data di
+ versity and reduce the cost of data cleaning. I will conclude by outlining
+  a research agenda for fundamentally changing the capabilities of these sy
+ stems. Today we use these systems to do simple tasks\, e.g. “start a 5 m
+ inute timer”. My work will enable systems to do complex tasks as part of
+  applications\, e.g. “Plot population over the last 2000 years with a tr
+ end line only and a log scale on the y-axis”.\n\nBio:\n\nJonathan K. Kum
+ merfeld is a Postdoctoral Research Fellow in Computer Science and Engineer
+ ing at the University of Michigan. He completed his Ph.D. at the Universit
+ y of California\, Berkeley\, advised by Prof. Dan Klein. Jonathan’s rese
+ arch has revealed new challenges in syntactic parsing\, coreference resolu
+ tion\, and dialogue. He has proposed models and algorithms to address thes
+ e challenges\, improving the speed and accuracy of natural language proces
+ sing systems. He has been on the program committee for 55 conferences and 
+ workshops\, including Area Chair at ACL and Shared Task Coordinator for th
+ e DSTC workshops. He currently serves as a standing reviewer for the Compu
+ tational Linguistics journal and the Transactions of the Association for C
+ omputational Linguistics journal. For more details\, see his website:\nhtt
+ ps://www.jkk.name\n\n*Contact\nalicia.vignola@yale.edu\nor\nnancy.pellegri
+ no@yale.edu\nfor Zoom link\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloqu
+ ium-jonathan-k-kummerfeld
+LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-jonathan-k-kummerfeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Deepak Narayanan
+DTSTART;VALUE=DATE-TIME:20210216T210000
+DTEND;VALUE=DATE-TIME:20210216T220000
+DESCRIPTION:Event description:\nCS Colloquium\nDeepak Narayanan\n\nTitle: 
+ Resource-Efficient Execution for Deep Learning\n\nHost: Abhishek Bhattacha
+ rjee\n\nAbstract:\n\nDeep Learning models have enabled state-of-the-art re
+ sults across a broad range of applications\; however\, training these mode
+ ls is extremely time- and resource-intensive\, taking weeks on clusters wi
+ th thousands of expensive accelerators in the extreme case. In this talk\,
+  I will describe two systems that improve the resource efficiency of model
+  training. The first system\, PipeDream\, proposes the use of pipelining t
+ o accelerate distributed training. Pipeline parallelism facilitates model 
+ training with lower communication overhead than previous methods while sti
+ ll ensuring high compute resource utilization. Pipeline parallelism also e
+ nables the efficient training of large models that do not fit on a single 
+ worker. Pipeline parallelism is being used at Facebook\, Microsoft\, OpenA
+ I\, and Nvidia for efficient large-scale model training. The second system
+ \, Gavel\, determines how resources in a shared cluster with heterogeneous
+  compute resources (e.g.\, different types of hardware accelerators) shoul
+ d be partitioned among different users to optimize objectives specified ov
+ er multiple training jobs. Gavel can improve various scheduling objectives
+ \, such as average completion time\, makespan\, or cloud computing resourc
+ e cost\, by up to 3.5x. I will conclude the talk with discussion on future
+  directions for optimizing Machine Learning systems.\n\nBio\n:\n\n\nDeepak
+  Narayanan is a final-year PhD student at Stanford University advised by 
+ Prof. Matei Zaharia. He is interested in designing and building software t
+ o improve the runtime performance and efficiency of emerging machine learn
+ ing and data analytics workloads on modern hardware. His work is supported
+  by a NSF graduate fellowship.\n\n*Contact\nalicia.vignola@yale.edu\nor\nn
+ ancy.pellegrino@yale.edu\nfor Zoom link\n\n\nhttps://cpsc.yale.edu/event/c
+ s-colloquium-deepak-narayanan
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-deepak-narayanan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Marios Kogias
+DTSTART;VALUE=DATE-TIME:20210218T153000
+DTEND;VALUE=DATE-TIME:20210218T163000
+DESCRIPTION:Event description:\nCS Colloquium\nMarios Kogias\n\nTitle: Bui
+ lding Latency-Critical Datacenter Systems\n\nHost: Avi Silberschatz\n\nAbs
+ tract:\n\nOnline services play a major role in our everyday life for commu
+ nication\, entertainment\, socializing\, e-commerce\, etc.  These service
+ s run inside the datacenter under strict tail-latency service level object
+ ives in order to remain interactive. The emergence of new hardware for IO
+  has enabled microsecond-scale datacenter communications that challenge th
+ e efficiency of existing operating system and network mechanisms. Also\, 
+ new in-network programmable devices start being deployed in datacenters an
+ d introduce a new computing paradigm that shifts functionality traditional
+ ly performed at the end-points to the network.\n\nIn this talk I will revi
+ sit the operating systems\, networking\, and distributed systems infrastru
+ cture specifically targeting latency-critical datacenter systems\, while d
+ rawing intuition from basic queueing theory results. In the first part of
+  the talk\, I will focus on ZygOS[SOSP 2017]\, a system optimized for μs-
+ scale\, in-memory computing on multicore servers. ZygOS implements a work
+ -conserving scheduler within a specialized operating system designed for h
+ igh request rates and a large number of network connections. ZygOS reveal
+ ed the challenges associated with serving remote procedure calls (RPCs) on
+  top of a byte-stream oriented protocol\, such as TCP. In the second part
+  of the talk\, I will present R2P2[ATC 2019]. R2P2 is a transport protoco
+ l specifically designed for datacenter RPCs\, that exposes the RPC abstrac
+ tion to the endpoints and the network\, making RPCs first-class datacenter
+  citizens. R2P2 enables pushing functionality\, such as scheduling\, faul
+ t-tolerance\, and tail-tolerance\, inside the transport protocol. I will 
+ show how using R2P2 allowed us to offload RPC scheduling to programmable s
+ witches that can schedule requests directly on individual CPU cores.\n\nBi
+ o:\n\nMarios Kogias is a researcher at MSR Cambridge. He graduated from E
+ PFL in August 2020. His main research focus is at the intersection of oper
+ ating systems and networking in the datacenter. He’s working on buildin
+ g and understanding systems with strict tail-latency SLOs leveraging new 
+ emerging hardware. He was an IBM PhD Fellow and won the best student paper
+  award at Eurosys2020. Before joining EPFL he got his undergrad degree fro
+ m the National Technical University of Athens. He has interned at Cern\, 
+ Google\, and Microsoft Research.\n\n*Contact\nalicia.vignola@yale.edu\nor\
+ nnancy.pellegrino@yale.edu\nfor Zoom link\n\n\nhttps://cpsc.yale.edu/event
+ /cs-colloquium-marios-kogias
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-marios-kogias
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Amy Zhang
@@ -173,5 +265,48 @@ LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-
  only
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Yongshan Ding
+DTSTART;VALUE=DATE-TIME:20210318T143000
+DTEND;VALUE=DATE-TIME:20210318T153000
+DESCRIPTION:Event description:\nCS Colloquium\nYongshan Ding\n\nTitle: Arc
+ hitecting Quantum Computing Systems in the Presence of Noise\n\nZoom Prese
+ ntation*\n\nHost: Lin Zhong\n\nAbstract:\n\nQuantum computers may solve so
+ me problems beyond the reach of classical digital computers. However\, eme
+ rging quantum systems are typically noisy and difficult to control\, leavi
+ ng a significant gap between the exacting requirements of quantum applicat
+ ions and the realities of noisy devices. Bridging this gap is crucial – 
+ my work adapts conventional computer systems techniques to meet the critic
+ al theoretical and experimental constraints in quantum processors. I divid
+ e my talk into three parts: (i) introducing my recent work on systematic n
+ oise mitigation for superconducting transmon qubits [MICRO’20]\, which e
+ nhances the robustness of quantum processors through coordination of contr
+ ol instructions\; (ii) demonstrating efficient and reliable quantum memory
+  management [ISCA’20]\, which implements automated tools for allocation\
+ , reclamation and reuse of qubits in quantum programs\, much like in garba
+ ge collection for classical programs\; (iii) discussing on-going work on i
+ mplementing quasi-fault-tolerant rotation gates in quantum error correctio
+ n\, which seeks to provide correctness guarantees for quantum applications
+  by encoding quantum bits in a way that errors can be detected and correct
+ ed\, analogous to classical error-correcting codes.\n\nBio:\n\nYongshan Di
+ ng is a Ph.D. candidate at the University of Chicago advised by Fred Chong
+ . He received his B.Sc. degrees in computer science and physics from Carne
+ gie Mellon University. His research focuses on quantum computer systems\, 
+ specifically through co-design of quantum algorithms\, software\, and devi
+ ces. Ding has developed novel techniques for quantum error correction\, qu
+ antum memory management\, and optimizations at the quantum-classical inter
+ face. His work has been recognized with two Best Paper Awards by IBM Q and
+  QCE’20 and two Honorable Mentions in IEEE Micro Top Picks. Additionally
+ \, Ding is the lead author of a textbook\, Quantum Computer Systems\, in M
+ organ-Claypool Publisher’s synthesis lectures in computer architecture. 
+ He has been supported by a Siebel Scholarship and a William Rainey Harper 
+ Dissertation Fellowship. His personal website is\nhttps://people.cs.uchica
+ go.edu/~yongshan/\n.\n\n*Contact\nalicia.vignola@yale.edu\nor\nnancy.pelle
+ grino@yale.edu\nfor Zoom link\n\n\nhttps://cpsc.yale.edu/event/cs-colloqui
+ um-yongshan-ding
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-yongshan-ding
 END:VEVENT
 END:VCALENDAR
