@@ -6,20 +6,64 @@ SUMMARY:CS Colloquium - Pranav Rajpurkar
 DTSTART;VALUE=DATE-TIME:20210208T210000
 DTEND;VALUE=DATE-TIME:20210208T220000
 DESCRIPTION:Event description:\nCS Colloquium\nPranav Rajpurkar\n\nHost: S
- teven Zucker\n\nCheck back for abstract and bio.\n\n*Contact\nalicia.vigno
- la@yale.edu\nor\nnancy.pellegrino@yale.edu\nfor Zoom link\n\n\nhttps://cps
- c.yale.edu/event/cs-colloquium-pranav-rajpurkar
+ teven Zucker\n\nCheck back for abstract and bio.\n\n*Contact\nAlicia\nor\n
+ Nancy\nfor Zoom link and password\n\n\nhttps://cpsc.yale.edu/event/cs-coll
+ oquium-pranav-rajpurkar
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-pranav-rajpurkar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EE Seminar Series - Srini Devadas\, MIT
+DTSTART;VALUE=DATE-TIME:20210209T204500
+DTEND;VALUE=DATE-TIME:20210209T214500
+DESCRIPTION:Event description:\nEE Seminar Series\nSrini Devadas\n\nSemina
+ r Title:  Towards Secure High-Performance Computer Architectures\n\nAbstr
+ act:\n\nRecent work has shown that architectural isolation can be violated
+  through software side channel attacks that exploit microarchitectural per
+ formance optimizations such as speculation to leak secrets. While turning 
+ off microarchitectural optimizations can preclude some classes of attacks\
+ , we argue that performance and security do not have be in conflict\, prov
+ ided processors are designed with security in mind.\n\nWe advocate designi
+ ng processors to support enclaves\, which are processes with an associated
+  security policy\, and espouse a principled hardware/software co-design ap
+ proach to eliminating entire attack surfaces relevant to the security poli
+ cy through microarchitectural isolation\, rather than plugging attack-spec
+ ific privacy leaks. As a case study of this approach\, we describe both in
+ -order and speculative processor designs that offer strong provable isolat
+ ion of software modules running concurrently and sharing resources\, even 
+ when large parts of the operating system are compromised. Open-source impl
+ ementations of these processors will allow security properties to be indep
+ endently verified. Finally\, we describe the current limitations of this a
+ pproach and future opportunities for research.\n\nBio:\n\nSrini Devadas is
+  the Webster Professor of EECS at MIT where he has been on the faculty sin
+ ce 1988. His current research interests are in computer security\, compute
+ r architecture and applied cryptography. Devadas received the 2015 ACM/IEE
+ E Richard Newton award\, the 2017 IEEE W. Wallace McDowell award and the 2
+ 018 IEEE Charles A. Desoer award for his research in secure hardware. He i
+ s a Fellow of the ACM and IEEE. Devadas is the author of “Programming fo
+ r the Puzzled” (MIT Press\, 2017)\, a book that builds a bridge between 
+ the recreational world of algorithmic puzzles and the pragmatic world of c
+ omputer programming\, teaching readers to program while solving puzzles. H
+ e is a MacVicar Faculty Fellow\, an Everett Moore Baker and a Bose award r
+ ecipient\, considered MIT’s highest teaching honors.\n\n*Join from PC\, 
+ Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/94436510431\nOr Tele
+ phone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 94
+ 4 3651 0431\nInternational numbers available:\nhttps://yale.zoom.us/u/ad3y
+ 99MWH9\n\nHave questions about how to use Zoom? Check out the Zoom Help Ce
+ nter at\nhttps://support.zoom.us/hc/en-us\n\n\nhttps://cpsc.yale.edu/event
+ /ee-seminar-series-srini-devadas-mit
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/ee-seminar-series-srini-devadas-mit
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Rex Ying
 DTSTART;VALUE=DATE-TIME:20210210T210000
 DTEND;VALUE=DATE-TIME:20210210T220000
-DESCRIPTION:Event description:\nCS Colloquium\nRex Ying\n\nHost: Steven Zu
- cker\n\nTitle: Deep Representation Learning on Graph Structured Data: A Sc
- alable and Hierarchical Perspective\n\nAbstract:\n\nThe ubiquity of graph 
+DESCRIPTION:Event description:\nCS Colloquium\nRex Ying\n\nTitle: Deep Rep
+ resentation Learning on Graph Structured Data: A Scalable and Hierarchical
+  Perspective\n\nHost: Steven Zucker\n\nAbstract:\n\nThe ubiquity of graph 
  structures in sciences and industry necessitates effective and efficient m
  achine learning models that can capture the underlying inductive biases of
   the relational data. My research aims to learn deep representations that 
@@ -40,8 +84,8 @@ DESCRIPTION:Event description:\nCS Colloquium\nRex Ying\n\nHost: Steven Zu
   first billion-scale graph embedding services at Pinterest. He has served 
  as committee members of AAAI\, ICML\, NeurIPS\, KDD\, WWW for 4 years\, an
  d organized the graph representation learning workshop in ICML 2020.\n\n*C
- ontact\nalicia.vignola@yale.edu\nor\nnancy.pellegrino@yale.edu\nfor Zoom l
- ink\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-rex-ying
+ ontact\nAlicia\nor\nNancy\nfor Zoom link and password\n\nColloquium flyer\
+ n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-rex-ying
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-rex-ying
@@ -137,12 +181,68 @@ DESCRIPTION:Event description:\nCS Colloquium\nJonathan K. Kummerfeld\n\nT
  e DSTC workshops. He currently serves as a standing reviewer for the Compu
  tational Linguistics journal and the Transactions of the Association for C
  omputational Linguistics journal. For more details\, see his website:\nhtt
- ps://www.jkk.name\n\n*Contact\nalicia.vignola@yale.edu\nor\nnancy.pellegri
- no@yale.edu\nfor Zoom link\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloqu
- ium-jonathan-k-kummerfeld
+ ps://www.jkk.name\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and passwo
+ rd\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-jonathan-k-kummerfel
+ d
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-jonathan-k-kummerfeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EE Seminar Series - Professor R. Iris Bahar\, Brown University
+DTSTART;VALUE=DATE-TIME:20210216T190000
+DTEND;VALUE=DATE-TIME:20210216T200000
+DESCRIPTION:Event description:\nEE Seminary Series\nProfessor R. Iris Baha
+ r\, Brown University\n\nTitle:  Accurate\, Real-time Energy-efficient Sce
+ ne Perception through Hardware Acceleration\n\nAbstract:\n\nTechnological 
+ advancements have led to a proliferation of robots using machine learning 
+ systems to assist humans in a wide range of tasks. However\, we are still 
+ far from accurate\, reliable\, and resource-efficient operations of these 
+ systems. Despite the strengths of convolutional neural networks (CNNs) for
+  object recognition\, these discriminative techniques have several shortco
+ mings that leave them vulnerable to exploitation from adversaries.  In ad
+ dition\, the computational cost incurred to train these discriminative mod
+ els can be quite significant.  Discriminative-generative approaches offer
+ s a promising avenue for robust perception and action. Such methods combin
+ e inference by deep learning with sampling and probabilistic inference mod
+ els to achieve robust and adaptive understanding.  The focus is now on im
+ plementing a computationally efficient generative inference stage that can
+  achieve real-time results in an energy efficient manner.  In this talk\,
+  I will present our work on Generative Robust Inference and Perception (GR
+ IP)\, a discriminative-generative approach for pose estimation that offers
+  high accuracy especially in unstructured and adversarial environments.  
+ I will then describe how we have designed an all-hardware implementation o
+ f this algorithm to obtain real-time performance with high energy-efficien
+ cy.\n\nBio:\n\nR. Iris Bahar received the B.S. and M.S. degrees in compute
+ r engineering from the University of Illinois\, Urbana-Champaign\, and the
+  Ph.D. degree in electrical and computer engineering from the University o
+ f Colorado\, Boulder. Before entering the Ph.D program at CU-Boulder\, she
+  worked for Digital Equipment Corporation on their microprocessor designs.
+    She has been on the faculty at Brown University since 1996 and now ho
+ lds a dual appointment as Professor of Engineering and Professor of Comput
+ er Science.   Her research interests have centered on energy-efficient a
+ nd reliable computing\, from the system level to device level.  Most rece
+ ntly\, this includes the design of robotic systems.   Recently\, she ser
+ ved as the Program Chair and General Chair of the International Conference
+  on Computer-Aided Design (ICCAD) in 2017\, 2018 respectively and the Gene
+ ral Chair of the International Conference on Architectural Support for Pro
+ gramming Languages and Operating Systems (ASPLOS) in 2019. She is the 2019
+  recipient of the Marie R. Pistilli Women in Engineering Achievement Award
+  and the Brown University School of Engineering Award for Excellence in Te
+ aching in Engineering.  More information about her research can be found 
+ at\nhttp://cs.brown.edu/people/irisbahar\n\n*Join from PC\, Mac\, Linux\, 
+ iOS or Android:\nhttps://yale.zoom.us/j/97928301216\nOr Telephone：203-43
+ 2-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 979 2830 1216\nI
+ nternational numbers available:\nhttps://yale.zoom.us/u/abTKt9xscx\n\nFor 
+ H.323 and SIP information for video conferencing units please click here:\
+ nhttps://yale.service-now.com/it?id=support_article&sys_id=434b72d3db9e8fc
+ 83514b1c0ef961924\n\nHave questions about how to use Zoom? Check out the Z
+ oom Help Center at\nhttps://support.zoom.us/hc/en-us\n\n\n\n\nhttps://cpsc
+ .yale.edu/event/ee-seminar-series-professor-r-iris-bahar-brown-university
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/ee-seminar-series-professor-r-iris-bahar-b
+ rown-university
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Deepak Narayanan
@@ -173,9 +273,9 @@ DESCRIPTION:Event description:\nCS Colloquium\nDeepak Narayanan\n\nTitle:
  Prof. Matei Zaharia. He is interested in designing and building software t
  o improve the runtime performance and efficiency of emerging machine learn
  ing and data analytics workloads on modern hardware. His work is supported
-  by a NSF graduate fellowship.\n\n*Contact\nalicia.vignola@yale.edu\nor\nn
- ancy.pellegrino@yale.edu\nfor Zoom link\n\n\nhttps://cpsc.yale.edu/event/c
- s-colloquium-deepak-narayanan
+  by a NSF graduate fellowship.\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom li
+ nk and password\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-deepak-nara
+ yanan
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-deepak-narayanan
@@ -218,9 +318,9 @@ DESCRIPTION:Event description:\nCS Colloquium\nMarios Kogias\n\nTitle: Bui
  emerging hardware. He was an IBM PhD Fellow and won the best student paper
   award at Eurosys2020. Before joining EPFL he got his undergrad degree fro
  m the National Technical University of Athens. He has interned at Cern\, 
- Google\, and Microsoft Research.\n\n*Contact\nalicia.vignola@yale.edu\nor\
- nnancy.pellegrino@yale.edu\nfor Zoom link\n\n\nhttps://cpsc.yale.edu/event
- /cs-colloquium-marios-kogias
+ Google\, and Microsoft Research.\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom 
+ link and password\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-marios-ko
+ gias
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-marios-kogias
@@ -257,8 +357,8 @@ DESCRIPTION:Event description:\nCS Colloquium\nAmy Zhang\n\nTitle: Exploit
  e through learning approximate state abstractions and learning representat
  ions for generalization in reinforcement learning. I previously obtained a
  n M.Eng. in EECS and dual B.Sci. degrees in Mathematics and EECS from MIT.
- \n\n*Contact\nalicia.vignola@yale.edu\nor\nnancy.pellegrino@yale.edu\nfor 
- Zoom link\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-amy-zhang
+ \n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and password\n\n\nhttps://c
+ psc.yale.edu/event/cs-colloquium-amy-zhang
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-amy-zhang
@@ -305,40 +405,39 @@ SUMMARY:CS Colloquium - Yongshan Ding
 DTSTART;VALUE=DATE-TIME:20210318T143000
 DTEND;VALUE=DATE-TIME:20210318T153000
 DESCRIPTION:Event description:\nCS Colloquium\nYongshan Ding\n\nTitle: Arc
- hitecting Quantum Computing Systems in the Presence of Noise\n\nZoom Prese
- ntation*\n\nHost: Lin Zhong\n\nAbstract:\n\nQuantum computers may solve so
- me problems beyond the reach of classical digital computers. However\, eme
- rging quantum systems are typically noisy and difficult to control\, leavi
- ng a significant gap between the exacting requirements of quantum applicat
- ions and the realities of noisy devices. Bridging this gap is crucial – 
- my work adapts conventional computer systems techniques to meet the critic
- al theoretical and experimental constraints in quantum processors. I divid
- e my talk into three parts: (i) introducing my recent work on systematic n
- oise mitigation for superconducting transmon qubits [MICRO’20]\, which e
- nhances the robustness of quantum processors through coordination of contr
- ol instructions\; (ii) demonstrating efficient and reliable quantum memory
-  management [ISCA’20]\, which implements automated tools for allocation\
- , reclamation and reuse of qubits in quantum programs\, much like in garba
- ge collection for classical programs\; (iii) discussing on-going work on i
- mplementing quasi-fault-tolerant rotation gates in quantum error correctio
- n\, which seeks to provide correctness guarantees for quantum applications
-  by encoding quantum bits in a way that errors can be detected and correct
- ed\, analogous to classical error-correcting codes.\n\nBio:\n\nYongshan Di
- ng is a Ph.D. candidate at the University of Chicago advised by Fred Chong
- . He received his B.Sc. degrees in computer science and physics from Carne
- gie Mellon University. His research focuses on quantum computer systems\, 
- specifically through co-design of quantum algorithms\, software\, and devi
- ces. Ding has developed novel techniques for quantum error correction\, qu
- antum memory management\, and optimizations at the quantum-classical inter
- face. His work has been recognized with two Best Paper Awards by IBM Q and
-  QCE’20 and two Honorable Mentions in IEEE Micro Top Picks. Additionally
- \, Ding is the lead author of a textbook\, Quantum Computer Systems\, in M
- organ-Claypool Publisher’s synthesis lectures in computer architecture. 
- He has been supported by a Siebel Scholarship and a William Rainey Harper 
- Dissertation Fellowship. His personal website is\nhttps://people.cs.uchica
- go.edu/~yongshan/\n.\n\n*Contact\nalicia.vignola@yale.edu\nor\nnancy.pelle
- grino@yale.edu\nfor Zoom link\n\n\nhttps://cpsc.yale.edu/event/cs-colloqui
- um-yongshan-ding
+ hitecting Quantum Computing Systems in the Presence of Noise\n\nHost: Lin 
+ Zhong\n\nAbstract:\n\nQuantum computers may solve some problems beyond the
+  reach of classical digital computers. However\, emerging quantum systems 
+ are typically noisy and difficult to control\, leaving a significant gap b
+ etween the exacting requirements of quantum applications and the realities
+  of noisy devices. Bridging this gap is crucial – my work adapts convent
+ ional computer systems techniques to meet the critical theoretical and exp
+ erimental constraints in quantum processors. I divide my talk into three p
+ arts: (i) introducing my recent work on systematic noise mitigation for su
+ perconducting transmon qubits [MICRO’20]\, which enhances the robustness
+  of quantum processors through coordination of control instructions\; (ii)
+  demonstrating efficient and reliable quantum memory management [ISCA’20
+ ]\, which implements automated tools for allocation\, reclamation and reus
+ e of qubits in quantum programs\, much like in garbage collection for clas
+ sical programs\; (iii) discussing on-going work on implementing quasi-faul
+ t-tolerant rotation gates in quantum error correction\, which seeks to pro
+ vide correctness guarantees for quantum applications by encoding quantum b
+ its in a way that errors can be detected and corrected\, analogous to clas
+ sical error-correcting codes.\n\nBio:\n\nYongshan Ding is a Ph.D. candidat
+ e at the University of Chicago advised by Fred Chong. He received his B.Sc
+ . degrees in computer science and physics from Carnegie Mellon University.
+  His research focuses on quantum computer systems\, specifically through c
+ o-design of quantum algorithms\, software\, and devices. Ding has develope
+ d novel techniques for quantum error correction\, quantum memory managemen
+ t\, and optimizations at the quantum-classical interface. His work has bee
+ n recognized with two Best Paper Awards by IBM Q and QCE’20 and two Hono
+ rable Mentions in IEEE Micro Top Picks. Additionally\, Ding is the lead au
+ thor of a textbook\, Quantum Computer Systems\, in Morgan-Claypool Publish
+ er’s synthesis lectures in computer architecture. He has been supported 
+ by a Siebel Scholarship and a William Rainey Harper Dissertation Fellowshi
+ p. His personal website is\nhttps://people.cs.uchicago.edu/~yongshan/\n.\n
+ \n*Contact\nAlicia\nor\nNancy\nfor Zoom link and password\n\n\nhttps://cps
+ c.yale.edu/event/cs-colloquium-yongshan-ding
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-yongshan-ding
