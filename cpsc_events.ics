@@ -6,9 +6,34 @@ SUMMARY:CS Colloquium - Pranav Rajpurkar
 DTSTART;VALUE=DATE-TIME:20210208T210000
 DTEND;VALUE=DATE-TIME:20210208T220000
 DESCRIPTION:Event description:\nCS Colloquium\nPranav Rajpurkar\n\nHost: S
- teven Zucker\n\nCheck back for abstract and bio.\n\n*Contact\nAlicia\nor\n
- Nancy\nfor Zoom link and password\n\n\nhttps://cpsc.yale.edu/event/cs-coll
- oquium-pranav-rajpurkar
+ teven Zucker\n\nTitle: Advancements and Challenges for Deep Learning in Me
+ dical Imaging\n\nAbstract:\n\nThere have been rapid advances at the inters
+ ection of AI and medicine over the last few years\, especially for the int
+ erpretation of medical images. In this talk\, I will describe three key di
+ rections that present challenges and opportunities for the development of 
+ deep learning technologies for medical image interpretation. First\, I wil
+ l discuss the development of algorithms designed to work in low labeled da
+ ta settings for clinical applications. Second\, I will discuss the design 
+ and curation of large\, high-quality datasets to drive advancements in AI.
+  Third\, I will discuss the real-world impact of AI technologies on clinic
+ ians’ decision making. Altogether I will summarize key recent contributi
+ ons and insights in each of these directions using examples across medical
+  specialties including radiology\, cardiology\, and pathology.\n\nBio:\n\n
+ Pranav Rajpurkar is a final year PhD candidate in Computer Science at Stan
+ ford\, where he works on building reliable artificial intelligence (AI) te
+ chnologies for medical decision making. Pranav’s work has been published
+  in 30+ peer-reviewed publications in both scientific journals and AI conf
+ erences (receiving over 7000 citations) and has been covered by media outl
+ ets including NPR\, The Washington Post\, and WIRED. Pranav founded the AI
+  for Healthcare Bootcamp at Stanford\, where he has worked closely with an
+ d mentored over 100 Stanford students and collaborated with 18 faculty mem
+ bers on various research projects. He designed and instructed the Coursera
+  course series on AI for Medicine\, now with 40\,000+ students. Pranav’s
+  PhD was jointly advised by Dr. Andrew Ng and Dr. Percy Liang at Stanford 
+ University\, where Pranav also received both his Bachelors and Masters Deg
+ rees in Computer Science.\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link an
+ d password\n\nCS Colloquium flyer\n\n\n\nhttps://cpsc.yale.edu/event/cs-co
+ lloquium-pranav-rajpurkar
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-pranav-rajpurkar
@@ -182,8 +207,8 @@ DESCRIPTION:Event description:\nCS Colloquium\nJonathan K. Kummerfeld\n\nT
  tational Linguistics journal and the Transactions of the Association for C
  omputational Linguistics journal. For more details\, see his website:\nhtt
  ps://www.jkk.name\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and passwo
- rd\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-jonathan-k-kummerfel
- d
+ rd\n\nCS Colloquium flyer\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloqui
+ um-jonathan-k-kummerfeld
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-jonathan-k-kummerfeld
@@ -274,8 +299,8 @@ DESCRIPTION:Event description:\nCS Colloquium\nDeepak Narayanan\n\nTitle:
  o improve the runtime performance and efficiency of emerging machine learn
  ing and data analytics workloads on modern hardware. His work is supported
   by a NSF graduate fellowship.\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom li
- nk and password\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-deepak-nara
- yanan
+ nk and password\n\nCS Colloquium flyer\n\n\n\nhttps://cpsc.yale.edu/event/
+ cs-colloquium-deepak-narayanan
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-deepak-narayanan
@@ -399,6 +424,86 @@ LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-
  only
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Karl Wüst
+DTSTART;VALUE=DATE-TIME:20210311T153000
+DTEND;VALUE=DATE-TIME:20210311T163000
+DESCRIPTION:Event description:\nCS Colloquium\nKarl Wüst\n\nTitle: Trust 
+ or Decentralize? Balancing Trust and Performance in Decentralized Systems\
+ n\nHost: Zhong Shao\n\nAbstract:\n\nIn recent years\, cryptocurrencies and
+  blockchains have received widespread attention. These systems are general
+ ly designed to be decentralized in order to reduce the required trust assu
+ mptions as much as possible. However\, there are choices to be made about 
+ how much to trust and how much to decentralize which in turn greatly affec
+ t the properties that can be achieved efficiently.\nIn this talk\, I will 
+ discuss how these choices can be leveraged for large performance gains and
+  to achieve new properties in smart contract systems and for privacy-prese
+ rving cryptocurrency transactions.\nIn particular\, I will show how smart 
+ contract scalability can be improved by executing contracts in smaller com
+ mittees\, while at the same time allowing safe interaction between untrust
+ ed contracts. Further\, I will show how lightweight blockchain clients for
+  fully anonymous cryptocurrencies can be enabled efficiently\, and how pri
+ vacy and accountability can be balanced in central bank digital currencies
+ .\n\nBio:\n\nKarl Wüst is a PhD Candidate in the System Security Group at
+  ETH Zurich.\nHis research focuses on the security and privacy of blockcha
+ in technology with a particular focus on smart contract scalability and ce
+ ntral bank cryptocurrencies. In his research\, he combines techniques from
+  cryptography\, distributed systems\, and trusted computing to balance the
+  trade-off between reducing trust and achieving high performance. His rese
+ arch has been published at top venues in security (CCS\, Usenix Security\,
+  NDSS) and resulted in multiple patent applications.\n\n*Contact\nAlicia\n
+ or\nNancy\nfor Zoom link and password\n\n\nhttps://cpsc.yale.edu/event/cs-
+ colloquium-karl-wust
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-karl-wust
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Angelique Taylor
+DTSTART;VALUE=DATE-TIME:20210315T200000
+DTEND;VALUE=DATE-TIME:20210315T210000
+DESCRIPTION:Event description:\nCS Colloquium\nAngelique Taylor\n\nTitle: 
+ Perception and Decision-Making Systems for Human-Robot Teaming in Safety-C
+ ritical Environments\n\nHost: Brian Scassellati\n\nAbstract:\n\nIn this ta
+ lk\, I will present my current and future work on developing perception an
+ d decision making systems that enable robots to team with groups of people
+ . My core focus is on problems that robots encounter in human-robot teamin
+ g\, including perceptions of human groups and social navigation\, particul
+ arly in safety-critical environments.\n\nFirst\, I will discuss how I deve
+ loped computer vision methods that enable robots to detect and track their
+  teammates in real-world environments. Most group perception methods emplo
+ y fixed\, overhead cameras (i.e.\, an exo-centric / third-person perspecti
+ ve) to sense groups of people\, rendering them impractical for mobile robo
+ ts working in most settings. I have developed a group detection and tracki
+ ng system designed for ego-centric (i.e.\, first-person) perspective sensi
+ ng\, which is more suitable for mobile robots\, to enable them to enter an
+ y environment and accomplish their goals without external sensing requirem
+ ents.\n\nNext\, I will discuss this work contextualized within a real-worl
+ d application: human-robot teaming in healthcare. I am developing systems 
+ for hospital Emergency Departments (ED)\, where frontline healthcare worke
+ rs have been overwhelmed by the COVID-19 pandemic. I will describe my work
+  characterizing ED care delivery and staff workflow to enable robots to op
+ erate in these challenging environments. Building on this\, I designed a s
+ ocial navigation system that enables robots to incorporate the severity of
+  patients’ health while navigating in the ED\, to prevent interruptions 
+ in care delivery. My work will enable robots to work in safety-critical\, 
+ human-centered environments\, and ultimately help improve patient outcomes
+  and alleviate clinician workload.\n\nBio:\n\nAngelique Taylor is a Ph.D. 
+ candidate in Computer Science and Engineering at UC San Diego. Her researc
+ h lies at the intersection of computer vision\, robotics\, and health info
+ rmatics. She develops systems that enable robots to interact and work with
+  groups of people in safety-critical environments. She has received the NS
+ F GRFP\, Microsoft Dissertation Award\, the Google Anita Borg Memorial Fel
+ lowship\, the Arthur J. Schmitt Presidential Fellowship\, a GEM Fellowship
+ \, and an award from the National Center for Women in Information Technolo
+ gy (NCWIT). More information on her research can be found at\nangeliquemta
+ ylor.com\n.\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and password\n\n
+ CS Colloquium flyer\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-angel
+ ique-taylor
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-angelique-taylor
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Yongshan Ding
