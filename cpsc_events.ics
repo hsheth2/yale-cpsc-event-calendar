@@ -389,6 +389,62 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-amy-zhang
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dissertation Defense - Alexander R. Fabbri
+DTSTART;VALUE=DATE-TIME:20210225T140000
+DTEND;VALUE=DATE-TIME:20210225T150000
+DESCRIPTION:Event description:\nDissertation Defense\nAlexander R. Fabbri\
+ n\nTitle: Text Summarization Across High and Low-resource Settings\n\nZoo
+ m Link:\nhttps://yale.zoom.us/j/97743606943\n\nAdvisor: Dragomir Radev\n\
+ nOther committee members:\n\nNisheeth Vishnoi\nRobert Frank\nSmaranda Mure
+ san (Columbia University)\n\nAbstract:\n\nNatural language processing aims
+  to build automated systems that can both understand and generate natural 
+ language textual data. As the amount of textual data available online has 
+ increased exponentially\, so has the need for intelligence systems to comp
+ rehend and present this data to the world. As a result\, automatic text su
+ mmarization\, the process by which a text’s salient content is automatic
+ ally distilled into a concise form\, has become a necessary tool.\n\nAutom
+ atic text summarization approaches and applications vary based on the inpu
+ t summarized\, which may constitute single or multiple documents of differ
+ ent genres. Furthermore\, the desired output style may consist of a senten
+ ce or sub-sentential units chosen directly from the input in extractive su
+ mmarization or a fusion and paraphrase of the input document in abstractiv
+ e summarization. Despite differences in the above use-cases\, specific the
+ mes\, such as the role of large-scale data for training these models\, the
+  application of summarization models in real-world scenarios\, and the nee
+ d for adequately evaluating and comparing summaries\, are common across th
+ ese settings.\n\nThis dissertation presents novel data and modeling techni
+ ques for deep neural network-based summarization models trained across lar
+ ge-scale and low-resource data settings and a comprehensive evaluation of 
+ the model and metric progress in the field.  We examine both Recurrent Ne
+ ural Network (RNN)-based and Transformer-based models to extract and gener
+ ate summaries from the input. We introduce datasets to facilitate the trai
+ ning of large-scale networks in two applications of multi-document summari
+ zation. We also propose unsupervised learning techniques for both extracti
+ ve summarization in question answering and abstractive summarization and f
+ ew-shot and distant supervision learning to use unlabeled data better.\n\n
+ In particular\, this dissertation addresses the following research objecti
+ ves:\n\n1) High-resource Summarization. We introduce two datasets for mult
+ i-document summarization\, focusing on pedagogical applications for NLP an
+ d news summarization. In both cases\, we analyze how the models trained on
+  these large-scale datasets fare when applied to real-world scenarios and 
+ introduce a novel model to reduce redundancy in multi-document summaries.\
+ n2) Low-resource Summarization. We propose a pipeline for creating synthet
+ ic training data for training extractive question-answering models\, a for
+ m of query-based extractive summarization with short-phrase summaries. In 
+ other work\, we propose an automatic pipeline for training a multi-documen
+ t summarizer in answer summarization on community question-answering forum
+ s without labeled data. Finally\, we push the boundaries of abstractive su
+ mmarization model performance when little or no training data is available
+ .\n3) Automatic Summarization Evaluation. We study the current metrics use
+ d to compare summarization output quality across 12 metrics across 23 deep
+  neural network models and propose better-motivated summarization evaluati
+ on guidelines.\n\n\nhttps://cpsc.yale.edu/event/dissertation-defense-alexa
+ nder-r-fabbri
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/dissertation-defense-alexander-r-fabbri
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JBPO Meeting Dates\, AY 2020-21 - Information Only
 DTSTART;VALUE=DATE-TIME:20210225T210000
 DTEND;VALUE=DATE-TIME:20210225T220000
@@ -424,6 +480,34 @@ LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-
  only
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissertation Defense - Tao Yu
+DTSTART;VALUE=DATE-TIME:20210310T223000
+DTEND;VALUE=DATE-TIME:20210310T233000
+DESCRIPTION:Event description:\nDissertation Defense\nTao Yu\n\nTitle: Le
+ arning to Map Natural Language to Executable Programs Over Databases\n\nZo
+ om Link:\nhttps://yale.zoom.us/j/96388771156\n\nAdvisor: Dragomir Radev\n
+ \nOther committee members:\n\nRobert Frank\nMarynel Vazquez\nKathleen McKe
+ own (Columbia University)\nLuke Zettlemoyer (University of Washington)\n\n
+ Abstract:\n\nNatural language is a fundamental form of information and com
+ munication and will be the next frontier in computer interfaces. Natural L
+ anguage Interfaces (NLI) bridge the data and the user\, significantly prom
+ oting the possibility and efficiency of information access for many users 
+ besides data experts. All consumer-facing software will one day have a dia
+ logue interface\, the next vital leap in the evolution of search engines. 
+ Such intelligent dialogue systems should be able to understand the meaning
+  of language grounded in various contexts and generate effective language 
+ responses in different forms for information requests and human-computer c
+ ommunication. In particular\, this dissertation focuses on answering the f
+ ollowing three questions: 1) How can NLI ground human requests in natural 
+ language into formal programs (e.g.\, SQL)? 2) How can NLI converse with h
+ umans in a robust manner? 3) How can neural models understand compositiona
+ lity in human language?\n\n\nhttps://cpsc.yale.edu/event/dissertation-defe
+ nse-tao-yu
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/dissertation-defense-tao-yu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Karl Wüst
