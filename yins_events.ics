@@ -1,4 +1,32 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
+BEGIN:VEVENT
+SUMMARY:YINS Seminar: Kamalika Chaudhuri (UCSD)
+DTSTART;VALUE=DATE-TIME:20210303T170000
+DTEND;VALUE=DATE-TIME:20210303T180000
+DESCRIPTION:Event description:\nYINS Seminar: Kamalika Chaudhuri (UCSD)\n\
+ nTo participate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://
+ yale.zoom.us/j/93303084735\nOr Telephone：203-432-9666 (2-ZOOM if on-camp
+ us) or 646 568 7788\nMeeting ID: 933 0308 4735\nInternational numbers avai
+ lable:\nhttps://yale.zoom.us/u/abkoFgls4x\n\n.\n\n\nhttps://yins.yale.edu/
+ event/yins-seminar-kamalika-chaudhuri-ucsd
+LOCATION:Via Zoom
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-kamalika-chaudhuri-ucsd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS Seminar: Mehryar Mohri (NYU)
+DTSTART;VALUE=DATE-TIME:20210310T170000
+DTEND;VALUE=DATE-TIME:20210310T180000
+DESCRIPTION:Event description:\nYINS Seminar: Mehryar Mohri\n\nTo particip
+ ate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us
+ /j/96993106302\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 5
+ 68 7788\nMeeting ID: 969 9310 6302\nInternational numbers available:\nhttp
+ s://yale.zoom.us/u/advzFNOtJO\n\n.\n\n\nhttps://yins.yale.edu/event/yins-s
+ eminar-mehryar-mohri-nyu
+LOCATION:Via Zoom
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-mehryar-mohri-nyu
+END:VEVENT
 END:VCALENDAR
