@@ -482,6 +482,55 @@ URL:https://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-
  only
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Arman Cohan
+DTSTART;VALUE=DATE-TIME:20210310T210000
+DTEND;VALUE=DATE-TIME:20210310T220000
+DESCRIPTION:Event description:\nCS Colloquium\nArman Cohan\n\nTitle: Adapt
+ ing Transformer models for Document-level Natural Language Tasks\n\nHost: 
+ Dragomir Radev\n\nAbstract:\n\nTransformer models have been extremely effe
+ ctive at producing word- and sentence-level contextualized representations
+ \, achieving state-of-the-art results in many Natural Language Processing 
+ (NLP) tasks. However\, extending these models to document-level NLP tasks 
+ faces challenges\, including lack of inter-document relatedness informatio
+ n\, decreased performance in low-resource settings\, and computational ine
+ fficiency when scaling to long documents.\n\nIn this talk\, I will describ
+ e a few of my recent works on developing Transformer-based models that tar
+ get document-level natural language tasks. I will first introduce SPECTER\
+ , a method for producing document representations using a Transformer mode
+ l that incorporates document-level relatedness signals and achieves state-
+ of-the-art results in multiple document-level tasks in the scientific doma
+ in.  Second\, I will describe TLDR\, the task of extreme summarization fo
+ r scientific papers as well as CATTs\, a simple yet effective training str
+ ategy for generating summaries in low-resource settings. Next\, I will dis
+ cuss the practical challenges of scaling existing Transformer models to lo
+ ng documents\, and our proposed solution\, Longformer. Longformer\, introd
+ uces a new sparse self-attention pattern that scales linearly with the inp
+ ut length while capturing both local and global context in the document\, 
+ achieving state-of-the-art results in both character-level language modeli
+ ng and document NLP tasks. Finally\, I’ll discuss CDLM\, our newly propo
+ sed general pre-trained model for addressing multi-document tasks.\n\nBio:
+ \n\nArman Cohan is a Research Scientist at the Allen Institute for AI (AI2
+ ). He received his PhD in computer Science at Georgetown University in May
+  2018\, advised by Prof. Nazli Goharian. His research is primarily focused
+  on developing general Natural Language Processing capabilities to address
+  information overload\, particularly in specialized domains that pose uniq
+ ue challenges. These include core representation learning and language mod
+ eling methods\, systems and models designed for extracting and summarizing
+  salient information\, and models for improved search and categorization i
+ n large collections of data.\n\nHe has served as program committee member 
+ of major NLP venues including ACL\, EMNLP\, and NAACL in the past 4 years\
+ , served as area chair at ACL 2020\, ICLR 2021 and NAACL 2021\, and organi
+ zed workshops including SciNLP and SDP.\n\nHis research has been recognize
+ d with multiple awards including best paper award at EMNLP 2017\, area cha
+ ir favorite paper award at COLING 2018\, and Harold N. Glassman Distinguis
+ hed Doctoral Dissertation award in 2019.\n\n*Contact\nAlicia\nor\nNancy\nf
+ or Zoom link and password\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-a
+ rman-cohan
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-arman-cohan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Tao Yu
 DTSTART;VALUE=DATE-TIME:20210310T223000
 DTEND;VALUE=DATE-TIME:20210310T233000
@@ -590,6 +639,42 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-angelique-taylor
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Kexin Rong
+DTSTART;VALUE=DATE-TIME:20210316T200000
+DTEND;VALUE=DATE-TIME:20210316T210000
+DESCRIPTION:Event description:\nCS Colloquium\nKexin Rong\n\nTitle: Priori
+ tizing Computation and Analyst Resources in Large-scale Data Analytics\n\n
+ Host: Abhishek Bhattacharjee\n\nAbstract:\n\nData volumes are growing expo
+ nentially\, fueled by an increased number of automated processes such as s
+ ensors and devices. Meanwhile\, the computational power available for proc
+ essing this data – as well as analysts’ ability to interpret it – re
+ main limited. As a result\, database systems must evolve to address these 
+ new bottlenecks in analytics. In my work\, I ask: how can we adapt classic
+  ideas from database query processing to modern compute- and analyst-limit
+ ed data analytics?\n\nIn this talk\, I will discuss the potential for this
+  kind of systems development through the lens of several practical systems
+  I have developed. By drawing insights from database query optimization\, 
+ such as pushing workload- and domain-specific filtering\, aggregation\, an
+ d sampling into core analytics workflows\, we can dramatically improve the
+  efficiency of analytics at scale. I will illustrate these ideas by focusi
+ ng on two systems — one designed to optimize visualizations for streamin
+ g infrastructure and application telemetry and one designed for high-volum
+ e seismic waveform analysis — both of which have been field-tested at sc
+ ale. I will also discuss lessons from production deployments at companies 
+ including Datadog\, Microsoft\, Google and Facebook.\n\nBio:\n\nKexin Rong
+  is a Ph.D. student in Computer Science at Stanford University\, co-advise
+ d by Professor Peter Bailis and Professor Philip Levis. She designs and bu
+ ilds systems to enable data analytics at scale\, supporting applications i
+ ncluding scientific analysis\, infrastructure monitoring\, and analytical 
+ queries on big data clusters. Prior to Stanford\, she received her bachelo
+ r’s degree in Computer Science from California Institute of Technology.\
+ n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and password\n\n\n\n\nhttps:
+ //cpsc.yale.edu/event/cs-colloquium-kexin-rong
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-kexin-rong
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Yongshan Ding
 DTSTART;VALUE=DATE-TIME:20210318T143000
 DTEND;VALUE=DATE-TIME:20210318T153000
@@ -668,5 +753,55 @@ DESCRIPTION:Event description:\nCS Colloquium\nMaria Apostolaki\n\nTitle:
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-maria-apostolaki
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Ranjay Krishna
+DTSTART;VALUE=DATE-TIME:20210331T200000
+DTEND;VALUE=DATE-TIME:20210331T210000
+DESCRIPTION:Event description:\nCS Colloquium\nRanjay Krishna\n\nTitle: Vi
+ sual Intelligence from Human Learning\n\nHost: Marynel Vázquez\n\nAbstrac
+ t:\n\nAt the core of human development is the ability to adapt to new\, pr
+ eviously unseen stimuli. We comprehend new situations as a composition of 
+ previously seen information and ask one another for clarification when we 
+ encounter new concepts. Yet\, this ability to go beyond the confounds of t
+ heir training data remains an open challenge for artificial intelligence a
+ gents. My research designs visual intelligence to reason over new composit
+ ions and acquire new concepts. My talk will explore these challenges and p
+ resent the two following lines of work:\n\nFirst\, I will introduce scene 
+ graphs\, a cognitively-grounded\, compositional visual representation. I w
+ ill discuss how to integrate scene graphs into a variety of computer visio
+ n tasks\, enabling models to generalize to novel compositions from a few t
+ raining examples. Since our introduction of scene graphs\, the Computer Vi
+ sion community has developed hundreds of scene graph models and utilized s
+ cene graphs to achieve state-of-the-art results across multiple core tasks
+ \, including object localization\, captioning\, image generation\, questio
+ n answering\, 3D understanding\, and spatio-temporal action recognition.\n
+ \nSecond\, I will introduce a framework for socially situated learning. Th
+ is framework pushes agents beyond traditional computer vision training par
+ adigms and enables learning from human interactions in online social envir
+ onments. I will showcase a real-world deployment of our agent\, which lear
+ ned to acquire new visual concepts by asking people targeted questions on 
+ social media. By interacting with over 230K people over 8 months\, our age
+ nt learned to recognize hundreds of new concepts. This work demonstrates t
+ he possibility for agents to adapt and self-improve in real-world social e
+ nvironments.\n\nBio:\n\nRanjay Krishna is a 5th-year Ph.D. candidate at St
+ anford University\, where he is co-advised by Fei-Fei Li and Michael Berns
+ tein. His research lies at the intersection of computer vision and human-c
+ omputer interaction\; it draws on ideas from behavioral and social science
+ s to improve visual intelligence. His work has been recognized by the Chri
+ stofer Stephenson Memorial award\, as an Accell Innovation Scholar and by 
+ two Brown Institute for Media Innovation grants. His work has also been fe
+ atured in Forbes magazine and in a PBS NOVA documentary. During his Ph.D.\
+ , he re-designed Stanford’s undergraduate Computer Vision course and cur
+ rently also instructs the graduate Computer Vision course\, Stanford’s s
+ econd largest course. He received an M.Sc. from Stanford University. Befor
+ e that\, he conferred a B.Sc. with a double major in Electrical Engineerin
+ g and in Computer Science from Cornell University. In the past\, he has in
+ terned at Google AI\, Facebook AI Research\, and Yahoo Research.\n\n*Conta
+ ct\nAlicia\nor\nNancy\nfor Zoom link and password\n\n\n\n\nhttps://cpsc.ya
+ le.edu/event/cs-colloquium-ranjay-krishna
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-ranjay-krishna
 END:VEVENT
 END:VCALENDAR
