@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Pranav Rajpurkar
-DTSTART;VALUE=DATE-TIME:20210208T210000
-DTEND;VALUE=DATE-TIME:20210208T220000
-DESCRIPTION:Event description:\nCS Colloquium\nPranav Rajpurkar\n\nHost: S
- teven Zucker\n\nTitle: Advancements and Challenges for Deep Learning in Me
- dical Imaging\n\nAbstract:\n\nThere have been rapid advances at the inters
- ection of AI and medicine over the last few years\, especially for the int
- erpretation of medical images. In this talk\, I will describe three key di
- rections that present challenges and opportunities for the development of 
- deep learning technologies for medical image interpretation. First\, I wil
- l discuss the development of algorithms designed to work in low labeled da
- ta settings for clinical applications. Second\, I will discuss the design 
- and curation of large\, high-quality datasets to drive advancements in AI.
-  Third\, I will discuss the real-world impact of AI technologies on clinic
- ians’ decision making. Altogether I will summarize key recent contributi
- ons and insights in each of these directions using examples across medical
-  specialties including radiology\, cardiology\, and pathology.\n\nBio:\n\n
- Pranav Rajpurkar is a final year PhD candidate in Computer Science at Stan
- ford\, where he works on building reliable artificial intelligence (AI) te
- chnologies for medical decision making. Pranav’s work has been published
-  in 30+ peer-reviewed publications in both scientific journals and AI conf
- erences (receiving over 7000 citations) and has been covered by media outl
- ets including NPR\, The Washington Post\, and WIRED. Pranav founded the AI
-  for Healthcare Bootcamp at Stanford\, where he has worked closely with an
- d mentored over 100 Stanford students and collaborated with 18 faculty mem
- bers on various research projects. He designed and instructed the Coursera
-  course series on AI for Medicine\, now with 40\,000+ students. Pranav’s
-  PhD was jointly advised by Dr. Andrew Ng and Dr. Percy Liang at Stanford 
- University\, where Pranav also received both his Bachelors and Masters Deg
- rees in Computer Science.\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link an
- d password\n\nCS Colloquium flyer\n\n\n\nhttps://cpsc.yale.edu/event/cs-co
- lloquium-pranav-rajpurkar
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-pranav-rajpurkar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EE Seminar Series - Srini Devadas\, MIT
 DTSTART;VALUE=DATE-TIME:20210209T204500
 DTEND;VALUE=DATE-TIME:20210209T214500
