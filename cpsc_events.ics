@@ -2,50 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:EE Seminar Series - Srini Devadas\, MIT
-DTSTART;VALUE=DATE-TIME:20210209T204500
-DTEND;VALUE=DATE-TIME:20210209T214500
-DESCRIPTION:Event description:\nEE Seminar Series\nSrini Devadas\n\nSemina
- r Title:  Towards Secure High-Performance Computer Architectures\n\nAbstr
- act:\n\nRecent work has shown that architectural isolation can be violated
-  through software side channel attacks that exploit microarchitectural per
- formance optimizations such as speculation to leak secrets. While turning 
- off microarchitectural optimizations can preclude some classes of attacks\
- , we argue that performance and security do not have be in conflict\, prov
- ided processors are designed with security in mind.\n\nWe advocate designi
- ng processors to support enclaves\, which are processes with an associated
-  security policy\, and espouse a principled hardware/software co-design ap
- proach to eliminating entire attack surfaces relevant to the security poli
- cy through microarchitectural isolation\, rather than plugging attack-spec
- ific privacy leaks. As a case study of this approach\, we describe both in
- -order and speculative processor designs that offer strong provable isolat
- ion of software modules running concurrently and sharing resources\, even 
- when large parts of the operating system are compromised. Open-source impl
- ementations of these processors will allow security properties to be indep
- endently verified. Finally\, we describe the current limitations of this a
- pproach and future opportunities for research.\n\nBio:\n\nSrini Devadas is
-  the Webster Professor of EECS at MIT where he has been on the faculty sin
- ce 1988. His current research interests are in computer security\, compute
- r architecture and applied cryptography. Devadas received the 2015 ACM/IEE
- E Richard Newton award\, the 2017 IEEE W. Wallace McDowell award and the 2
- 018 IEEE Charles A. Desoer award for his research in secure hardware. He i
- s a Fellow of the ACM and IEEE. Devadas is the author of “Programming fo
- r the Puzzled” (MIT Press\, 2017)\, a book that builds a bridge between 
- the recreational world of algorithmic puzzles and the pragmatic world of c
- omputer programming\, teaching readers to program while solving puzzles. H
- e is a MacVicar Faculty Fellow\, an Everett Moore Baker and a Bose award r
- ecipient\, considered MIT’s highest teaching honors.\n\n*Join from PC\, 
- Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/94436510431\nOr Tele
- phone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 94
- 4 3651 0431\nInternational numbers available:\nhttps://yale.zoom.us/u/ad3y
- 99MWH9\n\nHave questions about how to use Zoom? Check out the Zoom Help Ce
- nter at\nhttps://support.zoom.us/hc/en-us\n\n\nhttps://cpsc.yale.edu/event
- /ee-seminar-series-srini-devadas-mit
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/ee-seminar-series-srini-devadas-mit
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Rex Ying
 DTSTART;VALUE=DATE-TIME:20210210T210000
 DTEND;VALUE=DATE-TIME:20210210T220000
