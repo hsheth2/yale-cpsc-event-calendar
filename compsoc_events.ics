@@ -1,4 +1,27 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
+BEGIN:VEVENT
+SUMMARY:Colloquium by Kobbi Nissim
+DTSTART;VALUE=DATE-TIME:20210305T160000
+DTEND;VALUE=DATE-TIME:20210305T170000
+DESCRIPTION:Event description\nSpeaker:\nKobbi Nissim\n\, Georgetown Unive
+ rsity\n\n\n\nHost:\nNisheeth Vishnoi\n\n\n\n\n\nhttps://computationsociety
+ .yale.edu/event/colloquium-by-kobbi-nissim
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/colloquium-by-kobbi-nissim
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colloquium by Suresh Venkatsubramanian
+DTSTART;VALUE=DATE-TIME:20210409T150000
+DTEND;VALUE=DATE-TIME:20210409T160000
+DESCRIPTION:Event description\nSpeaker:\nSuresh Venkatsubramanian\n\, Univ
+ ersity of Utah\n\n\n\nHost:\nElisa Celis\n\n\nhttps://computationsociety.y
+ ale.edu/event/colloquium-by-suresh-venkatsubramanian
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/colloquium-by-suresh-venkats
+ ubramanian
+END:VEVENT
 END:VCALENDAR
