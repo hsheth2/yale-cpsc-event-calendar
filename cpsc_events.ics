@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Rex Ying
-DTSTART;VALUE=DATE-TIME:20210210T210000
-DTEND;VALUE=DATE-TIME:20210210T220000
-DESCRIPTION:Event description:\nCS Colloquium\nRex Ying\n\nTitle: Deep Rep
- resentation Learning on Graph Structured Data: A Scalable and Hierarchical
-  Perspective\n\nHost: Steven Zucker\n\nAbstract:\n\nThe ubiquity of graph 
- structures in sciences and industry necessitates effective and efficient m
- achine learning models that can capture the underlying inductive biases of
-  the relational data. My research aims to learn deep representations that 
- leverage the highly complex connectivity information of the graph structur
- e\, and utilize these representations in scientific domains to make predic
- tions at the level of nodes\, links\, subgraphs and entire graphs. My rese
- arch contributes fundamental pieces of graph neural networks. In this talk
-  I will focus on effective graph neural network architectures scalable to 
- billions of edges\, and well as the use of hierarchy as an inductive bias 
- in learning highly expressive representations for nodes and graphs.\n\nBio
- :\n\nRex Ying is a 5th-year PhD student in StatsML group at Stanford Unive
- rsity\, advised by Jure Leskovec. His research area spans machine learning
-  on graph-structured data\, and interested in its application in physical 
- simulations\, social networks\, knowledge graphs. He pioneered key method 
- in the field of graph neural networks\, including GraphSAGE and DiffPool. 
- Recently\, he collaborated with DeepMind to use graph neural networks to l
- earn realistic and large-scale physical simulations. He also developed the
-  first billion-scale graph embedding services at Pinterest. He has served 
- as committee members of AAAI\, ICML\, NeurIPS\, KDD\, WWW for 4 years\, an
- d organized the graph representation learning workshop in ICML 2020.\n\n*C
- ontact\nAlicia\nor\nNancy\nfor Zoom link and password\n\nColloquium flyer\
- n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-rex-ying
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-rex-ying
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Distinguished Colloquium - James E. Smith\, University of Wisco
  nsin-Madison (Emeritus)
 DTSTART;VALUE=DATE-TIME:20210212T150000
