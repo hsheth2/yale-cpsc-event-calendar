@@ -2,56 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Distinguished Colloquium - James E. Smith\, University of Wisco
- nsin-Madison (Emeritus)
-DTSTART;VALUE=DATE-TIME:20210212T150000
-DTEND;VALUE=DATE-TIME:20210212T160000
-DESCRIPTION:Event description:\nCS Distinguished Colloquium\n\nJames E. Sm
- ith\nUniversity of Wisconsin-Madison (Emeritus)\n\nTitle: A Temporal Neura
- l Network Architecture for Online Learning\n\nZoom link: Join from PC\, M
- ac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/98080001575\nOr Telep
- hone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 980
-  8000 1575\nInternational numbers available:\nhttps://yale.zoom.us/u/acO3V
- IdKco\n\nHost: Abhishek Bhattacharjee\n\nAbstract:\n\nA long-standing prop
- osition is that by emulating the operation of the brain’s neocortex\, a 
- spiking neural network (SNN) can achieve similar desirable features: flexi
- ble learning\, speed\, and efficiency.  Temporal neural networks (TNNs) a
- re SNNs that communicate and process information encoded as relative spike
-  times (in contrast to spike rates).  A TNN architecture is proposed\, an
- d as a proof-of-concept\, TNN operation is demonstrated within the larger 
- context of online supervised classification.  First\, through unsupervise
- d learning\, a TNN partitions input patterns into clusters based on simila
- rity.  The TNN learning process adjusts synaptic weights by using only si
- gnals local to each synapse\, and global clustering behavior emerges. The 
- TNN then passes a cluster identifier to a simple online supervised decoder
-  which finishes the classification task. Besides features of the overall a
- rchitecture\, several TNN components and methods are new to this work.  A
-  long term research objective is a direct hardware implementation.  Conse
- quently\, the architecture is described at a level analogous to the gate a
- nd register transfer levels used in conventional digital design\, and proc
- essing is done at very low precision.\n\nBio:\n\nJames E. Smith is Profess
- or Emeritus in the Department of Electrical and Computer Engineering at th
- e University of Wisconsin-Madison. He received his PhD from the University
-  of Illinois in 1976. He then joined the faculty of the University of Wisc
- onsin-Madison\, teaching and conducting research  ̶  first in fault-tol
- erant computing\, then in computer architecture.  He has been involved in
-  a number of computer research and development projects both as a faculty 
- member at Wisconsin and in industry.\n\nProf. Smith made a number of contr
- ibutions to the development of superscalar processors. These contributions
-  include basic mechanisms for dynamic branch prediction and implementing p
- recise traps.  He has also studied vector processor architectures and wor
- ked on the development of innovative microarchitecture paradigms. He recei
- ved the 1999 ACM/IEEE Eckert-Mauchly Award for these contributions.\n\nFor
-  the past several years\, he has been studying neuron-based computing para
- digms at home along the Clark Fork near Missoula\, Montana.\n\n\nhttps://c
- psc.yale.edu/event/cs-distinguished-colloquium-james-e-smith-university-wi
- sconsin-madison-emeritus
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-distinguished-colloquium-james-e-smith-
- university-wisconsin-madison-emeritus
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Jonathan K. Kummerfeld
 DTSTART;VALUE=DATE-TIME:20210215T210000
 DTEND;VALUE=DATE-TIME:20210215T220000
