@@ -187,6 +187,30 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-marios-kogias
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dissertation Defense - Mingfei Zhao
+DTSTART;VALUE=DATE-TIME:20210222T193000
+DTEND;VALUE=DATE-TIME:20210222T203000
+DESCRIPTION:Event description:\nDissertation Defense\nMingfei Zhao\n\nTitl
+ e: Simple vs. Optimal Mechanism Design\n\nAdvisor: Yang Cai\n\nOther comm
+ ittee members:\n\nDirk Bergemann\nJoan Feigenbaum\nMatt Weinberg (Princeto
+ n University)\n\nAbstract:\n\nIn Mechanism Design\, the goal is to design 
+ a mechanism/system such that a group of strategic agents\, who are only in
+ terested in optimizing their own utilities\, are incentivized to choose ac
+ tions that also help achieve the designer’s objective. However\, even in
+  fairly basic settings\, the theoretically optimal mechanisms are complex 
+ and randomized\, while mechanisms used in practice are usually simple and 
+ deterministic. My work aims to resolve this discrepancy between theory and
+  practice by studying the following questions: are the mechanisms used in 
+ practice close to optimal? Can we design simple mechanisms to approximate 
+ the optimal one? We show that in important settings such as multi-item auc
+ tions and two-sided markets\, there are indeed simple and approximately op
+ timal mechanisms.\n\n\nhttps://cpsc.yale.edu/event/dissertation-defense-mi
+ ngfei-zhao
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/dissertation-defense-mingfei-zhao
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Amy Zhang
 DTSTART;VALUE=DATE-TIME:20210224T210000
 DTEND;VALUE=DATE-TIME:20210224T220000
@@ -229,53 +253,52 @@ SUMMARY:Dissertation Defense - Alexander R. Fabbri
 DTSTART;VALUE=DATE-TIME:20210225T140000
 DTEND;VALUE=DATE-TIME:20210225T150000
 DESCRIPTION:Event description:\nDissertation Defense\nAlexander R. Fabbri\
- n\nTitle: Text Summarization Across High and Low-resource Settings\n\nZoo
- m Link:\nhttps://yale.zoom.us/j/97743606943\n\nAdvisor: Dragomir Radev\n\
- nOther committee members:\n\nNisheeth Vishnoi\nRobert Frank\nSmaranda Mure
- san (Columbia University)\n\nAbstract:\n\nNatural language processing aims
-  to build automated systems that can both understand and generate natural 
- language textual data. As the amount of textual data available online has 
- increased exponentially\, so has the need for intelligence systems to comp
- rehend and present this data to the world. As a result\, automatic text su
- mmarization\, the process by which a text’s salient content is automatic
- ally distilled into a concise form\, has become a necessary tool.\n\nAutom
- atic text summarization approaches and applications vary based on the inpu
- t summarized\, which may constitute single or multiple documents of differ
- ent genres. Furthermore\, the desired output style may consist of a senten
- ce or sub-sentential units chosen directly from the input in extractive su
- mmarization or a fusion and paraphrase of the input document in abstractiv
- e summarization. Despite differences in the above use-cases\, specific the
- mes\, such as the role of large-scale data for training these models\, the
-  application of summarization models in real-world scenarios\, and the nee
- d for adequately evaluating and comparing summaries\, are common across th
- ese settings.\n\nThis dissertation presents novel data and modeling techni
- ques for deep neural network-based summarization models trained across lar
- ge-scale and low-resource data settings and a comprehensive evaluation of 
- the model and metric progress in the field.  We examine both Recurrent Ne
- ural Network (RNN)-based and Transformer-based models to extract and gener
- ate summaries from the input. We introduce datasets to facilitate the trai
- ning of large-scale networks in two applications of multi-document summari
- zation. We also propose unsupervised learning techniques for both extracti
- ve summarization in question answering and abstractive summarization and f
- ew-shot and distant supervision learning to use unlabeled data better.\n\n
- In particular\, this dissertation addresses the following research objecti
- ves:\n\n1) High-resource Summarization. We introduce two datasets for mult
- i-document summarization\, focusing on pedagogical applications for NLP an
- d news summarization. In both cases\, we analyze how the models trained on
-  these large-scale datasets fare when applied to real-world scenarios and 
- introduce a novel model to reduce redundancy in multi-document summaries.\
- n2) Low-resource Summarization. We propose a pipeline for creating synthet
- ic training data for training extractive question-answering models\, a for
- m of query-based extractive summarization with short-phrase summaries. In 
- other work\, we propose an automatic pipeline for training a multi-documen
- t summarizer in answer summarization on community question-answering forum
- s without labeled data. Finally\, we push the boundaries of abstractive su
- mmarization model performance when little or no training data is available
- .\n3) Automatic Summarization Evaluation. We study the current metrics use
- d to compare summarization output quality across 12 metrics across 23 deep
-  neural network models and propose better-motivated summarization evaluati
- on guidelines.\n\n\nhttps://cpsc.yale.edu/event/dissertation-defense-alexa
- nder-r-fabbri
+ n\nTitle: Text Summarization Across High and Low-resource Settings\n\nAdv
+ isor: Dragomir Radev\n\nOther committee members:\n\nNisheeth Vishnoi\nRob
+ ert Frank\nSmaranda Muresan (Columbia University)\n\nAbstract:\n\nNatural 
+ language processing aims to build automated systems that can both understa
+ nd and generate natural language textual data. As the amount of textual da
+ ta available online has increased exponentially\, so has the need for inte
+ lligence systems to comprehend and present this data to the world. As a re
+ sult\, automatic text summarization\, the process by which a text’s sali
+ ent content is automatically distilled into a concise form\, has become a 
+ necessary tool.\n\nAutomatic text summarization approaches and application
+ s vary based on the input summarized\, which may constitute single or mult
+ iple documents of different genres. Furthermore\, the desired output style
+  may consist of a sentence or sub-sentential units chosen directly from th
+ e input in extractive summarization or a fusion and paraphrase of the inpu
+ t document in abstractive summarization. Despite differences in the above 
+ use-cases\, specific themes\, such as the role of large-scale data for tra
+ ining these models\, the application of summarization models in real-world
+  scenarios\, and the need for adequately evaluating and comparing summarie
+ s\, are common across these settings.\n\nThis dissertation presents novel 
+ data and modeling techniques for deep neural network-based summarization m
+ odels trained across large-scale and low-resource data settings and a comp
+ rehensive evaluation of the model and metric progress in the field.  We e
+ xamine both Recurrent Neural Network (RNN)-based and Transformer-based mod
+ els to extract and generate summaries from the input. We introduce dataset
+ s to facilitate the training of large-scale networks in two applications o
+ f multi-document summarization. We also propose unsupervised learning tech
+ niques for both extractive summarization in question answering and abstrac
+ tive summarization and few-shot and distant supervision learning to use un
+ labeled data better.\n\nIn particular\, this dissertation addresses the fo
+ llowing research objectives:\n\n1) High-resource Summarization. We introdu
+ ce two datasets for multi-document summarization\, focusing on pedagogical
+  applications for NLP and news summarization. In both cases\, we analyze h
+ ow the models trained on these large-scale datasets fare when applied to r
+ eal-world scenarios and introduce a novel model to reduce redundancy in mu
+ lti-document summaries.\n2) Low-resource Summarization. We propose a pipel
+ ine for creating synthetic training data for training extractive question-
+ answering models\, a form of query-based extractive summarization with sho
+ rt-phrase summaries. In other work\, we propose an automatic pipeline for 
+ training a multi-document summarizer in answer summarization on community 
+ question-answering forums without labeled data. Finally\, we push the boun
+ daries of abstractive summarization model performance when little or no tr
+ aining data is available.\n3) Automatic Summarization Evaluation. We study
+  the current metrics used to compare summarization output quality across 1
+ 2 metrics across 23 deep neural network models and propose better-motivate
+ d summarization evaluation guidelines.\n\n\nhttps://cpsc.yale.edu/event/di
+ ssertation-defense-alexander-r-fabbri
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/dissertation-defense-alexander-r-fabbri
@@ -316,6 +339,48 @@ LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-
  only
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissertation Defense - Peizhen Guo
+DTSTART;VALUE=DATE-TIME:20210304T190000
+DTEND;VALUE=DATE-TIME:20210304T200000
+DESCRIPTION:Event description:\nDissertation Defense\nPeizhen Guo\n\nTitle
+ : Service Abstractions for Scalable Deep Learning Inference at the Edge\n
+ \nAdvisor: Wenjun Hu\n\nOther committee members:\n\nLin Zhong\nJames Aspn
+ es\nMahadev Satyanarayanan (Carnegie Mellon University)\n\nAbstract:\n\nDe
+ ep learning driven intelligent edge has already become a reality\, where m
+ illions of mobile\, wearable\, and IoT devices analyze real-time data and 
+ transform those into actionable insights on-device. Typical approaches for
+  optimizing deep learning inference mostly focus on accelerating the execu
+ tion of individual inference tasks\, without considering the contextual c
+ orrelation unique to edge environments and the statistical nature of learn
+ ing-based computation. Specifically\, they treat inference workloads as in
+ dividual black boxes and apply canonical system optimization techniques\, 
+ developed over the last few decades\, to handle them as yet another type o
+ f computation-intensive applications. As a result\, deep learning inferenc
+ e on edge devices still face the ever increasing challenges of customizati
+ on to edge device heterogeneity\, fuzzy computation redundancy between inf
+ erence tasks\, and end-to-end deployment at scale.\n\nIn this thesis\, we
+  propose the first framework that automates and scales the end-to-end proc
+ ess of deploying efficient deep learning inference from the cloud to heter
+ ogeneous edge devices. The framework consists of a series of service abstr
+ actions that handle DNN model tailoring\, model indexing and query\, and c
+ omputation reuse for runtime inference respectively. Together\, these serv
+ ices bridge the gap between deep learning training and inference\, elimina
+ te computation redundancy during inference execution\, and further lower t
+ he barrier for deep learning algorithm and system co-optimization.\n\nTo b
+ uild efficient and scalable services\, we take a unique algorithmic approa
+ ch of harnessing the semantic correlation between the learning-based compu
+ tation. Rather than viewing individual tasks as isolated black boxes\, we 
+ optimize them collectively in a white box approach\, proposing primitives 
+ to formulate the semantics of the deep learning workloads\, algorithms to 
+ assess their hidden correlation (in terms of the input data\, the neural n
+ etwork models\, and the deployment trials) and merge common processing ste
+ ps to minimize redundancy.\n\n\n\nhttps://cpsc.yale.edu/event/dissertation
+ -defense-peizhen-guo
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/dissertation-defense-peizhen-guo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Arman Cohan
@@ -371,25 +436,24 @@ SUMMARY:Dissertation Defense - Tao Yu
 DTSTART;VALUE=DATE-TIME:20210310T223000
 DTEND;VALUE=DATE-TIME:20210310T233000
 DESCRIPTION:Event description:\nDissertation Defense\nTao Yu\n\nTitle: Le
- arning to Map Natural Language to Executable Programs Over Databases\n\nZo
- om Link:\nhttps://yale.zoom.us/j/96388771156\n\nAdvisor: Dragomir Radev\n
- \nOther committee members:\n\nRobert Frank\nMarynel Vazquez\nKathleen McKe
- own (Columbia University)\nLuke Zettlemoyer (University of Washington)\n\n
- Abstract:\n\nNatural language is a fundamental form of information and com
- munication and will be the next frontier in computer interfaces. Natural L
- anguage Interfaces (NLI) bridge the data and the user\, significantly prom
- oting the possibility and efficiency of information access for many users 
- besides data experts. All consumer-facing software will one day have a dia
- logue interface\, the next vital leap in the evolution of search engines. 
- Such intelligent dialogue systems should be able to understand the meaning
-  of language grounded in various contexts and generate effective language 
- responses in different forms for information requests and human-computer c
- ommunication. In particular\, this dissertation focuses on answering the f
- ollowing three questions: 1) How can NLI ground human requests in natural 
- language into formal programs (e.g.\, SQL)? 2) How can NLI converse with h
- umans in a robust manner? 3) How can neural models understand compositiona
- lity in human language?\n\n\nhttps://cpsc.yale.edu/event/dissertation-defe
- nse-tao-yu
+ arning to Map Natural Language to Executable Programs Over Databases\n\nAd
+ visor: Dragomir Radev\n\nOther committee members:\n\nRobert Frank\nMaryne
+ l Vazquez\nKathleen McKeown (Columbia University)\nLuke Zettlemoyer (Unive
+ rsity of Washington)\n\nAbstract:\n\nNatural language is a fundamental for
+ m of information and communication and will be the next frontier in comput
+ er interfaces. Natural Language Interfaces (NLI) bridge the data and the u
+ ser\, significantly promoting the possibility and efficiency of informatio
+ n access for many users besides data experts. All consumer-facing software
+  will one day have a dialogue interface\, the next vital leap in the evolu
+ tion of search engines. Such intelligent dialogue systems should be able t
+ o understand the meaning of language grounded in various contexts and gene
+ rate effective language responses in different forms for information reque
+ sts and human-computer communication. In particular\, this dissertation fo
+ cuses on answering the following three questions: 1) How can NLI ground hu
+ man requests in natural language into formal programs (e.g.\, SQL)? 2) How
+  can NLI converse with humans in a robust manner? 3) How can neural models
+  understand compositionality in human language?\n\n\nhttps://cpsc.yale.edu
+ /event/dissertation-defense-tao-yu
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/dissertation-defense-tao-yu
@@ -427,6 +491,49 @@ DESCRIPTION:Event description:\nCS Colloquium\nKarl Wüst\n\nTitle: Trust
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-karl-wust
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissertation Defense - Luciano Dyballa
+DTSTART;VALUE=DATE-TIME:20210312T180000
+DTEND;VALUE=DATE-TIME:20210312T190000
+DESCRIPTION:Event description:\nDissertation Defense\nLuciano Dyballa\n\nT
+ itle: The Manifold of Neural Responses Informs Physiological Circuits in M
+ ouse Visual System\n\nAdvisor: Steven Zucker\n\nOther committee members:\n
+ \nJulie Dorsey\nRonald Coifman\nMichael Stryker (UCSF)\n\nAbstract:\n\nInf
+ erring the structure and function of neural circuits is central to underst
+ anding biological visual systems. Focusing on the visual system of the mou
+ se\, we address two major challenges toward this goal. First\, we introduc
+ e a novel stimulus ensemble. We show that it is rich enough to exercise th
+ e visual system broadly but simple enough for analysis.  The ensemble inc
+ ludes flow patterns\, a class of naturalistic visual stimuli that span spa
+ tial frequency\, contrast\, orientation and directionality\, as well as co
+ nventional grating stimuli. These flow stimuli are more constrained than n
+ atural images but more variable than gratings and noise patterns. A stimul
+ us generator is developed\, and it has been deployed in several neuroscien
+ ce laboratories.\n\nThe second challenge is how to infer the functional st
+ ructure of neural circuits from their activity to the stimulus ensemble. W
+ e use machine learning techniques to develop a novel manifold of neurons. 
+ This manifold is informative of basic circuit topology as well as neural f
+ unction. It differs from the standard approach in which trials are embedde
+ d in ‘neural coordinates.’ Our manifold\, by contrast\, embeds neurons
+  in functional coordinates derived from the stimuli. It is defined so that
+  those neurons that are close to one another on the manifold respond simil
+ arly in both activity and time to similar features within the stimulus ens
+ emble.\n\nPreliminary experiments with mouse retina and visual cortex data
+  reveal examples of these different manifold structures and provide a foun
+ dation for understanding the computational transition between retina and c
+ ortex in awake\, behaving mice. The same algorithm can be applied to artif
+ icial neural networks as well\; interestingly\, deep CNNs yield manifolds 
+ that are disconnected like the retina\, not continuous like V1. For neuros
+ cience\, this could explain the apparent ceiling in modeling cortical data
+ \; the limitations of categorical tasks\; and suggests future modeling dir
+ ections. More generally\, it illuminates limitations on the categorization
+  problem\, and underlines the importance of recurrence in networks for mor
+ e complex tasks.\n\n\nhttps://cpsc.yale.edu/event/dissertation-defense-luc
+ iano-dyballa
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/dissertation-defense-luciano-dyballa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Angelique Taylor
