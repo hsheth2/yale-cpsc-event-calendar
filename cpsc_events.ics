@@ -187,6 +187,35 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-marios-kogias
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Colloquium -Sima Jafarikhah
+DTSTART;VALUE=DATE-TIME:20210219T153000
+DTEND;VALUE=DATE-TIME:20210219T163000
+DESCRIPTION:Event description:\nCS Colloquium\nSima (Tahereh) Jafarikhah\n
+ \nTitle: Publicly Evaluatable Perceptual Hashing\n\nHost: Holly Rushmeier\
+ n\nAbstract:\n\nRobust Perceptual Hash (\nPH\n) allows social media platfo
+ rms to prevent uploading explicit multimedia files of their users without 
+ their consent. Using PH algorithms raise a vital privacy concern\; If user
+ s are aware that an explicit image of theirs is in another’s possession 
+ and want to prevent such an image from being posted\, they have to provide
+  the image to the social media platform so that the PH can be evaluated on
+  it and added to the blacklist. Is it possible to have robust and publicly
+  evaluatable perceptual hash functions? With three undergraduate students 
+ at the City University of New York\, we answered this question in an affir
+ mative.\n\nBio:\n\nSima (Tahereh) Jafarikhah is a Ph.D. candidate of Compu
+ ter Science at the City University of New York under the supervision of Ro
+ sario Gennaro and expect to complete her Ph.D. degree requirements by Spri
+ ng 2021. Prior to this\, she earned her first Ph.D. in Mathematics from T
+ ehran. Her research lies at the intersection of cryptography\, network sec
+ urity\, and\, more in general\, theoretical computer science. She served a
+ s the main lecturer of various computer science and Math courses at gradua
+ te\, undergraduate levels. She also taught at the Johns Hopkins Center for
+  Talented Youth.\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and passwor
+ d\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-sima-jafarikhah
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-sima-jafarikhah
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Mingfei Zhao
 DTSTART;VALUE=DATE-TIME:20210222T193000
 DTEND;VALUE=DATE-TIME:20210222T203000
