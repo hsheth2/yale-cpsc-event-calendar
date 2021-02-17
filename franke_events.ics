@@ -28,28 +28,6 @@ URL:https://frankeprogram.yale.edu/event/learning-doing-science-video-proj
  ect
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Permission to Feel:  The Power of Emotional Intelligence to Transf
- orm Lives
-DTSTART;VALUE=DATE-TIME:20210218T210000
-DTEND;VALUE=DATE-TIME:20210218T220000
-DESCRIPTION:Event description:\nEmotions influence learning\, decision mak
- ing\, relationships\, physical and mental health\, creativity\, and perfor
- mance.  But it’s our wise use of emotion that’s especially important. 
-  In this interactive presentation\, Professor Marc Brackett will (1) descr
- ibe his recent large-scale studies on the emotional lives of children and 
- adults\, (2) share his Center’s theoretical model of emotional intellige
- nce\, (3) present his evidence-based approach to developing emotional inte
- lligence in schools and workplaces\, which have reached millions of childr
- en and adults\, and (4) teach participants tools to develop emotional inte
- lligence to enhance personal and professional success.\n\n\nhttps://franke
- program.yale.edu/event/permission-feel-power-emotional-intelligence-transf
- orm-lives
-LOCATION:Whitney Humanities Center (WALL53 )\, 118 (Whitney Theater)
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/permission-feel-power-emotional-i
- ntelligence-transform-lives
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Distinguished Lecturer Series Talk by Professor Mark Brackett
 DTSTART;VALUE=DATE-TIME:20210218T210000
 DTEND;VALUE=DATE-TIME:20210218T220000
@@ -84,59 +62,76 @@ URL:https://frankeprogram.yale.edu/event/distinguished-lecturer-series-tal
  k-professor-mark-brackett
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Understanding the Nature of Inference:  A Multi-disciplinary Explo
- ration Colloquium Series
+SUMMARY:Understanding the Nature of Inference Colloqium Series Inaugural T
+ alk:  Carlo Rovelli
 DTSTART;VALUE=DATE-TIME:20210226T200000
 DTEND;VALUE=DATE-TIME:20210226T210000
-DESCRIPTION:Event description:\nThe Understanding the Nature of Inference 
- project aims to examine deeply the process of inference of cause and effec
- t across disciplines with a view to understanding the utility of conceptua
- l modeling and simulations as proxies for controlled experiments.  We hav
- e assembled a core group of experts with modeling experience in different 
- intellectual disciplines ranging from epidemiology\, cosmology\, genetics\
- , organizational behavior to climate modeling and philosophers of science 
- who study the nature of inference.\n\nJoin us in exploring  the various k
- inds of conceptual frameworks — agent simulations\, ab-initio time evolu
- tion modeling of complex non-linear systems\, propagation of genetic trans
- cription and expression\, climate modeling –  to distill the role that 
- modeling plays in aiding the disentangling of correlation and causation. O
- ne of the fundamental and challenging open questions in epistemology acros
- s intellectual disciplines is the distinction between causation and correl
- ation.\n\nThe production of new knowledge is inevitably linked to the unde
- rstanding of cause and effect and the underlying principles\, if any exist
- \, that map between them. The study of causality lies at the very core of 
- all scientific enquiry. Sifting out causality is also imperative when pred
- ictions for the future behavior of systems under investigation are sought.
-  There are many approaches to studying causation\, including probabilistic
- \, manipulative\, counter-factual and structural ones that invariably all 
- comprise a set of mathematical tools that help discriminate between causal
-  connections and statistical associations.\n\nOur inter-disciplinary proje
- ct is supported by the Franke Program & The John Templeton Foundation. Our
-  core team is led by Priyamvada Natarajan\, and the core of assembled expe
- rts and their affiliations below:\n\nDr. Jenann Ismael\, Professor of Phil
- osophy\, Columbia University\, New York\, U.S.A.\n\nDr. Jim Weatherall\, P
- rofessor of Logic and Philosophy of Science\, University of California at 
- Irvine\, Irvine\, U.S.A.\n\nDr. Kyle Cranmer\, Professor of Physics & Data
-  Science\, NYU\, New York\, U.S.A.\n\nDr. Eric Winsberg\, Professor of Phi
- losophy\, University of Southern Florida\, Tampa\, U.S.A.\n\nDr. Elise Cru
- ll\, Assistant Professor of Philosophy\, The City College of New York\, Ne
- w York\, U.S.A.\n\nDr. Albert Anghern\, Professor of Information Technolog
- y\, INSEAD\, Fontainebleau\, France.\n\nDr. Sarah Teichmann\, Head of Cell
- ular Genetics\, Welcome Sanger Institute\, Cambridge\, U.K.\n\nThe key pla
- nned activity is a virtual collquium series\, open to the public\, held on
- ce a month. Eminent thinkers who have established expertise in various fa
- cets of the inference question\, including our core team will be invited s
- peakers. Prior to the talk\, we will make available relevant reading mate
- rials from the speaker on this website. And a day or two after the talk\, 
- we will host a moderated panel discussion session that will further explo
- re the content of the previous day’s colloquium.\n\nZoom details will be
-  announced soon before each talk.\n\n\nhttps://frankeprogram.yale.edu/even
- t/understanding-nature-inference-multi-disciplinary-exploration-colloquium
- -series
-LOCATION:TBA
+DESCRIPTION:Event description:\nProfessor and author Carlo Rovelli\, Theor
+ etical Physicist\, Director of the Quantum Gravity Group\, Centre de Physi
+ que Théorique\, Université de la Méditerranée\, Marseille\, France\n\n
+ The physics of the time orientation of causation is more subtle than what 
+ it looks like superficially.  For a long while it was reduced to a mere l
+ inguistic issue (a “cause” is just the term of a correlation that hap
+ pens earlier\, Hume). As emphasized by Russel\, there is no time orientati
+ on in fundamental physics.  But causation was later better understood as 
+ an essential notion in the context of an agent having choices\, which af
+ ter all is our own common context. This traces the time orientation of ca
+ usation to the time orientation of agency. This realisation has been used 
+ by Nancy Cartwright to argue for the incompleteness of fundamental physic
+ s. However\, agents are\, in turn\, physical systems and they must deriv
+ e their time orientation from physics. Does this bring us back to square o
+ ne?  Remarkably\, the answer is no because agency is a macroscopic notio
+ n and macroscopic physics\nis\n\, contingently\, time oriented\, in a way 
+ compatible with the fundamental absence of an arrow of time.   Hence the 
+ time orientation is causation is a consequence of the thermodynamic arrow 
+ of time\, but in a peculiarly indirect way\, that goes through the physic
+ al nature of the agents with respect to which causation is meaningful.\n\
+ nPlease note that a moderated discussion with Professor Eric Winsberg of t
+ he University of South Florida will take place on Saturday\, February 27\,
+  at 3 p.m. EST.\n\n\nRegister in advance for this meeting:\n\nhttps://yale
+ .zoom.us/meeting/register/tJckfuCvqjwrHtZRVwdr0Wi5LihHcqVTDR…\n\n\n\n\n\
+ nhttps://frankeprogram.yale.edu/event/understanding-nature-inference-collo
+ qium-series-inaugural-talk-carlo-rovelli
+LOCATION:Zoom
 STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/understanding-nature-inference-mu
- lti-disciplinary-exploration-colloquium-series
+URL:https://frankeprogram.yale.edu/event/understanding-nature-inference-co
+ lloqium-series-inaugural-talk-carlo-rovelli
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Understanding the Nature of Inference Colloqium Series Inaugural T
+ alk:  Carlo Rovelli
+DTSTART;VALUE=DATE-TIME:20210226T200000
+DTEND;VALUE=DATE-TIME:20210226T210000
+DESCRIPTION:Event description:\nProfessor and author Carlo Rovelli\, Theor
+ etical Physicist\, Director of the Quantum Gravity Group\, Centre de Physi
+ que Théorique\, Université de la Méditerranée\, Marseille\, France\n\n
+ The physics of the time orientation of causation is more subtle than what 
+ it looks like superficially.  For a long while it was reduced to a mere l
+ inguistic issue (a “cause” is just the term of a correlation that hap
+ pens earlier\, Hume). As emphasized by Russel\, there is no time orientati
+ on in fundamental physics.  But causation was later better understood as 
+ an essential notion in the context of an agent having choices\, which af
+ ter all is our own common context. This traces the time orientation of ca
+ usation to the time orientation of agency. This realisation has been used 
+ by Nancy Cartwright to argue for the incompleteness of fundamental physic
+ s. However\, agents are\, in turn\, physical systems and they must deriv
+ e their time orientation from physics. Does this bring us back to square o
+ ne?  Remarkably\, the answer is no because agency is a macroscopic notio
+ n and macroscopic physics\nis\n\, contingently\, time oriented\, in a way 
+ compatible with the fundamental absence of an arrow of time.   Hence the 
+ time orientation is causation is a consequence of the thermodynamic arrow 
+ of time\, but in a peculiarly indirect way\, that goes through the physic
+ al nature of the agents with respect to which causation is meaningful.\n\
+ nPlease note that a moderated discussion with Professor Eric Winsberg of t
+ he University of South Florida will take place on Saturday\, February 27\,
+  at 3 p.m. EST.\n\n\nRegister in advance for this meeting:\n\nhttps://yale
+ .zoom.us/meeting/register/tJckfuCvqjwrHtZRVwdr0Wi5LihHcqVTDR…\n\n\n\n\n\
+ nhttps://frankeprogram.yale.edu/event/understanding-nature-inference-collo
+ qium-series-inaugural-talk-carlo-rovelli
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/understanding-nature-inference-co
+ lloqium-series-inaugural-talk-carlo-rovelli
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Distinguished Lecturer Series\, Talk by Susan Hockfield
