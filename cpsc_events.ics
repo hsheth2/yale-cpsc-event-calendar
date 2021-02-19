@@ -2,51 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Marios Kogias
-DTSTART;VALUE=DATE-TIME:20210218T153000
-DTEND;VALUE=DATE-TIME:20210218T163000
-DESCRIPTION:Event description:\nCS Colloquium\nMarios Kogias\n\nTitle: Bui
- lding Latency-Critical Datacenter Systems\n\nHost: Avi Silberschatz\n\nAbs
- tract:\n\nOnline services play a major role in our everyday life for commu
- nication\, entertainment\, socializing\, e-commerce\, etc.  These service
- s run inside the datacenter under strict tail-latency service level object
- ives in order to remain interactive. The emergence of new hardware for IO
-  has enabled microsecond-scale datacenter communications that challenge th
- e efficiency of existing operating system and network mechanisms. Also\, 
- new in-network programmable devices start being deployed in datacenters an
- d introduce a new computing paradigm that shifts functionality traditional
- ly performed at the end-points to the network.\n\nIn this talk I will revi
- sit the operating systems\, networking\, and distributed systems infrastru
- cture specifically targeting latency-critical datacenter systems\, while d
- rawing intuition from basic queueing theory results. In the first part of
-  the talk\, I will focus on ZygOS[SOSP 2017]\, a system optimized for μs-
- scale\, in-memory computing on multicore servers. ZygOS implements a work
- -conserving scheduler within a specialized operating system designed for h
- igh request rates and a large number of network connections. ZygOS reveal
- ed the challenges associated with serving remote procedure calls (RPCs) on
-  top of a byte-stream oriented protocol\, such as TCP. In the second part
-  of the talk\, I will present R2P2[ATC 2019]. R2P2 is a transport protoco
- l specifically designed for datacenter RPCs\, that exposes the RPC abstrac
- tion to the endpoints and the network\, making RPCs first-class datacenter
-  citizens. R2P2 enables pushing functionality\, such as scheduling\, faul
- t-tolerance\, and tail-tolerance\, inside the transport protocol. I will 
- show how using R2P2 allowed us to offload RPC scheduling to programmable s
- witches that can schedule requests directly on individual CPU cores.\n\nBi
- o:\n\nMarios Kogias is a researcher at MSR Cambridge. He graduated from E
- PFL in August 2020. His main research focus is at the intersection of oper
- ating systems and networking in the datacenter. He’s working on buildin
- g and understanding systems with strict tail-latency SLOs leveraging new 
- emerging hardware. He was an IBM PhD Fellow and won the best student paper
-  award at Eurosys2020. Before joining EPFL he got his undergrad degree fro
- m the National Technical University of Athens. He has interned at Cern\, 
- Google\, and Microsoft Research.\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom 
- link and password\n\nCS Colloquium flyer\n\n\n\nhttps://cpsc.yale.edu/even
- t/cs-colloquium-marios-kogias
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-marios-kogias
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium -Sima Jafarikhah
 DTSTART;VALUE=DATE-TIME:20210219T153000
 DTEND;VALUE=DATE-TIME:20210219T163000
