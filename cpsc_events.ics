@@ -278,6 +278,53 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-connor-bain
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Roberto Martin-Martin
+DTSTART;VALUE=DATE-TIME:20210301T210000
+DTEND;VALUE=DATE-TIME:20210301T220000
+DESCRIPTION:Event description:\nCS Colloquium\nRoberto Martin-Martin\n\nTi
+ tle: Physically Interactive Intelligence — A path towards autonomous emb
+ odied agents\n\nHost: Brian Scassellati\n\nAbstract:\n\nWhat is the role o
+ f physical interaction in embodied intelligence? In robotics\, physical in
+ teraction is often reduced to a minimum because it is considered difficult
+  to plan\, control and execute\, has unpredictable effects and may be dan
+ gerous for the robot and anything or anyone around it. To compensate\, we 
+ impose extremely high requirements on computation: perception\, planning 
+ and control. However\, when observing humans\, we see that our autonomy to
+  perform tasks in a versatile and robust manner come from rich and contin
+ uous interactions with the environment that relax the dependency on accura
+ te computation and help us achieve our tasks.\n\nIn my research\, I study 
+ a new balance between interaction and computation in embodied AI agents\, 
+ what I call Physically Interactive Intelligence\, with the goal of increas
+ ing robots’ autonomy. I propose to promote physical interaction to foun
+ dational component of novel robotic solutions. I will present new methods 
+ to learn to control and exploit physical interactions to reach new levels 
+ of autonomy in robotics\, even for tasks where they are not traditionally
+  used such as perception and navigation. These lines of work support my ov
+ erall research hypothesis: autonomous behavior and grounded understanding
+  in embodied AI agents are achieved through an intelligent use of physical
+  interaction with the environment. I will also discuss next steps in my re
+ search agenda to study the role of physical interaction in intelligent aut
+ onomous behavior and endow robots with new interactive capabilities to ac
+ hieve tasks in unstructured environments.\n\nBio:\n\nRoberto Martin-Martin
+  works as Postdoctoral scholar at the Stanford Vision and Learning Lab wit
+ h Professors Silvio Savarese and Fei-Fei Li. He researches at the intersec
+ tion of robotics\, computer vision and machine learning. At Stanford he wo
+ rked with three groups: the JackRabbot team\, where he researched about m
+ obility and manipulation in environments with humans\, the People\, AI & R
+ obots (PAIR) team\, where they study visuo-motor learning skills for manip
+ ulation and planning\, and the iGibson team\, where he studies how humans 
+ and robots can achieve everyday long-horizon interactive tasks. In his re
+ search\, he integrates interactions as part of novel perception and learni
+ ng procedures. Before to coming to Stanford\, he received his PhD and Mast
+ ers degree from Technische Universität Berlin (TUB) working with Profess
+ or Oliver Brock\, and his BSc. degree from Universidad Politécnica de Mad
+ rid.\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and password\n\n\nhttps
+ ://cpsc.yale.edu/event/cs-colloquium-roberto-martin-martin
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-roberto-martin-martin
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Peizhen Guo
 DTSTART;VALUE=DATE-TIME:20210304T190000
 DTEND;VALUE=DATE-TIME:20210304T200000
