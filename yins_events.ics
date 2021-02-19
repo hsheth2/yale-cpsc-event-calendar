@@ -2,18 +2,33 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Matti Wilks
+SUMMARY:YINS Seminar: Matti Wilks (Yale)
 DTSTART;VALUE=DATE-TIME:20210224T200000
 DTEND;VALUE=DATE-TIME:20210224T210000
-DESCRIPTION:Event description:\nYINS Seminar\n\nSpeaker: Matti Wilks\n\nT
- o participate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://ya
- le.zoom.us/j/92526779047\nOr Telephone：203-432-9666 (2-ZOOM if on-campus
- ) or 646 568 7788\nMeeting ID: 925 2677 9047\nInternational numbers availa
- ble:\nhttps://yale.zoom.us/u/ainOhcOEZ\n\n.\n\n\nhttps://yins.yale.edu/eve
- nt/yins-seminar-matti-wilks
+DESCRIPTION:Event description:\n“The role of moral psychology in AI ethi
+ cs”\n\nSpeaker: Dr. Matti Wilks\n\nResearch Associate\, Department of Ps
+ ychology\, Yale University\n\nTalk summary:\nThere are many psychological 
+ factors that influence our willingness to trust AI\, as well as how accept
+ able we think it is for AI to make decisions. In this presentation I will 
+ address the relevant literature\, and extend the exploration to discuss a 
+ new project that aims to systematically investigate how our perception of 
+ AI “minds” may influence trust in AI systems.\n\nSpeaker bio:\nMatti W
+ ilks\, Ph.D. is a postdoctoral research associate at Yale University\, wor
+ king with Professor Paul Bloom. She is broadly interested in moral cogniti
+ on and moral development. She is especially interested in questions of how
+  we ascribe moral worth\, why some people are motivated to act in extremel
+ y altruistic ways\, and why we dislike unnatural things.    Prior to her
+  current position\, she completed her PhD at the University of Queensland 
+ with Associate Professor Mark Nielsen and was a postdoctoral research fell
+ owship at Princeton University’s Center for Human Values with Professor 
+ Peter Singer.\n\nTo participate:\n\nJoin from PC\, Mac\, Linux\, iOS or An
+ droid:\nhttps://yale.zoom.us/j/92526779047\nOr Telephone：203-432-9666 (2
+ -ZOOM if on-campus) or 646 568 7788\nMeeting ID: 925 2677 9047\nInternatio
+ nal numbers available:\nhttps://yale.zoom.us/u/ainOhcOEZ\n\n.\n\n\nhttps:/
+ /yins.yale.edu/event/yins-seminar-matti-wilks-yale
 LOCATION:TBA
 STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-matti-wilks
+URL:https://yins.yale.edu/event/yins-seminar-matti-wilks-yale
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:YINS Seminar: Kamalika Chaudhuri (UCSD)
