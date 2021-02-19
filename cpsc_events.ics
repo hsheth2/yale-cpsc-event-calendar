@@ -280,6 +280,58 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-roberto-martin-martin
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Benjamin Fisch
+DTSTART;VALUE=DATE-TIME:20210302T210000
+DTEND;VALUE=DATE-TIME:20210302T220000
+DESCRIPTION:Event description:\nCS Colloquium\nBenjamin Fisch\n\nTitle: Pr
+ oof systems for governance\, transparency\, and privacy\n\n\nHost: Zhong S
+ hao\n\nAbstract:\n\nRecord-keeping has long played a critical role in soci
+ ety\, from governing property ownership to establishing historical “trut
+ h”. Today\, our dependence on digital records is becoming absolute\, fro
+ m our personal wealth\, commerce\, and identities to sources of knowledge 
+ and news. This has elevated the importance of three competing dimensions: 
+ Who has control over how records are managed? Who can verify the integrity
+  of record maintenance? Who can see the information in records? Over the l
+ ast decade\, these questions have sparked the development of digital recor
+ d-keeping systems called “blockchains”.\n\nThis talk will cover three 
+ proof systems that bring new capabilities for governance\, transparency\, 
+ and privacy in blockchains. I will first talk about new techniques for bal
+ ancing transparency and privacy that achieve order-of-magnitude efficiency
+  improvements over the prior state of the art. Next\, I will talk about tw
+ o new proof systems pertaining to governance: Verifiable Delay Functions (
+ VDFs) and Proofs-of-Replication (PoReps). VDFs enable an unbiased leader e
+ lection protocol that will be used within the consensus of Ethereum 2.0. P
+ oReps enable a “permission-less” consensus protocol where voting power
+  is based on data storage capacity instead of Bitcoin’s energy-wasteful 
+ “proof-of-work”. PoReps are deployed in Filecoin\, a decentralized sto
+ rage network exceeding a capacity of two exabytes that secures a cryptocur
+ rency worth over two billion dollars.\n\nBio:\n\nBen is a PhD candidate at
+  Stanford University advised by Dan Boneh and a recipient of the NSF Gradu
+ ate Research Fellowship. His research focuses on verifiability in informat
+ ion systems\, with special attention on applications of applied cryptograp
+ hy to blockchains. Several of his research results have had an impact on t
+ he blockchain industry. His seminal work on Verifiable Delay Functions (VD
+ Fs) sparked the VDF Alliance\, a multi-million initiative composed of acad
+ emic\, non-profit\, and corporate collaborators. VDFs will play an importa
+ nt role in several deployed blockchains including\nEthereum\n.\n\n*Contact
+ \nAlicia\nor\nNancy\nfor Zoom link and password\n\n\nhttps://cpsc.yale.edu
+ /event/cs-colloquium-benjamin-fisch
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-benjamin-fisch
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Riad Wahby
+DTSTART;VALUE=DATE-TIME:20210304T153000
+DTEND;VALUE=DATE-TIME:20210304T163000
+DESCRIPTION:Event description:\nCS Colloquium\nRiad Wahby\n\nHost: Robert 
+ Soulé\n\nCheck back soon for abstract\n\n\nhttps://cpsc.yale.edu/event/cs
+ -colloquium-riad-wahby
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-riad-wahby
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Peizhen Guo
 DTSTART;VALUE=DATE-TIME:20210304T190000
 DTEND;VALUE=DATE-TIME:20210304T200000
@@ -635,6 +687,17 @@ DESCRIPTION:Event description:\nCS Colloquium\nMaria Apostolaki\n\nTitle:
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-maria-apostolaki
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Danfei Xu
+DTSTART;VALUE=DATE-TIME:20210329T200000
+DTEND;VALUE=DATE-TIME:20210329T210000
+DESCRIPTION:Event description:\nCS Colloquium\nDanfei Xu\n\nHost: Steven Z
+ ucker\n\nCheck back soon for abstract\n\n\nhttps://cpsc.yale.edu/event/cs-
+ colloquium-danfei-xu
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-danfei-xu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Ranjay Krishna
