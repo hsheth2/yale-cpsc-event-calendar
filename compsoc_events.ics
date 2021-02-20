@@ -2,15 +2,48 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
-SUMMARY:Colloquium by Kobbi Nissim
+SUMMARY:Colloquium on Privacy and Law by Kobbi Nissim
 DTSTART;VALUE=DATE-TIME:20210305T160000
 DTEND;VALUE=DATE-TIME:20210305T170000
 DESCRIPTION:Event description\nSpeaker:\nKobbi Nissim\n\, Georgetown Unive
- rsity\n\n\n\nHost:\nNisheeth Vishnoi\n\n\n\n\n\nhttps://computationsociety
- .yale.edu/event/colloquium-by-kobbi-nissim
+ rsity\n\n\n\nTitle: Legal theorems of privacy\n\n\n\nHost:\nNisheeth Vishn
+ oi\n\n\n\nAbstract: There are significant gaps between legal and technical
+  thinking around data privacy. Technical standards of privacy are describe
+ d using mathematical language and strive for mathematical rigor whereas le
+ gal standards are not rigorous from a mathematical point of view and the c
+ oncepts underlying them are only partially defined. As a result\, argument
+ s about the adequacy of technical privacy measures for satisfying legal pr
+ ivacy often lack rigor\, and their conclusions are uncertain. We ask wheth
+ er it is possible to introduce mathematical rigor into such analyses so as
+  to “prove” claims that technical privacy measures meet legal expectat
+ ions. We explore some of the gaps between legal and technical approaches t
+ o privacy and present initial strategies towards bridging these gaps.\n\n\
+ n\nAs a particular example\, we focus on the concept of singling out from 
+ the EU’s General Data Protection Regulation (GDPR). To capture this conc
+ ept\, we define a new type of privacy attack\, predicate singling out\, wh
+ ere an adversary finds a predicate matching exactly one row in a database 
+ with probability significantly better than a statistical baseline. We then
+  argue that any data release mechanism that purports to “render anonymou
+ s” data under the GDPR should prevent predicate singling out. Hence\, th
+ e concept has legal consequences as it can be used as a yardstick for argu
+ ing whether data release mechanisms meet the GDPR standard of data anonymi
+ zation.\n\n\n\nBased on joint work with Micah Altman\, Aloni Cohen\, and A
+ lex Wood.\n\n\n\nSpeaker biography: Prof. Kobbi Nissim is a McDevitt Chair
+  at the department of Computer Science\, Georgetown University and affilia
+ ted with Georgetown Law. Nissim’s work is focused on the mathematical fo
+ rmulation and understanding of privacy. His work from 2003 and 2004 with D
+ inur and Dwork initiated rigorous foundational research of privacy and in 
+ 2006 he introduced differential privacy with Dwork\, McSherry and Smith. N
+ issim was awarded the Caspar Bowden Privacy for research in Privacy Enhanc
+ ing Technology in 2019\, the Gödel Prize in 2017\, IACR TCC Test of Time 
+ Awards in 2016 and in 2018\, and the ACM PODS Alberto O. Mendelzon Test-of
+ -Time Award in 2013.\n\n\n\nZoom:\nhttps://yale.zoom.us/j/93537648931\n\n\
+ nhttps://computationsociety.yale.edu/event/colloquium-on-privacy-and-law-b
+ y-kobbi-nissim
 LOCATION:TBA
 STATUS:CONFIRMED
-URL:https://computationsociety.yale.edu/event/colloquium-by-kobbi-nissim
+URL:https://computationsociety.yale.edu/event/colloquium-on-privacy-and-la
+ w-by-kobbi-nissim
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colloquium by Suresh Venkatsubramanian
