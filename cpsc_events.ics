@@ -292,15 +292,35 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-benjamin-fisch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Riad Wahby
+SUMMARY:CS Colloquium - Riad S. Wahby
 DTSTART;VALUE=DATE-TIME:20210304T153000
 DTEND;VALUE=DATE-TIME:20210304T163000
-DESCRIPTION:Event description:\nCS Colloquium\nRiad Wahby\n\nHost: Robert 
- Soulé\n\nCheck back soon for abstract\n\n\nhttps://cpsc.yale.edu/event/cs
- -colloquium-riad-wahby
-LOCATION:Zoom Presentation
+DESCRIPTION:Event description:\nCS Colloquium\nRiad S. Wahby\n\nHost: Robe
+ rt Soulé\n\nTitle: Probabilistic proofs: theory\, hardware\, and everythi
+ ng in between\n\nAbstract:\n\nIn the past decade\, systems that use probab
+ ilistic proofs in real-world applications have seen explosive growth. Thes
+ e systems build upon some of the crown jewels of theoretical computer scie
+ nce—interactive proofs\, probabilistically checkable proofs\, and zero-k
+ nowledge proofs—to solve problems of trust and privacy in a wide range o
+ f settings.\n\nThis talk describes my work building systems that answer qu
+ estions ranging from “how can we build trustworthy hardware that uses un
+ trusted components?” to “how can we reduce the cost of verifying smart
+  contract execution in blockchains?” Along the way\, I will discuss the 
+ pervasive challenges of efficiency\, expressiveness\, and scalability in t
+ his research area\; my approach to addressing these challenges\; and futur
+ e directions that promise to bring this exciting technology to bear on an 
+ even wider range of applications.\n\nBio:\n\nRiad S. Wahby is a Ph.D. cand
+ idate at Stanford\, advised by Dan Boneh and Keith Winstein.  His researc
+ h interests include systems\, computer security\, and applied cryptography
+ . Prior to attending Stanford\, Riad spent ten years as an analog and mixe
+ d-signal integrated circuit designer. Riad and his collaborators received 
+ a 2016 IEEE Security and Privacy Distinguished Student Paper award\; his w
+ ork on hashing to elliptic curves is being standardized by the IETF.\n\n*C
+ ontact\nAlicia\nor\nNancy\nfor Zoom link and password\n\n\nhttps://cpsc.ya
+ le.edu/event/cs-colloquium-riad-s-wahby
+LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-riad-wahby
+URL:https://cpsc.yale.edu/event/cs-colloquium-riad-s-wahby
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Peizhen Guo
