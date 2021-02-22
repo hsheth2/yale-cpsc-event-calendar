@@ -58,4 +58,19 @@ LOCATION:Via Zoom
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-mehryar-mohri-nyu
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS Seminar: Afonso Bandeira (ETH Zürich)
+DTSTART;VALUE=DATE-TIME:20210331T160000
+DTEND;VALUE=DATE-TIME:20210331T170000
+DESCRIPTION:Event description:\nYINS Seminar\n\nSpeaker: Afonso S. Bandeir
+ a\n\nProfessor of Mathematics\, ETH Zürich\n\nTo participate:\n\nJoin fro
+ m PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/95980067359\n
+ Or Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting
+  ID: 959 8006 7359\nInternational numbers available:\nhttps://yale.zoom.us
+ /u/adtHjWNcGQ\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-afonso-ba
+ ndeira-eth-zurich
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-afonso-bandeira-eth-zurich
+END:VEVENT
 END:VCALENDAR
