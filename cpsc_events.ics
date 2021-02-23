@@ -765,4 +765,61 @@ LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-ranjay-krishna
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Kalesha Bullard
+DTSTART;VALUE=DATE-TIME:20210407T200000
+DTEND;VALUE=DATE-TIME:20210407T210000
+DESCRIPTION:Event description:\nCS Colloquium\nKalesha Bullard\n\nTitle: 
+  Learning through Interaction in Cooperative Multi-Agent Systems\n\nHost: 
+ Marynel Vázquez\n\nAbstract:\n\nEffective communication is an important s
+ kill for enabling information exchange and cooperation in multi-agent syst
+ ems\, in which agents coexist in shared environments with humans and/or ot
+ her artificial agents.  Indeed\, human domain experts can be a highly inf
+ ormative source of instructive guidance and feedback (supervision).  My p
+ rior work explores this type of interaction in depth\, as a mechanism for 
+ enabling learning for artificial agents.  However\, dependence upon human
+  partners for acquiring or adapting skills has important limitations.  Hu
+ man time and cognitive load is typically constrained (particularly in real
+ istic settings) and data collection from humans\, though potentially quali
+ tatively rich\, can be slow and costly to acquire. Yet\, the ability to le
+ arn through interaction with other agents represents another powerful mech
+ anism for enabling interactive learning.  Though other artificial agents 
+ may\nalso\nbe novices\, agents can co-learn through providing each other e
+ valuative feedback (reinforcement)\, given the learning task has been suff
+ iciently structured and allows for generalization to novel settings.\n\nTh
+ is talk presents research that investigates methods for enabling agents to
+  learn\ngeneral\ncommunication skills through interactions with\nother age
+ nts\n.  In particular\, the talk will focus on my ongoing work within Mul
+ ti-Agent Reinforcement Learning\, investigating\nemergent\ncommunication p
+ rotocols\, inspired by communication in real-world problem settings.  We 
+ present a novel problem setting and a general approach that allows for zer
+ o-shot coordination (ZSC)\, i.e.\, discovering protocols that can generali
+ ze to independently trained agents.  We also explore and analyze specific
+  difficulties associated with finding globally optimal ZSC protocols\, as 
+ complexity of the communication task increases or the modality for communi
+ cation changes (\ne.g.\nto implicit communication through physical movemen
+ t\, by a simulated robotic agent).  Overall\, this work opens up exciting
+  avenues for learning\ngeneral\ncommunication protocols in complex domains
+ .\n\nBio:\n\nKalesha Bullard is a postdoctoral researcher at Facebook AI R
+ esearch.  She completed her PhD in Computer Science at Georgia Institute 
+ of Technology in 2019\, where her research focused within the space of int
+ eractive robot learning.  During her postdoc\, Kalesha has expanded her r
+ esearch to explore the space of multi-agent reinforcement learning\, curre
+ ntly investigating how to enable embodied multi-agent populations to learn
+ \ngeneral\ncommunication protocols.  More broadly\, Kalesha’s research 
+ interests span autonomous reasoning and decision making for artificial age
+ nts in multi-agent settings.  To date\, her research has focused on princ
+ ipled methods for enabling agents to learn through interaction with other 
+ agents (human or artificial) to achieve shared goals. Beyond research\, Ka
+ lesha has participated in a number of service roles throughout her researc
+ h career\, recently serving on organizing and program committees for works
+ hops associated with several top Artificial Intelligence conference venues
+  (NeurIPS\, AAAI\, AAMAS).  This past year\, she was selected as one of t
+ he 2020 Electrical Engineering and Computer Science (EECS) Rising Stars.\n
+ \n*Contact\nAlicia\nor\nNancy\nfor Zoom link and password\n\n\n\n\nhttps:/
+ /cpsc.yale.edu/event/cs-colloquium-kalesha-bullard
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-kalesha-bullard
+END:VEVENT
 END:VCALENDAR
