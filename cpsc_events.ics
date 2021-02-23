@@ -369,6 +369,51 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/dissertation-defense-peizhen-guo
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Computation and Society Colloquium - Kobbi Nissim\, Georgetown Uni
+ versity
+DTSTART;VALUE=DATE-TIME:20210305T160000
+DTEND;VALUE=DATE-TIME:20210305T170000
+DESCRIPTION:Event description:\nComputation and Society Colloquium\n\nKobb
+ i Nissim\, Georgetown University\n\nTitle: Legal theorems of privacy\n\n\n
+ \n\nHost: Nisheeth Vishnoi\n\nAbstract:\n\nThere are significant gaps betw
+ een legal and technical thinking around data privacy. Technical standards 
+ of privacy are described using mathematical language and strive for mathem
+ atical rigor whereas legal standards are not rigorous from a mathematical 
+ point of view and the concepts underlying them are only partially defined.
+  As a result\, arguments about the adequacy of technical privacy measures 
+ for satisfying legal privacy often lack rigor\, and their conclusions are 
+ uncertain. We ask whether it is possible to introduce mathematical rigor i
+ nto such analyses so as to “prove” claims that technical privacy measu
+ res meet legal expectations. We explore some of the gaps between legal and
+  technical approaches to privacy and present initial strategies towards br
+ idging these gaps.\n\nAs a particular example\, we focus on the concept of
+  singling out from the EU’s General Data Protection Regulation (GDPR). T
+ o capture this concept\, we define a new type of privacy attack\, predicat
+ e singling out\, where an adversary finds a predicate matching exactly one
+  row in a database with probability significantly better than a statistica
+ l baseline. We then argue that any data release mechanism that purports to
+  “render anonymous” data under the GDPR should prevent predicate singl
+ ing out. Hence\, the concept has legal consequences as it can be used as a
+  yardstick for arguing whether data release mechanisms meet the GDPR stand
+ ard of data anonymization.\n\n\n\nBased on joint work with Micah Altman\, 
+ Aloni Cohen\, and Alex Wood.\n\n\n\nBio:\n\n\n\nProf. Kobbi Nissim is a Mc
+ Devitt Chair at the department of Computer Science\, Georgetown University
+  and affiliated with Georgetown Law. Nissim’s work is focused on the mat
+ hematical formulation and understanding of privacy. His work from 2003 and
+  2004 with Dinur and Dwork initiated rigorous foundational research of pri
+ vacy and in 2006 he introduced differential privacy with Dwork\, McSherry 
+ and Smith. Nissim was awarded the Caspar Bowden Privacy for research in Pr
+ ivacy Enhancing Technology in 2019\, the Gödel Prize in 2017\, IACR TCC T
+ est of Time Awards in 2016 and in 2018\, and the ACM PODS Alberto O. Mende
+ lzon Test-of-Time Award in 2013.\n\n\n\nZoom:\nhttps://yale.zoom.us/j/9353
+ 7648931\n\n\n\n\n\nhttps://cpsc.yale.edu/event/computation-and-society-col
+ loquium-kobbi-nissim-georgetown-university
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/computation-and-society-colloquium-kobbi-n
+ issim-georgetown-university
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Arman Cohan
 DTSTART;VALUE=DATE-TIME:20210310T210000
 DTEND;VALUE=DATE-TIME:20210310T220000
@@ -411,8 +456,8 @@ DESCRIPTION:Event description:\nCS Colloquium\nArman Cohan\n\nTitle: Adapt
  d with multiple awards including best paper award at EMNLP 2017\, area cha
  ir favorite paper award at COLING 2018\, and Harold N. Glassman Distinguis
  hed Doctoral Dissertation award in 2019.\n\n*Contact\nAlicia\nor\nNancy\nf
- or Zoom link and password\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-a
- rman-cohan
+ or Zoom link and password\n\nCS Colloquium flyer\n\n\n\nhttps://cpsc.yale.
+ edu/event/cs-colloquium-arman-cohan
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-arman-cohan
@@ -455,25 +500,25 @@ DESCRIPTION:Event description:\nCS Colloquium\nKarl Wüst\n\nTitle: Trust
  ly designed to be decentralized in order to reduce the required trust assu
  mptions as much as possible. However\, there are choices to be made about 
  how much to trust and how much to decentralize which in turn greatly affec
- t the properties that can be achieved efficiently.\nIn this talk\, I will 
- discuss how these choices can be leveraged for large performance gains and
-  to achieve new properties in smart contract systems and for privacy-prese
- rving cryptocurrency transactions.\nIn particular\, I will show how smart 
- contract scalability can be improved by executing contracts in smaller com
- mittees\, while at the same time allowing safe interaction between untrust
- ed contracts. Further\, I will show how lightweight blockchain clients for
-  fully anonymous cryptocurrencies can be enabled efficiently\, and how pri
- vacy and accountability can be balanced in central bank digital currencies
- .\n\nBio:\n\nKarl Wüst is a PhD Candidate in the System Security Group at
-  ETH Zurich.\nHis research focuses on the security and privacy of blockcha
- in technology with a particular focus on smart contract scalability and ce
- ntral bank cryptocurrencies. In his research\, he combines techniques from
-  cryptography\, distributed systems\, and trusted computing to balance the
-  trade-off between reducing trust and achieving high performance. His rese
- arch has been published at top venues in security (CCS\, Usenix Security\,
-  NDSS) and resulted in multiple patent applications.\n\n*Contact\nAlicia\n
- or\nNancy\nfor Zoom link and password\n\n\nhttps://cpsc.yale.edu/event/cs-
- colloquium-karl-wust
+ t the properties that can be achieved efficiently.\n\nIn this talk\, I wil
+ l discuss how these choices can be leveraged for large performance gains a
+ nd to achieve new properties in smart contract systems and for privacy-pre
+ serving cryptocurrency transactions.\n\nIn particular\, I will show how sm
+ art contract scalability can be improved by executing contracts in smaller
+  committees\, while at the same time allowing safe interaction between unt
+ rusted contracts. Further\, I will show how lightweight blockchain clients
+  for fully anonymous cryptocurrencies can be enabled efficiently\, and how
+  privacy and accountability can be balanced in central bank digital curren
+ cies.\n\nBio:\n\nKarl Wüst is a PhD Candidate in the System Security Grou
+ p at ETH Zurich.\n\nHis research focuses on the security and privacy of bl
+ ockchain technology with a particular focus on smart contract scalability 
+ and central bank cryptocurrencies. In his research\, he combines technique
+ s from cryptography\, distributed systems\, and trusted computing to balan
+ ce the trade-off between reducing trust and achieving high performance. Hi
+ s research has been published at top venues in security (CCS\, Usenix Secu
+ rity\, NDSS) and resulted in multiple patent applications.\n\n*Contact\nAl
+ icia\nor\nNancy\nfor Zoom link and password\n\nCS Colloquium flyer\n\n\n\n
+ https://cpsc.yale.edu/event/cs-colloquium-karl-wust
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-karl-wust
