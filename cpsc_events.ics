@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:Dissertation Defense - Mingfei Zhao
-DTSTART;VALUE=DATE-TIME:20210222T193000
-DTEND;VALUE=DATE-TIME:20210222T203000
-DESCRIPTION:Event description:\nDissertation Defense\nMingfei Zhao\n\nTitl
- e: Simple vs. Optimal Mechanism Design\n\nAdvisor: Yang Cai\n\nOther comm
- ittee members:\n\nDirk Bergemann\nJoan Feigenbaum\nMatt Weinberg (Princeto
- n University)\n\nAbstract:\n\nIn Mechanism Design\, the goal is to design 
- a mechanism/system such that a group of strategic agents\, who are only in
- terested in optimizing their own utilities\, are incentivized to choose ac
- tions that also help achieve the designer’s objective. However\, even in
-  fairly basic settings\, the theoretically optimal mechanisms are complex 
- and randomized\, while mechanisms used in practice are usually simple and 
- deterministic. My work aims to resolve this discrepancy between theory and
-  practice by studying the following questions: are the mechanisms used in 
- practice close to optimal? Can we design simple mechanisms to approximate 
- the optimal one? We show that in important settings such as multi-item auc
- tions and two-sided markets\, there are indeed simple and approximately op
- timal mechanisms.\n\n\nhttps://cpsc.yale.edu/event/dissertation-defense-mi
- ngfei-zhao
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/dissertation-defense-mingfei-zhao
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Amy Zhang
 DTSTART;VALUE=DATE-TIME:20210224T210000
 DTEND;VALUE=DATE-TIME:20210224T220000
