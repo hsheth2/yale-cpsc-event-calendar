@@ -28,6 +28,36 @@ URL:https://frankeprogram.yale.edu/event/learning-doing-science-video-proj
  ect
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:What is a ‘Cause\,’ and Why Does it Happen Before the Effect?
+DTSTART;VALUE=DATE-TIME:20210226T200000
+DTEND;VALUE=DATE-TIME:20210226T210000
+DESCRIPTION:Event description:\nThe physics of the time orientation of cau
+ sation is more subtle than what it looks like superficially.  For a long w
+ hile it was reduced to a mere linguistic issue (a “cause” is just the 
+ term of a correlation that happens earlier\, Hume). As emphasized by Russe
+ ll\, there is no time orientation in fundamental physics.  But causation w
+ as later better understood as an essential notion in the context of an age
+ nt having choices\, which after all is our own common context. This traces
+  the time orientation of causation to the time orientation of agency. This
+  realisation has been used by Nancy Cartwright to argue for the incomplete
+ ness of fundamental physics. However\, agents are\, in turn\, physical sys
+ tems and they must derive their time orientation from physics. Does this b
+ ring us back to square one?  Remarkably\, the answer is no because agency 
+ is a macroscopic notion and macroscopic physics is\, contingently\, time o
+ riented\, in a way compatible with the fundamental absence of an arrow of 
+ time.   Hence the time orientation is causation is a consequence of the th
+ ermodynamic arrow of time\, but in a peculiarly indirect way\, that goes t
+ hrough the physical nature of the agents with respect to which causation i
+ s meaningful.\nPlease note that a moderated discussion with Professor Eric
+  Winsberg of the University of South Florida will take place on Saturday\,
+  February 27\, at 3 p.m. EST.\n\n\nhttps://frankeprogram.yale.edu/event/wh
+ at-cause-and-why-does-it-happen-effect
+LOCATION:Whitney Humanities Center (WALL53)\, Auditorium
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/what-cause-and-why-does-it-happen
+ -effect
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Understanding the Nature of Inference Colloquium Series Inaugural 
  Talk:  Carlo Rovelli
 DTSTART;VALUE=DATE-TIME:20210226T200000
@@ -79,6 +109,31 @@ LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/understanding-nature-inference-po
  st-talk-follow-discussion-carlo-rovelli-and-eric-winsberg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Age of Machines:  How Biology Will Build the Next Technology R
+ evolution
+DTSTART;VALUE=DATE-TIME:20210301T210000
+DTEND;VALUE=DATE-TIME:20210301T220000
+DESCRIPTION:Event description:\nWith an anticipated world population of ov
+ er 9.5 billion by 2050\, we face an unprecedented challenge to sustainably
+  provide sufficient food\, water\, energy and healthcare.  Convergence\, t
+ he merging of previously distinct disciplines\, has emerged as a powerful 
+ model with untold potential to drive a new cycle of innovation-based econo
+ mic growth.  Bringing together insights and discoveries from the life\, en
+ gineering\, computation and physical sciences holds the promise of acceler
+ ating discovery and the development of new technologies to meet the 21st c
+ entury’s needs.  Promoting Convergence approaches in education and resea
+ rch can pave the way to the discoveries and technologies that will transfo
+ rm our world.\nSusan Hockfield has distinguished herself in a career that 
+ has spanned advanced scientific research and the presidency of one of the 
+ premier institutions of science and engineering in the world.\n\n\nhttps:/
+ /frankeprogram.yale.edu/event/age-machines-how-biology-will-build-next-tec
+ hnology-revolution
+LOCATION:Whitney Humanities Center (WALL53)\, Auditorium
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/age-machines-how-biology-will-bui
+ ld-next-technology-revolution
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Distinguished Lecturer Series\, Talk by Susan Hockfield
