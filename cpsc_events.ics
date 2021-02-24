@@ -272,6 +272,43 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-benjamin-fisch
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Mohammad Rafayet Ali
+DTSTART;VALUE=DATE-TIME:20210303T153000
+DTEND;VALUE=DATE-TIME:20210303T163000
+DESCRIPTION:Event description:\nCS Colloquium\nMohammad Rafayet Ali\n\nTit
+ le: Communication Skills Training Using Virtual Agents\n\nHost: Holly Rush
+ meier\n\nAbstract:\n\nCommunication skills are essential for effective com
+ munication and healthy social life. Past research has linked poor communic
+ ation skills with social isolation\, depression\, and anxiety. Unfortunate
+ ly\, more than half of the individuals with communication skills deficits 
+ such as autism spectrum disorder\, do not get their required behavioral th
+ erapy due to the number of available therapists\, cost\, and social stigma
+ . We present an online virtual agent that helps improve communication skil
+ ls. The virtual agent is capable of having an open-ended conversation with
+  individuals and gives both real-time and post conversation feedback on ve
+ rbal and nonverbal cues. We evaluated the efficacy of the virtual agent-ba
+ sed intervention in three different contexts. Our first evaluation involve
+ d 48 college students with communication deficits. The second application 
+ involved 18 older adults (65+ years old) with social isolation. The third 
+ target population was oncologists who were looking for improving prognosis
+  understanding among cancer patients. Through multiple usability and rando
+ mized control studies\, we found that the participants who used the virtua
+ l agent as a communication skills trainer were more successful in demonstr
+ ating their skills in face-to-face conversations than those who used other
+  online alternatives.\n\nBio:\n\nMohammad Rafayet Ali received his Ph.D. i
+ n Computer Science from the University of Rochester in 2020. He received h
+ is M.S. degree from the same institution in 2016. He earned a B.Sc. degree
+  in Computer Science and Engineering from Bangladesh University of Enginee
+ ring and Technology in 2013. Currently\, he is a post-doctoral fellow at t
+ he University of Rochester. His research topics include AI approaches to d
+ evelop virtual agents for conversational skill coaching and evaluation.\n\
+ n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and password\n\n\nhttps://cp
+ sc.yale.edu/event/cs-colloquium-mohammad-rafayet-ali
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-mohammad-rafayet-ali
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Riad S. Wahby
 DTSTART;VALUE=DATE-TIME:20210304T153000
 DTEND;VALUE=DATE-TIME:20210304T163000
@@ -500,6 +537,35 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-karl-wust
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Ashik Ahmed Bhuiyan
+DTSTART;VALUE=DATE-TIME:20210312T153000
+DTEND;VALUE=DATE-TIME:20210312T163000
+DESCRIPTION:Event description:\nCS Colloquium\nAshik Ahmed Bhuiyan\n\nTitl
+ e: Control Flow and Loops\n\nHost: Holly Rushmeier\n\nAbstract\n:\n\nThis 
+ lecture will introduce the basics of branching statements and loops. This 
+ lecture assumes that the target audience is enrolled in an introductory pr
+ ogramming course and has at least a little knowledge of programming (e.g.\
+ , variable declaration\, compilation errors\, etc). This lecture will prov
+ ide numerous examples and sample codes written in C++. However\, upon comp
+ letion of this lecture\, the audience should be able to apply the knowledg
+ e for any programming language.\n\nBio:\n\nAshikahmed Bhuiyan is a Ph.D. c
+ andidate in the Department of Electrical and Computer Engineering at the U
+ niversity of Central Florida (UCF)\, under the supervision of Dr. Zhishan 
+ Guo and Dr. Abusayeed Saifullah (Wayne State University). He is a member o
+ f the Real-Time & Intelligent Systems Lab at UCF. His research focuses on 
+ improving energy efficiency in real-time embedded systems\, parallel compu
+ ting\, and mixed-criticality scheduling. He has published several articles
+  in many prestigious journals and conferences and received the Best Studen
+ t Paper Award at the 40th IEEE Real-Time Systems Symposium (RTSS 2019). He
+  has taught many courses (Algorithms\, Computer Architecture) and labs (C+
+ + and assembly) in UCF and Missouri S&T.\n\n*Contact\nAlicia\nor\nNancy\nf
+ or Zoom link and password\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-a
+ shik-ahmed-bhuiyan
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-ashik-ahmed-bhuiyan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Luciano Dyballa
 DTSTART;VALUE=DATE-TIME:20210312T180000
 DTEND;VALUE=DATE-TIME:20210312T190000
@@ -703,6 +769,42 @@ DESCRIPTION:Event description:\nCS Colloquium\nMaria Apostolaki\n\nTitle:
 LOCATION:Zoom Presentation*
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-maria-apostolaki
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Jay P. Lim
+DTSTART;VALUE=DATE-TIME:20210326T143000
+DTEND;VALUE=DATE-TIME:20210326T153000
+DESCRIPTION:Event description:\nCS Colloquium\nJay P. Lim\n\nTitle: Memory
+  Safety and Buffer Overflow Lecture\n\nHost: Holly Rushmeier\n\nAbstract:\
+ n\nMemory safety is a concept of protecting the memory and data of program
+ s. Because memory safety is closely related to the integrity of the data\,
+  it is paramount for developing safe and secure software. Memory safety er
+ rors can occur when an unallocated region of memory is accessed or when me
+ mory is accessed using methods that cause undefined behaviors. In this lec
+ ture\, we will discuss about the various causes and consequences of memory
+  safety error as well as techniques to prevent them. We will then focus on
+  a particular class of memory safety known as buffer overflow error and it
+ s implication in data integrity.\n\nThis lecture is designed for students 
+ who have some experiences in programming in C language. In particular\, kn
+ owledge in the interactions between pointers\, arrays\, and dynamic alloca
+ tion of memory is paramount for the lecture. Understanding the basics of s
+ tack and heap memory region is recommended\, and usually taught in previou
+ s lectures.\n\nBio:\n\nJay P. Lim is a seventh year Ph.D. Student at Rutge
+ rs University advised by Professor Santosh Nagarakatte. His research focus
+  is on developing techniques to verify and synthesizes safe and secure low
+  level computer systems. Jay completed his undergraduate degree in Compute
+ r Science and Mathematics at the University of Wisconsin-Madison.\n\nJay i
+ s passionate about teaching and he has been a TA and an instructor for var
+ ious courses during his time in Ph.D. program including Computer Architect
+ ure\, Programming Languages\, Compilers\, Computer Security\, and Discrete
+  Math. He has been an instructor for both large undergraduate courses and 
+ small graduate courses. One of his passions is to make learning interestin
+ g and fun to engage the students. It is his happiness to see students enjo
+ ying his classes.\n\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and pass
+ word\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-jay-p-lim
+LOCATION:Zoom Presentation*
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-jay-p-lim
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Danfei Xu
