@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Amy Zhang
-DTSTART;VALUE=DATE-TIME:20210224T210000
-DTEND;VALUE=DATE-TIME:20210224T220000
-DESCRIPTION:Event description:\nCS Colloquium\nAmy Zhang\n\nTitle: Exploit
- ing latent structure and bisimulation metrics for better generalization in
-  reinforcement learning\n\nHost: Marynel Vázquez\n\nAbstract:\n\nThe adve
- nt of deep learning has shepherded unprecedented progress in various field
- s of machine learning. Despite recent advances in deep reinforcement learn
- ing (RL) algorithms\, however\, there is no method today that exhibits any
- where near the generalization that we have seen in computer vision and NLP
- . Indeed\, one might ask whether deep RL algorithms are even capable of th
- e kind of generalization that is needed for open-world environments.  Thi
- s challenge is fundamental and will not be solved with incremental algorit
- hmic advances.\n\nIn this talk\, we propose to incorporate different assum
- ptions that better reflect the real world and allow the design of novel al
- gorithms with theoretical guarantees to address this fundamental problem. 
- We first present how state abstractions can accelerate reinforcement learn
- ing from rich observations\, such as images\, without relying either on do
- main knowledge or pixel-reconstruction. Our goal is to learn state abstrac
- tions that both provide for effective downstream control and invariance to
-  task-irrelevant details. We use bisimulation metrics to quantify behavior
- al similarity between states\, and learn robust latent representations whi
- ch encode only the task-relevant information from observations. We provide
-  theoretical guarantees for the learned approximate abstraction and extend
-  this notion to families of tasks with varying dynamics.\n\nBio:\n\nI am a
-  final year PhD candidate at McGill University and the Mila Institute\, co
- -supervised by Profs. Joelle Pineau and Doina Precup. I am also a research
- er at Facebook AI Research. My work focuses on bridging theory and practic
- e through learning approximate state abstractions and learning representat
- ions for generalization in reinforcement learning. I previously obtained a
- n M.Eng. in EECS and dual B.Sci. degrees in Mathematics and EECS from MIT.
- \n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and password\n\nCS Colloqui
- um flyer\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-amy-zhang
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-amy-zhang
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Alexander R. Fabbri
 DTSTART;VALUE=DATE-TIME:20210225T140000
 DTEND;VALUE=DATE-TIME:20210225T150000
