@@ -2,6 +2,29 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
+SUMMARY:Related Talk: Lily Hu\, Harvard University
+DTSTART;VALUE=DATE-TIME:20210301T210000
+DTEND;VALUE=DATE-TIME:20210301T220000
+DESCRIPTION:Event description\nSpeaker: Lily Hu\, PhD candidate in Applied
+  Mathematics and Philosophy at Harvard University\n\nTitle: The Constructi
+ on of Social Causation\n\nSpeaker biography: Lily Hu is a PhD candidate in
+  Applied Mathematics and Philosophy at Harvard University. She works in ph
+ ilosophy of (social) science and political and social philosophy. Her curr
+ ent project is on causal inference methodology in the social sciences and 
+ focuses on how various statistical frameworks treat and measure the “cau
+ sal effect” of social categories such as race\, and ultimately\, how suc
+ h methods are seen to back normative claims about racial discrimination an
+ d inequalities broadly. Previously\, she has worked on topics in machine l
+ earning theory and algorithmic fairness.\n\nZoom:\nhttps://yale.zoom.us/j/
+ 94025623578?pwd=S1VSSHVVaGpteVFZMGRvaTNlS3R2dz09\n\nContact\nJulie Niemeye
+ r\nfor more details.\n\n\nhttps://computationsociety.yale.edu/event/relate
+ d-talk-lily-hu-harvard-university
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/related-talk-lily-hu-harvard
+ -university
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colloquium on Privacy and Law by Kobbi Nissim
 DTSTART;VALUE=DATE-TIME:20210305T160000
 DTEND;VALUE=DATE-TIME:20210305T170000
