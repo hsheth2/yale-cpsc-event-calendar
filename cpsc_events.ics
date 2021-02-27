@@ -2,53 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Connor Bain
-DTSTART;VALUE=DATE-TIME:20210226T153000
-DTEND;VALUE=DATE-TIME:20210226T163000
-DESCRIPTION:Event description:\nCS Colloquium\nConnor Bain\n\nTitle: “Te
- aching Demo: Comparing Algorithms - What makes one algorithm ‘better’ 
- than another?”\n\nHost: Holly Rushmeier\n\nAbstract:\n\nIt seems like a 
- simple question: what makes one algorithm “better” than another? In th
- is demo class\, a few weeks into a CS fundamentals course\, we’ll work t
- ogether to design two distinct algorithms to solve a seemingly basic task:
-  search for a particular name in a list. But how do we compare multiple a
- lgorithms that solve the same problem? We’ll discuss various methods of 
- comparison\, do a group activity\, and learn the fundamentals of an import
- ant tool in the CS toolbox–Big O notation.\n\nMany students in CS fundam
- entals coursework struggle to both develop practical programming skills\na
- nd\ninternalize deeper CS thinking practices like analyzing algorithms. An
- d while Big O notation exists as an ideal tool for this sort of work\, it 
- is often reserved as a formal mathematical tool introduced later on in the
-  CS core curriculum. In this demo class\, we choose to introduce students 
- to the fundamentals of Big O notation as\na thinking tool\nwhen comparing 
- two algorithms. We don’t expect learners to become experts in the mathem
- atical underpinnings of Big O in a single class period. Instead\, we aim t
- o prepare them for future use of the tool in formal algorithmic analysis b
- y focusing on building\ncomputational intuition\non how an algorithm’s r
- un time might grow as its input grows larger and larger.\n\nBio:\n\nConnor
-  Bain is a Ph.D. candidate in the joint program in Computer Science and Le
- arning Sciences at Northwestern University in Evanston\, Illinois. His res
- earch focuses on developing tools and frameworks for teachers to integrate
-  computing into K-12 STEM classrooms. This work has resulted in new findin
- gs on CT integration in STEM showing that it can simultaneously broaden pa
- rticipation in computing\, represent scientific inquiry in a more authenti
- c manner\, and deepen learners’ understanding of STEM topics. Connor’s
-  teaching experience spans a number of different departments and audiences
- \, from introductory classes in statistics\, economics\, and computer scie
- nce\, to advanced seminars on causal inference and multiagent-based modeli
- ng. At the core of his pedagogy is framing computation not as a tool reser
- ved for the few\, but as a way of empowering learners to challenge the wor
- ld around them. Connor’s teaching and research sit at the intersection o
- f computer science and the learning sciences and combine computational\, q
- uantitative\, and qualitative methods to create evidenced-based frameworks
-  for a new kind of computing education focused on CS+X ideas.\n\n*Contact\
- nAlicia\nor\nNancy\nfor Zoom link and password\n\nCS Colloquium flyer\n\n\
- n\nhttps://cpsc.yale.edu/event/cs-colloquium-connor-bain
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-connor-bain
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Roberto Martin-Martin
 DTSTART;VALUE=DATE-TIME:20210301T210000
 DTEND;VALUE=DATE-TIME:20210301T220000
