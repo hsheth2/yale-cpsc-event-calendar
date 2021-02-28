@@ -28,22 +28,6 @@ URL:https://frankeprogram.yale.edu/event/learning-doing-science-video-proj
  ect
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Understanding the Nature of Inference: Post-talk follow-up discuss
- ion with Carlo Rovelli and Eric Winsberg
-DTSTART;VALUE=DATE-TIME:20210227T200000
-DTEND;VALUE=DATE-TIME:20210227T210000
-DESCRIPTION:Event description:\nJoin us for a post-talk follow-up discussi
- on with Professors Carlo Rovelli and Eric Winsberg.\n\nRegister in advance
-  for this meeting:\n\nhttps://yale.zoom.us/meeting/register/tJckfuCvqjwrHt
- ZRVwdr0Wi5LihHcqVTDRQU\n\n\nhttps://frankeprogram.yale.edu/event/understan
- ding-nature-inference-post-talk-follow-discussion-carlo-rovelli-and-eric-w
- insberg
-LOCATION:Zoom
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/understanding-nature-inference-po
- st-talk-follow-discussion-carlo-rovelli-and-eric-winsberg
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Distinguished Speaker Series Talk by Susan Hockfield
 DTSTART;VALUE=DATE-TIME:20210301T210000
 DTEND;VALUE=DATE-TIME:20210301T220000
