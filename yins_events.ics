@@ -2,29 +2,64 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Kamalika Chaudhuri (UCSD)
+SUMMARY:YINS Distinguished Lecturer: Kamalika Chaudhuri (UCSD)
 DTSTART;VALUE=DATE-TIME:20210303T170000
 DTEND;VALUE=DATE-TIME:20210303T180000
-DESCRIPTION:Event description:\nYINS Seminar: Kamalika Chaudhuri (UCSD)\n\
- nTo participate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://
- yale.zoom.us/j/93303084735\nOr Telephone：203-432-9666 (2-ZOOM if on-camp
- us) or 646 568 7788\nMeeting ID: 933 0308 4735\nInternational numbers avai
- lable:\nhttps://yale.zoom.us/u/abkoFgls4x\n\n.\n\n\nhttps://yins.yale.edu/
- event/yins-seminar-kamalika-chaudhuri-ucsd
+DESCRIPTION:Event description:\n“Challenges in Reliable Machine Learning
+ ”\n\nSpeaker: Kamalika Chaudhuri\n\nAssociate Professor at the Universi
+ ty of California\, San Diego\n\nAbstract:\nAs machine learning is increasi
+ ngly deployed\, there is a need for reliable and robust methods that go be
+ yond simple test accuracy.  In this talk\, we will discuss two challenges
+  that arise in reliable machine learning. The first is robustness to adver
+ sarial examples\, that are small imperceptible perturbations to legitimate
+  test inputs that cause machine learning classifiers to misclassify. While
+  recent work has proposed many attacks and defenses\, why exactly they ari
+ se still remains a mystery. In this talk\, we’ll take a closer look at t
+ his question.\n\nThe second problem is overfitting\, that many generative 
+ models are known to be prone to. Motivated by privacy concerns\, we formal
+ ize a form of overfitting that we call data-copying – where the generati
+ ve model memorizes and outputs training samples or small variations thereo
+ f. We provide a three sample test for detecting data-copying\, and study t
+ he performance of our test on several canonical models and datasets.\n\nTo
+  participate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yal
+ e.zoom.us/j/93303084735\nOr Telephone：203-432-9666 (2-ZOOM if on-campus)
+  or 646 568 7788\nMeeting ID: 933 0308 4735\nInternational numbers availab
+ le:\nhttps://yale.zoom.us/u/abkoFgls4x\n\nSpeaker bio:\nKamalika Chaudhuri
+  is currently an Associate Professor at the University of California\, San
+  Diego. She received a Bachelor of Technology degree in Computer Science a
+ nd Engineering in 2002 from Indian Institute of Technology\, Kanpur\, and 
+ a PhD in Computer Science from University of California at Berkeley in 200
+ 7. After a postdoctoral stint at UCSD\, she joined the CSE department at U
+ C San Diego as an assistant professor in 2010. She received an NSF CAREER 
+ Award in 2013 and a Hellman Faculty Fellowship in 2012. She has served as 
+ the program co-chair for AISTATS 2019 and ICML 2019.\n\nKamalika’s resea
+ rch interests lie in the foundations of trustworthy machine learning – o
+ r machine learning beyond accuracy\, which includes problems such as learn
+ ing from sensitive data while preserving privacy\, learning under sampling
+  bias\, and in the presence of an adversary.\n\n.\n\n\nhttps://yins.yale.e
+ du/event/yins-distinguished-lecturer-kamalika-chaudhuri-ucsd
 LOCATION:Via Zoom
 STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-kamalika-chaudhuri-ucsd
+URL:https://yins.yale.edu/event/yins-distinguished-lecturer-kamalika-chaud
+ huri-ucsd
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:YINS Seminar: Mehryar Mohri (NYU)
 DTSTART;VALUE=DATE-TIME:20210310T170000
 DTEND;VALUE=DATE-TIME:20210310T180000
-DESCRIPTION:Event description:\nYINS Seminar: Mehryar Mohri\n\nTo particip
- ate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us
- /j/96993106302\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 5
- 68 7788\nMeeting ID: 969 9310 6302\nInternational numbers available:\nhttp
- s://yale.zoom.us/u/advzFNOtJO\n\n.\n\n\nhttps://yins.yale.edu/event/yins-s
- eminar-mehryar-mohri-nyu
+DESCRIPTION:Event description:\n“Adaptation and Federated Learning”\n\
+ nSpeaker: Mehryar Mohri\n\nProfessor of Computer Science and Mathematics\,
+  New York University\n\n\nTalk summary:\nFederated learning is a prominent
+  new learning scenario in large-scale applications\, where a centralized m
+ odel is trained based on data originating from a large number of clients. 
+ But\, how can learning be successful with heterogenous client distribution
+ s? This talk discusses fundamental theoretical and algorithmic solutions f
+ or several variants of this problem.\n\nTo participate:\n\nJoin from PC\, 
+ Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/96993106302\nOr Tele
+ phone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 96
+ 9 9310 6302\nInternational numbers available:\nhttps://yale.zoom.us/u/advz
+ FNOtJO\n\nSpeaker bio:\nclick here\n\n.\n\n\nhttps://yins.yale.edu/event/y
+ ins-seminar-mehryar-mohri-nyu
 LOCATION:Via Zoom
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-mehryar-mohri-nyu
