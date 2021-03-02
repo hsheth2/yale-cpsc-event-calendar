@@ -2,58 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Roberto Martin-Martin
-DTSTART;VALUE=DATE-TIME:20210301T210000
-DTEND;VALUE=DATE-TIME:20210301T220000
-DESCRIPTION:Event description:\nCS Colloquium\nRoberto Martin-Martin\n\nTi
- tle: Physically Interactive Intelligence — A path towards autonomous emb
- odied agents\n\nHost: Brian Scassellati\n\nTitle: Physically Interactive I
- ntelligence — A path towards autonomous embodied agents\n\nAbstract:\n\n
- What is the role of physical interaction in intelligent behavior? When rob
- ots perform tasks in uncontrolled environments like homes or offices\, phy
- sical interaction is often reduced to a minimum because it is considered 
- difficult to plan\, control and execute\, has unpredictable effects and ma
- y be dangerous for the robot and anything or anyone around it. To compensa
- te\, we impose on them extremely high requirements on computation: percep
- tion\, planning and control. However\, when observing humans\, we see that
-  our autonomy to act “intelligently”\, to perform tasks in a versatile
-  and robust manner\, comes from rich and continuous interactions with the
-  environment that relax the dependency on accurate computation and help us
-  achieve our tasks.\n\nIn my research\, I study a new balance between inte
- raction and computation in fully integrated robotic systems. My goal is to
-  increase their autonomy. To this end\, I propose to promote physical inte
- raction to foundational component of novel robotic solutions. I will pres
- ent new methods to learn to control and exploit physical interactions that
-  enable new levels of autonomy in robotics\, even for tasks where interact
- ions are traditionally not exploited such as perception and navigation. T
- hese methods support my overall research hypothesis: autonomous behavior a
- nd grounded understanding in embodied AI agents are achieved through an i
- ntelligent use of physical interaction with the environment\, i.e. through
-  physically interactive intelligence. I will also discuss next steps in my
-  research agenda to study the role of physical interaction in intelligent
-  autonomous behavior and endow robots with new interactive capabilities t
- o achieve tasks in homes and offices.\n\nBio:\n\nRoberto Martin-Martin wor
- ks as Postdoctoral scholar at the Stanford Vision and Learning Lab with Pr
- ofessors Silvio Savarese and Fei-Fei Li. There\, he works with three group
- s: the People\, AI & Robots (PAIR) team\, where they study visuo-motor le
- arning skills for manipulation and planning\, and the iGibson team\, where
-  they research how humans and robots achieve everyday long-horizon interac
- tive tasks\, and the JackRabbot team\, where they focus on mobility and m
- anipulation in environments with humans. In his research\, he incorporate 
- interactions with the environment as part of novel perception and learning
-  methods\, evaluating his algorithms in fully integrated robotic systems.
-  His research has been awarded with the RSS Best Systems Paper award\, and
-  as winner entry of the Amazon Picking Challenge. He received his PhD and 
- Masters degree from Technische Universität Berlin (TUB) working with Pro
- fessor Oliver Brock on interactive perception\, and his BSc. degree from U
- niversidad Politécnica de Madrid.\n\n*Contact\nAlicia\nor\nNancy\nfor Zoo
- m link and password\n\nCS Colloquium flyer\n\n\n\nhttps://cpsc.yale.edu/ev
- ent/cs-colloquium-roberto-martin-martin
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-roberto-martin-martin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Benjamin Fisch
 DTSTART;VALUE=DATE-TIME:20210302T210000
 DTEND;VALUE=DATE-TIME:20210302T220000
