@@ -79,4 +79,27 @@ LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-afonso-bandeira-eth-zurich
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS Seminar: Will Hamilton (McGill)
+DTSTART;VALUE=DATE-TIME:20210407T160000
+DTEND;VALUE=DATE-TIME:20210407T170000
+DESCRIPTION:Event description:\nYINS Seminar: Will Hamilton (McGill)\n\nSp
+ eaker: William L. Hamilton\n\nAssistant Professor of Computer Science at M
+ cGill University\n\nTalk Summary: TBA\n\nTo participate:\nJoin from PC\, M
+ ac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/99988255166\nOr Telep
+ hone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 999
+  8825 5166\nInternational numbers available:\nhttps://yale.zoom.us/u/acNKo
+ NrKyQ\n\nSpeaker bio:\nWilliam L. Hamilton is an Assistant Professor of C
+ omputer Science at McGill University and a Canada CIFAR AI Chair at the Mi
+ la AI Institute of Quebec. Professor Hamilton develops machine learning mo
+ dels that can reason about our complex\, interconnected world.   Broadly\
+ , his research interests lie at the intersection of machine learning\, net
+ work science\, and natural language processing\, with a current emphasis o
+ n the fast-growing subjects of graph representation learning and graph neu
+ ral networks.\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-will-hami
+ lton-mcgill
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-will-hamilton-mcgill
+END:VEVENT
 END:VCALENDAR
