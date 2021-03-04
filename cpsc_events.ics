@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Mohammad Rafayet Ali
-DTSTART;VALUE=DATE-TIME:20210303T153000
-DTEND;VALUE=DATE-TIME:20210303T163000
-DESCRIPTION:Event description:\nCS Colloquium\nMohammad Rafayet Ali\n\nTit
- le: Communication Skills Training Using Virtual Agents\n\nHost: Holly Rush
- meier\n\nAbstract:\n\nCommunication skills are essential for effective com
- munication and healthy social life. Past research has linked poor communic
- ation skills with social isolation\, depression\, and anxiety. Unfortunate
- ly\, more than half of the individuals with communication skills deficits 
- such as autism spectrum disorder\, do not get their required behavioral th
- erapy due to the number of available therapists\, cost\, and social stigma
- . We present an online virtual agent that helps improve communication skil
- ls. The virtual agent is capable of having an open-ended conversation with
-  individuals and gives both real-time and post conversation feedback on ve
- rbal and nonverbal cues. We evaluated the efficacy of the virtual agent-ba
- sed intervention in three different contexts. Our first evaluation involve
- d 48 college students with communication deficits. The second application 
- involved 18 older adults (65+ years old) with social isolation. The third 
- target population was oncologists who were looking for improving prognosis
-  understanding among cancer patients. Through multiple usability and rando
- mized control studies\, we found that the participants who used the virtua
- l agent as a communication skills trainer were more successful in demonstr
- ating their skills in face-to-face conversations than those who used other
-  online alternatives.\n\nBio:\n\nMohammad Rafayet Ali received his Ph.D. i
- n Computer Science from the University of Rochester in 2020. He received h
- is M.S. degree from the same institution in 2016. He earned a B.Sc. degree
-  in Computer Science and Engineering from Bangladesh University of Enginee
- ring and Technology in 2013. Currently\, he is a post-doctoral fellow at t
- he University of Rochester. His research topics include AI approaches to d
- evelop virtual agents for conversational skill coaching and evaluation.\n\
- n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and password\n\nCS Colloquiu
- m flyer\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-mohammad-rafayet-
- ali
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-mohammad-rafayet-ali
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Riad S. Wahby
 DTSTART;VALUE=DATE-TIME:20210304T153000
 DTEND;VALUE=DATE-TIME:20210304T163000
