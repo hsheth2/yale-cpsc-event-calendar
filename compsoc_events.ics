@@ -57,4 +57,16 @@ STATUS:CONFIRMED
 URL:https://computationsociety.yale.edu/event/colloquium-by-suresh-venkats
  ubramanian
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colloquium by Tawanna Dillahunt
+DTSTART;VALUE=DATE-TIME:20210423T150000
+DTEND;VALUE=DATE-TIME:20210423T160000
+DESCRIPTION:Event description\nSpeaker:\nTawanna Dillahunt\n\, University 
+ of Michigan\n\n\n\nHost:\nElisa Celis\n\n\nhttps://computationsociety.yale
+ .edu/event/colloquium-by-tawanna-dillahunt
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/colloquium-by-tawanna-dillah
+ unt
+END:VEVENT
 END:VCALENDAR
