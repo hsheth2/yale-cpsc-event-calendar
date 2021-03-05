@@ -41,21 +41,39 @@ BEGIN:VEVENT
 SUMMARY:YINS Seminar: Will Hamilton (McGill)
 DTSTART;VALUE=DATE-TIME:20210407T160000
 DTEND;VALUE=DATE-TIME:20210407T170000
-DESCRIPTION:Event description:\nYINS Seminar: Will Hamilton (McGill)\n\nSp
- eaker: William L. Hamilton\n\nAssistant Professor of Computer Science at M
- cGill University\n\nTalk Summary: TBA\n\nTo participate:\nJoin from PC\, M
+DESCRIPTION:Event description:\n“Graph Representation Learning: Recent A
+ dvances and Open Challenges”\n\nSpeaker: William L. Hamilton\n\nAssistan
+ t Professor\, School of Computer Science\, McGill University\n\nTalk Summa
+ ry:\nGraph-structured data is ubiquitous throughout the natural and social
+  sciences\, from telecommunication networks to quantum chemistry. Building
+  relational inductive biases into deep learning architectures is crucial i
+ f we want systems that can learn\, reason\, and generalize from this kind 
+ of data. Recent years have seen a surge in research on graph representatio
+ n learning\, most prominently in the development of graph neural networks 
+ (GNNs). Advances in GNNs have led to state-of-the-art results in numerous 
+ domains\, including chemical synthesis\, 3D-vision\, recommender systems\,
+  question answering\, and social network analysis. In the first part of th
+ is talk I will provide an overview and summary of recent progress in this 
+ fast-growing area\, highlighting foundational methods and theoretical moti
+ vations. In the second part of this talk I will discuss fundamental limita
+ tions of the current GNN paradigm. Finally\, I will conclude the talk by d
+ iscussing recent progress my group has made in advancing graph representat
+ ion learning beyond the GNN paradigm.\n\nTo participate:\nJoin from PC\, M
  ac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/99988255166\nOr Telep
  hone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 999
   8825 5166\nInternational numbers available:\nhttps://yale.zoom.us/u/acNKo
- NrKyQ\n\nSpeaker bio:\nWilliam L. Hamilton is an Assistant Professor of C
- omputer Science at McGill University and a Canada CIFAR AI Chair at the Mi
- la AI Institute of Quebec. Professor Hamilton develops machine learning mo
- dels that can reason about our complex\, interconnected world.   Broadly\
- , his research interests lie at the intersection of machine learning\, net
- work science\, and natural language processing\, with a current emphasis o
- n the fast-growing subjects of graph representation learning and graph neu
- ral networks.\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-will-hami
- lton-mcgill
+ NrKyQ\n\nSpeaker bio:\nWilliam (Will) Hamilton is an Assistant Professor i
+ n the School of Computer Science at McGill University\, a Canada CIFAR AI 
+ Chair\, and a member of the Mila AI Institute of Quebec. Will completed hi
+ s PhD in Computer Science at Stanford University in 2018. He received the 
+ 2018 Arthur Samuel Thesis Award for best Computer Science PhD Thesis from 
+ Stanford University\, the 2014 CAIAC MSc Thesis Award for best AI-themed M
+ Sc thesis in Canada\, as well as an honorable mention for the 2013 ACM Und
+ ergraduate Researcher of the Year. His interests lie at the intersection o
+ f machine learning\, network science\, and natural language processing\, w
+ ith a current emphasis on the fast-growing subject of graph representation
+  learning.\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-will-hamilto
+ n-mcgill
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-will-hamilton-mcgill
