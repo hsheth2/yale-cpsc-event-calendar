@@ -46,6 +46,60 @@ URL:https://computationsociety.yale.edu/event/colloquium-on-privacy-and-la
  w-by-kobbi-nissim
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Colloquium on Privacy Rights and Data Security by K. Sudhir
+DTSTART;VALUE=DATE-TIME:20210326T150000
+DTEND;VALUE=DATE-TIME:20210326T160000
+DESCRIPTION:Event description\nSpeaker:\nK. Sudhir\n\, James L. Frank Prof
+ essor of Marketing\, Private Enterprise and Management at the Yale School 
+ of Management\n\n\n\nTitle: Privacy Rights and Data Security - GDPR and Pe
+ rsonal Data Driven Markets\n\n\n\nHost:\nNisheeth Vishnoi\n\n\n\nAbstract:
+  The talk investigates how the two key features of GDPR (EU’s data prote
+ ction regulation)—privacy rights and data security— impact personal da
+ ta driven markets.  First\, GDPR recognizes that individuals own and cont
+ rol their data in perpetuity\, leading to three critical privacy rights: (
+ i) right to explicit consent (data opt-in)\, (ii) right to be forgotten (d
+ ata erasure)\, and (iii) right to portability (switch data to competitor).
+   Second\, GDPR  has data security mandates to protect collected data ag
+ ainst unauthorized access that breach privacy.  The right to explicit opt
+ -in allows goods exchange without data exchange. Erasure and portability r
+ ights discipline firms to provide ongoing value and reduces holdup using o
+ ne’s own data. Overall\, privacy rights restrict the data that collector
+ s can legally collect or use\, while data security protects against illega
+ l access and use. We study the effect of GDPR using a two-period model of 
+ forward-looking firms and consumers in which consumers exercise data priva
+ cy rights balancing the cost (privacy breaches\, risk of price discriminat
+ ion) against the benefits (product personalization\, price subsidies) of s
+ haring data with firms. By reducing expected privacy breach costs\, data s
+ ecurity mandates increase opt-in\, consumer surplus\, and firm profit.  P
+ rivacy rights reduce opt-in and mostly increase consumer surplus at the ex
+ pense of firm surplus\; interestingly they hurt firms more in competitive 
+ than in monopolistic markets. While privacy rights can reduce surplus for 
+ both firms and consumers\, these conditions are unlikely to be realized wh
+ en privacy breach risk is endogenized. Further\, by unbundling data exchan
+ ge from goods exchange\, privacy rights facilitate trade in goods that may
+  otherwise fail to occur due to privacy breach risk.\n\n\n\nSpeaker biogra
+ phy: K. Sudhir is James L. Frank Professor of Marketing\, Private Enterpri
+ se and Management at the Yale School of Management. He is a pioneer in the
+  use of structural econometric modeling in marketing. In contrast to predi
+ ctive models\, structural estimation focuses on obtaining policy invariant
+  estimates that are causally identified and therefore can be useful for ro
+ bust “what if” analysis of managerial and regulatory policies. He also
+  employs game-theoretic models to theoretically investigate substantive ma
+ rketing and management questions. Sudhir’s research covers a range of s
+ ubstantive problems in customer and sales/service management. He has worke
+ d with a range of Fortune 500 companies and non-profits.  His current r
+ esearch agenda expands his econometric modeling work to include issues ari
+ sing from big data\, artificial intelligence and machine learning. Sudhir
+ ’s research has been honored with multiple best paper awards from all o
+ f the leading quantitative marketing journals.\n\n\n\nZoom:\nhttps://yale.
+ zoom.us/j/96008527476\n\n\n\n\nhttps://computationsociety.yale.edu/event/c
+ olloquium-on-privacy-rights-and-data-security-by-k-sudhir
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/colloquium-on-privacy-rights
+ -and-data-security-by-k-sudhir
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colloquium by Suresh Venkatsubramanian
 DTSTART;VALUE=DATE-TIME:20210409T150000
 DTEND;VALUE=DATE-TIME:20210409T160000
