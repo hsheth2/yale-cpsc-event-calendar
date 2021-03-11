@@ -2,27 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Mehryar Mohri (NYU)
-DTSTART;VALUE=DATE-TIME:20210310T170000
-DTEND;VALUE=DATE-TIME:20210310T180000
-DESCRIPTION:Event description:\n“Adaptation and Federated Learning”\n\
- nSpeaker: Mehryar Mohri\n\nProfessor of Computer Science and Mathematics\,
-  New York University\n\n\nTalk summary:\nFederated learning is a prominent
-  new learning scenario in large-scale applications\, where a centralized m
- odel is trained based on data originating from a large number of clients. 
- But\, how can learning be successful with heterogenous client distribution
- s? This talk discusses fundamental theoretical and algorithmic solutions f
- or several variants of this problem.\n\nTo participate:\n\nJoin from PC\, 
- Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/96993106302\nOr Tele
- phone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 96
- 9 9310 6302\nInternational numbers available:\nhttps://yale.zoom.us/u/advz
- FNOtJO\n\nSpeaker bio:\nclick here\n\n.\n\n\nhttps://yins.yale.edu/event/y
- ins-seminar-mehryar-mohri-nyu
-LOCATION:Via Zoom
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-mehryar-mohri-nyu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Seminar: Afonso Bandeira (ETH Zürich)
 DTSTART;VALUE=DATE-TIME:20210331T160000
 DTEND;VALUE=DATE-TIME:20210331T170000
