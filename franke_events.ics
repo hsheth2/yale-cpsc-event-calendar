@@ -28,6 +28,38 @@ URL:https://frankeprogram.yale.edu/event/learning-doing-science-video-proj
  ect
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:On Experiments for Causal Inference and System Identification
+DTSTART;VALUE=DATE-TIME:20210317T190000
+DTEND;VALUE=DATE-TIME:20210317T200000
+DESCRIPTION:Event description:\nIn the first part of his presentation\, Pr
+ ofessor Ay will provide an introduction to the field of causal networks. H
+ e will focus on instructive simple examples in order to highlight the core
+  conceptual and philosophical ideas that underly the theory. This approach
+  provides a clear semantics that allows us to distinguish between causatio
+ n and correlation. It also allows us to study how cause-effect relations g
+ ive rise to particular kinds of correlations\, which can then be exploited
+  for inferring causal relations from correlations. However\, this kind of 
+ inference\, which is based on observations only\, turns out to be rather l
+ imited. In addition to observing a system\, one can also apply experimenta
+ l interventions and thereby reveal causal structures that would not follow
+  from correlational information.  This is one instance of system identific
+ ation through experimental perturbations. Professor Ay will conclude my pr
+ esentation with an extension of the interventional calculus by a “knocko
+ ut calculus\,” which is based on a kind of structural intervention. This
+  allows us to reveal a more fine-grained causal description of the underly
+ ing system.\nRegister in advance for this meeting:\n\nhttps://yale.zoom.us
+ /meeting/register/tJ0qcuiprzsvE9M2quJf5Y96BU2NY45DHI\n…\n\nPlease note t
+ hat through this link\, you may also register for the post-talk discussion
+ \, which will take place on March 18th at 3 p.m.\n\nAfter registering\, yo
+ u will receive a confirmation email containing information about joining t
+ he meeting.\n\n\nhttps://frankeprogram.yale.edu/event/experiments-causal-i
+ nference-and-system-identification
+LOCATION:Whitney Humanities Center (WALL53)\, Auditorium
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/experiments-causal-inference-and-
+ system-identification
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  “On Experiments for Caus
  al Inference and System Identification”
 DTSTART;VALUE=DATE-TIME:20210317T190000
