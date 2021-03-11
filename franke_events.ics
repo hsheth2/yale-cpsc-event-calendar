@@ -28,38 +28,6 @@ URL:https://frankeprogram.yale.edu/event/learning-doing-science-video-proj
  ect
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On Experiments for Causal Inference and System Identification
-DTSTART;VALUE=DATE-TIME:20210317T190000
-DTEND;VALUE=DATE-TIME:20210317T200000
-DESCRIPTION:Event description:\nIn the first part of his presentation\, Pr
- ofessor Ay will provide an introduction to the field of causal networks. H
- e will focus on instructive simple examples in order to highlight the core
-  conceptual and philosophical ideas that underly the theory. This approach
-  provides a clear semantics that allows us to distinguish between causatio
- n and correlation. It also allows us to study how cause-effect relations g
- ive rise to particular kinds of correlations\, which can then be exploited
-  for inferring causal relations from correlations. However\, this kind of 
- inference\, which is based on observations only\, turns out to be rather l
- imited. In addition to observing a system\, one can also apply experimenta
- l interventions and thereby reveal causal structures that would not follow
-  from correlational information.  This is one instance of system identific
- ation through experimental perturbations. Professor Ay will conclude my pr
- esentation with an extension of the interventional calculus by a “knocko
- ut calculus\,” which is based on a kind of structural intervention. This
-  allows us to reveal a more fine-grained causal description of the underly
- ing system.\nRegister in advance for this meeting:\n\nhttps://yale.zoom.us
- /meeting/register/tJ0qcuiprzsvE9M2quJf5Y96BU2NY45DHI\n…\n\nPlease note t
- hat through this link\, you may also register for the post-talk discussion
- \, which will take place on March 18th at 3 p.m.\n\nAfter registering\, yo
- u will receive a confirmation email containing information about joining t
- he meeting.\n\n\nhttps://frankeprogram.yale.edu/event/experiments-causal-i
- nference-and-system-identification
-LOCATION:Whitney Humanities Center (WALL53)\, Auditorium
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/experiments-causal-inference-and-
- system-identification
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  “On Experiments for Caus
  al Inference and System Identification”
 DTSTART;VALUE=DATE-TIME:20210317T190000
@@ -223,27 +191,30 @@ BEGIN:VEVENT
 SUMMARY:Distinguished Speaker Series Talk by Professor Ainissa Ramirez
 DTSTART;VALUE=DATE-TIME:20210420T200000
 DTEND;VALUE=DATE-TIME:20210420T210000
-DESCRIPTION:Event description:\nAinissa Ramirez\, Ph.D. is an award-winnin
- g scientist and science communicator\, who is passionate about getting the
-  general public excited about science. A graduate of Brown University\, sh
- e earned her doctorate in materials science and engineering from Stanford.
-  Dr. Ramirez started her career as a scientist at Bell Laboratories in Mur
- ray Hill\, New Jersey\, and later worked as an associate professor of mech
- anical engineering at Yale. She authored the books\nThe Alchemy of Us\nand
- \nSave Our Science\,\nand co-authored\nNewton’s\n\nFootball\n. She has w
- ritten for\nForbes\n\,\nTime\, The Atlantic\, Scientific American\, Americ
- an Scientist\,\nand\nScience\nand has explained science headlines on CBS\,
-  CNN\, NPR\, ESPN\, and PBS.\n\nRamirez speaks widely on the topics of sci
- ence and technology and gave a TED talk on the importance of science educa
- tion. She has been awarded prizes from the National Science Foundation\, t
- he Alfred P. Sloan Foundation\, Massachusetts Institute of Technology\, an
- d the American Institute of Physics. She speaks internationally on the imp
- ortance of making science fun and has served as a science advisor to the A
- merican Film Institute\, WGBH/NOVA\, the American Association for the Adva
- ncement of Science (AAAS) and several science museums. She also hosts a sc
- ience podcast called\nScience Underground\n.\n\nZoom details to follow soo
- n.\n\n\nhttps://frankeprogram.yale.edu/event/distinguished-speaker-series-
- talk-professor-ainissa-ramirez
+DESCRIPTION:Event description:\nRegister in advance for this meeting:\n\nh
+ ttps://yale.zoom.us/meeting/register/tJAqc-Crqj0tHNeZaCIDPGU7NCgFlcPBG3…
+ \n\n\n\nAfter registering\, you will receive a confirmation email containi
+ ng information about joining the meeting.\n\nAinissa Ramirez\, Ph.D. is an
+  award-winning scientist and science communicator\, who is passionate abou
+ t getting the general public excited about science. A graduate of Brown Un
+ iversity\, she earned her doctorate in materials science and engineering f
+ rom Stanford. Dr. Ramirez started her career as a scientist at Bell Labora
+ tories in Murray Hill\, New Jersey\, and later worked as an associate prof
+ essor of mechanical engineering at Yale. She authored the books\nThe Alche
+ my of Us\nand\nSave Our Science\,\nand co-authored\nNewton’s\n\nFootball
+ \n. She has written for\nForbes\n\,\nTime\, The Atlantic\, Scientific Amer
+ ican\, American Scientist\,\nand\nScience\nand has explained science headl
+ ines on CBS\, CNN\, NPR\, ESPN\, and PBS.\n\nRamirez speaks widely on the 
+ topics of science and technology and gave a TED talk on the importance of 
+ science education. She has been awarded prizes from the National Science F
+ oundation\, the Alfred P. Sloan Foundation\, Massachusetts Institute of Te
+ chnology\, and the American Institute of Physics. She speaks international
+ ly on the importance of making science fun and has served as a science adv
+ isor to the American Film Institute\, WGBH/NOVA\, the American Association
+  for the Advancement of Science (AAAS) and several science museums. She al
+ so hosts a science podcast called\nScience Underground\n.\n\n\nhttps://fra
+ nkeprogram.yale.edu/event/distinguished-speaker-series-talk-professor-aini
+ ssa-ramirez
 LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/distinguished-speaker-series-talk
