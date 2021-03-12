@@ -2,40 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Karl Wüst
-DTSTART;VALUE=DATE-TIME:20210311T153000
-DTEND;VALUE=DATE-TIME:20210311T163000
-DESCRIPTION:Event description:\nCS Colloquium\nKarl Wüst\n\nTitle: Trust 
- or Decentralize? Balancing Trust and Performance in Decentralized Systems\
- n\nHost: Zhong Shao\n\nAbstract:\n\nIn recent years\, cryptocurrencies and
-  blockchains have received widespread attention. These systems are general
- ly designed to be decentralized in order to reduce the required trust assu
- mptions as much as possible. However\, there are choices to be made about 
- how much to trust and how much to decentralize which in turn greatly affec
- t the properties that can be achieved efficiently.\n\nIn this talk\, I wil
- l discuss how these choices can be leveraged for large performance gains a
- nd to achieve new properties in smart contract systems and for privacy-pre
- serving cryptocurrency transactions.\n\nIn particular\, I will show how sm
- art contract scalability can be improved by executing contracts in smaller
-  committees\, while at the same time allowing safe interaction between unt
- rusted contracts. Further\, I will show how lightweight blockchain clients
-  for fully anonymous cryptocurrencies can be enabled efficiently\, and how
-  privacy and accountability can be balanced in central bank digital curren
- cies.\n\nBio:\n\nKarl Wüst is a PhD Candidate in the System Security Grou
- p at ETH Zurich. His research focuses on the security and privacy of block
- chain technology with a particular focus on smart contract scalability and
-  central bank cryptocurrencies. In his research\, he combines techniques f
- rom cryptography\, distributed systems\, and trusted computing to balance 
- the trade-off between reducing trust and achieving high performance. His r
- esearch has been published at top venues in security (CCS\, Usenix Securit
- y\, NDSS) and resulted in multiple patent applications.\n\n*Contact\nAlici
- a\nor\nNancy\nfor Zoom link and password\n\nCS Colloquium flyer\n\n\n\nhtt
- ps://cpsc.yale.edu/event/cs-colloquium-karl-wust
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-karl-wust
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Ashik Ahmed Bhuiyan
 DTSTART;VALUE=DATE-TIME:20210312T153000
 DTEND;VALUE=DATE-TIME:20210312T163000
