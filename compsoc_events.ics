@@ -71,9 +71,41 @@ BEGIN:VEVENT
 SUMMARY:Colloquium by Tawanna Dillahunt
 DTSTART;VALUE=DATE-TIME:20210423T150000
 DTEND;VALUE=DATE-TIME:20210423T160000
-DESCRIPTION:Event description\nSpeaker:\nTawanna Dillahunt\n\, University 
- of Michigan\n\n\n\nHost:\nElisa Celis\n\n\nhttps://computationsociety.yale
- .edu/event/colloquium-by-tawanna-dillahunt
+DESCRIPTION:Event description\nSpeaker:\nTawanna Dillahunt\n\, Associate P
+ rofessor at the University of Michigan\n\n\n\nTitle: Rethinking the Role o
+ f Digital Employment Tools - Providing support among Job Seekers Experien
+ cing Marginalization\n\n\n\nHost:\nElisa Celis\n\n\n\nAbstract: Today’s 
+ Information and Communication Technologies (ICTs) are designed to address 
+ one of society’s most pressing problems — unemployment. These technolo
+ gies are increasingly hailed as enablers of entrepreneurship and income ge
+ neration\, and they support job seekers’ ability to search for jobs\, cr
+ eate resumes\, highlight skills\, train\, and even help transport people t
+ o work. However\, the benefits of employment tools are unequally distribut
+ ed and such technologies could reinforce social inequalities. Without an u
+ nderstanding of how those experiencing marginalization and who are unemplo
+ yed use (or don’t use) ICTs for employment\, the same employment inequal
+ ities that occur offline will continue in online contexts. In this present
+ ation\, I will discuss the results of several efforts to foster innovation
+  and rethink the design of technologies in support of employment\, particu
+ larly for those who were unemployed before the COVID-19 pandemic. I surfac
+ e broader issues that impact the employment process such as the digital di
+ vide and reimagine employment through entrepreneurship and efforts to buil
+ d community capacity around digital literacy.\n\n\n\nSpeaker Biography: Ta
+ wanna is an Associate Professor at the University of Michigan’s School o
+ f Information and holds a courtesy appointment with the Electrical Enginee
+ ring and Computer Science Department. She leads the Social Innovations Gro
+ up (SIG)\, an interdisciplinary group of individuals whose vision is to de
+ sign\, build\, and enhance technologies to solve real-world problems affec
+ ting marginalized groups and individuals primarily in the U.S. Her current
+  projects aim to address unemployment\, environmental sustainability\, and
+  technical literacy by fostering social and socio-technical capital within
+  these communities.\nTawanna holds an M.S. and Ph.D. in Human-Computer Int
+ eraction from Carnegie Mellon University\, an M.S. in Computer Science fro
+ m the Oregon Health and Science University\, and a B.S. in Computer Engine
+ ering from North Carolina State University. She was also a software engine
+ er for several years in Intel Corporation’s Desktop Board and LAN Access
+  Divisions.\n\n\n\nhttps://computationsociety.yale.edu/event/colloquium-by
+ -tawanna-dillahunt
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://computationsociety.yale.edu/event/colloquium-by-tawanna-dillah
