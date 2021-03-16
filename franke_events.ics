@@ -32,46 +32,30 @@ SUMMARY:Inference Project Talk and Discussion:  “On Experiments for Caus
  al Inference and System Identification”
 DTSTART;VALUE=DATE-TIME:20210317T190000
 DTEND;VALUE=DATE-TIME:20210317T200000
-DESCRIPTION:Event description:\nVirtual talk by Professor Dr. Nihat Ay\n\n
- Register in advance for this meeting:\n\nhttps://yale.zoom.us/meeting/regi
- ster/tJ0qcuiprzsvE9M2quJf5Y96BU2NY45DHI…\n\n\n\nAfter registering\, you 
- will receive a confirmation email containing information about joining the
-  meeting.  You may also register for the post-talk discussion at this lin
- k.\n\nAbstract: In the first part of my presentation\, I will provide an i
- ntroduction to the field of causal networks. I will focus on instructive s
- imple examples in order to highlight the core conceptual and philosophical
-  ideas that underly the theory. This approach provides a clear semantics t
- hat allows us to distinguish between causation and correlation. It also al
- lows us to study how cause-effect relations give rise to particular kinds 
- of correlations\, which can then be exploited for inferring causal relatio
- ns from correlations. However\, this kind of inference\, which is based on
-  observations only\, turns out to be rather limited. In addition to observ
- ing a system\, one can also apply experimental interventions and thereby r
- eveal causal structures that would not follow from correlational informati
- on.  This is one instance of system identification through experimental p
- erturbations. I will conclude my presentation with an extension of the int
- erventional calculus by a “knockout calculus” which is based on a kind
-  of structural intervention. This allows us to reveal a more fine-grained 
- causal description of the underlying system.\n\nBio: Nihat Ay studied mat
- hematics and physics at the Ruhr University Bochum and received his Ph.D. 
- in mathematics from the University of Leipzig in 2001. In 2003 and 2004\, 
- he was a postdoctoral fellow at the Santa Fe Institute and at the Redwood 
- Neuroscience Institute (now the Redwood Center for Theoretical Neuroscienc
- e at UC Berkeley). After his postdoctoral stay in the USA he became an ass
- istant professor (wissenschaftlicher Assistent) at the Mathematical Instit
- ute of the Friedrich Alexander University in Erlangen. Since September 200
- 5\, he works as Max Planck Research Group Leader at the Max Planck Institu
- te for Mathematics in the Sciences in Leipzig where he is heading the grou
- p Information Theory of Cognitive Systems. As professor of the Santa Fe In
- stitute he is involved in research on complexity and robustness theory. Si
- nce December 2013\, he is affiliated with the Leipzig University as Honora
- ry Professor for Information Geometry. He recently accepted an offer from
-  the Hamburg University of Technology where he is going to build up a new 
- institute\, the institute of Data Science Foundations\, as part of the Tec
- hnology and Innovation Center at the Hamburg Innovation Port (\nhttps://ww
- w.hamburg-innovation-port.com/\n).\n\n\nhttps://frankeprogram.yale.edu/eve
- nt/inference-project-talk-and-discussion-experiments-causal-inference-and-
- system-identification
+DESCRIPTION:Event description:\nIn the first part of his presentation\, Pr
+ ofessor Ay will provide an introduction to the field of causal networks. H
+ e will focus on instructive simple examples in order to highlight the core
+  conceptual and philosophical ideas that underlie the theory. This approac
+ h provides a clear semantics that allows us to distinguish between causati
+ on and correlation. It also allows us to study how cause-effect relations 
+ give rise to particular kinds of correlations\, which can then be exploite
+ d for inferring causal relations from correlations. However\, this kind of
+  inference\, which is based on observations only\, turns out to be rather 
+ limited. In addition to observing a system\, one can also apply experiment
+ al interventions and thereby reveal causal structures that would not follo
+ w from correlational information.  This is one instance of system identif
+ ication through experimental perturbations. Professor Ay will conclude his
+  presentation with an extension of the interventional calculus by a “kno
+ ckout calculus\,” which is based on a kind of structural intervention. T
+ his allows us to reveal a more fine-grained causal description of the unde
+ rlying system.\n\nRegister in advance for this meeting:\n\nhttps://yale.zo
+ om.us/meeting/register/tJ0qcuiprzsvE9M2quJf5Y96BU2NY45DHI…\n\n\n\nPlease
+  note that through this link\, you may also register for the post-talk dis
+ cussion\, which will take place on March 18th at 3 p.m.\n\n\n\nAfter regis
+ tering\, you will receive a confirmation email containing information abou
+ t joining the meeting.\n\n\nhttps://frankeprogram.yale.edu/event/inference
+ -project-talk-and-discussion-experiments-causal-inference-and-system-ident
+ ification
 LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
@@ -82,46 +66,30 @@ SUMMARY:Inference Project Talk and Discussion:  “On Experiments for Caus
  al Inference and System Identification”
 DTSTART;VALUE=DATE-TIME:20210317T190000
 DTEND;VALUE=DATE-TIME:20210317T200000
-DESCRIPTION:Event description:\nVirtual talk by Professor Dr. Nihat Ay\n\n
- Register in advance for this meeting:\n\nhttps://yale.zoom.us/meeting/regi
- ster/tJ0qcuiprzsvE9M2quJf5Y96BU2NY45DHI…\n\n\n\nAfter registering\, you 
- will receive a confirmation email containing information about joining the
-  meeting.  You may also register for the post-talk discussion at this lin
- k.\n\nAbstract: In the first part of my presentation\, I will provide an i
- ntroduction to the field of causal networks. I will focus on instructive s
- imple examples in order to highlight the core conceptual and philosophical
-  ideas that underly the theory. This approach provides a clear semantics t
- hat allows us to distinguish between causation and correlation. It also al
- lows us to study how cause-effect relations give rise to particular kinds 
- of correlations\, which can then be exploited for inferring causal relatio
- ns from correlations. However\, this kind of inference\, which is based on
-  observations only\, turns out to be rather limited. In addition to observ
- ing a system\, one can also apply experimental interventions and thereby r
- eveal causal structures that would not follow from correlational informati
- on.  This is one instance of system identification through experimental p
- erturbations. I will conclude my presentation with an extension of the int
- erventional calculus by a “knockout calculus” which is based on a kind
-  of structural intervention. This allows us to reveal a more fine-grained 
- causal description of the underlying system.\n\nBio: Nihat Ay studied mat
- hematics and physics at the Ruhr University Bochum and received his Ph.D. 
- in mathematics from the University of Leipzig in 2001. In 2003 and 2004\, 
- he was a postdoctoral fellow at the Santa Fe Institute and at the Redwood 
- Neuroscience Institute (now the Redwood Center for Theoretical Neuroscienc
- e at UC Berkeley). After his postdoctoral stay in the USA he became an ass
- istant professor (wissenschaftlicher Assistent) at the Mathematical Instit
- ute of the Friedrich Alexander University in Erlangen. Since September 200
- 5\, he works as Max Planck Research Group Leader at the Max Planck Institu
- te for Mathematics in the Sciences in Leipzig where he is heading the grou
- p Information Theory of Cognitive Systems. As professor of the Santa Fe In
- stitute he is involved in research on complexity and robustness theory. Si
- nce December 2013\, he is affiliated with the Leipzig University as Honora
- ry Professor for Information Geometry. He recently accepted an offer from
-  the Hamburg University of Technology where he is going to build up a new 
- institute\, the institute of Data Science Foundations\, as part of the Tec
- hnology and Innovation Center at the Hamburg Innovation Port (\nhttps://ww
- w.hamburg-innovation-port.com/\n).\n\n\nhttps://frankeprogram.yale.edu/eve
- nt/inference-project-talk-and-discussion-experiments-causal-inference-and-
- system-identification
+DESCRIPTION:Event description:\nIn the first part of his presentation\, Pr
+ ofessor Ay will provide an introduction to the field of causal networks. H
+ e will focus on instructive simple examples in order to highlight the core
+  conceptual and philosophical ideas that underlie the theory. This approac
+ h provides a clear semantics that allows us to distinguish between causati
+ on and correlation. It also allows us to study how cause-effect relations 
+ give rise to particular kinds of correlations\, which can then be exploite
+ d for inferring causal relations from correlations. However\, this kind of
+  inference\, which is based on observations only\, turns out to be rather 
+ limited. In addition to observing a system\, one can also apply experiment
+ al interventions and thereby reveal causal structures that would not follo
+ w from correlational information.  This is one instance of system identif
+ ication through experimental perturbations. Professor Ay will conclude his
+  presentation with an extension of the interventional calculus by a “kno
+ ckout calculus\,” which is based on a kind of structural intervention. T
+ his allows us to reveal a more fine-grained causal description of the unde
+ rlying system.\n\nRegister in advance for this meeting:\n\nhttps://yale.zo
+ om.us/meeting/register/tJ0qcuiprzsvE9M2quJf5Y96BU2NY45DHI…\n\n\n\nPlease
+  note that through this link\, you may also register for the post-talk dis
+ cussion\, which will take place on March 18th at 3 p.m.\n\n\n\nAfter regis
+ tering\, you will receive a confirmation email containing information abou
+ t joining the meeting.\n\n\nhttps://frankeprogram.yale.edu/event/inference
+ -project-talk-and-discussion-experiments-causal-inference-and-system-ident
+ ification
 LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
