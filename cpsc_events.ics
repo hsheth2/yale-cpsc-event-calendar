@@ -2,52 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Angelique Taylor
-DTSTART;VALUE=DATE-TIME:20210315T200000
-DTEND;VALUE=DATE-TIME:20210315T210000
-DESCRIPTION:Event description:\nCS Colloquium\nAngelique Taylor\n\nTitle: 
- Perception and Decision-Making Systems for Human-Robot Teaming in Safety-C
- ritical Environments\n\nHost: Brian Scassellati\n\nAbstract:\n\nIn this ta
- lk\, I will present my current and future work on developing perception an
- d decision making systems that enable robots to team with groups of people
- . My core focus is on problems that robots encounter in human-robot teamin
- g\, including perceptions of human groups and social navigation\, particul
- arly in safety-critical environments.\n\nFirst\, I will discuss how I deve
- loped computer vision methods that enable robots to detect and track their
-  teammates in real-world environments. Most group perception methods emplo
- y fixed\, overhead cameras (i.e.\, an exo-centric / third-person perspecti
- ve) to sense groups of people\, rendering them impractical for mobile robo
- ts working in most settings. I have developed a group detection and tracki
- ng system designed for ego-centric (i.e.\, first-person) perspective sensi
- ng\, which is more suitable for mobile robots\, to enable them to enter an
- y environment and accomplish their goals without external sensing requirem
- ents.\n\nNext\, I will discuss this work contextualized within a real-worl
- d application: human-robot teaming in healthcare. I am developing systems 
- for hospital Emergency Departments (ED)\, where frontline healthcare worke
- rs have been overwhelmed by the COVID-19 pandemic. I will describe my work
-  characterizing ED care delivery and staff workflow to enable robots to op
- erate in these challenging environments. Building on this\, I designed a s
- ocial navigation system that enables robots to incorporate the severity of
-  patients’ health while navigating in the ED\, to prevent interruptions 
- in care delivery. My work will enable robots to work in safety-critical\, 
- human-centered environments\, and ultimately help improve patient outcomes
-  and alleviate clinician workload.\n\nBio:\n\nAngelique Taylor is a Ph.D. 
- candidate in Computer Science and Engineering at UC San Diego. Her researc
- h lies at the intersection of computer vision\, robotics\, and health info
- rmatics. She develops systems that enable robots to interact and work with
-  groups of people in safety-critical environments. She has received the NS
- F GRFP\, Microsoft Dissertation Award\, the Google Anita Borg Memorial Fel
- lowship\, the Arthur J. Schmitt Presidential Fellowship\, a GEM Fellowship
- \, and an award from the National Center for Women in Information Technolo
- gy (NCWIT). More information on her research can be found at\nangeliquemta
- ylor.com\n.\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and password\n\n
- CS Colloquium flyer\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-angel
- ique-taylor
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-angelique-taylor
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Kexin Rong
 DTSTART;VALUE=DATE-TIME:20210316T200000
 DTEND;VALUE=DATE-TIME:20210316T210000
