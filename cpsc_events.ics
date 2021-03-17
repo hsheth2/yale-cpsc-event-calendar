@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Kexin Rong
-DTSTART;VALUE=DATE-TIME:20210316T200000
-DTEND;VALUE=DATE-TIME:20210316T210000
-DESCRIPTION:Event description:\nCS Colloquium\nKexin Rong\n\nTitle: Priori
- tizing Computation and Analyst Resources in Large-scale Data Analytics\n\n
- Host: Abhishek Bhattacharjee\n\nAbstract:\n\nData volumes are growing expo
- nentially\, fueled by an increased number of automated processes such as s
- ensors and devices. Meanwhile\, the computational power available for proc
- essing this data – as well as analysts’ ability to interpret it – re
- main limited. As a result\, database systems must evolve to address these 
- new bottlenecks in analytics. In my work\, I ask: how can we adapt classic
-  ideas from database query processing to modern compute- and analyst-limit
- ed data analytics?\n\nIn this talk\, I will discuss the potential for this
-  kind of systems development through the lens of several practical systems
-  I have developed. By drawing insights from database query optimization\, 
- such as pushing workload- and domain-specific filtering\, aggregation\, an
- d sampling into core analytics workflows\, we can dramatically improve the
-  efficiency of analytics at scale. I will illustrate these ideas by focusi
- ng on two systems — one designed to optimize visualizations for streamin
- g infrastructure and application telemetry and one designed for high-volum
- e seismic waveform analysis — both of which have been field-tested at sc
- ale. I will also discuss lessons from production deployments at companies 
- including Datadog\, Microsoft\, Google and Facebook.\n\nBio:\n\nKexin Rong
-  is a Ph.D. student in Computer Science at Stanford University\, co-advise
- d by Professor Peter Bailis and Professor Philip Levis. She designs and bu
- ilds systems to enable data analytics at scale\, supporting applications i
- ncluding scientific analysis\, infrastructure monitoring\, and analytical 
- queries on big data clusters. Prior to Stanford\, she received her bachelo
- r’s degree in Computer Science from California Institute of Technology.\
- n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and password\n\nCS Colloquiu
- m flyer\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-kexin-rong
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-kexin-rong
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Yongshan Ding
 DTSTART;VALUE=DATE-TIME:20210318T143000
 DTEND;VALUE=DATE-TIME:20210318T153000
