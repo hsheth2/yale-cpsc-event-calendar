@@ -2,48 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Yongshan Ding
-DTSTART;VALUE=DATE-TIME:20210318T143000
-DTEND;VALUE=DATE-TIME:20210318T153000
-DESCRIPTION:Event description:\nCS Colloquium\nYongshan Ding\n\nTitle: Arc
- hitecting Quantum Computing Systems in the Presence of Noise\n\nHost: Lin 
- Zhong\n\nAbstract:\n\nQuantum computers may solve some problems beyond the
-  reach of classical digital computers. However\, emerging quantum systems 
- are typically noisy and difficult to control\, leaving a significant gap b
- etween the exacting requirements of quantum applications and the realities
-  of noisy devices. Bridging this gap is crucial – my work adapts convent
- ional computer systems techniques to meet the critical theoretical and exp
- erimental constraints in quantum processors. I divide my talk into three p
- arts: (i) introducing my recent work on systematic noise mitigation for su
- perconducting transmon qubits [MICRO’20]\, which enhances the robustness
-  of quantum processors through coordination of control instructions\; (ii)
-  demonstrating efficient and reliable quantum memory management [ISCA’20
- ]\, which implements automated tools for allocation\, reclamation and reus
- e of qubits in quantum programs\, much like in garbage collection for clas
- sical programs\; (iii) discussing on-going work on implementing quasi-faul
- t-tolerant rotation gates in quantum error correction\, which seeks to pro
- vide correctness guarantees for quantum applications by encoding quantum b
- its in a way that errors can be detected and corrected\, analogous to clas
- sical error-correcting codes.\n\nBio:\n\nYongshan Ding is a Ph.D. candidat
- e at the University of Chicago advised by Fred Chong. He received his B.Sc
- . degrees in computer science and physics from Carnegie Mellon University.
-  His research focuses on quantum computer systems\, specifically through c
- o-design of quantum algorithms\, software\, and devices. Ding has develope
- d novel techniques for quantum error correction\, quantum memory managemen
- t\, and optimizations at the quantum-classical interface. His work has bee
- n recognized with two Best Paper Awards by IBM Q and QCE’20 and two Hono
- rable Mentions in IEEE Micro Top Picks. Additionally\, Ding is the lead au
- thor of a textbook\, Quantum Computer Systems\, in Morgan-Claypool Publish
- er’s synthesis lectures in computer architecture. He has been supported 
- by a Siebel Scholarship and a William Rainey Harper Dissertation Fellowshi
- p. His personal website is\nhttps://people.cs.uchicago.edu/~yongshan/\n.\n
- \n*Contact\nAlicia\nor\nNancy\nfor Zoom link and password\n\nCS Colloquium
-  flyer\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-yongshan-ding
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-yongshan-ding
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Maria Apostolaki
 DTSTART;VALUE=DATE-TIME:20210325T143000
 DTEND;VALUE=DATE-TIME:20210325T153000
