@@ -57,4 +57,18 @@ LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-will-hamilton-mcgill
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS Seminar: Emily Breza (Harvard)
+DTSTART;VALUE=DATE-TIME:20210505T200000
+DTEND;VALUE=DATE-TIME:20210505T210000
+DESCRIPTION:Event description:\nYINS Seminar: Emily Breza (Harvard)\n\nJoi
+ n from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/94931232
+ 873\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMe
+ eting ID: 949 3123 2873\nInternational numbers available:\nhttps://yale.zo
+ om.us/u/abRKgdHr5h\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-emil
+ y-breza-harvard
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-emily-breza-harvard
+END:VEVENT
 END:VCALENDAR
