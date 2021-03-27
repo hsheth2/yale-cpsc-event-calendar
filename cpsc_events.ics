@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Jay P. Lim
-DTSTART;VALUE=DATE-TIME:20210326T143000
-DTEND;VALUE=DATE-TIME:20210326T153000
-DESCRIPTION:Event description:\nCS Colloquium\nJay P. Lim\n\nTitle: Memory
-  Safety and Buffer Overflow Lecture\n\nHost: Holly Rushmeier\n\nAbstract:\
- n\nMemory safety is a concept of protecting the memory and data of program
- s. Because memory safety is closely related to the integrity of the data\,
-  it is paramount for developing safe and secure software. Memory safety er
- rors can occur when an unallocated region of memory is accessed or when me
- mory is accessed using methods that cause undefined behaviors. In this lec
- ture\, we will discuss about the various causes and consequences of memory
-  safety error as well as techniques to prevent them. We will then focus on
-  a particular class of memory safety known as buffer overflow error and it
- s implication in data integrity.\n\nThis lecture is designed for students 
- who have some experiences in programming in C language. In particular\, kn
- owledge in the interactions between pointers\, arrays\, and dynamic alloca
- tion of memory is paramount for the lecture. Understanding the basics of s
- tack and heap memory region is recommended\, and usually taught in previou
- s lectures.\n\nBio:\n\nJay P. Lim is a seventh year Ph.D. Student at Rutge
- rs University advised by Professor Santosh Nagarakatte. His research focus
-  is on developing techniques to verify and synthesizes safe and secure low
-  level computer systems. Jay completed his undergraduate degree in Compute
- r Science and Mathematics at the University of Wisconsin-Madison.\n\nJay i
- s passionate about teaching and he has been a TA and an instructor for var
- ious courses during his time in Ph.D. program including Computer Architect
- ure\, Programming Languages\, Compilers\, Computer Security\, and Discrete
-  Math. He has been an instructor for both large undergraduate courses and 
- small graduate courses. One of his passions is to make learning interestin
- g and fun to engage the students. It is his happiness to see students enjo
- ying his classes.\n\n\n*Contact\nAlicia\nor\nNancy\nfor Zoom link and pass
- word\n\nCS Colloquium flyer\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloqui
- um-jay-p-lim
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-jay-p-lim
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Danfei Xu
 DTSTART;VALUE=DATE-TIME:20210329T200000
 DTEND;VALUE=DATE-TIME:20210329T210000
