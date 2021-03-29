@@ -65,25 +65,42 @@ SUMMARY:Distinguished Speaker Series Talk by Lyanda Lynn Haupt\, Author of
   Mozart’s Starling
 DTSTART;VALUE=DATE-TIME:20210427T200000
 DTEND;VALUE=DATE-TIME:20210427T210000
-DESCRIPTION:Event description:\nDetails to follow soon.  More on the subj
- ect of Lyanda’s book and talk topic follows:\n\n“The story of the comp
- oser and his pet bird led me on an unexpected journey to Vienna and Salzbu
- rg. It led me into the workings of the symphony\, the opera\, ornithologic
- al labs\, the depths of music theory\, the field of linguistics\, and the 
- nature of creative inspiration. It led me to the crazy experience of raisi
- ng a starling in my own home. It led me deep into the spirit of the natura
- l world and our constant wild animal companions.\nIt led me to the underst
- anding that there is more possibility in our relationships with animals—
- with all the creatures of the earth\, not just the traditionally beautiful
- \, or endangered\, or loved—than I had ever imagined.”\n\nRegister in 
- advance for this meeting:\n\nhttps://yale.zoom.us/meeting/register/tJwqcui
- trDwoGtFUhZiy7y_RfmIVHPwXlz…\n\n\n\nAfter registering\, you will receive
-  a confirmation email containing information about joining the meeting.\n\
- n\nhttps://frankeprogram.yale.edu/event/distinguished-speaker-series-talk-
- lyanda-lynn-haupt-author-mozarts-starling
+DESCRIPTION:Event description:\nMozart’s Starling: A Story of Art\, Lang
+ uage\, and the Human Relationship with the Natural World\n\nThe story soun
+ ds apocryphal\, but it’s actually true.  In the spring of 1784\, Mozart
+  found a starling in a Viennese shop mimicking the motif from one of his o
+ wn concertos\, and he took the bird home as a pet.  How did it come to pa
+ ss that the sublime classical composer found inspiration in one of the wor
+ ld’s most ecologically despised species?  The answer leads to a beautif
+ ul tangle of music theory\, linguistics\, the nature of creative inspirati
+ on\, and the human relationship with the wild earth.\n\nRegister in advanc
+ e for this meeting:\n\nhttps://yale.zoom.us/meeting/register/tJwqcuitrDwoG
+ tFUhZiy7y_RfmIVHPwXlz…\n\n\n\nAfter registering\, you will receive a con
+ firmation email containing information about joining the meeting.\n\n\nhtt
+ ps://frankeprogram.yale.edu/event/distinguished-speaker-series-talk-lyanda
+ -lynn-haupt-author-mozarts-starling
 LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/distinguished-speaker-series-talk
  -lyanda-lynn-haupt-author-mozarts-starling
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mozart’s Starling: A Story of Art\, Language\, and the Human Rel
+ ationship with the Natural World
+DTSTART;VALUE=DATE-TIME:20210427T200000
+DTEND;VALUE=DATE-TIME:20210427T210000
+DESCRIPTION:Event description:\nThe story sounds apocryphal\, but it’s a
+ ctually true.  In the spring of 1784\, Mozart found a starling in a Vienne
+ se shop mimicking the motif from one of his own concertos\, and he took th
+ e bird home as a pet.  How did it come to pass that the sublime classical 
+ composer found inspiration in one of the world’s most ecologically despi
+ sed species?  The answer leads to a beautiful tangle of music theory\, lin
+ guistics\, the nature of creative inspiration\, and the human relationship
+  with the wild earth.\n\n\nhttps://frankeprogram.yale.edu/event/mozarts-st
+ arling-story-art-language-and-human-relationship-natural-world
+LOCATION:Whitney Humanities Center (WALL53)\, Auditorium
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/mozarts-starling-story-art-langua
+ ge-and-human-relationship-natural-world
 END:VEVENT
 END:VCALENDAR
