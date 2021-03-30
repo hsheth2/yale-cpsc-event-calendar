@@ -2,41 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Danfei Xu
-DTSTART;VALUE=DATE-TIME:20210329T200000
-DTEND;VALUE=DATE-TIME:20210329T210000
-DESCRIPTION:Event description:\nCS Colloquium\nDanfei Xu\n\nTitle: Composi
- tional Reasoning in Robot Learning\n\nHost: Steven Zucker\n\nAbstract:\n\n
- To carry out diverse tasks in everyday human environments\, future robots 
- must generalize beyond the knowledge they are equipped with. However\, des
- pite recent  advances in “end-to-end” deep learning\, today’s robot
-  learning methods are still limited to specializing in one task at a time.
-  At the same time\, humans perform everyday tasks with ease. But instead o
- f learning each task in silos\, we distill reusable abstractions from our 
- daily experiences and solve new tasks by composing known building blocks. 
- Such\ncompositional reasoning\ncapability is crucial for developing future
-  robots that are both competent and versatile.\n\nIn this talk\, I will pr
- esent my works on building compositional reasoning capabilities into robot
-  learning systems. I will start by showing that imposing strong compositio
- nal structures (e.g.\, programs\, graphs) on end-to-end robot learning app
- roaches enables systematic generalization across long-horizon object manip
- ulation tasks. Then I will present our recent efforts to relax the structu
- ral assumptions in order to bring compositional reasoning closer to real-w
- orld settings: learning from unstructured human demonstrations and learnin
- g through trial-and-error.\n\nBio:\n\nDanfei Xu is a final-year Ph.D. stud
- ent at Stanford University advised by Fei-Fei Li and Silvio Savarese. His 
- research lies in the intersection of robotics\, computer vision\, and mach
- ine learning. His research goal is to build autonomous agents that can ope
- rate in everyday human environments. He obtained a B.S. from Columbia Univ
- ersity in 2015 and has spent time at CMU Robotics Institute\, Columbia Rob
- otics Lab\, Autodesk Research\, Zoox\, and DeepMind.\n\n*Contact\nAlicia\n
- or\nNancy\nfor Zoom link and password\n\nCS Colloquium flyer\n\n\n\nhttps:
- //cpsc.yale.edu/event/cs-colloquium-danfei-xu
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-danfei-xu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Ranjay Krishna
 DTSTART;VALUE=DATE-TIME:20210331T200000
 DTEND;VALUE=DATE-TIME:20210331T210000
