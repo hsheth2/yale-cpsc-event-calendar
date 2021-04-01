@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Afonso Bandeira (ETH Zürich)
-DTSTART;VALUE=DATE-TIME:20210331T160000
-DTEND;VALUE=DATE-TIME:20210331T170000
-DESCRIPTION:Event description:\n“Computational Hardness of Hypothesis Te
- sting and Quiet Plantings”\n\nSpeaker: Afonso S. Bandeira\n\nProfessor o
- f Mathematics\, ETH Zürich\n\nTalk summary:\nWhen faced with a data analy
- sis\, learning\, or statistical inference problem\, the amount and quality
-  of data available fundamentally determines whether such tasks can be perf
- ormed with certain levels of accuracy. With the growing size of datasets h
- owever\, it is crucial not only that the underlying statistical task is po
- ssible\, but also that is doable by means of efficient algorithms. In this
-  talk we will discuss methods aiming to establish limits of when statistic
- al tasks are possible with computationally efficient methods or when there
-  is a fundamental «Statistical-to-Computational gap›› in which an inf
- erence task is statistically possible but inherently computationally hard.
-  We will focus on Hypothesis Testing and the “Low Degree Method” and a
- lso address hardness of certification via “quiet plantings”. Guiding e
- xamples will include Sparse PCA\, bounds on the Sherrington Kirkpatrick Ha
- miltonian\, and lower bounds on Chromatic Numbers of random graphs.\n\nTo 
- participate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale
- .zoom.us/j/95980067359\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) 
- or 646 568 7788\nMeeting ID: 959 8006 7359\nInternational numbers availabl
- e:\nhttps://yale.zoom.us/u/adtHjWNcGQ\n\nSpeaker bio:\nAfonso Bandeira hol
- ds a bachelor’s and master’s degree from the University of Coimbra\, P
- ortugal. He received his Ph.D. in applied and computational mathematics fr
- om Princeton University\, under the supervision of Amit Singer. After spen
- ding a year at MIT\, he joined the faculty at the Mathematics Department o
- f the Courant Institute of Mathematical Sciences and the Center for Data S
- cience\, both at the New York University. Since September 2019\, he is a P
- rofessor of Mathematics at the ETH Zurich. Bandeira’s research interests
-  are in the broadly defined area of Mathematics of Data Science. Recent re
- cognitions include a Sloan Fellowship in 2008\, the 2019 ISAAC prize for Y
- oung Scientists\, the 2020 Stephen Smale Prize from the FoCM society\, and
-  the 2020 Information Theory Society Paper Award.\n\n.\n\n\nhttps://yins.y
- ale.edu/event/yins-seminar-afonso-bandeira-eth-zurich
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-afonso-bandeira-eth-zurich
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Seminar: Will Hamilton (McGill)
 DTSTART;VALUE=DATE-TIME:20210407T160000
 DTEND;VALUE=DATE-TIME:20210407T170000
