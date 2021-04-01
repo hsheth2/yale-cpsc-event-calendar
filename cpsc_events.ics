@@ -2,56 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Ranjay Krishna
-DTSTART;VALUE=DATE-TIME:20210331T200000
-DTEND;VALUE=DATE-TIME:20210331T210000
-DESCRIPTION:Event description:\nCS Colloquium\nRanjay Krishna\n\nTitle: Vi
- sual Intelligence from Human Learning\n\nHost: Marynel Vázquez\n\nAbstrac
- t:\n\nAt the core of human development is the ability to adapt to new\, pr
- eviously unseen stimuli. We comprehend new situations as a composition of 
- previously seen information and ask one another for clarification when we 
- encounter new concepts. Yet\, this ability to go beyond the confounds of t
- heir training data remains an open challenge for artificial intelligence a
- gents. My research designs visual intelligence to reason over new composit
- ions and acquire new concepts. My talk will explore these challenges and p
- resent the two following lines of work:\n\nFirst\, I will introduce scene 
- graphs\, a cognitively-grounded\, compositional visual representation. I w
- ill discuss how to integrate scene graphs into a variety of computer visio
- n tasks\, enabling models to generalize to novel compositions from a few t
- raining examples. Since our introduction of scene graphs\, the Computer Vi
- sion community has developed hundreds of scene graph models and utilized s
- cene graphs to achieve state-of-the-art results across multiple core tasks
- \, including object localization\, captioning\, image generation\, questio
- n answering\, 3D understanding\, and spatio-temporal action recognition.\n
- \nSecond\, I will introduce a framework for socially situated learning. Th
- is framework pushes agents beyond traditional computer vision training par
- adigms and enables learning from human interactions in online social envir
- onments. I will showcase a real-world deployment of our agent\, which lear
- ned to acquire new visual concepts by asking people targeted questions on 
- social media. By interacting with over 230K people over 8 months\, our age
- nt learned to recognize hundreds of new concepts. This work demonstrates t
- he possibility for agents to adapt and self-improve in real-world social e
- nvironments.\n\nBio:\n\nRanjay Krishna is a 5th-year Ph.D. candidate at St
- anford University\, where he is co-advised by Fei-Fei Li and Michael Berns
- tein. His research lies at the intersection of computer vision and human-c
- omputer interaction\; it draws on ideas from behavioral and social science
- s to improve visual intelligence. His work has been recognized by the Chri
- stofer Stephenson Memorial award\, as an Accell Innovation Scholar and by 
- two Brown Institute for Media Innovation grants. His work has also been fe
- atured in Forbes magazine and in a PBS NOVA documentary. During his Ph.D.\
- , he re-designed Stanford’s undergraduate Computer Vision course and cur
- rently also instructs the graduate Computer Vision course\, Stanford’s s
- econd largest course. He received an M.Sc. from Stanford University. Befor
- e that\, he conferred a B.Sc. with a double major in Electrical Engineerin
- g and in Computer Science from Cornell University. In the past\, he has in
- terned at Google AI\, Facebook AI Research\, and Yahoo Research.\n\n*Conta
- ct\nAlicia\nor\nNancy\nfor Zoom link and password\n\nCS Colloquium flyer\n
- \n\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-ranjay-krishna
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-ranjay-krishna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Fraser Brown
 DTSTART;VALUE=DATE-TIME:20210405T200000
 DTEND;VALUE=DATE-TIME:20210405T210000
