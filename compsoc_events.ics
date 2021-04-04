@@ -2,7 +2,8 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
-SUMMARY:Colloquium by Suresh Venkatsubramanian
+SUMMARY:Colloquium on Critical Algorithm Studies by Suresh Venkatsubramani
+ an
 DTSTART;VALUE=DATE-TIME:20210409T150000
 DTEND;VALUE=DATE-TIME:20210409T160000
 DESCRIPTION:Event description\nSpeaker:\nSuresh Venkatsubramanian\n\, Prof
@@ -31,12 +32,12 @@ DESCRIPTION:Event description\nSpeaker:\nSuresh Venkatsubramanian\n\, Prof
  munity Consortium Council. His work has received press coverage across Nor
  th America and Europe\, including NPR’s Science Friday\, NBC\, and CNN. 
  Suresh received his B.Tech from IIT Kanpur and his PhD from Stanford.\n\n\
- nhttps://computationsociety.yale.edu/event/colloquium-by-suresh-venkatsubr
- amanian
+ nhttps://computationsociety.yale.edu/event/colloquium-on-critical-algorith
+ m-studies-by-suresh-venkatsubramanian
 LOCATION:TBA
 STATUS:CONFIRMED
-URL:https://computationsociety.yale.edu/event/colloquium-by-suresh-venkats
- ubramanian
+URL:https://computationsociety.yale.edu/event/colloquium-on-critical-algor
+ ithm-studies-by-suresh-venkatsubramanian
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colloquium by Tawanna Dillahunt
