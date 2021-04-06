@@ -2,37 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Fraser Brown
-DTSTART;VALUE=DATE-TIME:20210405T200000
-DTEND;VALUE=DATE-TIME:20210405T210000
-DESCRIPTION:Event description:\nCS Colloquium\nFraser Brown\n\nTitle: Elim
- inating bugs in real systems\n\nHost: Holly Rushmeier\n\nAbstract:\n\nSoft
- ware is everywhere\, and almost everywhere\, software is broken. Some bugs
-  just crash your printer\; others hand an identity thief your bank account
-  number\; still others let nation-states spy on dissidents and persecute m
- inorities.\n\nThis talk outlines my work preventing bugs using a blend of 
- programming languages techniques and systems design. First\, I’ll talk a
- bout securing massive\, security-critical codebases without clean slate re
- writes. This means rooting out hard-to-find bugs—as in Sys\, which scale
- s symbolic execution to find exploitable bugs in systems like the twenty-m
- illion line Chrome browser. It also means proving correctness of especiall
- y vulnerable pieces of code—as in VeRA\, which automatically verifies pa
- rt of the Firefox JavaScript engine. Finally\, I’ll discuss work on stro
- nger foundations for new systems—as in CirC\, a recent project unifying 
- compiler infrastructure for program verification\, cryptographic proofs\, 
- optimization problems\, and more.\n\nBio:\n\nFraser Brown is a PhD student
-  at Stanford advised by Dawson Engler\, occasional visiting student at UCS
- D with Deian Stefan\, and NSF graduate research fellowship recipient. She 
- works at the intersection of programming languages\, systems\, and securit
- y\, and her research has been used by several companies. She holds an unde
- rgraduate degree in English from Stanford.\n\n*Contact\nAlicia\nor\nNancy\
- nfor Zoom link and password\n\nCS Colloquium flyer\n\n\n\nhttps://cpsc.yal
- e.edu/event/cs-colloquium-fraser-brown
-LOCATION:Zoom Presentation*
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-fraser-brown
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Kalesha Bullard
 DTSTART;VALUE=DATE-TIME:20210407T200000
 DTEND;VALUE=DATE-TIME:20210407T210000
