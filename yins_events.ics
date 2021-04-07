@@ -97,4 +97,18 @@ LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-emily-breza-harvard
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS Seminar: Dorsa Sadigh (Stanford)
+DTSTART;VALUE=DATE-TIME:20210519T160000
+DTEND;VALUE=DATE-TIME:20210519T170000
+DESCRIPTION:Event description:\nSpeaker: Dorsa Sadigh\nStanford University
+ \n\nTo participate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps
+ ://yale.zoom.us/j/99603813308\nOr Telephone：203-432-9666 (2-ZOOM if on-c
+ ampus) or 646 568 7788\nMeeting ID: 996 0381 3308\nInternational numbers a
+ vailable:\nhttps://yale.zoom.us/u/ackR7i1KJw\n\n\nhttps://yins.yale.edu/ev
+ ent/yins-seminar-dorsa-sadigh-stanford
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-dorsa-sadigh-stanford
+END:VEVENT
 END:VCALENDAR
