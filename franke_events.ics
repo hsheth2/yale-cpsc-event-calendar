@@ -28,32 +28,6 @@ URL:https://frankeprogram.yale.edu/event/learning-doing-science-video-proj
  ect
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ornament’s Refracted Cosmologies Colloquium Event
-DTSTART;VALUE=DATE-TIME:20210407T223000
-DTEND;VALUE=DATE-TIME:20210407T233000
-DESCRIPTION:Event description:\n“The Language of Ornament: Rhythm\, Move
- ment\, and the Cosmos\,”\npresented by\nProfessor Emeritus Kent Bloomer\
- nand moderated by Kassandra Leiva and Misha Semenov.\n\nThe event will tak
- e place over\nZoom\non\nWednesday\, April 7th at 6:30 PM.\n\nThis event is
-  sponsored by the Yale School of Architecture\, The Franke Program in Scie
- nce and the Humanities\, and the MacMillan Center at Yale.\n\nFar from bei
- ng a nebulous experience of pure affect\, ornament across world cultures c
- onsistently utilizes a fundamental visual grammar to construct a system of
-  meaning. In this lecture\, Kent Bloomer\, Yale’s ornament guru for the 
- last half century\, will share his latest research on the underlying lingu
- istic structure of world ornament\, defining basic visual tropes and how t
- hey are strung together to create a narrative and connection to a larger o
- rder\, or cosmos. Kent will present the use of 19th century “grammars”
-  of ornament as a tool for constructing ornament’s vocabulary.\n\nhttps:
- //yale.zoom.us/j/98495380430\n\nMore on this event may be read here:\n\nht
- tps://yaleornament.wordpress.com/\n\n\nhttps://frankeprogram.yale.edu/even
- t/ornaments-refracted-cosmologies-colloquium-event
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/ornaments-refracted-cosmologies-c
- olloquium-event
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Distinguished Speaker Series Talk by Professor Ainissa Ramirez
 DTSTART;VALUE=DATE-TIME:20210420T200000
 DTEND;VALUE=DATE-TIME:20210420T210000
@@ -85,6 +59,25 @@ LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/distinguished-speaker-series-talk
  -professor-ainissa-ramirez
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screening of CODED BIAS\, a Film by Shalini Kantayya
+DTSTART;VALUE=DATE-TIME:20210421T080000
+DTEND;VALUE=DATE-TIME:20210421T090000
+DESCRIPTION:Event description:\nWhen MIT Media Lab researcher Joy Buolamwi
+ ni discovers that many facial recognition technologies misclassify women a
+ nd darker-skinned faces\, she delves into an investigation of widespread b
+ ias in algorithms.\n\nImmediately following the screening\,\nProfessor Eli
+ sa Celis\nwill moderate a discussion with the filmmaker\, Shalini Kantayya
+ .\n\nRegister in advance for this meeting:\n\nhttps://yale.zoom.us/meeting
+ /register/tJwodOmhqTktGtNQzVleJZH-sM12lLSe2J…\n\n\n\nAfter registering\,
+  you will receive a confirmation email containing information about joinin
+ g the meeting.\n\n\nhttps://frankeprogram.yale.edu/event/screening-coded-b
+ ias-film-shalini-kantayya
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/screening-coded-bias-film-shalini
+ -kantayya
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Distinguished Speaker Series Talk by Lyanda Lynn Haupt\, Author of
