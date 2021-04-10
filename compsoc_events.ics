@@ -2,45 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
-SUMMARY:Colloquium on Critical Algorithm Studies by Suresh Venkatsubramani
- an
-DTSTART;VALUE=DATE-TIME:20210409T150000
-DTEND;VALUE=DATE-TIME:20210409T160000
-DESCRIPTION:Event description\nSpeaker:\nSuresh Venkatsubramanian\n\, Prof
- essor in the School of Computing at University of Utah\n\n\n\nTitle: Criti
- cal Algorithm Studies - A View From Inside Computer Science\n\n\n\nHost:\n
- Elisa Celis\n\nAbstract: The bright spotlight on bias in algorithmic decis
- ion making has surfaced an older and deeper idea - that technology embeds 
- values\, and without understanding what those values are\, we cannot talk 
- about what we want from algorithmic systems. This critical take on algorit
- hmic systems has long been the purview of thinkers in the social sciences.
-  But what would such a stance look like from the purview of the computer s
- cientists building systems? And how might we reframe the design of systems
-  to be more responsive to the values we want them to have?\n\nIn this talk
-  I’ll talk about two examples of attempting to “flip the script” and
-  reframe algorithmic design questions from the perspective of subjects of 
- a system rather than the system designers\, with an overriding goal being 
- to design systems that remove barriers to access rather than reinforcing t
- hem. I’ll look at access in (social) networks as well as access to impor
- tant societal resources\, and in both cases show how this reorientation le
- ads to new modes of inquiry and new ways to assess disparities.\n\nSpeaker
-  Biography: Suresh Venkatasubramanian is a professor in the School of Comp
- uting at the University of Utah. His background is in algorithms and data 
- science and he is particularly interested in the social ramifications of a
- utomated decision making. He is a co-founder of the FAccT conference\, a m
- ember of the board at the ACLU of Utah\, and a member of the Computing Com
- munity Consortium Council. His work has received press coverage across Nor
- th America and Europe\, including NPR’s Science Friday\, NBC\, and CNN. 
- Suresh received his B.Tech from IIT Kanpur and his PhD from Stanford.\n\nZ
- oom:\nhttps://yale.zoom.us/j/97564578049\n\n\nhttps://computationsociety.y
- ale.edu/event/colloquium-on-critical-algorithm-studies-by-suresh-venkatsub
- ramanian
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://computationsociety.yale.edu/event/colloquium-on-critical-algor
- ithm-studies-by-suresh-venkatsubramanian
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Colloquium by Tawanna Dillahunt
 DTSTART;VALUE=DATE-TIME:20210423T150000
 DTEND;VALUE=DATE-TIME:20210423T160000
