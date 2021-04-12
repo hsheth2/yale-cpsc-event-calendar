@@ -2,6 +2,26 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
+SUMMARY:Related Event: Screening of “Coded Bias”\, a film by Shalini K
+ antayya
+DTSTART;VALUE=DATE-TIME:20210421T200000
+DTEND;VALUE=DATE-TIME:20210421T210000
+DESCRIPTION:Event description\nWhen MIT Media Lab researcher Joy Buolamwin
+ i discovers that many facial recognition technologies misclassify women an
+ d darker-skinned faces\, she delves into an investigation of widespread bi
+ as in algorithms.\n\nImmediately following the screening\,\nProfessor Elis
+ a Celis\nwill moderate a discussion with the filmmaker\, Shalini Kantayya.
+ \n\nZoom:\nhttps://yale.zoom.us/meeting/register/tJwodOmhqTktGtNQzVleJZH-s
+ M12lLSe2J…\n\n\n\nThis event is hosted by\nThe Franke Program in Science
+  and the Humanities\n\; additional details can be found\nhere\n.\n\n\n\n\n
+ \n\nhttps://computationsociety.yale.edu/event/related-event-screening-of-c
+ oded-bias-a-film-by-shalini-kantayya
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/related-event-screening-of-c
+ oded-bias-a-film-by-shalini-kantayya
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colloquium by Tawanna Dillahunt
 DTSTART;VALUE=DATE-TIME:20210423T150000
 DTEND;VALUE=DATE-TIME:20210423T160000
