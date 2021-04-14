@@ -28,6 +28,26 @@ URL:https://frankeprogram.yale.edu/event/learning-doing-science-video-proj
  ect
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ornament’s Refracted Cosmologies Colloquium Event
+DTSTART;VALUE=DATE-TIME:20210414T223000
+DTEND;VALUE=DATE-TIME:20210414T233000
+DESCRIPTION:Event description:\nPresenters Nikos Salingaros and Richard Ta
+ ylor will discuss the latest scientific findings on our brain and human pe
+ rceptual system architecture and how they might help explain the existence
+  of certain ornamental tropes\, such as fractals\, in cultures around the 
+ world.  Ornament will be examined from the perspective of mathematical pr
+ operties\, biophilia\, and neuroscience.  How can ornament help us create
+  architecture more in tune with our neurological needs?\n\nThis event is s
+ ponsored by the Yale School of Architecture\, The Franke Program in Scienc
+ e and the Humanities\, and the MacMillan Center at Yale.\n\nLearn more abo
+ ut the Colloquium and find the Zoom link\nhere\n.\n\n\nhttps://frankeprogr
+ am.yale.edu/event/ornaments-refracted-cosmologies-colloquium-event-0
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/ornaments-refracted-cosmologies-c
+ olloquium-event-0
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Distinguished Speaker Series Talk\, “How Humans and Matter Trans
  formed One Another”
 DTSTART;VALUE=DATE-TIME:20210420T200000
