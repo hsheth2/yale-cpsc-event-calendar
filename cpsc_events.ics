@@ -1,42 +1,4 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
-BEGIN:VEVENT
-SUMMARY:JBPO Meeting Dates\, AY 2020-21 - Information Only
-DTSTART;VALUE=DATE-TIME:20210415T200000
-DTEND;VALUE=DATE-TIME:20210415T210000
-DESCRIPTION:Event description:\nThe dates for the Joint Boards of Permanen
- t Officers (JBPO) have been scheduled for the 2020-21 academic year.  Ple
- ase reserve:\n\nThursday\, October 8\, 2020\nThursday\, October 29\, 2020\
- nThursday\, December 10\, 2020\nThursday\, February 25\, 2021\nThursday\, 
- April 15\, 2021\nThursday\, May 13\, 2021\n\nAll meetings start at 4:00 p.
- m. and will be via Zoom for the foreseeable future. Two weeks prior to eac
- h meeting\, an email will be sent with the link to preregister for the mee
- ting\, along with the CONFIDENTIAL agenda and supporting materials. After 
- preregistering you will receive a confirmation email containing the Zoom l
- ink to join the meeting.\n\nIn order to ensure a quorum*\, please attend i
- f you are able\, especially if you are a designated quorum officer of your
-  department or program.\n\n*Voting in the Joint Boards of Permanent Office
- rs. Full professors whose primary or fully joint appointments are in a Fac
- ulty of Arts and Sciences department may vote\, as may full professors of 
- professional schools with secondary appointments in a Faculty of Arts and 
- Sciences department and explicit Corporation approval for such voting righ
- ts. The only exception to this rule is for faculty in Molecular Biophysics
-  and Biochemistry who are assigned to vote in the School of Medicine’s B
- oard of Permanent Officers and may not also vote in the Joint Boards of Pe
- rmanent Officers of Yale College and the Graduate School. By long standing
-  custom\, a quorum for the conduct of business at a meeting of the Joint B
- oards consists of 37 members eligible to vote. No vote has force if the nu
- mber of votes\, plus recorded abstentions\, falls short of that number. Te
- nure appointments are forwarded to the Corporation only upon an affirmativ
- e vote by two-thirds of the members present and eligible to vote. All othe
- r appointments are approved by majority vote. (Faculty Handbook\, Section 
- IV.F.5)\n\nYale University | Faculty of Arts and Sciences |\nhttp://fas.ya
- le.edu/\n\n\nhttps://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-inf
- ormation-only
-LOCATION:Zoom
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/jbpo-meeting-dates-ay-2020-21-information-
- only
-END:VEVENT
 END:VCALENDAR
