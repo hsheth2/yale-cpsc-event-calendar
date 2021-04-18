@@ -69,8 +69,8 @@ URL:https://frankeprogram.yale.edu/event/distinguished-speaker-series-talk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Screening of CODED BIAS\, a Film by Shalini Kantayya
-DTSTART;VALUE=DATE-TIME:20210421T080000
-DTEND;VALUE=DATE-TIME:20210421T090000
+DTSTART;VALUE=DATE-TIME:20210421T200000
+DTEND;VALUE=DATE-TIME:20210421T210000
 DESCRIPTION:Event description:\nWhen MIT Media Lab researcher Joy Buolamwi
  ni discovers that many facial recognition technologies misclassify women a
  nd darker-skinned faces\, she delves into an investigation of widespread b
