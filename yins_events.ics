@@ -2,6 +2,21 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
+SUMMARY:YINS Seminar: Andreas Loukas
+DTSTART;VALUE=DATE-TIME:20210428T160000
+DTEND;VALUE=DATE-TIME:20210428T170000
+DESCRIPTION:Event description:\nYINS Seminar\n\nSpeaker: Andreas Loukas\, 
+ PhD\nResearch Scientist\, Ecole Polytechnique Fédérale de Lausanne\n\nT
+ o Participate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://ya
+ le.zoom.us/j/93549207738\nOr Telephone：203-432-9666 (2-ZOOM if on-campus
+ ) or 646 568 7788\nMeeting ID: 935 4920 7738\nInternational numbers availa
+ ble:\nhttps://yale.zoom.us/u/adX04g55h7\n\n.\n\n\nhttps://yins.yale.edu/ev
+ ent/yins-seminar-andreas-loukas
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-andreas-loukas
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:YINS Seminar: Emily Breza (Harvard)
 DTSTART;VALUE=DATE-TIME:20210505T200000
 DTEND;VALUE=DATE-TIME:20210505T210000
@@ -69,5 +84,21 @@ DESCRIPTION:Event description:\nSpeaker: Dorsa Sadigh\nStanford University
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-dorsa-sadigh-stanford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS Seminar: Csaba Szepesvari (Univ of Alberta)
+DTSTART;VALUE=DATE-TIME:20210602T160000
+DTEND;VALUE=DATE-TIME:20210602T170000
+DESCRIPTION:Event description:\nYINS Seminar\n\nSpeaker: Csaba Szepesvari
+ \n\nProfessor & Canada CIFAR AI Chair\, Amii\nDepartment of Computing Scie
+ nce\nUniversity of Alberta\n\nTo participate:\n\nJoin from PC\, Mac\, Linu
+ x\, iOS or Android:\nhttps://yale.zoom.us/j/94695053313\nOr Telephone：20
+ 3-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 946 9505 331
+ 3\nInternational numbers available:\nhttps://yale.zoom.us/u/at3KTCmpZ\n\nS
+ peaker bio:\n\nhttps://sites.ualberta.ca/~szepesva/\n\n\n.\n\n\nhttps://yi
+ ns.yale.edu/event/yins-seminar-csaba-szepesvari-univ-alberta
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-csaba-szepesvari-univ-alberta
 END:VEVENT
 END:VCALENDAR
