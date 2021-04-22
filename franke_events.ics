@@ -28,58 +28,6 @@ URL:https://frankeprogram.yale.edu/event/learning-doing-science-video-proj
  ect
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Screening of CODED BIAS\, a Film by Shalini Kantayya
-DTSTART;VALUE=DATE-TIME:20210421T200000
-DTEND;VALUE=DATE-TIME:20210421T210000
-DESCRIPTION:Event description:\nWhen MIT Media Lab researcher Joy Buolamwi
- ni discovers that many facial recognition technologies misclassify women a
- nd darker-skinned faces\, she delves into an investigation of widespread b
- ias in algorithms.\n\nImmediately following the screening\,\nProfessor Eli
- sa Celis\nwill moderate a discussion with the filmmaker\, Shalini Kantayya
- .\n\nThis event is co-sponsored by the Computation and Society Initiative
-  at Yale and the Office of the FAS Dean of Science.\n\nRegister in advance
-  for this meeting:\n\nhttps://yale.zoom.us/meeting/register/tJwodOmhqTktGt
- NQzVleJZH-sM12lLSe2J…\n\n\n\nAfter registering\, you will receive a conf
- irmation email containing information about joining the meeting.\n\n\n\nSh
- alini Kantayya:\n\n\n\nFilmmaker Shalini Kantayya’s\nCoded Bias\npremier
- ed at the 2020 Sundance Film Festival to\ncritical acclaim\n.  Coded Bias
-  was broadcast nationally on PBS Emmy-award winning series Independent Len
- s and will stream globally on Netflix in April 2021.  The film won a SIMA
-  Award for Best Director and has been nominated for a Critics’ Choice\, 
- a Cinema Eye Honors\, and an NAACP Image Award\, among others. Shalini’s
-  debut feature\,\nCatching the Sun\n\, premiered at the\nLA Film Festival\
- nand was named a\nNY Times Critics’ Pick\n.  Catching the Sun was rele
- ased globally on\nNetflix\non Earth Day 2016 with Executive Producer Leona
- rdo DiCaprio and was nominated for the Environmental Media Association Aw
- ard for Best Documentary.  She directed the season finale of the Nationa
- l Geographic television series\nBreakthrough\n\, Executive Produced by Ron
-  Howard\, broadcast globally in June 2017.  She has also directed for NOV
- A and YouTube Originals.  Shalini is a\nTED Fellow\n\, a William J. Fulbr
- ight Scholar\, and an Associate of the UC Berkeley Graduate School of Jour
- nalism.\n\nProfessor Elisa Celis:\n\nProfessor Elisa Celis is an assistant
-  professor in the Statistics & Data Science department at Yale University.
-   She studies the manifestation of social and economic biases in our onli
- ne lives via the algorithms that encode and perpetuate them.  Her work sp
- ans multiple disciplines including data science\, machine learning\, and t
- heoretical computer science with an emphasis on fairness and diversity in 
- artificial intelligence and machine learning.  Professor Celis’ researc
- h focuses on problems that arise at the interface of computation and machi
- ne learning and its societal and economic ramifications. She approaches th
- ese problems by using both experimental and theoretical techniques.  Her 
- work spans multiple areas including social computing and crowdsourcing\, d
- ata science\, and algorithm design with an emphasis on fairness and divers
- ity in artificial intelligence and machine learning.  Her recent works in
- clude methodologies for debiasing data\, approaches to produce diverse ran
- king and recommendation systems\, mechanisms to avoid discrimination in ac
- cess to opportunity in online advertisements\, and the design of voting te
- chniques that allow for the election of diverse committees.\n\n\nhttps://f
- rankeprogram.yale.edu/event/screening-coded-bias-film-shalini-kantayya
-LOCATION:Zoom
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/screening-coded-bias-film-shalini
- -kantayya
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  “Are Scientific Models F
  ictions?  Model-Based Science as Epistemic Warfare”
 DTSTART;VALUE=DATE-TIME:20210422T190000
