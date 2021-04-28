@@ -154,4 +154,46 @@ LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-csaba-szepesvari-univ-alberta
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insu Han\, "Random Features for the Neural Tangent Kernel"
+DTSTART;VALUE=DATE-TIME:20210430T160000
+DTEND;VALUE=DATE-TIME:20210430T170000
+DESCRIPTION:Event description:\n“Random Features for the Neural Tangent 
+ Kernel”\n\nSpeaker: Insu Han\n\nAbstract:\nThe Neural Tangent Kernel (NT
+ K) has discovered connections between deep neural networks and kernel meth
+ ods with insights of optimization and generalization. Motivated by this\, 
+ recent works report that NTK can achieve better performances compared to t
+ raining neural networks on small-scale datasets. However\, results under l
+ arge-scale settings are hardly studied due to the computational limitation
+  of kernel methods. In this work\, we propose an efficient feature map con
+ struction of the NTK of fully-connected ReLU network which enables us to a
+ pply it to large-scale datasets. We combine random features of the arc-cos
+ ine kernels with a sketching-based algorithm which can run in linear with 
+ respect to both the number of data points and input dimension. We show tha
+ t dimension of the resulting features is much smaller than other baseline 
+ feature map constructions to achieve comparable error bounds both in theor
+ y and practice. We additionally utilize the leverage score based sampling 
+ for improved bounds of arc-cosine random features and prove a spectral app
+ roximation guarantee of the proposed feature map to the NTK matrix of two-
+ layer neural network. We benchmark a variety of machine learning tasks to 
+ demonstrate the superiority of the proposed scheme. In particular\, our al
+ gorithm can run tens of magnitude faster than the exact kernel methods for
+  large-scale settings without performance loss.\n\nTo participate:\n\nJoin
+  from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/914395682
+ 11\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMee
+ ting ID: 914 3956 8211\nInternational numbers available:\nhttps://yale.zoo
+ m.us/u/asb2MhTJO\n\nSpeaker bio:\nInsu Han is currently a researcher at Ko
+ rea Advanced Institute of Science and Technology (KAIST). He obtained B.S.
+  degrees in the School of Electrical Engineering (EE) from KAIST and the P
+ h.D. degree in EE from KAIST in 2021 February. His research interests are 
+ designing and analyzing approximate algorithms for large-scale machine lea
+ rning and its applications. He also works for diversity modeling with Dete
+ rminantal Point Processes. He was a recipient of Microsoft Research Asia F
+ ellowship 2019.\n\n.\n\n\nhttps://yins.yale.edu/event/insu-han-random-feat
+ ures-neural-tangent-kernel
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/insu-han-random-features-neural-tangent-ke
+ rnel
+END:VEVENT
 END:VCALENDAR
