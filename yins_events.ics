@@ -98,12 +98,42 @@ BEGIN:VEVENT
 SUMMARY:YINS Seminar: Dorsa Sadigh (Stanford)
 DTSTART;VALUE=DATE-TIME:20210519T160000
 DTEND;VALUE=DATE-TIME:20210519T170000
-DESCRIPTION:Event description:\nSpeaker: Dorsa Sadigh\nStanford University
- \n\nTo participate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps
- ://yale.zoom.us/j/99603813308\nOr Telephone：203-432-9666 (2-ZOOM if on-c
- ampus) or 646 568 7788\nMeeting ID: 996 0381 3308\nInternational numbers a
- vailable:\nhttps://yale.zoom.us/u/ackR7i1KJw\n\n\nhttps://yins.yale.edu/ev
- ent/yins-seminar-dorsa-sadigh-stanford
+DESCRIPTION:Event description:\n“Walking the Boundary of Learning and In
+ teraction”\n\nSpeaker: Dorsa Sadigh\n\nAssistant Professor\, Computer Sc
+ ience and Electrical Engineering\nStanford University\n\nTalk summary:\nTh
+ ere have been significant advances in the field of robot learning in the p
+ ast decade. However\, many challenges still remain when considering how ro
+ bot learning can advance interactive agents such as robots that collaborat
+ e with humans\, and how interactions can enable more effective robot learn
+ ing. This introduces an opportunity for developing new robot learning algo
+ rithms that can help advance interactive autonomy. In this talk\, I will d
+ iscuss a formalism for human-robot interaction built upon ideas from repre
+ sentation learning. This formalism provides an orthogonal perspective to t
+ heory of mind\, and provides a path for scalable partner modeling. Specifi
+ cally\, I will first discuss the notion of latent strategies — low dimen
+ sional representations sufficient for capturing non-stationary interaction
+ s. I will then talk about some of the challenges of learning such represen
+ tations when interacting with humans\, and how we can develop data-efficie
+ nt techniques that enable actively learning computational models of human 
+ behavior from interaction data: demonstrations\, preferences\, or physical
+  corrections. Finally\, I will wrap up by discussing some of the challenge
+ s that arise when considering long-term repeated interactions\, and how pa
+ rtner-specific conventions can be leveraged for fast adaptation on new col
+ laborative tasks.\n\nTo participate:\n\nJoin from PC\, Mac\, Linux\, iOS o
+ r Android:\nhttps://yale.zoom.us/j/99603813308\nOr Telephone：203-432-966
+ 6 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 996 0381 3308\nIntern
+ ational numbers available:\nhttps://yale.zoom.us/u/ackR7i1KJw\n\nSpeaker B
+ io:\nDorsa Sadigh is an assistant professor in Computer Science and Electr
+ ical Engineering at Stanford University.  Her research interests lie in t
+ he intersection of robotics\, learning\, and control theory. Specifically\
+ , she is interested in developing algorithms for safe and adaptive human-r
+ obot interaction. Dorsa has received her doctoral degree in Electrical Eng
+ ineering and Computer Sciences (EECS) from UC Berkeley in 2017\, and has r
+ eceived her bachelor’s degree in EECS from UC Berkeley in 2012.  She is
+  awarded the NSF CAREER award\, the AFOSR Young Investigator award\, the I
+ EEE TCCPS early career award\, the Google Faculty Award\, and the Amazon F
+ aculty Research Award.\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-
+ dorsa-sadigh-stanford
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-dorsa-sadigh-stanford
