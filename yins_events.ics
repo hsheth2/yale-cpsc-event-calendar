@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Andreas Loukas
-DTSTART;VALUE=DATE-TIME:20210428T160000
-DTEND;VALUE=DATE-TIME:20210428T170000
-DESCRIPTION:Event description:\n“Erdos Goes Neural: an Unsupervised Lear
- ning Framework for Combinatorial Optimization on Graphs”\n\nSpeaker: And
- reas Loukas\, PhD\nResearch Scientist\, Ecole Polytechnique Fédérale de
-  Lausanne\n\nTalk summary:\nCombinatorial optimization (CO) problems are n
- otoriously challenging for neural networks\, especially in the absence of 
- labelled instances. This work proposes an unsupervised learning framework 
- for CO problems on graphs that can provide integral solutions of certiﬁe
- d quality. Inspired by Erdos’ probabilistic method\, we use a neural net
- work to parametrize a probability distribution over sets. Crucially\, we s
- how that when the network is optimized w.r.t. a suitably chosen loss\, the
-  learned distribution contains\, with controlled probability\, a low-cost 
- integral solution that obeys the constraints of the combinatorial problem.
-  The probabilistic proof of existence is then derandomized to decode the d
- esired solutions. We demonstrate the efﬁcacy of this approach to obtain 
- valid solutions to the maximum clique problem and to perform local graph c
- lustering. Our method achieves competitive results on both real datasets a
- nd synthetic hard instances.\n\nRelated paper:\n\nhttps://neurips.cc/virtu
- al/2020/public/poster_49f85a9ed090b20c8bed85a5923c669f.html\n\nTo Particip
- ate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us
- /j/93549207738\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 5
- 68 7788\nMeeting ID: 935 4920 7738\nInternational numbers available:\nhttp
- s://yale.zoom.us/u/adX04g55h7\n\nSpeaker bio:\nI am a research scientist i
- n EPFL\, Switzerland. My research focuses on the foundations and applicati
- ons of graph methods in machine learning and data science. I aim to find e
- legant explanations for phenomena associated with learning and to exploit 
- them in order to design specialized learning machines. I am also intereste
- d in graph problems in signal processing and theoretical computer science\
- , as well as in the mathematical analysis of neural networks.  website:\n
- https://andreasloukas.blog/\n\n.\n\n\nhttps://yins.yale.edu/event/yins-sem
- inar-andreas-loukas
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-andreas-loukas
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Seminar: Emily Breza (Harvard)
 DTSTART;VALUE=DATE-TIME:20210505T200000
 DTEND;VALUE=DATE-TIME:20210505T210000
