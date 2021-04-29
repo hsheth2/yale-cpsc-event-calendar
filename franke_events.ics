@@ -27,4 +27,15 @@ STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/learning-doing-science-video-proj
  ect
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inference Project Summer Schedule
+DTSTART;VALUE=DATE-TIME:20210831T154500
+DTEND;VALUE=DATE-TIME:20210831T164500
+DESCRIPTION:Event description:\nPlease visit our\nInference Project\npage 
+ for our summer schedule of talks.\n\n\nhttps://frankeprogram.yale.edu/even
+ t/inference-project-summer-schedule
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-summer-schedule
+END:VEVENT
 END:VCALENDAR
