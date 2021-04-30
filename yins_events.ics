@@ -101,6 +101,27 @@ STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-dorsa-sadigh-stanford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:YINS Distinguished Lecturer: Robert Nowak (Univ of Wisconsin-Madis
+ on)
+DTSTART;VALUE=DATE-TIME:20210526T160000
+DTEND;VALUE=DATE-TIME:20210526T170000
+DESCRIPTION:Event description:\nYINS Distinguished Lecturer\n\nSpeaker: Ro
+ bert D. Nowak\n\nNosbusch Professor of Engineering\, University of Wiscons
+ in-Madison\n\nTo Participate:\nJoin from PC\, Mac\, Linux\, iOS or Android
+ :\nhttps://yale.zoom.us/j/98536270943\nOr Telephone：203-432-9666 (2-ZOOM
+  if on-campus) or 646 568 7788\nMeeting ID: 985 3627 0943\nInternational n
+ umbers available:\nhttps://yale.zoom.us/u/adQwraHGOC\n\n\nSpeaker bio:\nRo
+ bert Nowak holds the Nosbusch Professorship in Engineering at the Universi
+ ty of Wisconsin-Madison\, where his research focuses on signal processing\
+ , machine learning\, optimization\, and statistics.\n\n.\n\n\nhttps://yins
+ .yale.edu/event/yins-distinguished-lecturer-robert-nowak-univ-wisconsin-ma
+ dison
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-distinguished-lecturer-robert-nowak-u
+ niv-wisconsin-madison
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:YINS Seminar: Csaba Szepesvari (Univ of Alberta)
 DTSTART;VALUE=DATE-TIME:20210602T160000
 DTEND;VALUE=DATE-TIME:20210602T170000
