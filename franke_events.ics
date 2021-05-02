@@ -28,21 +28,6 @@ URL:https://frankeprogram.yale.edu/event/learning-doing-science-video-proj
  ect
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Videos of Past Events
-DTSTART;VALUE=DATE-TIME:20210501T200000
-DTEND;VALUE=DATE-TIME:20210501T210000
-DESCRIPTION:Event description:\nSince March 2020\, The Franke Program in S
- cience and the Humanities has continued our robust programming schedule wi
- th virtual talks.  We have been delighted to note the large number of att
- endees for each and the interest many have expressed in seeing the videos 
- of the talks.  Please note that most of our sessions are recorded\, and t
- he videorecordings are available on our website in the\nCalendar Archive s
- ection\n.\n\n\nhttps://frankeprogram.yale.edu/event/videos-past-events
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/videos-past-events
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inference Project Summer Schedule
 DTSTART;VALUE=DATE-TIME:20210831T154500
 DTEND;VALUE=DATE-TIME:20210831T164500
