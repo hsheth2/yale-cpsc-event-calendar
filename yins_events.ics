@@ -2,61 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Emily Breza (Harvard)
-DTSTART;VALUE=DATE-TIME:20210505T200000
-DTEND;VALUE=DATE-TIME:20210505T210000
-DESCRIPTION:Event description:\nYINS Seminar: Emily Breza (Harvard)\n\n“
- Effects of caste-based affirmative action in governance on socio-economic 
- networks and resource provision”\n\n\nSpeaker: Emily Breza\n\nAssistant 
- Professor of Economics\, Harvard University\n\n\nTalk Summary:\nWe study t
- he impacts of political affirmative action for historically disadvantaged 
- caste groups in Bihar\, India on village social and economic networks. The
- se networks shape the socio-economic landscape\, serving many functions su
- ch as facilitating social learning\, risk-sharing and public good provisio
- n. To estimate the causal impacts of the policy\, we conduct surveys in co
- mmunities around the discontinuity in the state government’s policy assi
- gnment rule.\n\nWe have two main findings. First\, the marginal constituen
- cy assigned to the reservation policy experiences a drop in cross-caste ne
- twork links and an increase in homophily. Consistent with increased homoph
- ily\, reservation leads to less social learning when information is introd
- uced to the community – on average there is worse knowledge about health
-  preserving behaviors during the COVID-19 pandemic.  Further\, the declin
- e in meetings across caste is met with weakened norms about the appropriat
- eness of cross-caste interactions. Second\, we turn to resource access and
-  find that the reservation improves access to redistribution schemes as we
- ll as the agility of governmental response to provide resources in respons
- e to shocks. Both lower and upper castes benefited\, indicating no crowd-o
- ut at the expense of upper castes.\n\nStrikingly\, we find no decline in t
- he salience of caste concerns and no shifts in beliefs about trustworthine
- ss\, competence\, or work ethic\, among others\, across caste. So\, the in
- creased homophily is not met with increased animus\; norm shifts are drive
- n by meeting shifts. Our findings suggest that there is scope for pairing 
- reservation with other interventions to mitigate the impacts of affirmativ
- e action on fractionalization while preserving the resource allocation ben
- efits.\n\n(joint with Arun Chandrasekhar and M. R. Sharan)\n\nTo Participa
- te:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/
- j/94931232873\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 56
- 8 7788\nMeeting ID: 949 3123 2873\nInternational numbers available:\nhttps
- ://yale.zoom.us/u/abRKgdHr5h\n\nSpeaker Bio:\nEmily Breza is an Assistant 
- Professor in the Economics Department at Harvard University. She received 
- her PhD in Economics from MIT and her BA from Yale University. Prior to jo
- ining Harvard\, Emily held a faculty appointment at Columbia Business Scho
- ol. She has faculty affiliations at the National Bureau of Economic Resear
- ch\, the Jameel Poverty Action Lab\, the International Growth Centre\, and
-  the Centre for Economic Policy Research.  She is a 2020 recipient of the
-  Sloan Research Fellowship.\n\nHer research focuses on development economi
- cs\, social networks\, and household finance. She has conducted experiment
- s to optimize information disseminate through village social networks in t
- he context of the Indian demonetization and has studied how the social net
- work interacts with the types of formal and informal financial products co
- mmon to developing countries. Emily has also developed empirical methods f
- or measuring socio-economic networks.\n\n.\n\n\nhttps://yins.yale.edu/even
- t/yins-seminar-emily-breza-harvard
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-emily-breza-harvard
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Seminar: Dorsa Sadigh (Stanford)
 DTSTART;VALUE=DATE-TIME:20210519T160000
 DTEND;VALUE=DATE-TIME:20210519T170000
@@ -156,5 +101,21 @@ DESCRIPTION:Event description:\nYINS Seminar\n\nSpeaker: Csaba Szepesvari
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-csaba-szepesvari-univ-alberta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS Alum Summer Seminar: Rasmus Kyng (ETH Zurich)
+DTSTART;VALUE=DATE-TIME:20210616T160000
+DTEND;VALUE=DATE-TIME:20210616T170000
+DESCRIPTION:Event description:\nYINS Alum Summer Seminar\n\nSpeaker:\nRasm
+ us Kyng\n\nAssistant Professor\, ETH Zurich\n\nTo participate:\n\nJoin fro
+ m PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/97920219362\n
+ Or Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting
+  ID: 979 2021 9362\nInternational numbers available:\nhttps://yale.zoom.us
+ /u/afjMjLJlB\n\n.\n\n\nhttps://yins.yale.edu/event/yins-alum-summer-semina
+ r-rasmus-kyng-eth-zurich
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-alum-summer-seminar-rasmus-kyng-eth-z
+ urich
 END:VEVENT
 END:VCALENDAR
