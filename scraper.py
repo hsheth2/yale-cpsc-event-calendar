@@ -13,15 +13,10 @@ def parse_event_urls_from_feed(domain, feed):
     view = soup.body.find(class_='view-id-calendar_list')
 
     urls = []
-    for link in view.find_all('a'):
+    for link in view.select('.views-field-title a'):
         url = link.get('href')
         if url[0] == '/':
             url = f'{domain}{url}'
-        if url.startswith('https://yale.zoom.us'):
-            # Sometimes we accidentally pick up zoom links as event URLs.
-            # We want to filter these out, since we'll get them later when
-            # we parse the event descriptions.
-            continue
         urls.append(url)
     return urls
 
