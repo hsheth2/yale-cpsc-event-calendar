@@ -118,33 +118,4 @@ STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-alum-summer-seminar-rasmus-kyng-eth-z
  urich
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Recovering tree models via spectral graph theory" with speakers Y
- ariv Aizenbud and Ariel Jaffe (Yale Math)
-DTSTART;VALUE=DATE-TIME:20210514T170000
-DTEND;VALUE=DATE-TIME:20210514T180000
-DESCRIPTION:Event description:\n“Recovering tree models via spectral gra
- ph theory”\n\nSpeakers: Yariv Aizenbud and Ariel Jaffe (Yale Math)\n\nAb
- stract:\nModeling data by latent tree models is a powerful approach in mul
- tiple machine learning applications (e.g. speech analysis and bioinformati
- cs). A canonical example of this setting is the “tree of life”\, where
-  the evolutionary history of a set of organisms is inferred by their DNA. 
- Generally\, in latent tree models\, the main task is to infer the structur
- e of the tree\, given only observations of its terminal nodes. While infer
- ring a tree structure is a common task\, in many applications\, a robust a
- lgorithm for the recovery of large trees is still missing.\n\nIn this talk
- \, we will see a new method for the recovery of latent tree models\, which
-  is based on spectral graph theory. We show that the hidden tree structure
-  is strongly related to the spectral properties of a fully connected graph
- \, defined over the terminal nodes of the tree. Finally\, we see that whil
- e in terms of accuracy the method performs similarly to state-of-the-art m
- ethods\, it is significantly more computationally efficient.\n\nTo partici
- pate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.u
- s/j/98218919780\n\n.\n\n\nhttps://yins.yale.edu/event/recovering-tree-mode
- ls-spectral-graph-theory-speakers-yariv-aizenbud-and-ariel-jaffe-yale-math
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/recovering-tree-models-spectral-graph-theo
- ry-speakers-yariv-aizenbud-and-ariel-jaffe-yale-math
-END:VEVENT
 END:VCALENDAR
