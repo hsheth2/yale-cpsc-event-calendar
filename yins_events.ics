@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Distinguished Lecturer: Robert Nowak (Univ of Wisconsin-Madis
- on)
-DTSTART;VALUE=DATE-TIME:20210526T160000
-DTEND;VALUE=DATE-TIME:20210526T170000
-DESCRIPTION:Event description:\nYINS Distinguished Lecturer\n\n“Banach S
- pace Representer Theorems for Neural Networks”\n\nSpeaker: Robert D. Now
- ak\n\nNosbusch Professor of Engineering\, University of Wisconsin-Madison\
- n\nTalk summary:\nThis talk presents a variational framework to understand
-  the properties of functions learned by neural networks fit to data. The f
- ramework is based on total variation semi-norms defined in the Radon domai
- n\, which is naturally suited to the analysis of neural activation functio
- ns (ridge functions). Finding a function that fits a dataset while having 
- a small semi-norm is posed as an infinite dimensional variational optimiza
- tion.  We derive a representer theorem showing that finite-width neural n
- etworks are solutions to the variational problem. The representer theorem 
- is reminiscent of the classical reproducing kernel Hilbert space represent
- er theorem\, but we show that neural networks are solutions in a non-Hilbe
- rtian Banach space. While the learning problems are posed in an infinite d
- imensional function space\, similar to kernel methods\, they can be recast
-  as finite-dimensional neural network training problems. These neural netw
- ork training problems have regularizers which are related to the well-know
- n weight decay and path-norm regularizers. Thus\, the results provide new 
- insight into functional characteristics of overparameterized neural networ
- ks and also into the design neural network regularizers.  Our results als
- o provide new theoretical support for a number of empirical findings in de
- ep learning architectures including the benefits of “skip connections”
- \, sparsity\, and low-rank structures.\n\nThis is joint work with Rahul Pa
- rhi.\n\nTo participate:\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhtt
- ps://yale.zoom.us/j/98536270943\nOr Telephone：203-432-9666 (2-ZOOM if on
- -campus) or 646 568 7788\nMeeting ID: 985 3627 0943\nInternational numbers
-  available:\nhttps://yale.zoom.us/u/adQwraHGOC\n\n\nSpeaker bio:\nRobert N
- owak holds the Nosbusch Professorship in Engineering at the University of 
- Wisconsin-Madison\, where his research focuses on signal processing\, mach
- ine learning\, optimization\, and statistics.\n\n.\n\n\nhttps://yins.yale.
- edu/event/yins-distinguished-lecturer-robert-nowak-univ-wisconsin-madison
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-distinguished-lecturer-robert-nowak-u
- niv-wisconsin-madison
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Seminar: Csaba Szepesvari (Univ of Alberta)
 DTSTART;VALUE=DATE-TIME:20210602T160000
 DTEND;VALUE=DATE-TIME:20210602T170000
