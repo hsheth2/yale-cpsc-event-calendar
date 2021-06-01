@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Learning by Doing Science Video Project
-DTSTART;VALUE=DATE-TIME:20201217T210000
-DTEND;VALUE=DATE-TIME:20201217T220000
-DESCRIPTION:Event description:\nRemember our Eureka! contest?  Thanks to 
- the pandemic and the alterations in our life that it has caused\, we decid
- ed to re-orient our energies and effort slightly to help many of you who a
- re suddenly faced with the task of educating your kids at home.  In colla
- boration with MIT’s Full Steam Ahead Project\, who have considerable exp
- ertise in early childhood education\, and keeping with the Franke Program 
- spirit\, we would like to offer videos that teach basic scientific concept
- s using creative and original visual means unrestricted by disciplinary b
- oundaries.\n\nIn order to help engage young curious minds\, we have embark
- ed on this project to collate 100 simple science experiments that can be d
- one at home with simple everyday materials.  We are soliciting ideas from
-  everyone.  Details can be found on the\nproject website\n.\n\nPlease sub
- mit your ideas for videos of experiments\;  if selected\, you will be inv
- ited to send in your video.  Plus\, everyone is invited to also upload th
- eir own versions of the selected videos for sharing on our\nYouTube Channe
- l.\n\nLooking forward to hearing your exciting ideas!\n\n\nhttps://frankep
- rogram.yale.edu/event/learning-doing-science-video-project
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/learning-doing-science-video-proj
- ect
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  “Causal Inference in Com
  plex Non-linear Systems:  A Cautionary Tale”
 DTSTART;VALUE=DATE-TIME:20210617T190000
