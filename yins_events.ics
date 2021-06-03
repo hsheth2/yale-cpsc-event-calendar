@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Csaba Szepesvari (Univ of Alberta)
-DTSTART;VALUE=DATE-TIME:20210602T160000
-DTEND;VALUE=DATE-TIME:20210602T170000
-DESCRIPTION:Event description:\nYINS Seminar: “What is tractable in larg
- e scale reinforcement learning?”\n\nSpeaker: Csaba Szepesvari\n\nProfes
- sor & Canada CIFAR AI Chair\, Amii\nDepartment of Computing Science\nUnive
- rsity of Alberta\n\nTalk summary:\nMarkov decision processes (MDPs) captur
- e some of the most important aspects of decision making under uncertainty 
- and as such they are at the heart of many efforts to decision making under
-  uncertainty. However\, MDPs are “flat” with no structure and as such\
- , planning and learning in MDPs with multidimensional state spaces\, commo
- n in applications\, is provably intractable. Yet\, reinforcement learning 
- methods have been quite successful in providing strong solutions to some o
- f these seemingly intractable problems. In this talk I will present my vie
- w of how to think about these successes by presenting a framework where th
- e key idea is to give algorithms hints that can create backdoors to crack 
- otherwise intractable problems. The talk will then dive into categorizing 
-  hints based on whether they can indeed succeed at doing this for the spe
- cial case when the hints are given in the form of constraints on how value
-  functions look like. As we shall see\, seemingly minor differences betwee
- n hints can cause some hints to work\, while others fail.\n\nTo participat
- e:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j
- /94695053313\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568
-  7788\nMeeting ID: 946 9505 3313\nInternational numbers available:\nhttps:
- //yale.zoom.us/u/at3KTCmpZ\n\nSpeaker bio:\n\nhttps://sites.ualberta.ca/~s
- zepesva/\n\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-csaba-szepes
- vari-univ-alberta
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-csaba-szepesvari-univ-alberta
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Alum Summer Seminar: Rasmus Kyng (ETH Zurich)
 DTSTART;VALUE=DATE-TIME:20210616T160000
 DTEND;VALUE=DATE-TIME:20210616T170000
