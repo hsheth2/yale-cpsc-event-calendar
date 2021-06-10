@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Inference Project Talk and Discussion:  “Causal Inference in Com
- plex Non-linear Systems:  A Cautionary Tale”
+SUMMARY:Inference Project Talk and Conversation:  “Causal Inference in C
+ omplex Non-linear Systems:  A Cautionary Tale”
 DTSTART;VALUE=DATE-TIME:20210617T190000
 DTEND;VALUE=DATE-TIME:20210617T200000
 DESCRIPTION:Event description:\nNon-linear phenomena like climate systems 
@@ -31,15 +31,15 @@ DESCRIPTION:Event description:\nNon-linear phenomena like climate systems
  /tJYof–rqTIpGtRbnn0BCoTAcv_jjM6KvV…\n\n\n\nAfter registering\, you wil
  l receive a confirmation email containing information about joining the me
  eting.\n\n\nhttps://frankeprogram.yale.edu/event/inference-project-talk-an
- d-discussion-causal-inference-complex-non-linear-systems-cautionary
+ d-conversation-causal-inference-complex-non-linear-systems-cautionary
 LOCATION:Zoom
 STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
- sion-causal-inference-complex-non-linear-systems-cautionary
+URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-conver
+ sation-causal-inference-complex-non-linear-systems-cautionary
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inference Project Talk and Discussion:  “Causal Inference in Com
- plex Non-linear Systems:  A Cautionary Tale”
+SUMMARY:Inference Project Talk and Conversation:  “Causal Inference in C
+ omplex Non-linear Systems:  A Cautionary Tale”
 DTSTART;VALUE=DATE-TIME:20210617T190000
 DTEND;VALUE=DATE-TIME:20210617T200000
 DESCRIPTION:Event description:\nNon-linear phenomena like climate systems 
@@ -67,11 +67,11 @@ DESCRIPTION:Event description:\nNon-linear phenomena like climate systems
  /tJYof–rqTIpGtRbnn0BCoTAcv_jjM6KvV…\n\n\n\nAfter registering\, you wil
  l receive a confirmation email containing information about joining the me
  eting.\n\n\nhttps://frankeprogram.yale.edu/event/inference-project-talk-an
- d-discussion-causal-inference-complex-non-linear-systems-cautionary
+ d-conversation-causal-inference-complex-non-linear-systems-cautionary
 LOCATION:Zoom
 STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
- sion-causal-inference-complex-non-linear-systems-cautionary
+URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-conver
+ sation-causal-inference-complex-non-linear-systems-cautionary
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inference Project Summer Schedule
