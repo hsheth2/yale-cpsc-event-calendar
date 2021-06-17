@@ -1,20 +1,4 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
-BEGIN:VEVENT
-SUMMARY:YINS Alum Summer Seminar: Rasmus Kyng (ETH Zurich)
-DTSTART;VALUE=DATE-TIME:20210616T160000
-DTEND;VALUE=DATE-TIME:20210616T170000
-DESCRIPTION:Event description:\nYINS Alum Summer Seminar\n\nSpeaker:\nRasm
- us Kyng\n\nAssistant Professor\, ETH Zurich\n\nTo participate:\n\nJoin fro
- m PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/97920219362\n
- Or Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting
-  ID: 979 2021 9362\nInternational numbers available:\nhttps://yale.zoom.us
- /u/afjMjLJlB\n\n.\n\n\nhttps://yins.yale.edu/event/yins-alum-summer-semina
- r-rasmus-kyng-eth-zurich
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-alum-summer-seminar-rasmus-kyng-eth-z
- urich
-END:VEVENT
 END:VCALENDAR
