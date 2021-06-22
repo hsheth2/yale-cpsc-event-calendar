@@ -1,4 +1,21 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
+BEGIN:VEVENT
+SUMMARY:YINS Alumnae Seminar: Anup Rao (Adobe Research)
+DTSTART;VALUE=DATE-TIME:20210811T160000
+DTEND;VALUE=DATE-TIME:20210811T170000
+DESCRIPTION:Event description:\nYINS Alumnae Seminar\n\nSpeaker: Anup Rao\
+ n\nResearch Scientist\, Adobe Research\nFormerly\, beloved YINS graduate s
+ tudent advised by Daniel Spielman\n\nTo participate:\n\nJoin from PC\, Mac
+ \, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/92015011527\nOr Telepho
+ ne：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 920 1
+ 501 1527\nInternational numbers available:\nhttps://yale.zoom.us/u/acHGdkW
+ p2U\n\n.\n\n\nhttps://yins.yale.edu/event/yins-alumnae-seminar-anup-rao-ad
+ obe-research
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-alumnae-seminar-anup-rao-adobe-resear
+ ch
+END:VEVENT
 END:VCALENDAR
