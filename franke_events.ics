@@ -2,6 +2,72 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
+SUMMARY:Inference Project Talk and Discussion:  “No Cause for Concern: I
+ ndefinite Causal Ordering as a Tool for Understanding Entanglement”
+DTSTART;VALUE=DATE-TIME:20210719T190000
+DTEND;VALUE=DATE-TIME:20210719T200000
+DESCRIPTION:Event description:\nJoin us on Monday\, July 19 for an Inferen
+ ce Project talk by Professor Elise Crull of The Department of Philosophy a
+ t City University of New York.\n\nTalk details will follow shortly.\n\nReg
+ ister in advance for this meeting and for the following day’s moderated 
+ conversation with Professor Y\nemima Ben-Menahem.\n\nhttps://yale.zoom.us/
+ meeting/register/tJckdOmqpjwuGNTol7KszO3Az816nIxQka…\n\n\n\nAfter regist
+ ering\, you will receive a confirmation email containing information about
+  joining the meeting.\n\n\n\nAfter studying physics and astronomy at Calvi
+ n University\, Professor Crull took the plunge into interdisciplinary wate
+ rs\, earning both an M.A. and Ph.D in History & Philosophy of Science from
+  the University of Notre Dame. Before coming to CUNY in 2014\, she held po
+ stdoctoral positions at the University of Aberdeen and at the Hebrew Unive
+ rsity’s Edelstein Center for History & Philosophy of Science\, Technolog
+ y and Medicine (where she spent many blissful hours huddled over documents
+  in the Einstein Archives).\nWhile most of her research to date concerns 
+ historical and philosophical foundations of quantum mechanics\, Crull is a
+ lso drawn to questions in the hinterland between contemporary metaphysics 
+ and physics.  In particular\, she is interested in the philosophical impl
+ ications of entanglement and quantum decoherence – how these phenomena m
+ odify traditional views about the structure of space and time\, and what e
+ xplanatory roles they might play within various approaches to quantum grav
+ ity.\n\n\nhttps://frankeprogram.yale.edu/event/inference-project-talk-and-
+ discussion-no-cause-concern-indefinite-causal-ordering-tool
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
+ sion-no-cause-concern-indefinite-causal-ordering-tool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inference Project Talk and Discussion:  “No Cause for Concern: I
+ ndefinite Causal Ordering as a Tool for Understanding Entanglement”
+DTSTART;VALUE=DATE-TIME:20210719T190000
+DTEND;VALUE=DATE-TIME:20210719T200000
+DESCRIPTION:Event description:\nJoin us on Monday\, July 19 for an Inferen
+ ce Project talk by Professor Elise Crull of The Department of Philosophy a
+ t City University of New York.\n\nTalk details will follow shortly.\n\nReg
+ ister in advance for this meeting and for the following day’s moderated 
+ conversation with Professor Y\nemima Ben-Menahem.\n\nhttps://yale.zoom.us/
+ meeting/register/tJckdOmqpjwuGNTol7KszO3Az816nIxQka…\n\n\n\nAfter regist
+ ering\, you will receive a confirmation email containing information about
+  joining the meeting.\n\n\n\nAfter studying physics and astronomy at Calvi
+ n University\, Professor Crull took the plunge into interdisciplinary wate
+ rs\, earning both an M.A. and Ph.D in History & Philosophy of Science from
+  the University of Notre Dame. Before coming to CUNY in 2014\, she held po
+ stdoctoral positions at the University of Aberdeen and at the Hebrew Unive
+ rsity’s Edelstein Center for History & Philosophy of Science\, Technolog
+ y and Medicine (where she spent many blissful hours huddled over documents
+  in the Einstein Archives).\nWhile most of her research to date concerns 
+ historical and philosophical foundations of quantum mechanics\, Crull is a
+ lso drawn to questions in the hinterland between contemporary metaphysics 
+ and physics.  In particular\, she is interested in the philosophical impl
+ ications of entanglement and quantum decoherence – how these phenomena m
+ odify traditional views about the structure of space and time\, and what e
+ xplanatory roles they might play within various approaches to quantum grav
+ ity.\n\n\nhttps://frankeprogram.yale.edu/event/inference-project-talk-and-
+ discussion-no-cause-concern-indefinite-causal-ordering-tool
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
+ sion-no-cause-concern-indefinite-causal-ordering-tool
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Inference Project Summer Schedule
 DTSTART;VALUE=DATE-TIME:20210831T154500
 DTEND;VALUE=DATE-TIME:20210831T164500
