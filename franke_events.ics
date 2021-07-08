@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Inference Project Talk:  “No Cause for Concern: Indefinite Causa
- l Ordering as a Tool for Understanding Entanglement”
-DTSTART;VALUE=DATE-TIME:20210719T190000
-DTEND;VALUE=DATE-TIME:20210719T200000
-DESCRIPTION:Event description:\nUnderstanding the sorts of explanations an
- d inferences that causal processes countenance is of course of great inter
- est to philosophers and physicists (among others).  But what can be said a
- bout physical processes that fail to exhibit classical causal structure? I
- ndefinite causal ordering among events made possible by quantum correlatio
- ns has become a fruitful arena of study recently\, yielding new insights f
- or quantum computing and communication\, approaches to quantum gravity\, a
- nd even for foundational issues in quantum mechanics.\nIn this talk\, Prof
- essor Elise Crull will focus on how indefinite causal ordering may provide
-  deeper understanding regarding the central property of quantum mechanics:
-  entanglement.  She will then consider what this case study might imply re
- garding traditional philosophical views of cause as a relation between ind
- ependent events.\nRegister in advance for this meeting and for the followi
- ng day’s moderated conversation with Professor Yemima Ben-Menahem of the
-  Department of Philosophy at The Hebrew University of Jerusalem.\n\n\nhttp
- s://frankeprogram.yale.edu/event/inference-project-talk-no-cause-concern-i
- ndefinite-causal-ordering-tool-understanding
-LOCATION:Whitney Humanities Center (WALL53)\, Auditorium
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/inference-project-talk-no-cause-c
- oncern-indefinite-causal-ordering-tool-understanding
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  “No Cause for Concern: I
  ndefinite Causal Ordering as a Tool for Understanding Entanglement”
 DTSTART;VALUE=DATE-TIME:20210719T190000
@@ -73,33 +46,6 @@ LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
  sion-no-cause-concern-indefinite-causal-ordering-tool
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inference Project Talk:  “No Cause for Concern: Indefinite Causa
- l Ordering as a Tool for Understanding Entanglement”
-DTSTART;VALUE=DATE-TIME:20210720T190000
-DTEND;VALUE=DATE-TIME:20210720T200000
-DESCRIPTION:Event description:\nUnderstanding the sorts of explanations an
- d inferences that causal processes countenance is of course of great inter
- est to philosophers and physicists (among others).  But what can be said a
- bout physical processes that fail to exhibit classical causal structure? I
- ndefinite causal ordering among events made possible by quantum correlatio
- ns has become a fruitful arena of study recently\, yielding new insights f
- or quantum computing and communication\, approaches to quantum gravity\, a
- nd even for foundational issues in quantum mechanics.\nIn this talk\, Prof
- essor Elise Crull will focus on how indefinite causal ordering may provide
-  deeper understanding regarding the central property of quantum mechanics:
-  entanglement.  She will then consider what this case study might imply re
- garding traditional philosophical views of cause as a relation between ind
- ependent events.\nRegister in advance for this meeting and for the followi
- ng day’s moderated conversation with Professor Yemima Ben-Menahem of the
-  Department of Philosophy at The Hebrew University of Jerusalem.\n\n\nhttp
- s://frankeprogram.yale.edu/event/inference-project-talk-no-cause-concern-i
- ndefinite-causal-ordering-tool-understanding-0
-LOCATION:Whitney Humanities Center (WALL53)\, Auditorium
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/inference-project-talk-no-cause-c
- oncern-indefinite-causal-ordering-tool-understanding-0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  “No Cause for Concern: I
@@ -5410,5 +5356,59 @@ LOCATION:Whitney Humanities Center (WALL53)\, Auditorium
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/inference-project-talk-no-cause-c
  oncern-indefinite-causal-ordering-tool-understanding-194
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inference Project Talk:  “No Cause for Concern: Indefinite Causa
+ l Ordering as a Tool for Understanding Entanglement”
+DTSTART;VALUE=DATE-TIME:20220131T200000
+DTEND;VALUE=DATE-TIME:20220131T210000
+DESCRIPTION:Event description:\nUnderstanding the sorts of explanations an
+ d inferences that causal processes countenance is of course of great inter
+ est to philosophers and physicists (among others).  But what can be said a
+ bout physical processes that fail to exhibit classical causal structure? I
+ ndefinite causal ordering among events made possible by quantum correlatio
+ ns has become a fruitful arena of study recently\, yielding new insights f
+ or quantum computing and communication\, approaches to quantum gravity\, a
+ nd even for foundational issues in quantum mechanics.\nIn this talk\, Prof
+ essor Elise Crull will focus on how indefinite causal ordering may provide
+  deeper understanding regarding the central property of quantum mechanics:
+  entanglement.  She will then consider what this case study might imply re
+ garding traditional philosophical views of cause as a relation between ind
+ ependent events.\nRegister in advance for this meeting and for the followi
+ ng day’s moderated conversation with Professor Yemima Ben-Menahem of the
+  Department of Philosophy at The Hebrew University of Jerusalem.\n\n\nhttp
+ s://frankeprogram.yale.edu/event/inference-project-talk-no-cause-concern-i
+ ndefinite-causal-ordering-tool-understanding-195
+LOCATION:Whitney Humanities Center (WALL53)\, Auditorium
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-talk-no-cause-c
+ oncern-indefinite-causal-ordering-tool-understanding-195
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inference Project Talk:  “No Cause for Concern: Indefinite Causa
+ l Ordering as a Tool for Understanding Entanglement”
+DTSTART;VALUE=DATE-TIME:20220201T200000
+DTEND;VALUE=DATE-TIME:20220201T210000
+DESCRIPTION:Event description:\nUnderstanding the sorts of explanations an
+ d inferences that causal processes countenance is of course of great inter
+ est to philosophers and physicists (among others).  But what can be said a
+ bout physical processes that fail to exhibit classical causal structure? I
+ ndefinite causal ordering among events made possible by quantum correlatio
+ ns has become a fruitful arena of study recently\, yielding new insights f
+ or quantum computing and communication\, approaches to quantum gravity\, a
+ nd even for foundational issues in quantum mechanics.\nIn this talk\, Prof
+ essor Elise Crull will focus on how indefinite causal ordering may provide
+  deeper understanding regarding the central property of quantum mechanics:
+  entanglement.  She will then consider what this case study might imply re
+ garding traditional philosophical views of cause as a relation between ind
+ ependent events.\nRegister in advance for this meeting and for the followi
+ ng day’s moderated conversation with Professor Yemima Ben-Menahem of the
+  Department of Philosophy at The Hebrew University of Jerusalem.\n\n\nhttp
+ s://frankeprogram.yale.edu/event/inference-project-talk-no-cause-concern-i
+ ndefinite-causal-ordering-tool-understanding-196
+LOCATION:Whitney Humanities Center (WALL53)\, Auditorium
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-talk-no-cause-c
+ oncern-indefinite-causal-ordering-tool-understanding-196
 END:VEVENT
 END:VCALENDAR
