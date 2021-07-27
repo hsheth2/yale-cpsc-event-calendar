@@ -1,4 +1,46 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
+BEGIN:VEVENT
+SUMMARY:Dissertation Defense - Alexander Tong
+DTSTART;VALUE=DATE-TIME:20210825T190000
+DTEND;VALUE=DATE-TIME:20210825T200000
+DESCRIPTION:Event description:\nDissertation Defense\nAlexander Tong\n\nTi
+ tle: Geometric Priors for Data Driven Discovery in Biomedical Domains\n\nA
+ dvisor: Smita Krishnaswamy\n\nOther committee members:\nJames Aspnes\nRon
+ ald Coifman\nGuy Wolf (U Montreal / MILA)\n\nAbstract:\n\nRecent advances 
+ in biomedical data collection allows the collection of massive datasets me
+ asuring thousands of features in thousands to millions of individual cells
+ . This data has the potential to advance our understanding of biological m
+ echanisms at a previously impossible resolution. However\, there are few m
+ ethods to understand data of this scale and type. While neural networks ha
+ ve made tremendous progress on supervised learning problems\, there is sti
+ ll much work to be done in making them useful for discovery in data with m
+ ore difficult to represent supervision. The flexibility and expressiveness
+  of neural networks is sometimes a hindrance in these less supervised doma
+ ins\, as is the case when extracting knowledge from biomedical data. One t
+ ype of prior knowledge that is more common in biological data comes in the
+  form of geometric constraints.\n\nIn this thesis\, we aim to leverage thi
+ s geometric knowledge to create scalable and interpretable models to under
+ stand this data. Encoding geometric priors into neural network and graph m
+ odels allows us to characterize the models’ solutions as they relate to 
+ the fields of graph signal processing and optimal transport. These links a
+ llow us to understand and interpret this datatype. We divide this work int
+ o three sections. The first borrows concepts from graph signal processing 
+ to construct more interpretable and performant neural networks by constrai
+ ning and structuring the architecture. The second borrows from the theory 
+ of optimal transport to perform anomaly detection and trajectory inference
+  efficiently and with theoretical guarantees. The third examines how to co
+ mpare distributions over an underlying manifold\, which can be used to und
+ erstand how different perturbations or conditions relate. For this we desi
+ gn an efficient approximation of optimal transport based on diffusion over
+  a joint cell graph. Together\, these works utilize our prior understandin
+ g of the data geometry to create more useful models of the data. We apply 
+ these methods to molecular graphs\, images\, single-cell sequencing\, and 
+ health record data.\n\n\nhttps://cpsc.yale.edu/event/dissertation-defense-
+ alexander-tong
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/dissertation-defense-alexander-tong
+END:VEVENT
 END:VCALENDAR
