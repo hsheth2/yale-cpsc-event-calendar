@@ -1,4 +1,4 @@
-name: build and deploy
+name: gh-pages
 
 on:
   schedule:
@@ -23,6 +23,7 @@ jobs:
         pip install -r ./requirements.txt
     - name: Check
       run: |
+        black --check .
         mypy .
 
     - name: Generate calendar

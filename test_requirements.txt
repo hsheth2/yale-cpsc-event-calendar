@@ -1,0 +1,5 @@
+mypy
+black
+types-requests
+types-pytz
+types-click
