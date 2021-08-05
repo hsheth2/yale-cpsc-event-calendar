@@ -4,6 +4,7 @@ on:
   schedule:
   - cron: "20 */4 * * *"
   push:
+  pull_requests:
 
 jobs:
   build-deploy:
@@ -22,12 +23,20 @@ jobs:
         pip install --upgrade pip
         pip install -r ./requirements.txt
 
+    - name: Test
+      if: ${{ github.event_name != 'schedule' }}
+      run: |
+        pip install -r ./test_requirements.txt
+        black --check .
+        mypy .
+
     - name: Generate calendar
       run: |
         python main.py generate
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
+      if: ${{ github.ref == 'refs/heads/master' }}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./gen
