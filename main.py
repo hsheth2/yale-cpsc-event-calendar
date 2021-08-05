@@ -1,9 +1,11 @@
 import collections
 from pprint import pprint
+from typing import List, Tuple
 import jinja2
 import datetime
 import pathlib
 import shutil
+import click
 
 from scraper import fetch_upcoming_urls, fetch_upcoming_events
 from ics import generate_ics
@@ -46,8 +48,14 @@ comp_society = DataSource(
     description='Yale Computation and Society Initiative',
 )
 
+all_data_sources: List[DataSource] = [
+    cpsc,
+    franke,
+    yins,
+    comp_society,
+]
 
-def main(sources):
+def _fetch_data_sources(sources: List[DataSource]):
     out_dir = 'gen'
     pathlib.Path(out_dir).mkdir(exist_ok=True)
     shutil.copyfile('templates/favicon.ico', f'{out_dir}/favicon.ico')
@@ -79,10 +87,28 @@ def main(sources):
         index_file.write(index)
 
 
+@click.group()
+def main():
+    pass
+
+@main.command()
+@click.option('--sources', multiple=True)
+def fetch_data_sources(sources: Tuple[str, ...]):
+    registered_sources: List[DataSource]
+    if sources:
+        unused_sources = list(sources)
+        registered_sources = []
+        for potential_source in all_data_sources:
+            if potential_source.shortname in sources:
+                registered_sources.append(potential_source)
+                unused_sources.remove(potential_source.shortname)
+        
+        if unused_sources:
+            raise ValueError(f'unknown source types: {unused_sources}')
+    else:
+        registered_sources = all_data_sources[:]
+
+    _fetch_data_sources(registered_sources)
+
 if __name__ == '__main__':
-    main([
-        cpsc, 
-        franke, 
-        yins, 
-        comp_society,
-    ])
+    main()

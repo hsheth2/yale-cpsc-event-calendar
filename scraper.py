@@ -2,6 +2,11 @@ import requests
 from bs4 import BeautifulSoup
 import pytz
 import datetime
+import re
+
+IGNORED_URL_PATTERNS = [
+    re.compile(r'^https://yale.zoom.us/'),
+]
 
 
 def parse_event_urls_from_feed(domain, feed):
@@ -17,7 +22,10 @@ def parse_event_urls_from_feed(domain, feed):
         url = link.get('href')
         if url[0] == '/':
             url = f'{domain}{url}'
-        urls.append(url)
+        if not any(pattern.match(url) for pattern in IGNORED_URL_PATTERNS):
+            urls.append(url)
+        else:
+            print(f'skipping {url} - matches an ignore regex')
     return urls
 
 

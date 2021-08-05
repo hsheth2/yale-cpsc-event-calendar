@@ -5,3 +5,4 @@ icalendar
 datetime
 pytz
 Jinja2
+click
