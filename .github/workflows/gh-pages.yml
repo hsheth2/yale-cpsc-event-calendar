@@ -21,10 +21,6 @@ jobs:
       run: |
         pip install --upgrade pip
         pip install -r ./requirements.txt
-    - name: Check
-      run: |
-        black --check .
-        mypy .
 
     - name: Generate calendar
       run: |
