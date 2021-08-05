@@ -4,20 +4,12 @@ import datetime
 import pathlib
 import shutil
 import click
-import dataclasses
 
+from common import DataSource
 from scraper import fetch_upcoming_urls, fetch_upcoming_events
 from ics import generate_ics
 
 DOMAIN_ROOT = 'https://yale-calendars.sheth.io'
-
-@dataclasses.dataclass
-class DataSource:
-    shortname: str
-    domain: str
-    feeds: List[str]
-    title: str
-    description: str
 
 cpsc = DataSource(
     shortname='CPSC',
@@ -59,7 +51,7 @@ all_data_sources: List[DataSource] = [
     comp_society,
 ]
 
-def _fetch_data_sources(sources: List[DataSource]) -> None:
+def _generate_from_sources(sources: List[DataSource]) -> None:
     out_dir = 'gen'
     pathlib.Path(out_dir).mkdir(exist_ok=True)
     shutil.copyfile('templates/favicon.ico', f'{out_dir}/favicon.ico')
@@ -92,12 +84,12 @@ def _fetch_data_sources(sources: List[DataSource]) -> None:
 
 
 @click.group()
-def main():
+def main() -> None:
     pass
 
 @main.command()
 @click.option('--sources', multiple=True)
-def fetch_data_sources(sources: Tuple[str, ...]):
+def generate(sources: Tuple[str, ...]) -> None:
     registered_sources: List[DataSource]
     if sources:
         unused_sources = list(sources)
@@ -112,7 +104,7 @@ def fetch_data_sources(sources: Tuple[str, ...]):
     else:
         registered_sources = all_data_sources[:]
 
-    _fetch_data_sources(registered_sources)
+    _generate_from_sources(registered_sources)
 
 if __name__ == '__main__':
     main()

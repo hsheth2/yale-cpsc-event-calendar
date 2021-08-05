@@ -27,7 +27,7 @@ jobs:
 
     - name: Generate calendar
       run: |
-        python main.py fetch-data-sources
+        python main.py generate
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3

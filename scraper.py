@@ -1,11 +1,13 @@
-from typing import List
+from typing import List, Pattern
 import requests
 from bs4 import BeautifulSoup
 import pytz
 import datetime
 import re
 
-IGNORED_URL_PATTERNS: List[re.Pattern] = [
+from common import Event
+
+IGNORED_URL_PATTERNS: List[Pattern] = [
     re.compile(r'^https://yale.zoom.us/'),
 ]
 
@@ -30,7 +32,7 @@ def parse_event_urls_from_feed(domain: str, feed: str) -> List[str]:
     return urls
 
 
-def scrape_event_info(event_url: str):
+def scrape_event_info(event_url: str) -> Event:
     page = requests.get(event_url)
 
     soup = BeautifulSoup(page.text, 'html5lib')
@@ -68,27 +70,28 @@ def scrape_event_info(event_url: str):
         description = 'No description provided'
     description += '\n\n' + event_url
 
-    return {
-        'title': title,
-        'time': time_real,
-        'location': location_name,
-        'description': description,
-        'url': event_url,
-    }
+    return Event(
+        title=title,
+        time=time_real,
+        location=location_name,
+        description=description,
+        url=event_url,
+    )
 
 
-def fetch_upcoming_urls(domain, feeds):
+def fetch_upcoming_urls(domain: str, feeds: List[str]) -> List[str]:
     urls = []
     for feed in feeds:
         urls += parse_event_urls_from_feed(domain, feed)
     return urls
 
-def fetch_upcoming_events(urls):
+
+def fetch_upcoming_events(urls: List[str]) -> List[Event]:
     events = []
     for url in urls:
         print(f'starting {url}')
         event_info = scrape_event_info(url)
-        print(f"Event: {event_info['title']}")
+        print(f"Event: {event_info.title}")
         events.append(event_info)
 
     return events
