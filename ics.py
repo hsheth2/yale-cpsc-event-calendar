@@ -2,7 +2,7 @@ import datetime
 import icalendar
 
 
-def generate_ics(title, desc, events):
+def generate_ics(title: str, desc: str, events) -> bytes:
     calendar = icalendar.Calendar()
     calendar.add('X-WR-CALNAME', title)
     calendar.add('X-WR-CALDESC', desc)
@@ -12,7 +12,7 @@ def generate_ics(title, desc, events):
     return calendar.to_ical()
 
 
-def ics_event_from_event(event):
+def ics_event_from_event(event) -> icalendar.Event:
     cal = icalendar.Event()
 
     cal.add('SUMMARY', event['title'])

@@ -1,19 +1,23 @@
-import collections
-from pprint import pprint
 from typing import List, Tuple
 import jinja2
 import datetime
 import pathlib
 import shutil
 import click
+import dataclasses
 
 from scraper import fetch_upcoming_urls, fetch_upcoming_events
 from ics import generate_ics
 
 DOMAIN_ROOT = 'https://yale-calendars.sheth.io'
 
-DataSource = collections.namedtuple('DataSource',
-    ['shortname', 'domain', 'feeds', 'title', 'description'])
+@dataclasses.dataclass
+class DataSource:
+    shortname: str
+    domain: str
+    feeds: List[str]
+    title: str
+    description: str
 
 cpsc = DataSource(
     shortname='CPSC',
@@ -55,7 +59,7 @@ all_data_sources: List[DataSource] = [
     comp_society,
 ]
 
-def _fetch_data_sources(sources: List[DataSource]):
+def _fetch_data_sources(sources: List[DataSource]) -> None:
     out_dir = 'gen'
     pathlib.Path(out_dir).mkdir(exist_ok=True)
     shutil.copyfile('templates/favicon.ico', f'{out_dir}/favicon.ico')

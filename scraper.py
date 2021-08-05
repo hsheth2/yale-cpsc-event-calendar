@@ -1,15 +1,16 @@
+from typing import List
 import requests
 from bs4 import BeautifulSoup
 import pytz
 import datetime
 import re
 
-IGNORED_URL_PATTERNS = [
+IGNORED_URL_PATTERNS: List[re.Pattern] = [
     re.compile(r'^https://yale.zoom.us/'),
 ]
 
 
-def parse_event_urls_from_feed(domain, feed):
+def parse_event_urls_from_feed(domain: str, feed: str) -> List[str]:
     content = requests.get(feed)
 
     soup = BeautifulSoup(content.text, 'html5lib')
@@ -29,7 +30,7 @@ def parse_event_urls_from_feed(domain, feed):
     return urls
 
 
-def scrape_event_info(event_url):
+def scrape_event_info(event_url: str):
     page = requests.get(event_url)
 
     soup = BeautifulSoup(page.text, 'html5lib')

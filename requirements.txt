@@ -6,3 +6,7 @@ datetime
 pytz
 Jinja2
 click
+
+types-requests
+types-pytz
+types-click
