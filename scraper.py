@@ -8,67 +8,67 @@ import re
 from common import Event
 
 IGNORED_URL_PATTERNS: List[Pattern] = [
-    re.compile(r'^https://yale.zoom.us/'),
+    re.compile(r"^https://yale.zoom.us/"),
 ]
 
 
 def parse_event_urls_from_feed(domain: str, feed: str) -> List[str]:
     content = requests.get(feed)
 
-    soup = BeautifulSoup(content.text, 'html5lib')
+    soup = BeautifulSoup(content.text, "html5lib")
     soup.prettify()
 
-    view = soup.body.find(class_='view-id-calendar_list')
+    view = soup.body.find(class_="view-id-calendar_list")
 
     urls = []
-    for link in view.select('.views-field-title a'):
-        url = link.get('href')
-        if url[0] == '/':
-            url = f'{domain}{url}'
+    for link in view.select(".views-field-title a"):
+        url = link.get("href")
+        if url[0] == "/":
+            url = f"{domain}{url}"
         if not any(pattern.match(url) for pattern in IGNORED_URL_PATTERNS):
             urls.append(url)
         else:
-            print(f'skipping {url} - matches an ignore regex')
+            print(f"skipping {url} - matches an ignore regex")
     return urls
 
 
 def scrape_event_info(event_url: str) -> Event:
     page = requests.get(event_url)
 
-    soup = BeautifulSoup(page.text, 'html5lib')
+    soup = BeautifulSoup(page.text, "html5lib")
     soup.prettify()
 
-    content = soup.find(id='region-content')
+    content = soup.find(id="region-content")
 
-    title_region = content.find(id='page-title')
+    title_region = content.find(id="page-title")
     title = title_region.get_text().strip()
 
     # TODO: Capture start and end times.
-    time_region = content.find(class_='field-name-field-event-time')
-    time_element = time_region.find(class_='date-display-start')
+    time_region = content.find(class_="field-name-field-event-time")
+    time_element = time_region.find(class_="date-display-start")
     if not time_element:
         # Fallback to date-display-single if start is not available.
-        time_element = time_region.find(class_='date-display-single')
-    time_raw = time_element.get('content')
+        time_element = time_region.find(class_="date-display-single")
+    time_raw = time_element.get("content")
     time_aware = datetime.datetime.strptime(time_raw, "%Y-%m-%dT%H:%M:%S%z")
     time_real = time_aware.astimezone(tz=pytz.utc).replace(tzinfo=None)
 
     try:
-        location_region = content.find(class_='field-name-field-location')
-        location_region = location_region.find(class_='location')
-        location_region.find('span', class_='map-icon').extract()
-        location_name = location_region.find(class_='fn').get_text().strip()
+        location_region = content.find(class_="field-name-field-location")
+        location_region = location_region.find(class_="location")
+        location_region.find("span", class_="map-icon").extract()
+        location_name = location_region.find(class_="fn").get_text().strip()
     except:
         location_name = "TBA"
 
-    description_region = content.find(class_='field-name-body')
+    description_region = content.find(class_="field-name-body")
     if description_region:
         description_texts = description_region.findAll(text=True)
-        description = '\n'.join(text.strip() for text in description_texts)
+        description = "\n".join(text.strip() for text in description_texts)
         # description = ''.join(description_texts)
     else:
-        description = 'No description provided'
-    description += '\n\n' + event_url
+        description = "No description provided"
+    description += "\n\n" + event_url
 
     return Event(
         title=title,
@@ -89,7 +89,7 @@ def fetch_upcoming_urls(domain: str, feeds: List[str]) -> List[str]:
 def fetch_upcoming_events(urls: List[str]) -> List[Event]:
     events = []
     for url in urls:
-        print(f'starting {url}')
+        print(f"starting {url}")
         event_info = scrape_event_info(url)
         print(f"Event: {event_info.title}")
         events.append(event_info)
