@@ -59,6 +59,22 @@ URL:https://yins.yale.edu/event/yins-alumnae-seminar-georgios-isofidis-tu-
  delft
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:YINS Industry Seminar: Vitaly Feldman (Apple AI)
+DTSTART;VALUE=DATE-TIME:20210915T040000
+DTEND;VALUE=DATE-TIME:20210915T050000
+DESCRIPTION:Event description:\nYINS Industry Seminar\n\nSpeaker: Vitaly F
+ eldman\n\nResearch Scientist\, Apple AI\n\nTo participate:\nJoin from PC\,
+  Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/95960621157\nOr Tel
+ ephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 9
+ 59 6062 1157\nInternational numbers available:\nhttps://yale.zoom.us/u/acK
+ NWHMbeA\n\n.\n\n\nhttps://yins.yale.edu/event/yins-industry-seminar-vitaly
+ -feldman-apple-ai
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-industry-seminar-vitaly-feldman-apple
+ -ai
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:YINS Seminar: Daniel Kuhn (EPFL)
 DTSTART;VALUE=DATE-TIME:20210922T160000
 DTEND;VALUE=DATE-TIME:20210922T170000
