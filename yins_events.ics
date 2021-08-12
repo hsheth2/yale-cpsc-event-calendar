@@ -2,36 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Alumnae Seminar: Anup Rao (Adobe Research)
-DTSTART;VALUE=DATE-TIME:20210811T160000
-DTEND;VALUE=DATE-TIME:20210811T170000
-DESCRIPTION:Event description:\nYINS Alumnae Seminar\n\n“Machine Unlearn
- ing via Algorithmic Stability”\n\nSpeaker: Anup Rao\n\nResearch Scientis
- t\, Adobe Research\nFormerly\, beloved YINS graduate student advised by Da
- niel Spielman\n\nTalk summary:\nWe study the problem of machine unlearning
- \, updating a trained machine learning model when part of the data is dele
- ted. We identify a notion of algorithmic stability\, Total Variation (TV) 
- stability\,  and show why it is suitable for the goal of exact unlearning
- . For convex risk minimization problems\, we design TV-stable algorithms b
- ased on noisy Stochastic Gradient Descent (SGD). Our key contribution is t
- he design of corresponding efficient unlearning algorithms\, and are based
-  on constructing a (maximal) coupling of Markov chains for the noisy SGD p
- rocedure. To understand the trade-offs between accuracy and unlearning eff
- iciency\, we give upper and lower bounds on excess empirical and populatio
- n risk of TV stable algorithms for convex risk minimization.   This is ba
- sed on joint work with Enayat Ullah\, Tung Mai\, Ryan Rossi and Raman Aror
- a\, and  will be presented at COLT 2021.\n\nTo participate:\n\nJoin from 
- PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/92015011527\nOr
-  Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting I
- D: 920 1501 1527\nInternational numbers available:\nhttps://yale.zoom.us/u
- /acHGdkWp2U\n\n.\n\n.\n\n\nhttps://yins.yale.edu/event/yins-alumnae-semina
- r-anup-rao-adobe-research
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-alumnae-seminar-anup-rao-adobe-resear
- ch
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Alumnae Seminar: Georgios Isofidis (TU Delft)
 DTSTART;VALUE=DATE-TIME:20210818T160000
 DTEND;VALUE=DATE-TIME:20210818T170000
