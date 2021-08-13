@@ -101,48 +101,31 @@ DTSTART;VALUE=DATE-TIME:20210830T190000
 DTEND;VALUE=DATE-TIME:20210830T200000
 DESCRIPTION:Event description:\nTheoretical approaches have always played 
  an important role in biology\, dating back to Mendel’s peas. In today’
- s era of genomics and big data in biology\,\n\nstatistical and computation
- al tools are even more vital for biologists seeking to infer causation in 
- living systems. To illustrate the range of methods\, from modelling to mac
- hine learning\, and how they contribute to understanding biological mechan
- isms\, I will pick examples from some of the core problems my lab has been
-  investigating as case studies. Starting with the assembly of proteins int
- o complexes\, I will move on to the single cell revolution in genomics and
-  our quest to develop cell atlases of the human body. I will finish with o
- ur work leveraging these atlases to understand how COVID-19 affects the bo
- dy. The examples will show how intertwined and complementary ‘wet’ (i.
- e. experimental) and ‘dry’ (i.e. computational/theoretical) approaches
-  are in today’s biology.\n\n\n\n\n\nSarah Teichmann\n\n\n\n\nHead of Cel
- lular Genetics Programme\n\nWellcome Sanger Institute\, United Kingdom\n\n
- \nSarah Teichmann is interested in global principles of regulation of gene
-  expression and protein complexes\, with a focus on immunity. Sarah did he
- r PhD at the MRC Laboratory of Molecular Biology\, Cambridge\, UK and was 
- a Beit Memorial Fellow at University College London. She started her group
-  at the MRC Laboratory of Molecular Biology in 2001\, discovering stereoty
- pical pathways of assembly and evolution of protein complexes during this 
- time. In 2013\, she moved to the Wellcome Genome Campus in Hinxton/Cambrid
- ge\, jointly with the EMBL-European Bioinformatics Institute and the Wellc
- ome Sanger Institute (WSI). In February 2016 she became Head of the Cellul
- ar Genetics Programme at the WSI and co-founded the Human Cell Atlas inter
- national initiative which she continues to lead. Sarah was elected a membe
- r of EMBO in 2012\, a fellow of the Academy of Medical Sciences in 2015 an
- d a fellow of the Royal Society in 2020.\n\nTalk details to be announced s
- oon.\n\n\n\nSarah Teichmann\n\nHead of Cellular Genetics Programme\n\nWell
- come Sanger Institute\, United Kingdom\n\n\nSarah Teichmann is interested 
- in global principles of regulation of gene expression and protein complexe
- s\, with a focus on immunity. Sarah did her PhD at the MRC Laboratory of M
- olecular Biology\, Cambridge\, UK and was a Beit Memorial Fellow at Univer
- sity College London. She started her group at the MRC Laboratory of Molecu
- lar Biology in 2001\, discovering stereotypical pathways of assembly and e
- volution of protein complexes during this time. In 2013\, she moved to the
-  Wellcome Genome Campus in Hinxton/Cambridge\, jointly with the EMBL-Europ
- ean Bioinformatics Institute and the Wellcome Sanger Institute (WSI). In F
- ebruary 2016 she became Head of the Cellular Genetics Programme at the WSI
-  and co-founded the Human Cell Atlas international initiative which she co
- ntinues to lead. Sarah was elected a member of EMBO in 2012\, a fellow of 
- the Academy of Medical Sciences in 2015 and a fellow of the Royal Society 
- in 2020.\n\n\n\nhttps://frankeprogram.yale.edu/event/inference-project-tal
- k-and-discussion-inference-nature-cause-and-effect-molecular-biology
+ s era of genomics and big data in biology\, statistical and computational
+  tools are even more vital for biologists seeking to infer causation in li
+ ving systems. To illustrate the range of methods\, from modelling to machi
+ ne learning\, and how they contribute to understanding biological mechanis
+ ms\, I will pick examples from some of the core problems my lab has been i
+ nvestigating as case studies. Starting with the assembly of proteins into 
+ complexes\, I will move on to the single cell revolution in genomics and o
+ ur quest to develop cell atlases of the human body. I will finish with our
+  work leveraging these atlases to understand how COVID-19 affects the body
+ . The examples will show how intertwined and complementary ‘wet’ (i.e.
+  experimental) and ‘dry’ (i.e. computational/theoretical) approaches a
+ re in today’s biology.\n\nThe conversant for the August 31\, 2021 discus
+ sion will be\nNeil Lawrence\n\, the inaugural DeepMind Professor of Machin
+ e Learning at the University of Cambridge.  He has been working on machin
+ e learning models for over 20 years.  He recently returned to academia af
+ ter three years as Director of Machine Learning at Amazon.  Professor Law
+ rence’s main interest is the interaction of machine learning with the ph
+ ysical world.  This interest was triggered by deploying machine learning 
+ in the African context\, where ‘end-to-end’ solutions are normally req
+ uired.  This has inspired new research directions at the interface of mac
+ hine learning and systems research\, this work is funded by a Senior AI Fe
+ llowship from the Alan Turing Institute.  Professor Lawrence is also visi
+ ting Professor at the University of Sheffield and the co-host of Talking M
+ achines.\n\n\nhttps://frankeprogram.yale.edu/event/inference-project-talk-
+ and-discussion-inference-nature-cause-and-effect-molecular-biology
 LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
