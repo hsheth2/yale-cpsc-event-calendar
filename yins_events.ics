@@ -111,4 +111,20 @@ LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-industry-seminar-yasaman-bahri-google
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS Seminar: Marinka Zitnik (Harvard)
+DTSTART;VALUE=DATE-TIME:20211103T160000
+DTEND;VALUE=DATE-TIME:20211103T170000
+DESCRIPTION:Event description:\nYINS Seminar\n\nSpeaker: Marinka Zitnik\n
+ \n\nAssistant Professor of Biomedical Informatics\, Harvard Medical School
+ \nZitnik Lab:\nhttps://zitniklab.hms.harvard.edu\n\n\nTo participate:\nJoi
+ n from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/95292478
+ 213\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMe
+ eting ID: 952 9247 8213\nInternational numbers available:\nhttps://yale.zo
+ om.us/u/abCoS8cam8\n\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-ma
+ rinka-zitnik-harvard
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-marinka-zitnik-harvard
+END:VEVENT
 END:VCALENDAR
