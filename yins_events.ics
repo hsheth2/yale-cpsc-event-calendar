@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Alumnae Seminar: Georgios Isofidis (TU Delft)
-DTSTART;VALUE=DATE-TIME:20210818T160000
-DTEND;VALUE=DATE-TIME:20210818T170000
-DESCRIPTION:Event description:\nYINS Alumnae Seminar\n\n“Network Resourc
- e Management for Edge Analytic Services”\n\nSpeaker: Georgios Iosifidis\
- nTU Delft\n\nTalk summary:\nSupporting edge analytic services\, such as Io
- T diagnostics and mobile video processing\, is one of the most exciting pr
- omises of future mobile networks. These services involve the collection an
- d processing of voluminous data streams\, right at the network edge\, so a
- s to offer real-time and accurate inferences to different types of users. 
- However\, edge analytics create previously-unseen resource management chal
- lenges for mobile networks. In this talk we will discuss (some of) the bot
- tleneck issues that hamper the efficient deployment of these services base
- d on experimental findings\; present tailored network resource management 
- solutions\; and demonstrate their efficacy using representative use-cases.
- \n\nTo participate:\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps:/
- /yale.zoom.us/j/96219229916\nOr Telephone：203-432-9666 (2-ZOOM if on-cam
- pus) or 646 568 7788\nMeeting ID: 962 1922 9916\nInternational numbers ava
- ilable:\nhttps://yale.zoom.us/u/adSYBvBvjM\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
- \n\n\n\n\n\n.\n\n\nhttps://yins.yale.edu/event/yins-alumnae-seminar-georgi
- os-isofidis-tu-delft
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-alumnae-seminar-georgios-isofidis-tu-
- delft
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Industry Seminar: Vitaly Feldman (Apple AI)
 DTSTART;VALUE=DATE-TIME:20210915T040000
 DTEND;VALUE=DATE-TIME:20210915T050000
