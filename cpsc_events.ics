@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:Dissertation Defense - Lihi Idan
-DTSTART;VALUE=DATE-TIME:20210827T140000
-DTEND;VALUE=DATE-TIME:20210827T150000
-DESCRIPTION:Event description:\nDissertation Defense\nLihi Idan\n\nTitle:
-  Data exploitation and privacy protection in the era of data sharing.\n\n
- Advisor: Joan Feigenbaum\n\nOther committee members:\nAvi Silberschatz\nB
- ryan Ford (EPFL)\nCharalampos Papamanthou\n\nAbstract:\n\nAs the amount\, 
- complexity\, and value of data available in both private and public sector
- s has risen sharply\, the competing goals of data privacy and data utility
-  have challenged both organizations and individuals.  My work addresses b
- oth goals.\n\nFirst\, I will present a novel Bayesian-network (BN) approac
- h to the mining of publicly observable social-network data. The effectiven
- ess of the method is demonstrated using multiple models that aim at infer
- ring the voting behavior of social-network users in the 2016 US presidenti
- al election. When enhanced with dynamic BNs that model decision making as 
- a complex process that both influences and is influenced by static factors
-  (such as personality traits and demographic categories) and dynamic facto
- rs (such as triggering events\, interests\, and emotions)\, this method ca
- n be used to infer social-network users’ intentions regarding actions th
- at they have not yet taken in areas such as health and finance.\n\nNext\, 
- I will present\nPRShare\n\, a system that I have designed and implemented 
- and that enables efficient\, privacy-preserving interorganizational data s
- haring. PRShare makes essential use of the novel cryptographic technique o
- f\nattribute-based encryption with oblivious attribute translation\n\, an 
- extension of attribute-based encryption that supports expressive decryptio
- n policies for both data and metadata attributes.\n\n\nhttps://cpsc.yale.e
- du/event/dissertation-defense-lihi-idan
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/dissertation-defense-lihi-idan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Christopher Harshaw
 DTSTART;VALUE=DATE-TIME:20210923T141500
 DTEND;VALUE=DATE-TIME:20210923T151500
