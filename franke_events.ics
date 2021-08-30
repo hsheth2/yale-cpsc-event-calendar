@@ -43,47 +43,6 @@ URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
  sion-inference-nature-cause-and-effect-molecular-biology
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inference Project Talk and Discussion: The Inference of Nature: Ca
- use and Effect in Molecular Biology
-DTSTART;VALUE=DATE-TIME:20210830T190000
-DTEND;VALUE=DATE-TIME:20210830T200000
-DESCRIPTION:Event description:\nTheoretical approaches have always played 
- an important role in biology\, dating back to Mendel’s peas. In today’
- s era of genomics and big data in biology\, statistical and computational 
- tools are even more vital for biologists seeking to infer causation in liv
- ing systems. To illustrate the range of methods\, from modelling to machin
- e learning\, and how they contribute to understanding biological mechanism
- s\, Dr. Teichmann will pick examples from some of the core problems her la
- b has been investigating as case studies. Starting with the assembly of pr
- oteins into complexes\, she will move on to the single cell revolution in 
- genomics and her quest to develop cell atlases of the human body. She will
-  finish with her work leveraging these atlases to understand how COVID-19 
- affects the body. The examples will show how intertwined and complementary
-  ‘wet’ (i.e. experimental) and ‘dry’ (i.e. computational/theoretic
- al) approaches are in today’s biology.\nThe conversant for the August 31
- \, 2021 discussion will be Neil Lawrence\, the inaugural DeepMind Professo
- r of Machine Learning at the University of Cambridge.  He has been working
-  on machine learning models for over 20 years.  He recently returned to ac
- ademia after three years as Director of Machine Learning at Amazon.  Profe
- ssor Lawrence’s main interest is the interaction of machine learning wit
- h the physical world.  This interest was triggered by deploying machine le
- arning in the African context\, where ‘end-to-end’ solutions are norma
- lly required.  This has inspired new research directions at the interface 
- of machine learning and systems research\, this work is funded by a Senior
-  AI Fellowship from the Alan Turing Institute.  Professor Lawrence is also
-  visiting Professor at the University of Sheffield and the co-host of Talk
- ing Machines.\nRegister in advance for this meeting and the August 31 disc
- ussion:\n\nhttps://yale.zoom.us/meeting/register/tJUlc-GvqjwpGNLMdmNfeBpi5
- M0I1ae9d8\n…\n\nAfter registering\, you will receive a confirmation emai
- l containing information about joining the meeting.\n\n\nhttps://frankepro
- gram.yale.edu/event/inference-project-talk-and-discussion-inference-nature
- -cause-and-effect-molecular-biology-0
-LOCATION:Whitney Humanities Center (WALL53)\, Auditorium
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
- sion-inference-nature-cause-and-effect-molecular-biology-0
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inference Project Summer Schedule
 DTSTART;VALUE=DATE-TIME:20210831T154500
 DTEND;VALUE=DATE-TIME:20210831T164500
