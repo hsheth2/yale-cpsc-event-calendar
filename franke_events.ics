@@ -4,8 +4,8 @@ X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  The Inference of Nature: C
  ause and Effect in Molecular Biology
-DTSTART;VALUE=DATE-TIME:20210830T190000
-DTEND;VALUE=DATE-TIME:20210830T200000
+DTSTART;VALUE=DATE-TIME:20210831T190000
+DTEND;VALUE=DATE-TIME:20210831T200000
 DESCRIPTION:Event description:\nTheoretical approaches have always played 
  an important role in biology\, dating back to Mendel’s peas. In today’
  s era of genomics and big data in biology\, statistical and computational
@@ -31,27 +31,16 @@ DESCRIPTION:Event description:\nTheoretical approaches have always played
  he interface of machine learning and systems research\, this work is funde
  d by a Senior AI Fellowship from the Alan Turing Institute.  Professor La
  wrence is also visiting Professor at the University of Sheffield and the c
- o-host of Talking Machines.\n\nRegister in advance for this meeting and th
- e August 31 discussion:\n\nhttps://yale.zoom.us/meeting/register/tJUlc-Gvq
- jwpGNLMdmNfeBpi5M0I1ae9d8…\n\n\n\nAfter registering\, you will receive a
-  confirmation email containing information about joining the meeting.\n\n\
- nhttps://frankeprogram.yale.edu/event/inference-project-talk-and-discussio
- n-inference-nature-cause-and-effect-molecular-biology
+ o-host of Talking Machines.\n\nRegister in advance for the August 31 discu
+ ssion:\n\nhttps://yale.zoom.us/meeting/register/tJwkdOGtqzojGtCvbgvaN4COV-
+ jPoq0vyZkR\n\n\n\nAfter registering\, you will receive a confirmation emai
+ l containing information about joining the meeting.\n\n\nhttps://frankepro
+ gram.yale.edu/event/inference-project-talk-and-discussion-inference-nature
+ -cause-and-effect-molecular-biology
 LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
  sion-inference-nature-cause-and-effect-molecular-biology
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inference Project Summer Schedule
-DTSTART;VALUE=DATE-TIME:20210831T154500
-DTEND;VALUE=DATE-TIME:20210831T164500
-DESCRIPTION:Event description:\nPlease visit our\nInference Project\npage 
- for our summer schedule of talks.\n\n\nhttps://frankeprogram.yale.edu/even
- t/inference-project-summer-schedule
-LOCATION:Zoom
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/inference-project-summer-schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Videos of Past Events
@@ -67,5 +56,16 @@ DESCRIPTION:Event description:\nSince March 2020\, The Franke Program in S
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/videos-past-events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inference Project Talk Schedule
+DTSTART;VALUE=DATE-TIME:20211221T164500
+DTEND;VALUE=DATE-TIME:20211221T174500
+DESCRIPTION:Event description:\nPlease visit our\nInference Project\npage 
+ for our schedule of talks now through December 2021.\n\n\nhttps://frankepr
+ ogram.yale.edu/event/inference-project-talk-schedule
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-talk-schedule
 END:VEVENT
 END:VCALENDAR
