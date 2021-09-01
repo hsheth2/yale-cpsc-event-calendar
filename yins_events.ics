@@ -97,6 +97,35 @@ STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-daniel-hsu-columbia
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:YINS Seminar: Steve Hanneke (TTIC)
+DTSTART;VALUE=DATE-TIME:20211013T160000
+DTEND;VALUE=DATE-TIME:20211013T170000
+DESCRIPTION:Event description:\nYINS Seminar\n\nSpeaker: Steve Hanneke\n\n
+ Research Assistant Professor\, Toyota Technological Institute at Chicago\n
+ \nTo participate:\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://y
+ ale.zoom.us/j/96519593299\nOr Telephone：203-432-9666 (2-ZOOM if on-campu
+ s) or 646 568 7788\nMeeting ID: 965 1959 3299\nInternational numbers avail
+ able:\nhttps://yale.zoom.us/u/acN1RQemY6\n\nSpeaker bio:\n\nSteve Hanneke 
+ earned a Bachelor of Science degree in Computer Science from UIUC in 2005 
+ and a Ph.D. in Machine Learning from Carnegie Mellon University in 2009 wi
+ th a dissertation on the theoretical foundations of active learning. He wa
+ s a Visiting Assistant Professor in the Department of Statistics at Carneg
+ ie Mellon University from 2009-2012\, conducted research as an independent
+  scientist from 2012-2018\, and was a Visiting Lecturer at Princeton Unive
+ rsity in spring 2018. He joined TTIC as a Research Assistant Professor in 
+ fall 2018.\n\nSteve’s research explores the theory of machine learning: 
+ designing new learning algorithms capable of learning from fewer samples\,
+  understanding the benefits and capabilities of interactive machine learni
+ ng\, developing new perspectives on transfer learning and life-long learni
+ ng\, and revisiting the basic probabilistic assumptions at the foundation 
+ of learning theory.\n\nDr. Hanneke also has a personally maintained websit
+ e which can be found at\nhttp://www.ttic.edu/hanneke\n\n.\n\n\nhttps://yin
+ s.yale.edu/event/yins-seminar-steve-hanneke-ttic
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-steve-hanneke-ttic
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:YINS Seminar: Avrim Blum (TTIC)
 DTSTART;VALUE=DATE-TIME:20211020T160000
 DTEND;VALUE=DATE-TIME:20211020T170000
