@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Inference Project Talk and Discussion:  The Inference of Nature: C
- ause and Effect in Molecular Biology
-DTSTART;VALUE=DATE-TIME:20210831T190000
-DTEND;VALUE=DATE-TIME:20210831T200000
-DESCRIPTION:Event description:\nTheoretical approaches have always played 
- an important role in biology\, dating back to Mendel’s peas. In today’
- s era of genomics and big data in biology\, statistical and computational
-  tools are even more vital for biologists seeking to infer causation in li
- ving systems. To illustrate the range of methods\, from modelling to machi
- ne learning\, and how they contribute to understanding biological mechanis
- ms\, Dr. Teichmann will pick examples from some of the core problems her 
- lab has been investigating as case studies. Starting with the assembly of 
- proteins into complexes\, she will move on to the single cell revolution i
- n genomics and her quest to develop cell atlases of the human body. She w
- ill finish with her work leveraging these atlases to understand how COVID-
- 19 affects the body. The examples will show how intertwined and complement
- ary ‘wet’ (i.e. experimental) and ‘dry’ (i.e. computational/theore
- tical) approaches are in today’s biology.\n\nThe conversant for the Augu
- st 31\, 2021 discussion will be\nNeil Lawrence\n\, the inaugural DeepMind 
- Professor of Machine Learning at the University of Cambridge.  He has bee
- n working on machine learning models for over 20 years.  He recently retu
- rned to academia after three years as Director of Machine Learning at Amaz
- on.  Professor Lawrence’s main interest is the interaction of machine l
- earning with the physical world.  This interest was triggered by deployin
- g machine learning in the African context\, where ‘end-to-end’ solutio
- ns are normally required.  This has inspired new research directions at t
- he interface of machine learning and systems research\, this work is funde
- d by a Senior AI Fellowship from the Alan Turing Institute.  Professor La
- wrence is also visiting Professor at the University of Sheffield and the c
- o-host of Talking Machines.\n\nRegister in advance for the August 31 discu
- ssion:\n\nhttps://yale.zoom.us/meeting/register/tJwkdOGtqzojGtCvbgvaN4COV-
- jPoq0vyZkR\n\n\n\nAfter registering\, you will receive a confirmation emai
- l containing information about joining the meeting.\n\n\nhttps://frankepro
- gram.yale.edu/event/inference-project-talk-and-discussion-inference-nature
- -cause-and-effect-molecular-biology
-LOCATION:Zoom
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
- sion-inference-nature-cause-and-effect-molecular-biology
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Videos of Past Events
 DTSTART;VALUE=DATE-TIME:20210501T200000
 DTEND;VALUE=DATE-TIME:20210501T210000
@@ -56,6 +15,19 @@ DESCRIPTION:Event description:\nSince March 2020\, The Franke Program in S
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/videos-past-events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Distinguished Lecturer Series Talk by Professor Jordan Ellenberg
+DTSTART;VALUE=DATE-TIME:20211006T200000
+DTEND;VALUE=DATE-TIME:20211006T210000
+DESCRIPTION:Event description:\nWe are delighted that famed author and mat
+ hematician\nJordan Ellenberg\nwill be joining us for a virtual talk this s
+ emester.  Details to follow soon.\n\n\nhttps://frankeprogram.yale.edu/eve
+ nt/distinguished-lecturer-series-talk-professor-jordan-ellenberg
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/distinguished-lecturer-series-tal
+ k-professor-jordan-ellenberg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inference Project Talk Schedule
