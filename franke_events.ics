@@ -2,6 +2,45 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
+SUMMARY:Inference Project Talk and Discussion:  Professor Jenann Ismael
+DTSTART;VALUE=DATE-TIME:20210924T070000
+DTEND;VALUE=DATE-TIME:20210924T080000
+DESCRIPTION:Event description:\nThere has been an enormous burgeoning of i
+ nterest in causation across the science. One can open up a journal in micr
+ obiology and be assailed with detailed models of  the causal structure of
+  cells and proteins. One can find textbooks on the increasing array comput
+ ational tools for causal search and discovery\,and take classes devoted to
+  formal methods in causal modeling. Psychologists are unraveling new detai
+ ls about how people use causal concepts in reasoning. While details of the
+ se kinds are in abundant supply\, it remains a contested question what cau
+ sation is and how it fits into a physics-based ontology. In this talk\, Pr
+ ofessor Ismael is going to assemble the pieces of emerging scientific unde
+ rstanding of causation into an account of where (and  how) causation aris
+ es in the architecture of the cosmos\, with special attention to the conte
+ sted questions of where the direction of causation comes from and its rela
+ tionship agency.\n\nProfessor Jenann Ismael joined the faculty at Columbia
+  University in 2018.  Most of her work falls into two classes. The first
+  class circumscribes central concerns of the philosophy of physics. Intere
+ sts there include the structure of space and time\, the foundations of qua
+ ntum mechanics\, the role of simplicity and symmetry in physics\, question
+ s about the nature of probability\, natural laws and causal relations. The
+  second class includes mind\, cognition\, phenomenology\, and the nature o
+ f perspective.\n\n\nProfessor Ismael received her Ph.D. from Princeton Uni
+ versity\, was a Mellon Fellow at Stanford\, and taught at the University o
+ f Arizona before coming to Columbia.  She has held a number of prestigiou
+ s fellowships\, including an NEH fellowship at the National Humanities Cen
+ ter\, a Queen Elizabeth II Research Fellowship from the Australian Researc
+ h Council\, and fellowships from the Templeton Foundation and CASBS (Cente
+ r for Advanced Studies in Behavioral Science at Stanford).\n\n\n\nZoom det
+ ails and conversant information for the post-talk conversation to follow s
+ oon.\n\n\n\nhttps://frankeprogram.yale.edu/event/inference-project-talk-an
+ d-discussion-professor-jenann-ismael
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
+ sion-professor-jenann-ismael
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Distinguished Lecturer Series Talk by Professor Jordan Ellenberg
 DTSTART;VALUE=DATE-TIME:20211006T200000
 DTEND;VALUE=DATE-TIME:20211006T210000
