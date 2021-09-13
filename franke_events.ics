@@ -69,6 +69,70 @@ URL:https://frankeprogram.yale.edu/event/distinguished-lecturer-series-tal
  k-professor-jordan-ellenberg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Distinguished Speaker Series Talk by Hazel Carby
+DTSTART;VALUE=DATE-TIME:20211103T200000
+DTEND;VALUE=DATE-TIME:20211103T210000
+DESCRIPTION:Event description:\nHazel V. Carby\nHonFLSW\, FRSA\, is the Ch
+ arles C. and Dorothea S. Dilley Professor Emeritus of African American Stu
+ dies and Professor Emeritus of American Studies Yale University and a Fell
+ ow of the Royal Society for the Arts.  She is currently a Visiting Resear
+ ch Professor & Humanities Institute Faculty at Dartmouth College.\n\nShe i
+ s the author of\nImperial Intimacies\n\,\nA Tale of Two Islands\n(Verso\, 
+ 2019) selected as one of the “Books of the Year for 2019\,” by the\nTi
+ mes Literary Supplement\n.  Winner of the British Academy’s Nayef Al-Ro
+ dhan Prize for Global Cultural Understanding\, 2020.\n\nFinalist John Hope
+  Franklin Publication Prize\, ASA\, 2020.\n\nHighly Commended PEN Hessell-
+ Tiltman Prize\, 2020.\n\nAuthor of\nCultures in Babylon: Black Britain and
+  African America\n(1999)\;\nRace Men\n(1998)\;\nReconstructing Womanhood: 
+ The Emergence of the Afro-American Woman Novelist\n(1987)\; Hazel Carby is
+  also a co-author of\nThe Empire Strikes Back: Race and Racism in 70s Brit
+ ain\n(1982).\n\nZoom details and more information on this event to follow 
+ soon.\n\n\nhttps://frankeprogram.yale.edu/event/distinguished-speaker-seri
+ es-talk-hazel-carby
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/distinguished-speaker-series-talk
+ -hazel-carby
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Distinguished Speaker Series Talk by Mariano Sigman
+DTSTART;VALUE=DATE-TIME:20211208T210000
+DTEND;VALUE=DATE-TIME:20211208T220000
+DESCRIPTION:Event description:\nMariano Sigman was born in Argentina and g
+ rew up in Barcelona\, Spain. He obtained a master degree in physics at the
+  University of Buenos Aires and a PhD in neuroscience in New York. He move
+ d to Paris to investigate decision making\, cognitive architecture and con
+ sciousness. In 2006 he founded the Integrative Neuroscience Laboratory\, a
+ t the University of Buenos Aires\, an interdisciplinary group integrated 
+ by physicists\, psychologists\, biologists\, engineers\, educational scien
+ tists\, linguists\, mathematicians\, artists and computer scientists.\n\nH
+ is lab has developed an empirical and theoretical approach to decision m
+ aking\, with special focus on understanding the construction of confidence
+  and subjective beliefs. Many aspects of his investigation rely on data m
+ ining and computational tools on massive corpus of human behavior (text\, 
+ decision making…). Recently\, he has progressively shifted his research 
+ to understand how current knowledge of the brain and the mind may serve to
+  improve educational practice. Many of the projects conduct are developed 
+ at schools throughout the country and he is extending these investigations
+  on cognitive development to hundreds of thousands of children through the
+  One Laptop Per Child (OLPC) framework.\n\nThroughout his career he develo
+ ped numerous research interactions with representatives of different domai
+ ns of human culture including\, musicians\, professional chess players\, m
+ athematicians\, magicians\, visual artists and chefs. Several of these int
+ eractions resulted in exhibits presented in museums and galleries in Argen
+ tina\, Mexico\, Brazil\, US\, Japan\, New York\, Austria.\n\nMariano is th
+ e only Latin American scientist to be a director of the Human Brain Projec
+ t\, was awarded a Human Frontiers Career Development Award\, the national 
+ prize of physics\, the young investigator prize of “College de France”
+ \, the IBM Scalable Data Analytics award and is a scholar of the James S. 
+ McDonnell Foundation.\n\n\nhttps://frankeprogram.yale.edu/event/distinguis
+ hed-speaker-series-talk-mariano-sigman
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/distinguished-speaker-series-talk
+ -mariano-sigman
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Inference Project Talk Schedule
 DTSTART;VALUE=DATE-TIME:20211221T164500
 DTEND;VALUE=DATE-TIME:20211221T174500
