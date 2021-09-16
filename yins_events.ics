@@ -2,58 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Industry Seminar: Vitaly Feldman (Apple AI)
-DTSTART;VALUE=DATE-TIME:20210915T040000
-DTEND;VALUE=DATE-TIME:20210915T050000
-DESCRIPTION:Event description:\nYINS Industry Seminar\n\n“Hiding Among t
- he Clones: A Simple and Nearly Optimal Analysis of Privacy Amplification b
- y Shuffling”\n\nSpeaker: Vitaly Feldman\n\nResearch Scientist\, Apple AI
- \n\nTalk summary:\nRecent work of Erlingsson et al (2019) demonstrates tha
- t random shuffling amplifies differential privacy guarantees of locally ra
- ndomized data. Such amplification implies substantially stronger privacy g
- uarantees for systems in which data is contributed anonymously and has lea
- d to significant interest in the shuffle model of privacy.\n\n\n\nWe show 
- that random shuffling of $n$ data records that are input to $\\epsilon_0$-
- differentially private local randomizers results in an $(O((1-e^{-\\epsilo
- n_0})\\sqrt{\\frac{e^{\\epsilon_0}\\log(1/\\delta)}{n}})\, \\delta)$-diffe
- rentially private algorithm. This significantly improves over previous wor
- k and achieves the asymptotically optimal dependence in $\\epsilon_0$. Our
-  result is based on a new approach that is simpler than previous work and 
- extends to approximate differential privacy with nearly the same guarantee
- s. Importantly\, our work also yields an algorithm for deriving tighter bo
- unds on the resulting $\\epsilon$ and $\\delta$ as well as Renyi different
- ial privacy guarantees. We show numerically that our algorithm gets to wit
- hin a small constant factor of the optimal bound. As a direct corollary of
-  our analysis we derive a simple and asymptotically optimal algorithm for 
- discrete distribution estimation in the shuffle model of privacy. We also 
- observe that our result implies the first asymptotically optimal privacy a
- nalysis of noisy stochastic gradient descent that applies to sampling with
- out replacement.\n\n\n\nJoint work with Audra McMillan and Kunal Talwar\n\
- nTo participate:\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://ya
- le.zoom.us/j/95960621157\nOr Telephone：203-432-9666 (2-ZOOM if on-campus
- ) or 646 568 7788\nMeeting ID: 959 6062 1157\nInternational numbers availa
- ble:\nhttps://yale.zoom.us/u/acKNWHMbeA\n\nSpeaker bio:\nVitaly Feldman is
-  a research scientist at Apple AI Research working on foundations of machi
- ne learning and privacy-preserving data analysis. His recent research inte
- rests include tools for analysis of generalization\, distributed privacy-p
- reserving learning\, privacy-preserving optimization\, and adaptive data a
- nalysis.\n\n\n\nVitaly holds a Ph.D. from Harvard (2006\, advised by Lesli
- e Valiant) and was previously a research scientist at Google Research (Bra
- in team) and IBM Research - Almaden. His work was recognized by the COLT B
- est Student Paper Award in 2005 and 2013 (student co-authored) and by the 
- IBM Research Best Paper Award in 2014\, 2015 and 2016. His recent research
-  on foundations of adaptive data analysis has been featured in CACM Resear
- ch Highlights\, Science\, and the research blogs of IBM\, Google\, and Mic
- rosoft. He served as a program co-chair for COLT 2016 and ALT 2021 confere
- nces and as a co-organizer of the Simons Institute Program on Data Privacy
-  in 2019.\n\n\n\n.\n\n\nhttps://yins.yale.edu/event/yins-industry-seminar-
- vitaly-feldman-apple-ai
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-industry-seminar-vitaly-feldman-apple
- -ai
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Seminar: Daniel Kuhn (EPFL)
 DTSTART;VALUE=DATE-TIME:20210922T160000
 DTEND;VALUE=DATE-TIME:20210922T170000
