@@ -2,9 +2,38 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
+SUMMARY:Inference Project Virtual Talk:  Causation From the Point of View 
+ of Physics
+DTSTART;VALUE=DATE-TIME:20210924T190000
+DTEND;VALUE=DATE-TIME:20210924T200000
+DESCRIPTION:Event description:\nThere has been an enormous burgeoning of i
+ nterest in causation across the sciences. One can open up a journal in mic
+ robiology and be assailed with detailed models of  the causal structure of
+  cells and proteins. One can find textbooks on the increasing array comput
+ ational tools for causal search and discovery and take classes devoted to 
+ formal methods in causal modeling. Psychologists are unraveling new detail
+ s about how people use causal concepts in reasoning. While details of thes
+ e kinds are in abundant supply\, it remains a contested question what caus
+ ation is and how it fits into a physics-based ontology. In this talk\, Pro
+ fessor Ismael will assemble the pieces of emerging scientific understandin
+ g of causation into an account of where (and  how) causation arises in a p
+ hysics-based ontology\, with special attention to the contested questions 
+ of where the direction of causation comes from and its relationship agency
+ .\nRegister in advance for this event and the post-talk conversation\, led
+  by Professor James T. Woodward:\n\nhttps://yale.zoom.us/meeting/register/
+ tJUrc-yprTIvHdbt4t7RIuFpWNk6zb2ZmoTh\n\n\nAfter registering\, you will rec
+ eive a confirmation email containing information about joining the meeting
+ .\n\n\nhttps://frankeprogram.yale.edu/event/inference-project-virtual-talk
+ -causation-point-view-physics
+LOCATION:Whitney Humanities Center (WALL53)\, Auditorium
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-virtual-talk-ca
+ usation-point-view-physics
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  Professor Jenann Ismael
-DTSTART;VALUE=DATE-TIME:20210924T070000
-DTEND;VALUE=DATE-TIME:20210924T080000
+DTSTART;VALUE=DATE-TIME:20210924T190000
+DTEND;VALUE=DATE-TIME:20210924T200000
 DESCRIPTION:Event description:\nThere has been an enormous burgeoning of i
  nterest in causation across the science. One can open up a journal in micr
  obiology and be assailed with detailed models of  the causal structure of
@@ -46,10 +75,68 @@ DESCRIPTION:Event description:\nThere has been an enormous burgeoning of i
  s the relation between formal theories of causal inference and the inferen
  ces adults and children actually make.  Professor Woodward also maintains
   an interest in moral psychology and the empirical study of human behavior
-  in morally significant situations.\n\n\n\nZoom details and conversant inf
- ormation for the post-talk conversation to follow soon.\n\n\n\nhttps://fra
- nkeprogram.yale.edu/event/inference-project-talk-and-discussion-professor-
- jenann-ismael
+  in morally significant situations.\n\n\n\n\nRegister in advance for this 
+ event and the post-talk conversation:\n\nhttps://yale.zoom.us/meeting/regi
+ ster/tJUrc-yprTIvHdbt4t7RIuFpWNk6zb2ZmoTh\n\n\n\n\n\nAfter registering\, y
+ ou will receive a confirmation email containing information about joining 
+ the meeting.\n\n\n\n\nhttps://frankeprogram.yale.edu/event/inference-proje
+ ct-talk-and-discussion-professor-jenann-ismael
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
+ sion-professor-jenann-ismael
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inference Project Talk and Discussion:  Professor Jenann Ismael
+DTSTART;VALUE=DATE-TIME:20210924T190000
+DTEND;VALUE=DATE-TIME:20210924T200000
+DESCRIPTION:Event description:\nThere has been an enormous burgeoning of i
+ nterest in causation across the science. One can open up a journal in micr
+ obiology and be assailed with detailed models of  the causal structure of
+  cells and proteins. One can find textbooks on the increasing array comput
+ ational tools for causal search and discovery\,and take classes devoted to
+  formal methods in causal modeling. Psychologists are unraveling new detai
+ ls about how people use causal concepts in reasoning. While details of the
+ se kinds are in abundant supply\, it remains a contested question what cau
+ sation is and how it fits into a physics-based ontology. In this talk\, Pr
+ ofessor Ismael is going to assemble the pieces of emerging scientific unde
+ rstanding of causation into an account of where (and  how) causation aris
+ es in the architecture of the cosmos\, with special attention to the conte
+ sted questions of where the direction of causation comes from and its rela
+ tionship agency.\n\nProfessor Jenann Ismael joined the faculty at Columbia
+  University in 2018.  Most of her work falls into two classes. The first
+  class circumscribes central concerns of the philosophy of physics. Intere
+ sts there include the structure of space and time\, the foundations of qua
+ ntum mechanics\, the role of simplicity and symmetry in physics\, question
+ s about the nature of probability\, natural laws and causal relations. The
+  second class includes mind\, cognition\, phenomenology\, and the nature o
+ f perspective.\n\n\nProfessor Ismael received her Ph.D. from Princeton Uni
+ versity\, was a Mellon Fellow at Stanford\, and taught at the University o
+ f Arizona before coming to Columbia.  She has held a number of prestigiou
+ s fellowships\, including an NEH fellowship at the National Humanities Cen
+ ter\, a Queen Elizabeth II Research Fellowship from the Australian Researc
+ h Council\, and fellowships from the Templeton Foundation and CASBS (Cente
+ r for Advanced Studies in Behavioral Science at Stanford).\n\n\n\nJames Wo
+ odward\, Distinguished Professor in the Department of the History and Phil
+ osophy of Science at the University of Pittsburgh\, will moderate a post-t
+ alk conversation with Professor Ismael on September 25.  Before coming t
+ o Pittsburgh in the fall of 2010\, Professor Woodward was J.O. and Juliett
+ e Koepfli Professor of Humanities at the California Institute of Technolog
+ y.  His research covers a number of different areas\, including theories 
+ of causation\, explanation and inductive inference in general philosophy o
+ f science\, philosophy of psychology\, and philosophy of social science. 
+  His interests in psychology include the empirical psychology of causal le
+ arning and judgment\; in this connection he is a participant in a multidis
+ ciplinary collaboration sponsored by the McDonnell foundation that explore
+ s the relation between formal theories of causal inference and the inferen
+ ces adults and children actually make.  Professor Woodward also maintains
+  an interest in moral psychology and the empirical study of human behavior
+  in morally significant situations.\n\n\n\n\nRegister in advance for this 
+ event and the post-talk conversation:\n\nhttps://yale.zoom.us/meeting/regi
+ ster/tJUrc-yprTIvHdbt4t7RIuFpWNk6zb2ZmoTh\n\n\n\n\n\nAfter registering\, y
+ ou will receive a confirmation email containing information about joining 
+ the meeting.\n\n\n\n\nhttps://frankeprogram.yale.edu/event/inference-proje
+ ct-talk-and-discussion-professor-jenann-ismael
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
