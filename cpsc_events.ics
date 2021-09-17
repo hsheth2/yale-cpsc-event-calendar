@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Dr. Margaret Martonosi\, NSF
-DTSTART;VALUE=DATE-TIME:20210916T200000
-DTEND;VALUE=DATE-TIME:20210916T210000
-DESCRIPTION:Event description:\nCS Colloquium\nDr. Margaret Martonosi\nAs
- sistant Director for Computer and information Science and Engineering (CIS
- E)\nUS National Science Foundation\n\nAbstract:\n\nThe National Science Fo
- undation (NSF) supports a majority of US academic research in the Computer
-  and Information Science and Engineering (CISE) topic areas.  Since Febru
- ary\, 2020\, Dr. Margaret Martonosi serves as NSF CISE AD\, stewarding t
- he CISE directorate’s $1B annual budget on behalf of research\, educatio
- n\, workforce and infrastructure funding in CISE topic areas and for scien
- ce as a whole.  Martonosi is conducting a series of “virtual campus v
- isits” to engage in conversation about a vision for CISE research going 
- forward\, and to field Q&A from the CISE community.  Please join us for t
- his highly-interactive session and please bring your input and questions!\
- n\nBio:\n\nMargaret Martonosi is the US National Science Foundation’s 
- (NSF) Assistant Director for Computer and information Science and Engineer
- ing (CISE). With an annual budget of more than $1B\, the CISE directorate 
- at NSF has the mission to uphold the Nation’s leadership in scientific d
- iscovery and engineering innovation through its support of fundamental res
- earch and education in computer and information science and engineering as
-  well as transformative advances in research cyberinfrastructure. While at
-  NSF\, Dr. Martonosi is on leave from Princeton University where she is 
- the Hugh Trumbull Adams ‘35 Professor of Computer Science. Dr. Martonos
- i’s research interests are in computer architecture and hardware-softwa
- re interface issues in both classical and quantum computing systems. Dr. 
- Martonosi is a member of the National Academy of Engineering and the Amer
- ican Academy of Arts and Sciences. She is a Fellow of the Association for 
- Computing Machinery (ACM) and the Institute of Electrical and Electronics 
- Engineers (IEEE).\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-dr-margar
- et-martonosi-nsf
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-dr-margaret-martonosi-nsf
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Christopher Harshaw
 DTSTART;VALUE=DATE-TIME:20210923T141500
 DTEND;VALUE=DATE-TIME:20210923T151500
