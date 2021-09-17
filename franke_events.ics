@@ -2,35 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Inference Project Virtual Talk:  Causation From the Point of View 
- of Physics
-DTSTART;VALUE=DATE-TIME:20210924T190000
-DTEND;VALUE=DATE-TIME:20210924T200000
-DESCRIPTION:Event description:\nThere has been an enormous burgeoning of i
- nterest in causation across the sciences. One can open up a journal in mic
- robiology and be assailed with detailed models of  the causal structure of
-  cells and proteins. One can find textbooks on the increasing array comput
- ational tools for causal search and discovery and take classes devoted to 
- formal methods in causal modeling. Psychologists are unraveling new detail
- s about how people use causal concepts in reasoning. While details of thes
- e kinds are in abundant supply\, it remains a contested question what caus
- ation is and how it fits into a physics-based ontology. In this talk\, Pro
- fessor Ismael will assemble the pieces of emerging scientific understandin
- g of causation into an account of where (and  how) causation arises in a p
- hysics-based ontology\, with special attention to the contested questions 
- of where the direction of causation comes from and its relationship agency
- .\nRegister in advance for this event and the post-talk conversation\, led
-  by Professor James T. Woodward:\n\nhttps://yale.zoom.us/meeting/register/
- tJUrc-yprTIvHdbt4t7RIuFpWNk6zb2ZmoTh\n\n\nAfter registering\, you will rec
- eive a confirmation email containing information about joining the meeting
- .\n\n\nhttps://frankeprogram.yale.edu/event/inference-project-virtual-talk
- -causation-point-view-physics
-LOCATION:Whitney Humanities Center (WALL53)\, Auditorium
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/inference-project-virtual-talk-ca
- usation-point-view-physics
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  Professor Jenann Ismael
 DTSTART;VALUE=DATE-TIME:20210924T190000
 DTEND;VALUE=DATE-TIME:20210924T200000
