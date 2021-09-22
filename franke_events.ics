@@ -117,10 +117,18 @@ BEGIN:VEVENT
 SUMMARY:Distinguished Lecturer Series Talk by Professor Jordan Ellenberg
 DTSTART;VALUE=DATE-TIME:20211006T200000
 DTEND;VALUE=DATE-TIME:20211006T210000
-DESCRIPTION:Event description:\nWe are delighted that famed author and mat
- hematician\nJordan Ellenberg\nwill be joining us for a virtual talk this s
- emester.  Details to follow soon.\n\n\nhttps://frankeprogram.yale.edu/eve
- nt/distinguished-lecturer-series-talk-professor-jordan-ellenberg
+DESCRIPTION:Event description:\nI Prove a Theorem and the House Expands: 
+  Geometry and Poetry\n\nWe are delighted that famed author and mathematic
+ ian\nJordan Ellenberg\nwill be joining us for a virtual talk this semester
+ .  In his words\, our speaker wrote a book about geometry and found himse
+ lf\, surprisingly\, constantly talking about poetry.  In this talk\, he w
+ ill cover various subjects\, including Wordsworth’s friendship with the 
+ mathematician William Rowan Hamilton\;  Andrei Markov’s random walk thr
+ ough Eugene Onegin and the idea of mechanical language production\;  what
+  geometry and poetry seem to look for in each other\;  and the vision of 
+ geometry expressed in the poem by Rita Dove\, whence his talk title origin
+ ates.\n\n\nhttps://frankeprogram.yale.edu/event/distinguished-lecturer-ser
+ ies-talk-professor-jordan-ellenberg
 LOCATION:Zoom
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/distinguished-lecturer-series-tal
