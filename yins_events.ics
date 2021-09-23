@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Daniel Kuhn (EPFL)
-DTSTART;VALUE=DATE-TIME:20210922T160000
-DTEND;VALUE=DATE-TIME:20210922T170000
-DESCRIPTION:Event description:\nYINS Seminar:\n“Wasserstein Distribution
- ally Robust Optimization: Theory and Applications in Machine Learning”\n
- \nSpeaker: Daniel Kuhn (EPFL)\n\nChair of Risk Analytics and Optimization 
- at EPFL\n\nAbstract:\nMany decision problems in science\, engineering and 
- economics are affected by uncertain parameters whose distribution is only 
- indirectly observable through samples. The goal of data-driven decision-ma
- king is to learn a decision from finitely many training samples that will 
- perform well on unseen test samples. This learning task is difficult even 
- if all training and test samples are drawn from the same distribution - es
- pecially if the dimension of the uncertainty is large relative to the trai
- ning sample size. Wasserstein distributionally robust optimization seeks d
- ata-driven decisions that perform well under the most adverse distribution
-  within a certain Wasserstein distance from a nominal distribution constru
- cted from the training samples. In this talk we will see that this approac
- h has many conceptual and computational benefits. Most prominently\, the o
- ptimal decisions can often be computed by solving tractable convex optimiz
- ation problems\, and they enjoy rigorous out-of-sample and asymptotic cons
- istency guarantees. We will also show that Wasserstein distributionally ro
- bust optimization has interesting ramifications for statistical learning a
- nd motivates new approaches for fundamental learning tasks such as classif
- ication\, regression\, maximum likelihood estimation or minimum mean squar
- e error estimation\, among others.\n\nSpeaker bio:\nDaniel Kuhn holds the 
- Chair of Risk Analytics and Optimization at EPFL. Before joining EPFL\, he
-  was a faculty member at Imperial College London (2007-2013) and a postdoc
- toral researcher at Stanford University (2005-2006). He received a PhD in 
- Economics from the University of St. Gallen in 2004 and an MSc in Theoreti
- cal Physics from ETH Zurich in 1999. His research interests revolve around
-  robust optimization and stochastic programming.\n\nTo participate:\nJoin 
- from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/9915754365
- 3\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeet
- ing ID: 991 5754 3653\nInternational numbers available:\nhttps://yale.zoom
- .us/u/abrK6kHkDy\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-daniel
- -kuhn-epfl
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-daniel-kuhn-epfl
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Seminar: Daniel Hsu (Columbia)
 DTSTART;VALUE=DATE-TIME:20211006T160000
 DTEND;VALUE=DATE-TIME:20211006T170000
