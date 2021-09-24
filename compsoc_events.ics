@@ -1,4 +1,27 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
+BEGIN:VEVENT
+SUMMARY:Panel on Ethics and Society Review Board
+DTSTART;VALUE=DATE-TIME:20211015T150000
+DTEND;VALUE=DATE-TIME:20211015T160000
+DESCRIPTION:No description provided\n\nhttps://computationsociety.yale.edu
+ /event/panel-on-ethics-and-society-review-board
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/panel-on-ethics-and-society-
+ review-board
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colloquium by Julian Jara-Ettinger
+DTSTART;VALUE=DATE-TIME:20211119T160000
+DTEND;VALUE=DATE-TIME:20211119T170000
+DESCRIPTION:Event description\nSpeaker:\nJulian Jara-Ettinger\n\, Assistan
+ t Professor of Psychology\, Yale University\n\n\nhttps://computationsociet
+ y.yale.edu/event/colloquium-by-julian-jara-ettinger
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/colloquium-by-julian-jara-et
+ tinger
+END:VEVENT
 END:VCALENDAR
