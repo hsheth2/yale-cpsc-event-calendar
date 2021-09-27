@@ -44,52 +44,47 @@ SUMMARY:YINS Seminar: Steve Hanneke (Purdue)
 DTSTART;VALUE=DATE-TIME:20211013T160000
 DTEND;VALUE=DATE-TIME:20211013T170000
 DESCRIPTION:Event description:\nYINS Seminar\n\n“A Theory of Universal L
- earning”\n\nSpeaker: Steve Hanneke\n\nResearch Assistant Professor\, Toy
- ota Technological Institute at Chicago\nPurdue University\n\nTalk summary:
- \nHow quickly can a given class of concepts be learned from examples? It i
- s common to measure the performance of a supervised machine learning algor
- ithm by plotting its “learning curve”\, that is\, the decay of the err
- or rate as a function of the number of training examples. However\, the cl
- assical theoretical framework for understanding learnability\, the PAC mod
- el of Vapnik-Chervonenkis and Valiant\, does not explain the behavior of l
- earning curves: the distribution-free PAC model of learning can only bound
-  the upper envelope of the learning curves over all possible data distribu
- tions. This does not match the practice of machine learning\, where the da
- ta source is typically fixed in any given scenario\, while the learner may
-  choose the number of training examples on the basis of factors such as co
- mputational resources and desired accuracy.\n\nIn this work\, we study an 
- alternative learning model that better captures such practical aspects of 
- machine learning\, but still gives rise to a complete theory of the learna
- ble in the spirit of the PAC model. More precisely\, we consider the probl
- em of universal learning\, which aims to understand the performance of lea
- rning algorithms on every data distribution\, but without requiring unifor
- mity over the distribution. The main result of this work is a remarkable t
- richotomy: there are only three possible rates of universal learning. More
-  precisely\, we show that the learning curves of any given concept class d
- ecay either at an exponential\, linear\, or arbitrarily slow rates. Moreov
- er\, each of these cases is completely characterized by appropriate combin
- atorial parameters\, and we exhibit optimal learning algorithms that achie
- ve the best possible rate in each case.\n\nJoint work with Olivier Bousque
- t\, Shay Moran\, Ramon van Handel\, and Amir Yehudayoff\, which appeared a
- t STOC 2021.\n\nTo participate:\nJoin from PC\, Mac\, Linux\, iOS or Andro
- id:\nhttps://yale.zoom.us/j/96519593299\nOr Telephone：203-432-9666 (2-ZO
- OM if on-campus) or 646 568 7788\nMeeting ID: 965 1959 3299\nInternational
-  numbers available:\nhttps://yale.zoom.us/u/acN1RQemY6\n\nSpeaker bio:\n\n
- Steve Hanneke earned a Bachelor of Science degree in Computer Science from
-  UIUC in 2005 and a Ph.D. in Machine Learning from Carnegie Mellon Univers
- ity in 2009 with a dissertation on the theoretical foundations of active l
- earning. He was a Visiting Assistant Professor in the Department of Statis
- tics at Carnegie Mellon University from 2009-2012\, conducted research as 
- an independent scientist from 2012-2018\, and was a Visiting Lecturer at P
- rinceton University in spring 2018. He joined TTIC as a Research Assistant
-  Professor in fall 2018.\n\nSteve’s research explores the theory of mach
- ine learning: designing new learning algorithms capable of learning from f
- ewer samples\, understanding the benefits and capabilities of interactive 
- machine learning\, developing new perspectives on transfer learning and li
- fe-long learning\, and revisiting the basic probabilistic assumptions at t
- he foundation of learning theory.\n\nDr. Hanneke also has a personally mai
- ntained website which can be found at\nhttp://www.ttic.edu/hanneke\n\n.\n\
- n\nhttps://yins.yale.edu/event/yins-seminar-steve-hanneke-purdue
+ earning”\n\nSpeaker: Steve Hanneke\n\nAssistant Professor\, Purdue Unive
+ rsity\n\nTalk summary:\nHow quickly can a given class of concepts be learn
+ ed from examples? It is common to measure the performance of a supervised 
+ machine learning algorithm by plotting its “learning curve”\, that is\
+ , the decay of the error rate as a function of the number of training exam
+ ples. However\, the classical theoretical framework for understanding lear
+ nability\, the PAC model of Vapnik-Chervonenkis and Valiant\, does not exp
+ lain the behavior of learning curves: the distribution-free PAC model of l
+ earning can only bound the upper envelope of the learning curves over all 
+ possible data distributions. This does not match the practice of machine l
+ earning\, where the data source is typically fixed in any given scenario\,
+  while the learner may choose the number of training examples on the basis
+  of factors such as computational resources and desired accuracy.\n\nIn th
+ is work\, we study an alternative learning model that better captures such
+  practical aspects of machine learning\, but still gives rise to a complet
+ e theory of the learnable in the spirit of the PAC model. More precisely\,
+  we consider the problem of universal learning\, which aims to understand 
+ the performance of learning algorithms on every data distribution\, but wi
+ thout requiring uniformity over the distribution. The main result of this 
+ work is a remarkable trichotomy: there are only three possible rates of un
+ iversal learning. More precisely\, we show that the learning curves of any
+  given concept class decay either at an exponential\, linear\, or arbitrar
+ ily slow rates. Moreover\, each of these cases is completely characterized
+  by appropriate combinatorial parameters\, and we exhibit optimal learning
+  algorithms that achieve the best possible rate in each case.\n\nJoint wor
+ k with Olivier Bousquet\, Shay Moran\, Ramon van Handel\, and Amir Yehuday
+ off\, which appeared at STOC 2021.\n\nTo participate:\nJoin from PC\, Mac\
+ , Linux\, iOS or Android:\nhttps://yale.zoom.us/j/96519593299\nOr Telephon
+ e：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 965 19
+ 59 3299\nInternational numbers available:\nhttps://yale.zoom.us/u/acN1RQem
+ Y6\n\nSpeaker bio:\nSteve Hanneke is an Assistant Professor in the Compute
+ r Science Department at Purdue University. His research explores the theor
+ y of machine learning\, with a focus on reducing the number of training ex
+ amples sufficient for learning. His work develops new approaches to superv
+ ised\, semi-supervised\, active\, and transfer learning\, and also revisit
+ s the basic probabilistic assumptions at the foundation of learning theory
+ . Steve earned a Bachelor of Science degree in Computer Science from UIUC 
+ in 2005 and a Ph.D. in Machine Learning from Carnegie Mellon University in
+  2009 with a dissertation on the theoretical foundations of active learnin
+ g. Steve’s website can be found at\nhttps:www.stevehanneke.com\n\n.\n\n\
+ nhttps://yins.yale.edu/event/yins-seminar-steve-hanneke-purdue
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-steve-hanneke-purdue
