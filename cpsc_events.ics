@@ -1,4 +1,41 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Martin Vechev\, ETH Zurich
+DTSTART;VALUE=DATE-TIME:20211111T153000
+DTEND;VALUE=DATE-TIME:20211111T163000
+DESCRIPTION:Event description:\nCS Colloquium\nMartin Vechev\, Professor o
+ f Computer Science at ETH Zurich\n\nTitle: Beyond Accuracy: Towards Robust
+ \, Fair and Certified Deep Learning\n\nHost: Zhong Shao\n\nAbstract:\n\nTh
+ e desire to deploy deep learning models in the wild has led to a fundament
+ al challenge: the need to train and certify models that not only enjoy hig
+ h accuracy on a dataset but also (provably) satisfy critical domain-specif
+ ic properties (e.g.\, fairness\, robustness\, safety\, etc.). Perhaps surp
+ risingly\, creating such models has turned out to be substantially harder 
+ than expected\, pointing to key limitations of existing learning technique
+ s and dictating the need for methodological advances beyond more labeled d
+ ata or compute power.\n\nIn this talk I will discuss some of the recent pr
+ ogress we have made on creating deep learning models which come with prova
+ ble mathematical guarantees. This progress is largely based on new methods
+  sitting at the intersection of different areas including symbolic reasoni
+ ng\, statistics\, machine learning\, probabilistic programming\, and other
+ s. In the process I will also elaborate on several open challenges and exc
+ iting research opportunities which if solved\, will enable broader and saf
+ er use of machine learning.\n\nBio:\n\nMartin Vechev\nis a Professor of Co
+ mputer Science at ETH Zurich. Prior to ETH\, he was a Researcher at the IB
+ M T.J. Watson Research Center in New York\, USA. He received his PhD from 
+ Cambridge University\, UK. His main research interests sit at the intersec
+ tion of machine learning\, probabilistic reasoning and programming languag
+ es. His work has received various recognitions including the ACM SIGPLAN R
+ obin Milner Young Researcher Award\, ERC Starting Grant\, SIGPLAN and CACM
+  Research Highlights\, and many others. Beyond academia\, he has co-founde
+ d 3 startups: two acquired in 2020\,  with the latest\nLatticeFlow\nfocus
+ ing on robust and trustworthy AI. He has also spoken at the European Parli
+ ament on topics related to AI and democratizing scientific innovation.\n\n
+ \nhttps://cpsc.yale.edu/event/cs-colloquium-martin-vechev-eth-zurich
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-martin-vechev-eth-zurich
+END:VEVENT
 END:VCALENDAR
