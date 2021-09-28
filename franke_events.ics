@@ -23,6 +23,30 @@ URL:https://frankeprogram.yale.edu/event/distinguished-lecturer-series-tal
  k-professor-jordan-ellenberg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:YQI/Franke Nontechnical Talk Series - Paul Miller\, aka DJ Spooky
+DTSTART;VALUE=DATE-TIME:20211007T210000
+DTEND;VALUE=DATE-TIME:20211007T220000
+DESCRIPTION:Event description:\nParticle Plateaux - An informal history o
+ f invisible things\n\nJoin us online for the 12th talk of Yale Quantum Ins
+ titute series of nontechnical talks aiming to bring a new regard to quantu
+ m physics and STEM by having experts cast new light on often-overlooked as
+ pects of scientific work.\n\nPaul Miller aka DJ Spooky is an acclaimed vis
+ ual artist and composer who joined the Yale Quantum Institute as Artist-in
+ -Residence for this academic year. For this public talk\, he will talk abo
+ ut his multimedia\, multidisciplinary study of Antarctica\, which was name
+ d by ancient Greeks without visiting either pole. This will inform his dis
+ cussion on how the power of the invisible shapes and molds the visible.\n\
+ nPLEASE REGISTER TO RECEIVE THE ZOOM LINK\n\nThis is a hybrid event\, but 
+ those who wish to attend in person should follow this link:\n\nhttps://qua
+ ntuminstitute.yale.edu/register-attend-paul-millers-talk\n\n\nhttps://fran
+ keprogram.yale.edu/event/yqifranke-nontechnical-talk-series-paul-miller-ak
+ a-dj-spooky
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/yqifranke-nontechnical-talk-serie
+ s-paul-miller-aka-dj-spooky
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Distinguished Speaker Series Talk by Hazel Carby
 DTSTART;VALUE=DATE-TIME:20211103T210000
 DTEND;VALUE=DATE-TIME:20211103T220000
