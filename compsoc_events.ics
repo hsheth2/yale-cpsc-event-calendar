@@ -2,6 +2,43 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
+SUMMARY:Related Talk: Algorithms for the People by Seny Kamara\, Brown Uni
+ versity
+DTSTART;VALUE=DATE-TIME:20211014T200000
+DTEND;VALUE=DATE-TIME:20211014T210000
+DESCRIPTION:Event description\nSpeaker:\nSeny Kamara\n\, Associate Profess
+ or of Computer Science at Brown University\n\nTitle: Algorithms for the P
+ eople\n\nAbstract:\n\nAlgorithms have transformed every aspect of society\
+ , including communication\, transportation\, commerce\, finance\, and heal
+ th. The revolution enabled by computing has been extraordinarily valuable.
+  The largest tech companies generate a trillion dollars a year and employ 
+ 1 million people. But technology does not affect everyone in the same way.
+  In this talk\, we will examine how new technologies affect marginalized c
+ ommunities and think about what technology and academic research would loo
+ k like if its goal was to serve the disenfranchised.\n\nSpeaker biography:
+  Seny Kamara is an Associate Professor of Computer Science at Brown Univer
+ sity and Chief Scientist at Aroki Systems. Before joining Brown\, he was a
+  researcher at Microsoft Research (Redmond Lab).\nHis research is in crypt
+ ography and is driven by real-world problems from privacy\, security and s
+ urveillance. He has worked extensively on the design and cryptanalysis of 
+ encrypted search algorithms\, which are efficient algorithms to search on 
+ end-to-end encrypted data. He maintains interests in various aspects of th
+ eory and systems\, including applied and theoretical cryptography\, data s
+ tructures and algorithms\, databases\, networking\, game theory and techno
+ logy policy.\nSeny co-directs the Encrypted Systems Lab and is affiliated 
+ with the CAPS group\, the Data Science Initiative\, the Center for Human R
+ ights and Humanitarian Studies and the Policy Lab.\n\nZoom:\nhttps://yale.
+ zoom.us/j/94298296708?pwd=K1RoKzdPNjRndHVxMEVBekRyTGc0UT09\n(Passcode: 406
+ 788)\n\nThis event is a CS colloquium. Please visit\nhere\nor contact\nAnu
+ rag Khandelwal\nfor more details.\n\n\nhttps://computationsociety.yale.edu
+ /event/related-talk-algorithms-for-the-people-by-seny-kamara-brown-univers
+ ity
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/related-talk-algorithms-for-
+ the-people-by-seny-kamara-brown-university
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Panel on Ethics and Society Review Board
 DTSTART;VALUE=DATE-TIME:20211015T150000
 DTEND;VALUE=DATE-TIME:20211015T160000
