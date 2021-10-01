@@ -2,6 +2,37 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Seny Kamara\, Brown University
+DTSTART;VALUE=DATE-TIME:20211014T200000
+DTEND;VALUE=DATE-TIME:20211014T210000
+DESCRIPTION:Event description:\nCS Colloquium\n\nSeny Kamara\n\, Brown Un
+ iversity\n\nHost: Anurag Khandelwal\n\nTitle: Algorithms for the People\n\
+ nAbstract:\n\nAlgorithms have transformed every aspect of society\, includ
+ ing communication\, transportation\, commerce\, finance\, and health. The 
+ revolution enabled by computing has been extraordinarily valuable. The lar
+ gest tech companies generate a trillion dollars a year and employ 1 millio
+ n people. But technology does not affect everyone in the same way. In this
+  talk\, we will examine how new technologies affect marginalized communiti
+ es and think about what technology and academic research would look like i
+ f its goal was to serve the disenfranchised.\n\nBio:\n\nSeny Kamara is an 
+ Associate Professor of Computer Science at Brown University and Chief 
+ Scientist at Aroki Systems. Before joining Brown\, he was a researcher at
+  Microsoft Research (Redmond Lab).\n\nHis research is in cryptography an
+ d is driven by real-world problems from privacy\, security and surveillanc
+ e. He has worked extensively on the design and cryptanalysis of encrypted 
+ search algorithms\, which are efficient algorithms to search on end-to-end
+  encrypted data. He maintains interests in various aspects of theory and s
+ ystems\, including applied and theoretical cryptography\, data structures 
+ and algorithms\, databases\, networking\, game theory and technology polic
+ y.\n\nSeny co-directs the Encrypted Systems Lab and is affiliated with t
+ he CAPS group\, the Data Science Initiative\, the Center for Human Rig
+ hts and Humanitarian Studies and the Policy Lab.\n\n\nhttps://cpsc.yale.
+ edu/event/cs-colloquium-seny-kamara-brown-university
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-seny-kamara-brown-university
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Martin Vechev\, ETH Zurich
 DTSTART;VALUE=DATE-TIME:20211111T153000
 DTEND;VALUE=DATE-TIME:20211111T163000
