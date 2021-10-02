@@ -169,6 +169,20 @@ STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-marinka-zitnik-harvard
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:YINS Seminar: Karan Singh (Princeton)
+DTSTART;VALUE=DATE-TIME:20211110T170000
+DTEND;VALUE=DATE-TIME:20211110T180000
+DESCRIPTION:Event description:\nYINS Seminar\n\nSpeaker: Karan Singh\n\nPo
+ stdoc\, Princeton University\n\nTo participate:\n\nJoin from PC\, Mac\, Li
+ nux\, iOS or Android:\nhttps://yale.zoom.us/j/98411487580\nOr Telephone：
+ 203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 984 1148 7
+ 580\nInternational numbers available:\nhttps://yale.zoom.us/u/aypRvb6I6\n\
+ n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-karan-singh-princeton
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-karan-singh-princeton
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:YINS/EE Seminar: Panos Moutis (CMU)
 DTSTART;VALUE=DATE-TIME:20211013T180000
 DTEND;VALUE=DATE-TIME:20211013T190000
