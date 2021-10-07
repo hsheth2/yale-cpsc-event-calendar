@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Daniel Hsu (Columbia)
-DTSTART;VALUE=DATE-TIME:20211006T160000
-DTEND;VALUE=DATE-TIME:20211006T170000
-DESCRIPTION:Event description:\nYINS Seminar\n\n“Contrastive learning\, 
- multi-view redundancy\, and linear models”\n\nSpeaker: Daniel Hsu\n\nCol
- umbia University\n\nAbstract:\nContrastive learning is a “self-supervise
- d” approach to representation learning that uses naturally occurring sim
- ilar and dissimilar pairs of data points to find useful embeddings of data
- . We study contrastive learning in the context of multi-view statistical m
- odels. First\, we show that whenever the views of the data are approximate
- ly redundant in their ability to predict a target function\, a low-dimensi
- onal embedding obtained via contrastive learning affords a linear predicto
- r with near-optimal predictive accuracy. Second\, we show that in the cont
- ext of topic models\, the embedding can be interpreted as a linear transfo
- rmation of the posterior moments of the hidden topic distribution given th
- e observed words. We also empirically demonstrate that linear classifiers 
- with these representations perform well in document classification tasks w
- ith very few labeled examples in a semi-supervised setting.\n\nThis is joi
- nt work with Akshay Krishnamurthy (MSR) and Christopher Tosh (Columbia).\n
- \nSpeaker Bio:\nDaniel Hsu is an associate professor in the Department of 
- Computer Science and a member of the Data Science Institute\, both at Colu
- mbia University. Previously\, he was a postdoc at Microsoft Research New E
- ngland\, and the Departments of Statistics at Rutgers University and the U
- niversity of Pennsylvania. He holds a Ph.D. in Computer Science from UC Sa
- n Diego\, and a B.S. in Computer Science and Engineering from UC Berkeley.
-  He was selected by IEEE Intelligent Systems as one of “AI’s 10 to Wat
- ch” in 2015 and received a 2016 Sloan Research Fellowship. Daniel’s re
- search interests are in algorithmic statistics and machine learning.\n\nTo
-  participate:\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.
- zoom.us/j/93949928143\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) o
- r 646 568 7788\nMeeting ID: 939 4992 8143\nInternational numbers available
- :\nhttps://yale.zoom.us/u/af5ZYLPKB\n\n.\n\n\nhttps://yins.yale.edu/event/
- yins-seminar-daniel-hsu-columbia
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-daniel-hsu-columbia
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Seminar: Steve Hanneke (Purdue)
 DTSTART;VALUE=DATE-TIME:20211013T160000
 DTEND;VALUE=DATE-TIME:20211013T170000
