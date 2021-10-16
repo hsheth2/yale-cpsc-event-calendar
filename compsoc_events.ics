@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
-SUMMARY:Discussion on Ethics and Society Review Board
-DTSTART;VALUE=DATE-TIME:20211015T150000
-DTEND;VALUE=DATE-TIME:20211015T160000
-DESCRIPTION:Event description\nTitle: “Do no harm: ethics across (social
- ) science research”\n\n\n\nAbstract: Research involving human participan
- ts is usually subject to oversight. Since the Nuremberg War Crimes trials\
- , several core principles – do no harm\; obtain informed consent\; colle
- ctive good does not cancel out individual harm\; no retrospective approval
- s – medical research has been highly regulated\, with similar protocols 
- applying to social sciences and some humanities research methods as well. 
- Over the last twenty years\, various social science disciplines have furth
- er explored the implications of ethics review for shaping approaches to co
- llective versus individual risk\, how to protect vulnerable populations\, 
- and what it means to give consent.\nClaire Bowern\n(Professor of Linguisti
- cs) will lead a discussion around these topics in fields across social sci
- ences and computational approaches\, exploring recent work in AI  researc
- h ethics.\n\n\n\nZoom:\nhttps://yale.zoom.us/j/99009179026\n\n\nhttps://co
- mputationsociety.yale.edu/event/discussion-on-ethics-and-society-review-bo
- ard
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://computationsociety.yale.edu/event/discussion-on-ethics-and-soc
- iety-review-board
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Colloquium by Julian Jara-Ettinger
 DTSTART;VALUE=DATE-TIME:20211119T160000
 DTEND;VALUE=DATE-TIME:20211119T170000
