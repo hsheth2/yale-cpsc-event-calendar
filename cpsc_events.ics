@@ -2,6 +2,42 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Remzi Arpaci-Dusseau\, UW-Madison
+DTSTART;VALUE=DATE-TIME:20211104T200000
+DTEND;VALUE=DATE-TIME:20211104T210000
+DESCRIPTION:Event description:\nCS Colloquium\nRemzi Arpaci-Dusseau\, UW-M
+ adison\n\nTitle: Storage Systems Then And Now\n\nHost: Abhishek Bhattachar
+ jee\n\nAbstract:\n\nStorage technology has undergone rapid change in the p
+ ast years. For many decades\, hard disk drives were the dominant medium\; 
+ then\, Flash-based systems came into existence and started to dominate in 
+ some regimes (e.g.\, where performance was critical). Now\, a proliferatio
+ n of new technologies\, often called “persistent memories”\, are threa
+ tening to redefine the storage landscape even further. In this talk\, I wi
+ ll examine these technology trends\, and discuss how storage systems will 
+ change to accommodate them. I will also focus on aspects of storage that w
+ ill likely stay the same\, regardless of technology.\n\nBio:\n\nRemzi Arpa
+ ci-Dusseau is the Grace Wahba professor and Chair of the Computer Sciences
+  Department at UW-Madison. He co-leads a research group with Professor And
+ rea Arpaci-Dusseau.  Together\, they have graduated 26 Ph.D. students and
+  won numerous best-paper awards\; many of their innovations are used by co
+ mmercial systems. For their work\, Andrea and Remzi received the 2018 ACM-
+ SIGOPS Weiser award for “outstanding leadership\, innovation\, and impac
+ t in storage and computer systems research” and both are Fellows of the 
+ ACM for “contributions to storage and computer systems.” Remzi has won
+  the SACM Professor-of-the-Year award six times\, the Rosner “Excellent 
+ Educator” award\, and the Chancellor’s Distinguished Teaching Award. A
+ ndrea and Remzi’s operating systems book (\nwww.ostep.org\n) is download
+ ed millions of times yearly and used at numerous institutions worldwide. H
+ e has also served as a technical advisor or consultant for numerous compan
+ ies\, including Google\, Huawei\, Microsoft\, NetApp\, and Samsung.\n\n\n\
+ n\nhttps://cpsc.yale.edu/event/cs-colloquium-remzi-arpaci-dusseau-uw-madis
+ on
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-remzi-arpaci-dusseau-uw-madi
+ son
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Martin Vechev\, ETH Zurich
 DTSTART;VALUE=DATE-TIME:20211111T153000
 DTEND;VALUE=DATE-TIME:20211111T163000
