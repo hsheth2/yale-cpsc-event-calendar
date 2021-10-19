@@ -94,46 +94,4 @@ LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-karan-singh-princeton
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Public Health Modeling Unit Seminar Series: "The Role of Behavior\
- , Mobility\, and Social-Network Structure in Shaping Epidemics"
-DTSTART;VALUE=DATE-TIME:20211018T160000
-DTEND;VALUE=DATE-TIME:20211018T170000
-DESCRIPTION:Event description:\nYale School of Public Health\n\nPublic Hea
- lth Modeling Unit Seminar Series:\n“The Role of Behavior\, Mobility\, an
- d Social-Network Structure in Shaping Epidemics”\n\nSpeaker: Samuel V. S
- carpino\, Ph.D.\n\nManaging Director\, Pandemic Prevention Institute\, Hea
- lth Initiative\, The Rockefeller Foundation\n\nTalk summary:\nThe COVID-19
-  pandemic has upended our societies and re-shaped the way we go about our 
- day-to-day lives— from how we work and interact to the way we buy grocer
- ies and attend school. Leveraging global data sets that represent billions
-  of people\, Sam Scarpino will present a series of studies exploring how o
- ur behavior\, mobility patterns\, and social networks have altered and bee
- n altered by COVID-19 and the non-pharmaceutical interventions implemented
-  to control its spread. Next\, he will examine how we can better incorpora
- te stochasticity and social network heterogeneity and link directionality 
- into forecasting pandemic risk. With these results\, Dr. Scarpino will dem
- onstrate how the complexity of COVID-19 creates epistemological challenges
-  associated with model identifiability. Finally\, he will discuss The Rock
- efeller Foundation’s Pandemic Prevention Institute. The Institute is bui
- lding an equitable\, representative network of data systems that respects 
- sovereignty\, upholds the highest ethical standards\, and empowers decisio
- n-makers to respond efficiently and effectively to pathogen threats. It wi
- ll ensure that early warnings sound when needed and local actors are empow
- ered to take appropriate steps before it is too late. Embracing a combinat
- ion of technological innovation\, capacity building\, and multi-sector col
- laboration\, the Institute and its partners will transform the world’s a
- bility to capture signals and provide rapid response.\n\nTo participate:\n
- Join from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/99094
- 757790\nOr telephone: 203-432-9666 (2-ZOOM if on campus) or 646 568 7788\n
- Meeting id: 99094757790\n\nAbout the speaker:\nSam Scarpino is Affiliate A
- ssistant Professor\, Northeastern University\, and on the External Faculty
- \, Santa Fe Institute & Vermont Complex Systems Center.\n\n.\n\n\nhttps://
- yins.yale.edu/event/public-health-modeling-unit-seminar-series-role-behavi
- or-mobility-and-social-network-structure
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/public-health-modeling-unit-seminar-series
- -role-behavior-mobility-and-social-network-structure
-END:VEVENT
 END:VCALENDAR
