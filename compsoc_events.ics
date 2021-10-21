@@ -2,12 +2,28 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
+SUMMARY:Colloquium by Tristan Botelho
+DTSTART;VALUE=DATE-TIME:20211112T180000
+DTEND;VALUE=DATE-TIME:20211112T190000
+DESCRIPTION:Event description\nSpeaker:\nTristan Botelho\n\, Assistant Pro
+ fessor of Organization Behavior\, Yale School of Management\n\n\n\nTitle/A
+ bstract:  To be announced\n\nZoom link:\nhttps://yale.zoom.us/j/924956932
+ 05\n\n\nhttps://computationsociety.yale.edu/event/colloquium-by-tristan-bo
+ telho
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/colloquium-by-tristan-botelh
+ o
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colloquium by Julian Jara-Ettinger
 DTSTART;VALUE=DATE-TIME:20211119T160000
 DTEND;VALUE=DATE-TIME:20211119T170000
 DESCRIPTION:Event description\nSpeaker:\nJulian Jara-Ettinger\n\, Assistan
- t Professor of Psychology\, Yale University\n\n\nhttps://computationsociet
- y.yale.edu/event/colloquium-by-julian-jara-ettinger
+ t Professor of Psychology\, Yale University\n\n\n\nTitle/abstrat: To be an
+ nounced.\n\n\n\n\n\n\n\nZoom link:\nhttps://yale.zoom.us/j/95492264949\n\n
+ \nhttps://computationsociety.yale.edu/event/colloquium-by-julian-jara-etti
+ nger
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://computationsociety.yale.edu/event/colloquium-by-julian-jara-et
