@@ -2,54 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Avrim Blum (TTIC)
-DTSTART;VALUE=DATE-TIME:20211020T160000
-DTEND;VALUE=DATE-TIME:20211020T170000
-DESCRIPTION:Event description:\nYINS Seminar\n\n“On learning in the pres
- ence of biased data and strategic behavior”\n\nSpeaker: Avrim Blum\n\nPr
- ofessor and Chief Academic Officer\nToyota Technological Institute at Chic
- ago\n\nhttp://www.ttic.edu/blum\n\nTalk summary:\nIn this talk I will disc
- uss two lines of work involving learning in the presence of biased data an
- d strategic behavior.  In the first\, we ask whether fairness constraints
-  on learning algorithms can actually improve the accuracy of the classifie
- r produced\, when training data is unrepresentative or corrupted due to bi
- as.   Typically\, fairness constraints are analyzed as a tradeoff with cl
- assical objectives such as accuracy.  Our results here show there are nat
- ural scenarios where they can be a win-win\, helping to improve overall ac
- curacy.  In the second line of work we consider strategic classification:
-  settings where the entities being measured and classified wish to be clas
- sified as positive (e.g.\, college admissions) and will try to modify thei
- r observable features if possible to make that happen.   We consider this
-  in the online setting where a particular challenge is that updates made b
- y the learning algorithm will change how the inputs behave as well.\n\nTo 
- participate:\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.z
- oom.us/j/93612337599\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or
-  646 568 7788\nMeeting ID: 936 1233 7599\nInternational numbers available:
- \nhttps://yale.zoom.us/u/abMfmltZ0O\n\nSpeaker bio:\nAvrim Blum received h
- is BS\, MS\, and PhD from MIT in 1987\, 1989\, and 1991 respectively.  He
-  then served on the faculty in the Computer Science Department at Carnegie
-  Mellon University from 1992 to 2017. In 2017 he joined the Toyota Technol
- ogical Institute at Chicago as Chief Academic Officer.\n\nBlum’s main re
- search interests are in Theoretical Computer Science and Machine Learning\
- , including Machine Learning Theory\, Approximation Algorithms\, Algorithm
- ic Game Theory\, and Database Privacy\, as well as connections among them.
-  Some current specific interests include multi-agent and distributed learn
- ing\, fairness\, learning systems that know when they don’t know\, and t
- he design of incentive systems. He has served as Program Chair for the IEE
- E Symposium on Foundations of Computer Science (FOCS)\, the Innovations in
-  Theoretical Computer Science Conference (ITCS)\, and the Conference on Le
- arning Theory (COLT).  He has served as Chair of the ACM SIGACT Committee
-  for the Advancement of Theoretical Computer Science and on the SIGACT Exe
- cutive Committee.  Blum is recipient of the AI Journal Classic Paper Awar
- d\, the ICML/COLT 10-Year Best Paper Award\, the Sloan Fellowship\, the NS
- F National Young Investigator Award\, and the Herbert Simon Teaching Award
- \, and he is a Fellow of the ACM.\n\n.\n\n\nhttps://yins.yale.edu/event/yi
- ns-seminar-avrim-blum-ttic
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-avrim-blum-ttic
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Industry Seminar: Yasaman Bahri (Google)
 DTSTART;VALUE=DATE-TIME:20211027T160000
 DTEND;VALUE=DATE-TIME:20211027T170000
