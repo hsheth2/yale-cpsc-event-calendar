@@ -2,18 +2,37 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
-SUMMARY:Colloquium by Tristan Botelho
+SUMMARY:Colloquium on Evaluation and Bias by Tristan Botelho
 DTSTART;VALUE=DATE-TIME:20211112T180000
 DTEND;VALUE=DATE-TIME:20211112T190000
 DESCRIPTION:Event description\nSpeaker:\nTristan Botelho\n\, Assistant Pro
- fessor of Organization Behavior\, Yale School of Management\n\n\n\nTitle/A
- bstract:  To be announced\n\nZoom link:\nhttps://yale.zoom.us/j/924956932
- 05\n\n\nhttps://computationsociety.yale.edu/event/colloquium-by-tristan-bo
- telho
+ fessor of Organization Behavior\, Yale School of Management\n\nTitle: Eval
+ uation and Bias\n\nHost:\nNisheeth Vishnoi\n\nAbstract: Evaluation Process
+ es\, where individuals have the opportunity to assess the quality of candi
+ dates (e.g.\, ideas\, products\, exchange partners\, and employees)\, are 
+ a mainstay of markets and organizations. Not only are these evaluations in
+ creasingly popular due to their use on various digital platforms and organ
+ izations\, but these evaluations also have critical consequences for the a
+ llocation of resources. Researchers have provided robust evidence that an 
+ individual’s ascriptive characteristics\, such as gender and race\, fact
+ or into an evaluator’s assessments\, thus biasing observed outcomes. Whi
+ le documenting these differences is helpful\, it is essential to understan
+ d the conditions under which evaluative biases are attenuated and magnifie
+ d to inform policy and possible interventions. In this presentation\, I wi
+ ll discuss the results of several projects to understand how the structure
+  of evaluation processes affects observed bias. Data for these projects co
+ me from a diverse set of digital platforms\, including evaluating entrepre
+ neurs\, professionals\, and firms. A focus of the discussion will be on th
+ e mechanisms that exacerbate and alleviate observed biases.\n\nSpeaker Bio
+ graphy: Tristan is an Assistant Professor at the Yale School of Management
+ . You can find more information about him and his research here:\nhttps://
+ tristanbotelho.com/\n.\n\nZoom link:\nhttps://yale.zoom.us/j/92495693205\n
+ \n\nhttps://computationsociety.yale.edu/event/colloquium-on-evaluation-and
+ -bias-by-tristan-botelho
 LOCATION:TBA
 STATUS:CONFIRMED
-URL:https://computationsociety.yale.edu/event/colloquium-by-tristan-botelh
- o
+URL:https://computationsociety.yale.edu/event/colloquium-on-evaluation-and
+ -bias-by-tristan-botelho
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colloquium by Julian Jara-Ettinger
