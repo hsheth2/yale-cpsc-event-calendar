@@ -5,13 +5,37 @@ BEGIN:VEVENT
 SUMMARY:YINS Industry Seminar: Yasaman Bahri (Google)
 DTSTART;VALUE=DATE-TIME:20211027T160000
 DTEND;VALUE=DATE-TIME:20211027T170000
-DESCRIPTION:Event description:\nYINS Industry Seminar\n\nSpeaker: Yasaman 
- Bahri\n\nResearch Scientist at Google Research\, Brain Team\n\nTo particip
- ate:\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j
- /98819118892\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568
-  7788\nMeeting ID: 988 1911 8892\nInternational numbers available:\nhttps:
- //yale.zoom.us/u/aeF0HRmJcA\n\n\n.\n\n\nhttps://yins.yale.edu/event/yins-i
- ndustry-seminar-yasaman-bahri-google
+DESCRIPTION:Event description:\nYINS Industry Seminar\n\n“Dynamics and s
+ caling laws in deep learning”\n\nSpeaker: Yasaman Bahri\n\nResearch Scie
+ ntist at Google Research\, Brain Team\n\nTalk summary:\nThis talk will dis
+ cuss some topics in supervised deep learning from a scientist’s lens\, d
+ escribing efforts that seek to bridge theory and experiment. First\, I’l
+ l briefly review some of what is known about the learning dynamics of deep
+  neural networks\, including highlights from the large-width limit of neur
+ al networks. I’ll then focus on efforts to understand empirical “scali
+ ng laws” for the performance of neural networks. Recent empirical work h
+ as found that the test loss often follows smooth power laws as a function 
+ of basic variables such as model size and dataset size. I will discuss our
+  work seeking to connect and understand some of these scaling laws. We int
+ roduce “variance-limited” and “resolution-limited” scaling regimes
+  to distinguish the origin of the power-law behavior. As an illustration\,
+  we investigate the case of teacher-student random feature models where we
+  can study the problem exactly. I’ll close with a few empirical observat
+ ions about task properties and scaling exponents.\n\nTo participate:\nJoin
+  from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/988191188
+ 92\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMee
+ ting ID: 988 1911 8892\nInternational numbers available:\nhttps://yale.zoo
+ m.us/u/aeF0HRmJcA\n\n\nSpeaker bio:\nYasaman Bahri is a Research Scientist
+  at Google Research on the Brain team. In the past several years\, she has
+  been working at the boundary of machine learning and the physical science
+ s\, with a particular focus on bridging theoretical and empirical understa
+ nding in deep learning. Her doctoral work is in the area of theoretical co
+ ndensed matter physics\, specifically on quantum many-body systems. She re
+ ceived her Ph.D. in Physics from UC Berkeley (2017) as well as earlier B.A
+ . degrees from UC Berkeley in Physics and Math. She is a recipient of the 
+ 2020 Rising Stars Award in EECS and the NSF Graduate Fellowship and has co
+ -organized two ICML workshops.\n\n.\n\n\nhttps://yins.yale.edu/event/yins-
+ industry-seminar-yasaman-bahri-google
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-industry-seminar-yasaman-bahri-google
