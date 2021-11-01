@@ -96,7 +96,7 @@ def fetch_upcoming_events(urls: List[str]) -> List[Event]:
     for url in urls:
         print(f"starting {url}")
         if url in REJECT_EVENT_URLS:
-            print('skipping because of rejection list')
+            print("skipping because of rejection list")
             continue
         event_info = scrape_event_info(url)
         print(f"Event: {event_info.title}")
