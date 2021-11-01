@@ -11,6 +11,11 @@ IGNORED_URL_PATTERNS: List[Pattern] = [
     re.compile(r"^https://yale.zoom.us/"),
 ]
 
+REJECT_EVENT_URLS = {
+    # site crashes with "site under maintenance"
+    "https://frankeprogram.yale.edu/event/distinguished-speaker-series-talk-hazel-carby",
+}
+
 
 def parse_event_urls_from_feed(domain: str, feed: str) -> List[str]:
     content = requests.get(feed)
@@ -90,6 +95,9 @@ def fetch_upcoming_events(urls: List[str]) -> List[Event]:
     events = []
     for url in urls:
         print(f"starting {url}")
+        if url in REJECT_EVENT_URLS:
+            print('skipping because of rejection list')
+            continue
         event_info = scrape_event_info(url)
         print(f"Event: {event_info.title}")
         events.append(event_info)
