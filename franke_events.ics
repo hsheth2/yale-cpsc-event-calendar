@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Distinguished Speaker Series Talk by Hazel Carby
-DTSTART;VALUE=DATE-TIME:20211103T210000
-DTEND;VALUE=DATE-TIME:20211103T220000
-DESCRIPTION:Event description:\nBecoming White\n\nDrawn from\nImperial Int
- imacies\, A Tale of Two Islands\,\nthe lecture will discuss how Professor
-  Hazel Carby employed the insights of Stuart Hall into the nature of ident
- ities “as stories we tell ourselves\,” and systems of recognition that
-  we adopt\, to trace the role of visual culture in creation of British imp
- erial subjects and subjectivity.\n\nHazel V. Carby HonFLSW\, FRSA\, is th
- e Charles C. and Dorothea S. Dilley Professor Emeritus of African American
-  Studies and Professor Emeritus of American Studies Yale University and a 
- Fellow of the Royal Society for the Arts.  She is currently a Visiting Re
- search Professor & Humanities Institute Faculty at Dartmouth College.\n\nS
- he is the author of\nImperial Intimacies\n\,\nA Tale of Two Islands\n(Vers
- o\, 2019) selected as one of the “Books of the Year for 2019\,” by the
- \nTimes Literary Supplement\n.  Winner of the British Academy’s Nayef A
- l-Rodhan Prize for Global Cultural Understanding\, 2020.\n\nFinalist John 
- Hope Franklin Publication Prize\, ASA\, 2020.\n\nHighly Commended PEN Hess
- ell-Tiltman Prize\, 2020.\n\nAuthor of\nCultures in Babylon: Black Britain
-  and African America\n(1999)\;\nRace Men\n(1998)\;\nReconstructing Womanho
- od: The Emergence of the Afro-American Woman Novelist\n(1987)\; Hazel Carb
- y is also a co-author of\nThe Empire Strikes Back: Race and Racism in 70s 
- Britain\n(1982).\n\n\nRegister in advance for this webinar:\n\nhttps://yal
- e.zoom.us/webinar/register/WN_DIHJk32_TlaP_GGhWlLiPQ\n\n\nAfter registerin
- g\, you will receive a confirmation email containing information about joi
- ning the webinar.\n\n\nhttps://frankeprogram.yale.edu/event/distinguished-
- speaker-series-talk-hazel-carby
-LOCATION:Zoom
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/distinguished-speaker-series-talk
- -hazel-carby
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Distinguished Speaker Series Talk by Mariano Sigman
 DTSTART;VALUE=DATE-TIME:20211208T210000
 DTEND;VALUE=DATE-TIME:20211208T220000
