@@ -2,49 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Marinka Zitnik (Harvard)
-DTSTART;VALUE=DATE-TIME:20211103T160000
-DTEND;VALUE=DATE-TIME:20211103T170000
-DESCRIPTION:Event description:\nYINS Seminar:\n“\nInfusing Structure and
-  Knowledge into Biomedical AI Algorithms”\n\nSpeaker: Marinka Zitnik\n\
- n\nAssistant Professor of Biomedical Informatics\, Harvard Medical School\
- nZitnik Lab:\nhttps://zitniklab.hms.harvard.edu\n\n\nTalk summary:\nGrand 
- challenges in biology and medicine often lack annotated examples and requi
- re generalization to entirely new scenarios not seen during training. Howe
- ver\, standard supervised learning is incredibly limited in scenarios\, su
- ch as designing novel medicines\, modeling emerging pathogens\, and treati
- ng rare diseases. In this talk\, I present our efforts to overcome these o
- bstacles by infusing structure and knowledge into learning algorithms. Fir
- st\, I outline our subgraph neural networks that can disentangle distinct 
- aspects of subgraph topology. I then present a general-purpose approach fo
- r few-shot learning on graphs. At the core is the notion of local subgraph
- s that transfer knowledge from one task to another\, even when only a hand
- ful of labeled examples are available. This principle is theoretically jus
- tified as we show the evidence for predictions can be found in subgraphs s
- urrounding the targets. I conclude with applications in drug development a
- nd precision medicine where the algorithmic predictions were validated in 
- human cells and led to the discovery of a new class of drugs.\n\nTo partic
- ipate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.
- us/j/95292478213\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646
-  568 7788\nMeeting ID: 952 9247 8213\nInternational numbers available:\nht
- tps://yale.zoom.us/u/abCoS8cam8\n\n\nSpeaker bio:\nMarinka Zitnik is an As
- sistant Professor at Harvard University with appointments in the Departmen
- t of Biomedical Informatics\, Broad Institute of MIT and Harvard\, and Har
- vard Data Science. Dr. Zitnik leads the Machine learning for Medicine and 
- Science Lab\, focusing on methods and applications for networked systems t
- hat require infusing structure and domain knowledge. This research won bes
- t paper and research awards from the International Society for Computation
- al Biology\, International Conference of Machine Learning\, Bayer Early Ex
- cellence in Science Award\, Amazon Faculty Research Award\, Rising Star Aw
- ard in EECS\, and Next Generation Recognition in Biomedicine\, being the o
- nly young scientist who received such recognition in both EECS and Biomedi
- cine.\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-marinka-zitnik-ha
- rvard
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-marinka-zitnik-harvard
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Seminar: Karan Singh (Princeton)
 DTSTART;VALUE=DATE-TIME:20211110T170000
 DTEND;VALUE=DATE-TIME:20211110T180000
