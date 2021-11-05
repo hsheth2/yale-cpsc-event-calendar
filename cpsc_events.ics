@@ -38,4 +38,35 @@ LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-martin-vechev-eth-zurich
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Zhiyun Qian\, University of California Riverside
+DTSTART;VALUE=DATE-TIME:20211118T210000
+DTEND;VALUE=DATE-TIME:20211118T220000
+DESCRIPTION:Event description:\nCS Colloquium\nZhiyun Qian\, University of
+  California Riverside\n\nTitle: Weaponizing Network Side Channels: From T
+ CP Hijacking to DNS Cache Poisoning\n\nHost: Charalampos (Babis) Papamanth
+ ou\n\nAbstract:\n\nSide channel attacks were never considered as part of t
+ he threat model when network protocols were designed. Even today\, the imp
+ act of network side channels is vastly underestimated. Exploiting network 
+ side channels have been considered challenging\, if not infeasible\, due t
+ o its nature of being remote. In this talk\, I will demonstrate a series o
+ f surprisingly powerful attacks where a blind off-path attacker can use si
+ de channels to hijack arbitrary remote TCP connections\, as well as launch
+  DNS cache poisoning attacks against popular DNS services. I will also giv
+ e insights on how to systematically discover such problems.\n\nBio:\n\nZhi
+ yun Qian\nis the Everett and Imogene Ross associate professor in the CSE d
+ epartment at the University of California Riverside. His main research int
+ erests are in the area of system and network security\, including vulnerab
+ ility discovery\, side channel analysis\, applied program analysis\, syst
+ em building\, and measurement of real-world security problems. He is a rec
+ ipient of the ACM CCS distinguished paper award in 2020\, Applied Networki
+ ng Research Prize from IRTF in 2019\, NSF CAREER Award in 2017\, Facebook 
+ Internet Defense Prize Finalist in 2016\, and the most creative idea award
+  from Geekpwn 2016.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-zhiyun-
+ qian-university-california-riverside
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-zhiyun-qian-university-calif
+ ornia-riverside
+END:VEVENT
 END:VCALENDAR
