@@ -2,6 +2,37 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:Department of Statistics and Data Science Seminar/Andre Wibisono\,
+  Yale University
+DTSTART;VALUE=DATE-TIME:20211108T210000
+DTEND;VALUE=DATE-TIME:20211108T220000
+DESCRIPTION:Event description:\nDepartment of Statistics and Data Science 
+ Seminar\n\nAndre Wibisono\n\, Yale University\n\nTitle: On Bias and Discre
+ tization: Sampling under Isoperimetry via Langevin Algorithm\n\nInformatio
+ n and Abstract:\n\nSampling is a fundamental algorithmic task. Many applic
+ ations require sampling from probability distributions in high-dimensional
+  spaces\, and in modern problems the distributions are complicated and non
+ -logconcave. While the setting of logconcave functions is well-studied\, i
+ t is important to have efficient sampling algorithms with good convergence
+  guarantees beyond logconcavity. In this talk we study sampling from the p
+ erspective of optimization in the space of distributions. We focus on the 
+ Langevin dynamics and the Unadjusted Langevin Algorithm (ULA) as a case st
+ udy. We prove a biased convergence guarantee of ULA in KL divergence assum
+ ing the target distribution satisfies Log-Sobolev Inequality (LSI) and the
+  log-density has bounded Hessian\; notably\, we do not assume convexity no
+ r bounds on higher derivatives. We also show convergence guarantees in Ré
+ nyi divergence assuming the biased limit satisfies LSI or Poincaré inequa
+ lity. We investigate the source of the bias of ULA and consider how to rem
+ ove the bias. We point out the difficulty is that the heat flow is exactly
+  solvable\, but neither its forward nor backward method is implementable i
+ n general\n\n\nhttps://cpsc.yale.edu/event/department-statistics-and-data-
+ science-seminarandre-wibisono-yale-university
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/department-statistics-and-data-science-sem
+ inarandre-wibisono-yale-university
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Martin Vechev\, ETH Zurich
 DTSTART;VALUE=DATE-TIME:20211111T153000
 DTEND;VALUE=DATE-TIME:20211111T163000
