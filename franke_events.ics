@@ -2,6 +2,36 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
+SUMMARY:Inference Project:  Nisheeth Vishnoi
+DTSTART;VALUE=DATE-TIME:20211119T200000
+DTEND;VALUE=DATE-TIME:20211119T210000
+DESCRIPTION:Event description:\n“Bias in Algorithms”\n\nArtificial alg
+ orithms are increasingly being deployed to inform\, endorse\, and govern v
+ arious aspects of today’s society. Their reach includes the domains of h
+ iring\, lending\, medicine\, criminal justice\, insurance\, allocation of 
+ public services\, social and business interactions\, and the dissemination
+  of information and news.  Through a synthesis of computational and stati
+ stical models for representing concepts\, human-generated datasets that pr
+ ovide examples for training\, and powerful optimization algorithms that ca
+ n efficiently navigate through vast and complex landscapes to infer conce
+ pts that explain data\, such algorithms have taken big strides towards mim
+ icking various aspects of natural intelligence.\n\nThese algorithms have l
+ ed to tremendous economic and social impact but have also been shown to be
+  biased – they can discriminate\, reinforce prejudices\, polarize opin
+ ions\, and influence political processes.  How can subjective human or so
+ cietal biases emerge in the objective world of artificial algorithms?  An
+ d how can we design algorithms free from these limitations?\n\nThe search 
+ for answers to these questions also leads us to some understanding of the 
+ bias in human decision-making algorithms.\n\nRegister\nin advance for this
+  webinar and the post-talk conversation:\n\nhttps://yale.zoom.us/webinar/r
+ egister/WN_td0_sxHLTz69ChvuusslZA\n\n\nhttps://frankeprogram.yale.edu/even
+ t/inference-project-nisheeth-vishnoi
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-nisheeth-vishno
+ i
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Distinguished Speaker Series Talk by Mariano Sigman
 DTSTART;VALUE=DATE-TIME:20211208T210000
 DTEND;VALUE=DATE-TIME:20211208T220000
