@@ -22,14 +22,60 @@ DESCRIPTION:Event description:\n“Bias in Algorithms”\n\nArtificial alg
  cietal biases emerge in the objective world of artificial algorithms?  An
  d how can we design algorithms free from these limitations?\n\nThe search 
  for answers to these questions also leads us to some understanding of the 
- bias in human decision-making algorithms.\n\nRegister\nin advance for this
-  webinar and the post-talk conversation:\n\nhttps://yale.zoom.us/webinar/r
- egister/WN_td0_sxHLTz69ChvuusslZA\n\n\nhttps://frankeprogram.yale.edu/even
- t/inference-project-nisheeth-vishnoi
+ bias in human decision-making algorithms.\n\nArtificial algorithms are inc
+ reasingly being deployed to inform\, endorse\, and govern various aspects 
+ of today’s society. Their reach includes the domains of hiring\, lending
+ \, medicine\, criminal justice\, insurance\, allocation of public services
+ \, social and business interactions\, and the dissemination of information
+  and news.  Through a synthesis of computational and statistical models f
+ or representing concepts\, human-generated datasets that provide examples 
+ for training\, and powerful optimization algorithms that can efficiently 
+ navigate through vast and complex landscapes to infer concepts that explai
+ n data\, such algorithms have taken big strides towards mimicking various 
+ aspects of natural intelligence.\n\nThese algorithms have led to tremendou
+ s economic and social impact but have also been shown to be biased – th
+ ey can discriminate\, reinforce prejudices\, polarize opinions\, and infl
+ uence political processes.  How can subjective human or societal biases e
+ merge in the objective world of artificial algorithms?  And how can we de
+ sign algorithms free from these limitations?\n\nThe search for answers to 
+ these questions also leads us to some understanding of the bias in human d
+ ecision-making algorithms.\n\nRegister\nin advance for this webinar and th
+ e post-talk conversation:\n\nhttps://yale.zoom.us/webinar/register/WN_td0_
+ sxHLTz69ChvuusslZA\n\n\nhttps://frankeprogram.yale.edu/event/inference-pro
+ ject-nisheeth-vishnoi
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/inference-project-nisheeth-vishno
  i
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inference Project:  Post-Talk Conversation with Professor Nisheeth
+  Vishnoi
+DTSTART;VALUE=DATE-TIME:20211122T220000
+DTEND;VALUE=DATE-TIME:20211122T230000
+DESCRIPTION:Event description:\nProfessor Aleksander\nMądry will lead the
+  post-talk discussion for the Inference Project talk by Professor Nisheeth
+  Vishnoi on Monday\, November 22.  He is the Cadence Design Systems Prof
+ essor of Computing in the MIT Electrical Engineering and Computer Scien
+ ce Department and a member of the Computer Science and Artifical Intellig
+ ence Lab at MIT.  He received his Ph.D. from MIT in 2011 and prior to 
+ joining the university’s faculty\, he spent a year as a postdoctoral res
+ earcher at Microsoft Research New England.  He also was on the faculty o
+ f\nEPFL\nuntil early 2015.  Professor Mądry is currently serving as the
+  Director of the MIT Center for Deployable Machine Learning and is the 
+ Faculty Lead of the CSAIL-MSR Trustworthy and Robust AI Collaboration.  
+ His research spans machine learning\, optimization\, and algorithmic grap
+ h theory\, and he has a strong interest in building on the existing machin
+ e learning techniques to forge a decision-making toolkit that is reliable 
+ and well-understood enough to be safely and responsibly deployed in the re
+ al world.\n\nRegister\nin advance for this webinar and the post-talk conve
+ rsation:\n\nhttps://yale.zoom.us/webinar/register/WN_td0_sxHLTz69ChvuusslZ
+ A\n\n\nhttps://frankeprogram.yale.edu/event/inference-project-post-talk-co
+ nversation-professor-nisheeth-vishnoi
+LOCATION:Zoom
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-post-talk-conve
+ rsation-professor-nisheeth-vishnoi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Distinguished Speaker Series Talk by Mariano Sigman
