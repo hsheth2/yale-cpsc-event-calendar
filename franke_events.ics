@@ -22,31 +22,44 @@ DESCRIPTION:Event description:\n“Bias in Algorithms”\n\nArtificial alg
  cietal biases emerge in the objective world of artificial algorithms?  An
  d how can we design algorithms free from these limitations?\n\nThe search 
  for answers to these questions also leads us to some understanding of the 
- bias in human decision-making algorithms.\n\nArtificial algorithms are inc
- reasingly being deployed to inform\, endorse\, and govern various aspects 
- of today’s society. Their reach includes the domains of hiring\, lending
- \, medicine\, criminal justice\, insurance\, allocation of public services
- \, social and business interactions\, and the dissemination of information
-  and news.  Through a synthesis of computational and statistical models f
- or representing concepts\, human-generated datasets that provide examples 
- for training\, and powerful optimization algorithms that can efficiently 
- navigate through vast and complex landscapes to infer concepts that explai
- n data\, such algorithms have taken big strides towards mimicking various 
- aspects of natural intelligence.\n\nThese algorithms have led to tremendou
- s economic and social impact but have also been shown to be biased – th
- ey can discriminate\, reinforce prejudices\, polarize opinions\, and infl
- uence political processes.  How can subjective human or societal biases e
- merge in the objective world of artificial algorithms?  And how can we de
- sign algorithms free from these limitations?\n\nThe search for answers to 
- these questions also leads us to some understanding of the bias in human d
- ecision-making algorithms.\n\nRegister\nin advance for this webinar and th
- e post-talk conversation:\n\nhttps://yale.zoom.us/webinar/register/WN_td0_
- sxHLTz69ChvuusslZA\n\n\nhttps://frankeprogram.yale.edu/event/inference-pro
- ject-nisheeth-vishnoi
+ bias in human decision-making algorithms.\n\nRegister in advance for this
+  webinar and the post-talk conversation:\n\nhttps://yale.zoom.us/webinar/r
+ egister/WN_td0_sxHLTz69ChvuusslZA\n\n\nhttps://frankeprogram.yale.edu/even
+ t/inference-project-nisheeth-vishnoi
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/inference-project-nisheeth-vishno
  i
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inference Project Virtual Talk:  “Bias in Algorithms”
+DTSTART;VALUE=DATE-TIME:20211119T200000
+DTEND;VALUE=DATE-TIME:20211119T210000
+DESCRIPTION:Event description:\nArtificial algorithms are increasingly bei
+ ng deployed to inform\, endorse\, and govern various aspects of today’s 
+ society. Their reach includes the domains of hiring\, lending\, medicine\,
+  criminal justice\, insurance\, allocation of public services\, social and
+  business interactions\, and the dissemination of information and news.  T
+ hrough a synthesis of computational and statistical models for representin
+ g concepts\, human-generated datasets that provide examples for training\,
+  and powerful optimization algorithms that can efficiently navigate throug
+ h vast and complex landscapes to infer concepts that explain data\, such a
+ lgorithms have taken big strides towards mimicking various aspects of natu
+ ral intelligence.\nThese algorithms have led to tremendous economic and so
+ cial impact but have also been shown to be biased – they can discriminat
+ e\, reinforce prejudices\, polarize opinions\, and influence political pro
+ cesses.  How can subjective human or societal biases emerge in the objecti
+ ve world of artificial algorithms?  And how can we design algorithms free 
+ from these limitations?\nThe search for answers to these questions also le
+ ads us to some understanding of the bias in human decision-making algorith
+ ms.\nRegister in advance for this webinar and the post-talk conversation\,
+  which will take place on Monday\, November 22 at 5 p.m.:\n\nhttps://yale.
+ zoom.us/webinar/register/WN_td0_sxHLTz69ChvuusslZA\n\n\nhttps://frankeprog
+ ram.yale.edu/event/inference-project-virtual-talk-bias-algorithms
+LOCATION:53 Wall Street (WALL53)\, Auditorium
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-virtual-talk-bi
+ as-algorithms
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inference Project:  Post-Talk Conversation with Professor Nisheeth
