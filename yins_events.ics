@@ -1,44 +1,4 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
-BEGIN:VEVENT
-SUMMARY:YINS Seminar: Karan Singh (Princeton)
-DTSTART;VALUE=DATE-TIME:20211110T170000
-DTEND;VALUE=DATE-TIME:20211110T180000
-DESCRIPTION:Event description:\nYINS Seminar\,\n“\nBoosting for Online C
- onvex Optimization”\n\nSpeaker: Karan Singh\n\nPostdoc\, Princeton Unive
- rsity\n\nTalk summary:\nBoosting is a computational framework for composit
- ional learning. There are two traditions to the theory of boosting. First:
-  Classical boosting\, arising from theoretical CS\, converts weak slightly
- -better-than-random learners to an accurate one\, enhancing the accuracy. 
- Originally designed for the binary classification setting\, the literature
-  on boosting was extended to multi-class\, multi-label\, and ranking-based
-  settings (all examples of linear loss) with specialized constructions in 
- each case. Second: Gradient boosting\, on the other hand\, aggregates simp
- le (but accurate) learners into a more expressive one\; it guarantees comp
- etitiveness with the convex hull of the weak hypothesis class.  The main 
- contribution of this work is an efficient algorithm that enhances the accu
- racy and expressivity of the learning process at the same time\, while ope
- rating on general convex loss (vs. linear for classical boosting) and any 
- convex decision set. This resultant excess risk (average regret) guarantee
-  unifies and delivers on the twin objectives of classical boosting and gra
- dient boosting. The reduction holds for both the (non-stochastic) online a
- nd statistical settings\, and is amenable to bandit feedback.\n\nTo partic
- ipate:\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.
- us/j/98411487580\nOr Telephone：203-432-9666 (2-ZOOM if on-campus) or 646
-  568 7788\nMeeting ID: 984 1148 7580\nInternational numbers available:\nht
- tps://yale.zoom.us/u/aypRvb6I6\n\nSpeaker bio:\nKaran Singh is a postdocto
- ral researcher at Microsoft Research in Redmond. He received a PhD in Comp
- uter Science\, under the supervision of Prof. Elad Hazan\, from Princeton 
- University in 2021. His research looks at questions in supervised and inte
- ractive learning through the lens of optimization. This has\, in recent ye
- ars\, shaped into a quest towards an algorithmic (vs. traditionally\, anal
- ytic) foundation for control theory\, for learning in dynamical systems th
- at do not “forget”\, and for provably sound mechanisms of compositiona
- l learning.\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-karan-singh
- -princeton
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-karan-singh-princeton
-END:VEVENT
 END:VCALENDAR
