@@ -2,17 +2,29 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
-SUMMARY:Colloquium by Julian Jara-Ettinger
+SUMMARY:Colloquium on Social Intelligence in Machines by Julian Jara-Ettin
+ ger
 DTSTART;VALUE=DATE-TIME:20211119T160000
 DTEND;VALUE=DATE-TIME:20211119T170000
 DESCRIPTION:Event description\nSpeaker:\nJulian Jara-Ettinger\n\, Assistan
- t Professor of Psychology\, Yale University\n\n\n\nTitle/abstrat: To be an
- nounced.\n\n\n\n\n\n\n\nZoom link:\nhttps://yale.zoom.us/j/95492264949\n\n
- \nhttps://computationsociety.yale.edu/event/colloquium-by-julian-jara-etti
- nger
+ t Professor of Psychology\, Yale University\n\n\n\nTitle: Towards human-li
+ ke social intelligence in machines\n\n\n\nAbstract: Virtually all areas of
+  uniquely-human intelligence\, from moral reasoning to language understand
+ ing\, rely on social cognition. Characterizing its computational structure
+  is therefore a central challenge in cognitive science and critical toward
+ s engineering human-like AI. In this talk I will present empirical and com
+ putational work showing that humans make sense of each other’s behavior 
+ through a form of inverse reinforcement learning (IRL). I will show how IR
+ L-based inferences guide social reasoning\, even in young children and inf
+ ants\, supporting a wide range of human social behavior. Finally\, I will 
+ also discuss some ethical questions that arise when considering the role o
+ f this technology in potential surveillance applications.\n\n\n\nZoom link
+ :\nhttps://yale.zoom.us/j/95492264949\n\n\nhttps://computationsociety.yale
+ .edu/event/colloquium-on-social-intelligence-in-machines-by-julian-jara-et
+ tinger
 LOCATION:TBA
 STATUS:CONFIRMED
-URL:https://computationsociety.yale.edu/event/colloquium-by-julian-jara-et
- tinger
+URL:https://computationsociety.yale.edu/event/colloquium-on-social-intelli
+ gence-in-machines-by-julian-jara-ettinger
 END:VEVENT
 END:VCALENDAR
