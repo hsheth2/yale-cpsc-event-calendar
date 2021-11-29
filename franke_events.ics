@@ -2,7 +2,8 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Distinguished Speaker Series Talk by Mariano Sigman
+SUMMARY:Mapping as Knowing Series Talk by Acclaimed Neuroscientist Mariano
+  Sigman
 DTSTART;VALUE=DATE-TIME:20211208T210000
 DTEND;VALUE=DATE-TIME:20211208T220000
 DESCRIPTION:Event description:\nMariano Sigman is one of the most outstand
@@ -33,11 +34,11 @@ DESCRIPTION:Event description:\nMariano Sigman is one of the most outstand
  edia. He is also the author of the bestseller\nThe Secret Life of the Mind
  \n.\n\nRegister in advance for this webinar:\n\nhttps://yale.zoom.us/webin
  ar/register/WN_yYFmFou3QO2OM2fOldUObA\n\n\nhttps://frankeprogram.yale.edu/
- event/distinguished-speaker-series-talk-mariano-sigman
+ event/mapping-knowing-series-talk-acclaimed-neuroscientist-mariano-sigman
 LOCATION:Zoom
 STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/distinguished-speaker-series-talk
- -mariano-sigman
+URL:https://frankeprogram.yale.edu/event/mapping-knowing-series-talk-accla
+ imed-neuroscientist-mariano-sigman
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inference Project Talk Schedule
