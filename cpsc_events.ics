@@ -2,6 +2,49 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - A.M. Darke\, UC Santa Cruz
+DTSTART;VALUE=DATE-TIME:20211203T210000
+DTEND;VALUE=DATE-TIME:20211203T220000
+DESCRIPTION:Event description:\nCS Colloquium\nA.M. Darke\, UC Santa Cruz\
+ n\nHost: Ted Kim\n\nTitle: Designing the Open Source Afro Hair Library\n\n
+ Abstract:\n\nAcross digital media\, Black people are portrayed in ways tha
+ t are derogatory\, inaccurate\, stereotypical\, demeaning\, and otherwise 
+ harmful–if we are depicted at all. The representation of afro-textured h
+ air is noticeably limited\, with options ranging from comically large afro
+ s\, unstyled “dread” locs\, and misshapen cornrows. In real life\, nat
+ ural Black hair is considered a liability in academic and professional set
+ tings\, with Black people being subject to loss of employment\, school sus
+ pension\, and even having our hair forcibly removed before being allowed i
+ n athletic competitions. Laws such as the Crown Act in California are maki
+ ng headway toward justice and dignity for the corporeal Black body\, but w
+ hat of the virtual world? What advances can we make to address issues of p
+ ower and representation in digital realms?\n\nIn this talk\, artist and de
+ signer A.M. Darke discussing her development of the Open Source Afro Hair 
+ Library\, a queer\, feminist\, antiracist 3D database for Black hair textu
+ res and styles. Functioning both as art practice and technological develop
+ ment\, OSAHL is an interventionist work\, building the resources needed to
+  fundamentally reimagine the construction and consumption of Black bodies 
+ in virtual space.\n\nBio:\n\nA.M. Darke is an artist and game maker design
+ ing radical tools for social intervention. Still in the class war. Now in 
+ the pandemic. He’s in the combination class war and pandemic. Assistant 
+ Professor of Performance\, Play & Design\, Digital Arts and New Media\, an
+ d Critical Race and Ethnic Studies\, at UC Santa Cruz\, Darke also directs
+  The Other Lab\, an interdisciplinary\, intersectional feminist research s
+ pace for experimental games and new media. Darke’s recent work includes 
+ ‘Ye or Nay?\, a Kanye West-themed game about Black culture\, and the Ope
+ n Source Afro Hair Library\, a 3D model database for Black hair styles and
+  textures. Darke holds a B.A. in Design (’13) and an M.F.A. in Media Art
+ s (’15)\, both from UCLA. He has completed residencies with Laboratory\,
+  NYU Game Center\, the Open Data Institute\, and the Frank-Ratchye STUDIO 
+ for Creative Inquiry at Carnegie Mellon. Additionally\, his work has been 
+ shown internationally and featured in a variety of publications\, includin
+ g Kill Screen\, Vice\, and NPR.\n\n\nhttps://cpsc.yale.edu/event/cs-colloq
+ uium-am-darke-uc-santa-cruz
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-am-darke-uc-santa-cruz
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Bo Hu
 DTSTART;VALUE=DATE-TIME:20211221T170000
 DTEND;VALUE=DATE-TIME:20211221T180000
