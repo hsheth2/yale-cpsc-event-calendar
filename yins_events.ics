@@ -1,4 +1,44 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
+BEGIN:VEVENT
+SUMMARY:Data Science Project Matching
+DTSTART;VALUE=DATE-TIME:20211213T210000
+DTEND;VALUE=DATE-TIME:20211213T220000
+DESCRIPTION:Event description:\nCosmology x Data Science\n\nDaisuke Nagai 
+ (Physics and Astronomy)\n\nhttp://www.astro.yale.edu/nagai/\n\ndaisuke.nag
+ ai@yale.edu\n\nNetworks\, Property\, and the Division of Labor\n\nEmily Er
+ ikson (Sociology)\n\nhttps://sociology.yale.edu/people/emily-erikson\n\nem
+ ily.erikson@yale.edu\n\nLeveraging Graphs & Deep Learning to Enhance Data 
+ Quality in Patient-Centered Outcomes Research\n\nAndrew Taylor (Emergency 
+ Medicine and Biostatistics)\n\nhttps://ysph.yale.edu/profile/richard_taylo
+ r/\n\nrichard.taylor@yale.edu\n\nEarly Cardiovascular Disease Detection Th
+ rough AI-ECG: Towards Next Generation Screening Tools\n\nRohan Khera (Card
+ iology)\n\nhttps://www.cards-lab.org\n\nrohan.khera@yale.edu\n\nProject TB
+ A\n\nIlker Yildirim (Psychology)\n\nhttp://cncl.yale.edu\n\nilker.yildirim
+ @yale.edu\n\nProject TBA\n\nKarsten Heeger (Physics)\n\nhttps://heegerlab.
+ yale.edu\n\nkarsten.heeger@yale.edu\n\nProject TBA\n\nSmita Krishnaswamy (
+ Genetics and Computer Science)\n\nhttps://www.krishnaswamylab.org\n\nsmita
+ .krishnaswamy@yale.edu\n\nData Science for Neuroscience\n\nEthan Meyers (S
+ tatistics & Data Science)\n\nhttp://emeyers.scripts.mit.edu/emeyers/\n\net
+ han.meyers@yale.edu\n\nProject TBA\n\nChenxi Huang (YNHH Center for Outcom
+ es Research and Evaluation (CORE))\n\nhttps://medicine.yale.edu/profile/ch
+ enxi_huang/\n\nchenxi.huang@yale.edu\n\nProject TBA\n\nKaren Seto (Geograp
+ hy and Urbanization Science)\n\nhttps://urbanization.yale.edu\n\nKaren.set
+ o@yale.edu\n\n.\n\n\nhttps://yins.yale.edu/event/data-science-project-matc
+ hing
+LOCATION:Dunham Lab\, Room 220
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/data-science-project-matching
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meet YINS
+DTSTART;VALUE=DATE-TIME:20211215T170000
+DTEND;VALUE=DATE-TIME:20211215T180000
+DESCRIPTION:No description provided\n\nhttps://yins.yale.edu/event/meet-yi
+ ns
+LOCATION:Yale Institute for Network Science
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/meet-yins
+END:VEVENT
 END:VCALENDAR
