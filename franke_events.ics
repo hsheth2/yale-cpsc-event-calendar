@@ -2,45 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Mapping as Knowing Series Talk by Acclaimed Neuroscientist Mariano
-  Sigman
-DTSTART;VALUE=DATE-TIME:20211208T210000
-DTEND;VALUE=DATE-TIME:20211208T220000
-DESCRIPTION:Event description:\nMariano Sigman is one of the most outstand
- ing neuroscientists in the world\, with over 150 publications in the most 
- prestigious scientific journals. He is also passionate about experimentati
- on and has worked with magicians\, chess masters\, musicians\, athletes an
- d visual artists to bring his knowledge of neuroscience to different aspec
- ts of human culture and apply it in different contexts. He has participate
- d twice (2016 and 2017) in the TED global events in Vancouver\, the second
-  with Dan Ariely. In his conferences\, he teaches how the mind works and w
- hat lessons we can learn about decision making\, leadership\, team managem
- ent\, personal development or creative skills\, his presentations always w
- ith a high level of participation from the audience through experiments an
- d games.\n\nHe obtained his degree in Physics from the University of Bueno
- s Aires\, PhD in Neuroscience (PhD) in New York and did a post-Doctorate i
- n Cognitive Sciences at the College de France (Paris). In 2016\, he was aw
- arded the Pio XI Medal\, from the Pontifical Academy of Science\, one of t
- he most outstanding prizes of science (shared among others with Stephen Ha
- wking\, and several Nobel prize winners).\n\nBeyond academy\, Mariano Sigm
- an’s research has had practical implications in Medicine (for example in
-  the diagnosis of vegetative or autistic patients)\, in Education (with ef
- fective interventions to improve decision-making and learning in schools t
- hroughout Latin America) and in Art (in a project “The morphology of the
-  look” that has been exhibited in New York\, Austria\, Moscow\, Mexico\,
-  Japan… and was presented in 2017 at the Venice Biennale). He has also d
- eveloped an extensive career in the proliferation of science that includes
-  TV programmes and hundreds of articles published in different editorial m
- edia. He is also the author of the bestseller\nThe Secret Life of the Mind
- \n.\n\nRegister in advance for this webinar:\n\nhttps://yale.zoom.us/webin
- ar/register/WN_yYFmFou3QO2OM2fOldUObA\n\n\nhttps://frankeprogram.yale.edu/
- event/mapping-knowing-series-talk-acclaimed-neuroscientist-mariano-sigman
-LOCATION:Zoom
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/mapping-knowing-series-talk-accla
- imed-neuroscientist-mariano-sigman
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inference Project Talk Schedule
 DTSTART;VALUE=DATE-TIME:20211221T164500
 DTEND;VALUE=DATE-TIME:20211221T174500
