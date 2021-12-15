@@ -11,4 +11,55 @@ LOCATION:Yale Institute for Network Science
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/meet-yins
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissertation Defense: Bo Hu
+DTSTART;VALUE=DATE-TIME:20211221T170000
+DTEND;VALUE=DATE-TIME:20211221T180000
+DESCRIPTION:Event description:\nDissertation Defense: Bo Hu\n\nDissertatio
+ n Title: System Abstractions for Scaling Application Development at the E
+ dge\n\n(Zoom link:\nhttps://zoom.us/j/92333029394?pwd=a3l0VHB2b2I5K1Y3MDcy
+ ZGFySmg3dz09\n)\n\nAdvisor: Wenjun Hu\nOther committee members:\nLin Zhon
+ g\nAnurag Khandelwal\nVictor Bahl (Microsoft Research)\n\nAbstract:\n\nRe
+ cent years have witnessed an explosive growth of Internet of things (IoT) 
+ devices\, which collect or generate huge amounts of data. Given diverse de
+ vice capabilities and application requirements\, data processing takes pla
+ ce across a range of settings\, from on-device to a nearby edge server/clo
+ ud and remote cloud. Consequently\, edge-cloud coordination has been studi
+ ed extensively from the perspectives of job placement\, scheduling and joi
+ nt optimization. Typical approaches focus on performance optimization for 
+ individual applications. This often requires domain knowledge of the appli
+ cations\, but also leads to application-specific solutions. Application de
+ velopment and deployment over diverse scenarios thus incur repetitive manu
+ al efforts.\n\nThere are two overarching challenges to provide system-leve
+ l support for application development at the edge. First\, there is inhere
+ nt heterogeneity at the device hardware level. The execution settings may 
+ range from a small cluster as an edge cloud to on-device inference on embe
+ dded devices\, differing in hardware capability and programming environmen
+ ts. Further\, application performance requirements vary significantly\, ma
+ king it even more difficult to map different applications to already heter
+ ogeneous hardware. Second\, there are trends towards incorporating edge a
+ nd cloud and multi-modal data. Together\, these add further dimensions to
+  the design space and increase the complexity significantly.\n\nIn this th
+ esis\, we propose a novel framework to simplify application development an
+ d deployment over a continuum of edge to cloud. Our framework provides key
+  connections between different dimensions of design considerations\, corre
+ sponding to the application abstraction\, data abstraction and resource ma
+ nagement abstraction respectively.\n\nFirst\, our framework masks hardware
+  heterogeneity with abstract resource types through containerization\, and
+  abstracts away the application processing pipelines into generic flow gra
+ phs. Further\, our framework further supports a notion of degradable compu
+ ting for application scenarios at the edge that are involved with multimod
+ al sensory input. Next\, we include a generic data management service betw
+ een video query systems and a video store to organize video data at the ed
+ ge. We propose a video data unit abstraction based on a notion of distance
+  between objects in the video\, quantifying the semantic similarity among 
+ video data. Last\, considering concurrent application execution\, our fram
+ ework supports multi-application offloading with device-centric control\, 
+ with a system-level scheduler service that wraps over the operating system
+  scheduler.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.\n\n\nhttps://yins
+ .yale.edu/event/dissertation-defense-bo-hu
+LOCATION:Yale Institute for Network Science
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/dissertation-defense-bo-hu
+END:VEVENT
 END:VCALENDAR
