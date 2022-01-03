@@ -2,6 +2,126 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:CS Talk - Ozan Erat
+DTSTART;VALUE=DATE-TIME:20220103T210000
+DTEND;VALUE=DATE-TIME:20220103T220000
+DESCRIPTION:Event description:\nCS Talk - Ozan Erat\n\nHost: Holly Rushmei
+ er\n\n(Sample Class Lecture):  Finding the shortest path on a graph usi
+ ng Dijkstra’s algorithm.\n\nAbstract:\n\nSingle source shortest path alg
+ orithms are a widely used concept in software development. In this sample
+  lecture\, we will be discussing single source shortest path algorithms\, 
+ specifically Dijkstra’s algorithm and its runtime complexity analysis fr
+ om various aspects. Dijkstra’s algorithm\, which is named after Edsger W
+ . Dijkstra\, solves the problem of finding the shortest path from a single
+  source to all possible destinations within a graph.\n\nBio:\n\nOzan Erat 
+ is a Ph. D. candidate at Tufts University and a visiting lecturer at Mount
+  Holyoke College located in western Massachusetts. He currently teaches Da
+ ta Structures and Algorithms classes. His research interests include digit
+ al image processing and computer vision applications. He uses artificial i
+ ntelligence tools and frameworks to conduct his research in several topics
+  such as underwater color correction algorithms\, skin cancer detection.\n
+ \n\nhttps://cpsc.yale.edu/event/cs-talk-ozan-erat
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-ozan-erat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Alan Weide
+DTSTART;VALUE=DATE-TIME:20220104T210000
+DTEND;VALUE=DATE-TIME:20220104T220000
+DESCRIPTION:Event description:\nCS Talk\nAlan Weide\n\nHost: Holly Rushmei
+ er\n\nTitle: Understanding Recursion Without First Understanding Recursion
+ : A Client-View-First Approach\n\nAbstract:\n\nConventional wisdom states 
+ that “to understand recursion\, you must first understand recursion.” 
+ But is that really true? This lecture explores recursion from a client-vie
+ w-first perspective and examines a sound methodology to develop and reason
+  about recursive algorithms without a need to understand the execution mod
+ el of the programming language under discussion. The seminar begins with a
+  discussion of design-by-contract principles and a formal approach to spec
+ ifying and reasoning about the behavior of operations before proceeding to
+  a conversation about using such specifications to develop elegant recursi
+ ve solutions to a variety of problems.\n\nBio:\n\nAlan Weide received his 
+ PhD in Computer Science and Engineering from The Ohio State University in 
+ December 2021\, where he also earned his Master’s degree in 2020 and Bac
+ helor’s in 2015. Alan’s dissertation was completed under the supervisi
+ on of Dr. Paolo Sivilotti and explores ways to apply the principles of mod
+ ularity and data abstraction to parallel and concurrent programs\, and how
+  to reason formally about such programs. As a graduate student\, he taught
+  a course on object-oriented programming and software engineering in Java 
+ and was awarded the Eleanor Quinlan Graduate Teaching Award in 2019 for hi
+ s service. His teaching interests span a variety of topics including intro
+ ductory computer science\, software engineering\, programming languages\, 
+ algorithms\, and theoretical computer science. Beyond research and teachin
+ g\, Alan enjoys playing trombone (he was a member of the OSU Marching Band
+  from 2013–2018)\, exploring world cuisines\, and—despite growing up i
+ n flat\, landlocked Columbus\, OH—outdoor activities such as hiking\, ka
+ yaking\, and skiing.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-alan-weide
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-alan-weide
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Sohee Kim Park
+DTSTART;VALUE=DATE-TIME:20220112T210000
+DTEND;VALUE=DATE-TIME:20220112T220000
+DESCRIPTION:Event description:\nCS Talk\nSohee Kim Park\n\nHost: Holly Rus
+ hmeier\n\nTitle: Advancing Quality of Experience of 360◦ Video Streaming
+  using Machine Learning and Multipath\nNetwork Protocol by Sohee Kim Park\
+ n\nAbstract:\n\nResearch interest has been significantly emerged in stream
+ ing 360◦ videos over the Internet to provide an immersive experience to 
+ the users. A major challenge of streaming such videos is that the amount o
+ f video data to be streamed could be an order of magnitude larger than con
+ ventional videos to achieve a similar viewing experience. The reason for t
+ his is that conventional streaming solutions fetch the entire panoramic sc
+ ene\, while the user views only a small part of the scene depending on his
+ /her viewing direction in 360◦ videos.\n\nIn this talk\, I will present 
+ my research on advancing the user quality of experience (QoE) on 360◦ vi
+ deo streaming using deep learning techniques and network protocol innovati
+ ons. In the first part of the talk\, I propose a system called Mosaic\, wh
+ ich utilizes deep learning techniques to predict user’s viewing directio
+ n and uses a knapsack-based rate adaptation algorithm such that it maximiz
+ es the user-perceived video bitrates given available network capacity. In 
+ Mosaic+\, I further improve the user QoE by utilizing a more representativ
+ e metric of QoE as opposed to only the bitrates as in Mosaic.\n\nIn the se
+ cond part of the talk\, I will present a Reinforcement Learning (RL) based
+  adaptive  streaming framework\, called ATRIA\, which further improves th
+ e adaptiveness to the network and user behaviors by exploiting the sequent
+ ial decision-making nature of video streaming techniques. I will share how
+  I address the challenges of using RL in this scenario\, such as large act
+ ion space and delayed reward evaluation.\n\nIn the last part of this talk\
+ , I will address the limited bandwidth issue by aggregating multiple netwo
+ rk paths and using related transport layer innovations. With an early prom
+ ise of my work that viewport prediction and rate adaptation work well for 
+ videos not used for training\, I will conclude by describing avenues for f
+ uture work\, including improving the QoE of applications that offer immers
+ ive user experience with omnidirectional 360° images\, unlocking the othe
+ r bandwidth-hungry delay-sensitive applications to Machine Learning and Ne
+ twork Innovations.\n\nBio:\n\nSohee Kim Park is a Vice President of Inteli
+ bs\, Inc.\, an incubator company at CEWIT (Center of Excellence in Wireles
+ s and Information Technology) at Stony Brook University’s R&D Park. Befo
+ re joining Intelibs\, she worked for Verizon Wireless\, Triveni Digital\, 
+ Siemens Cooperate Research\, and TongYang SHL System House. She received h
+ er Ph.D. in Computer Science at Stony Brook University. Previously\, she r
+ eceived her M.S. and B.S. in Computer Science from Yale University and  Y
+ onsei University\, respectively.\n\nHer research interests are designing a
+ nd developing systems on theoretically sound principles\, applying data sc
+ ience\, machine learning\, AI\, and network protocol innovations to advanc
+ e the user QoE and improve system performance over the wireless network. S
+ he emphasizes making such  solutions deployable and scalable with commerc
+ ialization in mind. Her research is published in proceedings of the IEEE S
+ arnoff Symposium\, IFIP Networking\, IEEE WACV\, and IEEE TNSM. As a seaso
+ ned entrepreneur\, her extensive experiences in technology commercializati
+ on include distributed antenna systems deployed at multiple university cam
+ puses and hospitals and GPS products for nationwide wireless carriers.\n\n
+ She is passionate about preparing leaders for the next generation\, develo
+ ping technology that improves our quality of life\, and partnering with No
+ n-Profit Organizations to reach out to people in need.\n\n\nhttps://cpsc.y
+ ale.edu/event/cs-talk-sohee-kim-park
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-sohee-kim-park
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Talk - Vincent Monardo
 DTSTART;VALUE=DATE-TIME:20220113T210000
 DTEND;VALUE=DATE-TIME:20220113T220000
