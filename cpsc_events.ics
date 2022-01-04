@@ -2,30 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Ozan Erat
-DTSTART;VALUE=DATE-TIME:20220103T210000
-DTEND;VALUE=DATE-TIME:20220103T220000
-DESCRIPTION:Event description:\nCS Talk - Ozan Erat\n\nHost: Holly Rushmei
- er\n\n(Sample Class Lecture):  Finding the shortest path on a graph usi
- ng Dijkstra’s algorithm.\n\nAbstract:\n\nSingle source shortest path alg
- orithms are a widely used concept in software development. In this sample
-  lecture\, we will be discussing single source shortest path algorithms\, 
- specifically Dijkstra’s algorithm and its runtime complexity analysis fr
- om various aspects. Dijkstra’s algorithm\, which is named after Edsger W
- . Dijkstra\, solves the problem of finding the shortest path from a single
-  source to all possible destinations within a graph.\n\nBio:\n\nOzan Erat 
- is a Ph. D. candidate at Tufts University and a visiting lecturer at Mount
-  Holyoke College located in western Massachusetts. He currently teaches Da
- ta Structures and Algorithms classes. His research interests include digit
- al image processing and computer vision applications. He uses artificial i
- ntelligence tools and frameworks to conduct his research in several topics
-  such as underwater color correction algorithms\, skin cancer detection.\n
- \n\nhttps://cpsc.yale.edu/event/cs-talk-ozan-erat
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-ozan-erat
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Alan Weide
 DTSTART;VALUE=DATE-TIME:20220104T210000
 DTEND;VALUE=DATE-TIME:20220104T220000
