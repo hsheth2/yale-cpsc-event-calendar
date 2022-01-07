@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Dylan McKay
-DTSTART;VALUE=DATE-TIME:20220106T210000
-DTEND;VALUE=DATE-TIME:20220106T220000
-DESCRIPTION:Event description:\nCS Talk\nDylan McKay\n\nHost: Holly Rushme
- ier\n\nTitle : Can Modest Impossibility Results Resolve the P vs NP Probl
- em?\n\nAbstract:\n\nFor over 50 years\, computer scientists have battled t
- he P vs NP question. We do not appear to be much closer than where we star
- ted. The P vs NP question can be re-stated as the question of “is Circui
- t-SAT (or 3-SAT) solvable in polynomial time?” Though we have not yet ev
- en been able to prove that there is not even a linear-time algorithm for 
- Circuit-SAT\, we do know some modest impossibility results. Interestingly\
- , one can show that algorithms which are restricted to a small amount of m
- emory cannot solve Circuit-SAT in much faster than quadratic (n^2) time! I
- n this talk\, we give an overview of these modest impossibility results\, 
- and we juxtapose them with a theorem about the minimum circuit size proble
- m (MCSP)\, showing that significantly weaker impossibility results for MCS
- P would resolve the P vs NP question outright.\n\nBio:\n\nI grew up in Geo
- rgia\, and I graduated from Georgia Tech with a BSc in Computer Science an
- d a BSc in Discrete Mathematics. I spent the following Summer teaching Alg
- orithms at Georgia Tech\, and then I went to start my PhD at Stanford. I l
- eft with an MS in CS when my advisor and I moved to MIT\, where I graduate
- d with my PhD. I’ve since been a visiting professor at Oberlin College.\
- n\n\nhttps://cpsc.yale.edu/event/cs-talk-dylan-mckay
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-dylan-mckay
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Sohee Kim Park
 DTSTART;VALUE=DATE-TIME:20220112T210000
 DTEND;VALUE=DATE-TIME:20220112T220000
