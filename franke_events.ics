@@ -29,33 +29,34 @@ URL:https://frankeprogram.yale.edu/event/update-franke-program-director-pr
  ofessor-priyamvada-natarajan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inference Project Virtual Talk:  Causality at the Intersection of 
- Simulation\, Inference\, Science\, and Learning
+SUMMARY:POSTPONED:  Inference Project Virtual Talk:  Causality at the Inte
+ rsection of Simulation\, Inference\, Science\, and Learning
 DTSTART;VALUE=DATE-TIME:20220118T210000
 DTEND;VALUE=DATE-TIME:20220118T220000
 DESCRIPTION:Event description:\n**Please note this talk is being postponed
-  until January 2022.  We shall confirm the exact date closer to the time.
- **\n\nhe sciences are replete with high-fidelity simulators: computational
-  manifestations of causal\, mechanistic models. Ironically\, while these s
- imulators provide our highest-fidelity physical models\, they are not well
-  suited for inferring properties of the model from data. In this talk\, Pr
- ofessor Kyle Cranmer of the Department of Physics of New York University w
- ill describe the emerging area of simulation-based inference and describe 
- how machine learning is being brought to bear on these challenging problem
- s. It is then tempting to imagine the path towards developing an autonomou
- s AI scientist also responsible for designing experiments and hypothesis g
- eneration. Interestingly\, this framing brings a new perspective on the ro
- le of causality and agency that incorporates recent advances in machine le
- arning and artificial intelligence.\n\nThe moderated post-talk conversatio
- n will take place on Monday\, December 20 at 4 p.m.\, and the conversant w
- ill soon be confirmed.\n\nRegister in advance for this webinar:\n\nhttps:/
- /yale.zoom.us/webinar/register/WN_CGZBiJCAQiOf-1Qn3LEzXg\n\n\nhttps://fran
- keprogram.yale.edu/event/inference-project-virtual-talk-causality-intersec
- tion-simulation-inference-science-and
+  until further notice.  We hope to offer it early in 2022.  We shall con
+ firm the exact date closer to the time.**\n\nhe sciences are replete with 
+ high-fidelity simulators: computational manifestations of causal\, mechani
+ stic models. Ironically\, while these simulators provide our highest-fidel
+ ity physical models\, they are not well suited for inferring properties of
+  the model from data. In this talk\, Professor Kyle Cranmer of the Departm
+ ent of Physics of New York University will describe the emerging area of s
+ imulation-based inference and describe how machine learning is being broug
+ ht to bear on these challenging problems. It is then tempting to imagine t
+ he path towards developing an autonomous AI scientist also responsible for
+  designing experiments and hypothesis generation. Interestingly\, this fra
+ ming brings a new perspective on the role of causality and agency that inc
+ orporates recent advances in machine learning and artificial intelligence.
+ \n\nThe moderated post-talk conversation will take place on Monday\, Decem
+ ber 20 at 4 p.m.\, and the conversant will soon be confirmed.\n\nRegister 
+ in advance for this webinar:\n\nhttps://yale.zoom.us/webinar/register/WN_C
+ GZBiJCAQiOf-1Qn3LEzXg\n\n\nhttps://frankeprogram.yale.edu/event/postponed-
+ inference-project-virtual-talk-causality-intersection-simulation-inference
+ -science
 LOCATION:Zoom Webinar
 STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/inference-project-virtual-talk-ca
- usality-intersection-simulation-inference-science-and
+URL:https://frankeprogram.yale.edu/event/postponed-inference-project-virtu
+ al-talk-causality-intersection-simulation-inference-science
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Franke Undergraduate Fellowship Grants for 2021/2022
