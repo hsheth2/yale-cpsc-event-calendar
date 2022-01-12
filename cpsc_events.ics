@@ -7,57 +7,57 @@ DTSTART;VALUE=DATE-TIME:20220112T210000
 DTEND;VALUE=DATE-TIME:20220112T220000
 DESCRIPTION:Event description:\nCS Talk\nSohee Kim Park\n\nHost: Holly Rus
  hmeier\n\nTitle: Advancing Quality of Experience of 360◦ Video Streaming
-  using Machine Learning and Multipath\nNetwork Protocol by Sohee Kim Park\
- n\nAbstract:\n\nResearch interest has been significantly emerged in stream
- ing 360◦ videos over the Internet to provide an immersive experience to 
- the users. A major challenge of streaming such videos is that the amount o
- f video data to be streamed could be an order of magnitude larger than con
- ventional videos to achieve a similar viewing experience. The reason for t
- his is that conventional streaming solutions fetch the entire panoramic sc
- ene\, while the user views only a small part of the scene depending on his
- /her viewing direction in 360◦ videos.\n\nIn this talk\, I will present 
- my research on advancing the user quality of experience (QoE) on 360◦ vi
- deo streaming using deep learning techniques and network protocol innovati
- ons. In the first part of the talk\, I propose a system called Mosaic\, wh
- ich utilizes deep learning techniques to predict user’s viewing directio
- n and uses a knapsack-based rate adaptation algorithm such that it maximiz
- es the user-perceived video bitrates given available network capacity. In 
- Mosaic+\, I further improve the user QoE by utilizing a more representativ
- e metric of QoE as opposed to only the bitrates as in Mosaic.\n\nIn the se
- cond part of the talk\, I will present a Reinforcement Learning (RL) based
-  adaptive  streaming framework\, called ATRIA\, which further improves th
- e adaptiveness to the network and user behaviors by exploiting the sequent
- ial decision-making nature of video streaming techniques. I will share how
-  I address the challenges of using RL in this scenario\, such as large act
- ion space and delayed reward evaluation.\n\nIn the last part of this talk\
- , I will address the limited bandwidth issue by aggregating multiple netwo
- rk paths and using related transport layer innovations. With an early prom
- ise of my work that viewport prediction and rate adaptation work well for 
- videos not used for training\, I will conclude by describing avenues for f
- uture work\, including improving the QoE of applications that offer immers
- ive user experience with omnidirectional 360° images\, unlocking the othe
- r bandwidth-hungry delay-sensitive applications to Machine Learning and Ne
- twork Innovations.\n\nBio:\n\nSohee Kim Park is a Vice President of Inteli
- bs\, Inc.\, an incubator company at CEWIT (Center of Excellence in Wireles
- s and Information Technology) at Stony Brook University’s R&D Park. Befo
- re joining Intelibs\, she worked for Verizon Wireless\, Triveni Digital\, 
- Siemens Cooperate Research\, and TongYang SHL System House. She received h
- er Ph.D. in Computer Science at Stony Brook University. Previously\, she r
- eceived her M.S. and B.S. in Computer Science from Yale University and  Y
- onsei University\, respectively.\n\nHer research interests are designing a
- nd developing systems on theoretically sound principles\, applying data sc
- ience\, machine learning\, AI\, and network protocol innovations to advanc
- e the user QoE and improve system performance over the wireless network. S
- he emphasizes making such  solutions deployable and scalable with commerc
- ialization in mind. Her research is published in proceedings of the IEEE S
- arnoff Symposium\, IFIP Networking\, IEEE WACV\, and IEEE TNSM. As a seaso
- ned entrepreneur\, her extensive experiences in technology commercializati
- on include distributed antenna systems deployed at multiple university cam
- puses and hospitals and GPS products for nationwide wireless carriers.\n\n
- She is passionate about preparing leaders for the next generation\, develo
- ping technology that improves our quality of life\, and partnering with No
- n-Profit Organizations to reach out to people in need.\n\n\nhttps://cpsc.y
- ale.edu/event/cs-talk-sohee-kim-park
+  using Machine Learning and Multipath\nNetwork Protocol\n\nAbstract:\n\nRe
+ search interest has been significantly emerged in streaming 360◦ videos 
+ over the Internet to provide an immersive experience to the users. A major
+  challenge of streaming such videos is that the amount of video data to be
+  streamed could be an order of magnitude larger than conventional videos t
+ o achieve a similar viewing experience. The reason for this is that conven
+ tional streaming solutions fetch the entire panoramic scene\, while the us
+ er views only a small part of the scene depending on his/her viewing direc
+ tion in 360◦ videos.\n\nIn this talk\, I will present my research on adv
+ ancing the user quality of experience (QoE) on 360◦ video streaming usin
+ g deep learning techniques and network protocol innovations. In the first 
+ part of the talk\, I propose a system called Mosaic\, which utilizes deep 
+ learning techniques to predict user’s viewing direction and uses a knaps
+ ack-based rate adaptation algorithm such that it maximizes the user-percei
+ ved video bitrates given available network capacity. In Mosaic+\, I furthe
+ r improve the user QoE by utilizing a more representative metric of QoE as
+  opposed to only the bitrates as in Mosaic.\n\nIn the second part of the t
+ alk\, I will present a Reinforcement Learning (RL) based adaptive  stream
+ ing framework\, called ATRIA\, which further improves the adaptiveness to 
+ the network and user behaviors by exploiting the sequential decision-makin
+ g nature of video streaming techniques. I will share how I address the cha
+ llenges of using RL in this scenario\, such as large action space and dela
+ yed reward evaluation.\n\nIn the last part of this talk\, I will address t
+ he limited bandwidth issue by aggregating multiple network paths and using
+  related transport layer innovations. With an early promise of my work tha
+ t viewport prediction and rate adaptation work well for videos not used fo
+ r training\, I will conclude by describing avenues for future work\, inclu
+ ding improving the QoE of applications that offer immersive user experienc
+ e with omnidirectional 360° images\, unlocking the other bandwidth-hungry
+  delay-sensitive applications to Machine Learning and Network Innovations.
+ \n\nBio:\n\nSohee Kim Park is a Vice President of Intelibs\, Inc.\, an inc
+ ubator company at CEWIT (Center of Excellence in Wireless and Information 
+ Technology) at Stony Brook University’s R&D Park. Before joining Intelib
+ s\, she worked for Verizon Wireless\, Triveni Digital\, Siemens Cooperate 
+ Research\, and TongYang SHL System House. She received her Ph.D. in Comput
+ er Science at Stony Brook University. Previously\, she received her M.S. a
+ nd B.S. in Computer Science from Yale University and  Yonsei University\,
+  respectively.\n\nHer research interests are designing and developing syst
+ ems on theoretically sound principles\, applying data science\, machine le
+ arning\, AI\, and network protocol innovations to advance the user QoE and
+  improve system performance over the wireless network. She emphasizes maki
+ ng such  solutions deployable and scalable with commercialization in mind
+ . Her research is published in proceedings of the IEEE Sarnoff Symposium\,
+  IFIP Networking\, IEEE WACV\, and IEEE TNSM. As a seasoned entrepreneur\,
+  her extensive experiences in technology commercialization include distrib
+ uted antenna systems deployed at multiple university campuses and hospital
+ s and GPS products for nationwide wireless carriers.\n\nShe is passionate 
+ about preparing leaders for the next generation\, developing technology th
+ at improves our quality of life\, and partnering with Non-Profit Organizat
+ ions to reach out to people in need.\n\n\nhttps://cpsc.yale.edu/event/cs-t
+ alk-sohee-kim-park
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-sohee-kim-park
