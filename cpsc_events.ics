@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Vincent Monardo
-DTSTART;VALUE=DATE-TIME:20220113T210000
-DTEND;VALUE=DATE-TIME:20220113T220000
-DESCRIPTION:Event description:\nCS Talk\nVincent Monardo\n\nHost: Holly Ru
- shmeier\n\nTitle: Plug-and-Play Image Reconstruction Meets Stochastic Vari
- ance-Reduced Gradient Methods\n\nAbstract:\n\nPlug-and-play (PnP) methods 
- have recently emerged as a powerful framework for image reconstruction tha
- t can flexibly combine different physics-based observation models with dat
- a-driven image priors in the form of denoisers\, and achieve state-of-the-
- art image reconstruction quality in many applications. In this work\, we a
- im to further improve the computational efficacy of PnP methods by designi
- ng a new algorithm that makes use of stochastic variance-reduced gradients
-  (SVRG)\, a nascent idea to accelerate runtime in stochastic optimization.
-  Compared with existing PnP methods using batch gradients or stochastic gr
- adients\, the new algorithm\, called PnP-SVRG\, achieves comparable or bet
- ter accuracy of image reconstruction at a much faster computational speed.
-  Extensive numerical experiments are provided to demonstrate the benefits 
- of the proposed algorithm through the application of phase retrieval in co
- njunction with a wide variety of popular image denoisers.\n\nBio:\n\nVince
- nt Monardo is a PhD Candidate in the Electrical and Computer Engineering D
- epartment at Carnegie Mellon University advised by Dr. Yuejie Chi. Vincent
-  received his BSE with Honors in Electrical Engineering from Arizona State
-  University with a Minor in Applied Mathematics. Vincent’s research inte
- rests lie in the domain of designing and analyzing efficient algorithms fo
- r solving inverse problems–especially within the realm of image reconstr
- uction–which improve upon the computational and statistical performance 
- of state-of-the-art methods. In the future\, Vincent is motivated to teach
-  future generations the beauty of machine learning–in 2019\, he received
-  the CMU ECE Outstanding Teaching Award. In his spare time\, Vincent enjoy
- s trivia\, crosswords\, music\, and rock climbing.\n\n\nhttps://cpsc.yale.
- edu/event/cs-talk-vincent-monardo
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-vincent-monardo
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Irene Li
 DTSTART;VALUE=DATE-TIME:20220216T170000
 DTEND;VALUE=DATE-TIME:20220216T180000
