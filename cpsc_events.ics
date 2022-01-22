@@ -2,6 +2,44 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:CS Talk - Maria Brbic
+DTSTART;VALUE=DATE-TIME:20220214T210000
+DTEND;VALUE=DATE-TIME:20220214T220000
+DESCRIPTION:Event description:\nCS Talk\nMaria Brbic\n\nHost: Steven Zucke
+ r\n\nTitle: Open-World Learning for Biomedicine\n\nAbstract:\n\nBiomedical
+  data poses multiple hard challenges that break conventional machine learn
+ ing assumptions. In this talk\, I will highlight the need to move beyond o
+ ur prevalent machine learning paradigms and methods to enable them to driv
+ e novel biomedical discoveries. I will give an overview of my work on deve
+ loping open-world deep learning methods that generalize to scenarios never
+  seen during training and demonstrate their impact in single-cell genomics
+ . I will first present a method that transfers knowledge across a collecti
+ on of heterogeneous datasets generated under different distributions\, and
+  then describe the paradigm and methods needed to discover novel phenomena
+ . I will discuss the biological findings enabled by my methods and the con
+ ceptual shift they bring in annotating comprehensive single-cell atlas dat
+ asets. Altogether\, my work demonstrates that generalization to never-befo
+ re-seen scenarios is not only possible\, but it is a necessary component i
+ n developing next-generation machine learning methods that can reveal new 
+ scientific insights.\n\nBio:\n\nMaria Brbic\nis a postdoctoral researcher 
+ in Computer Science at Stanford University. She develops new machine learn
+ ing methods inspired by challenging problems in biomedicine and applies he
+ r methods to advance biomedical research. Her methods have been used by gl
+ obal cell atlas consortia efforts aiming to create reference maps of all c
+ ell types\, including the Human BioMolecular Atlas Program (HuBMAP) and Fl
+ y Cell Atlas consortium. Previously\, she received her PhD degree from Uni
+ versity of Zagreb while also researching at Stanford University and Univer
+ sity of Tokyo. Her research was awarded with the Fulbright Scholarship\, L
+ ’Oreal UNESCO for Women in Science Scholarship\, Branimir Jernej award f
+ or outstanding publication in biology and biomedicine\, and Josip Loncar S
+ ilver Plaque award for the best doctoral dissertation. She has been named 
+ a Rising Star in EECS by MIT. She is a member of the Chan Zuckerberg Biohu
+ b at Stanford.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-maria-brbic
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-maria-brbic
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Irene Li
 DTSTART;VALUE=DATE-TIME:20220216T170000
 DTEND;VALUE=DATE-TIME:20220216T180000
