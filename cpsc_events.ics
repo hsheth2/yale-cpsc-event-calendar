@@ -42,6 +42,47 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-irene-chen
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Talk - Qi Lei
+DTSTART;VALUE=DATE-TIME:20220203T153000
+DTEND;VALUE=DATE-TIME:20220203T163000
+DESCRIPTION:Event description:\nCS Talk\nQi Lei\n\nHost: Andre Wibisono\n\
+ nTitle:  Theoretical Foundations of Pre-trained Models\n\nAbstract:\n\nA 
+ pre-trained model refers to any model trained on broad data at scale and c
+ an be adapted (e.g.\, fine-tuned) to a wide range of downstream tasks. The
+  rise of pre-trained models (e.g.\, BERT\, GPT-3\, CLIP\, Codex\, MAE) tra
+ nsforms applications in various domains and aligns with how humans learn. 
+ Humans and animals first establish their concepts or impressions from diff
+ erent data domains and data modalities. The learned concepts then help the
+ m learn specific tasks with minimal external instructions. Accordingly\, w
+ e argue that a pre-trained model follows a similar procedure through the l
+ ens of deep representation learning. 1) Learn a data representation that f
+ ilters out irrelevant information from the training tasks\; 2) Transfer th
+ e data representation to downstream tasks with few labeled samples and sim
+ ple models.\n\nThis talk establishes some theoretical understanding for pr
+ e-trained models under different settings\, ranging from supervised pretra
+ ining\, meta-learning\, and self-supervised learning to domain adaptation 
+ or domain generalization. I will discuss the sufficient (and sometimes nec
+ essary) conditions for pre-trained models to work based on the statistical
+  relation between training and downstream tasks. The theoretical analyses 
+ partly answer how they work\, when they fail\, guide technical decisions f
+ or future work\, and inspire new methods in pre-trained models.\n\nBio:\n\
+ nQi Lei is an associate research scholar at the ECE department of Princeto
+ n University. She received her Ph.D. from Oden Institute for Computational
+  Engineering & Sciences at UT Austin. She visited the Institute for Advanc
+ ed Study (IAS)/Princeton for the Theoretical Machine Learning Program from
+  2019-2020. Before that\, she was a research fellow at Simons Institute fo
+ r the Foundations of Deep Learning Program. Her research aims to develop s
+ ample- and computationally efficient machine learning algorithms and bridg
+ e the theoretical and empirical gap in machine learning. Qi has received s
+ everal awards\, including the Outstanding Dissertation Award\, National In
+ itiative for Modeling and Simulation Graduate Research Fellowship\, Comput
+ ing Innovative Fellowship\, and Simons-Berkeley Research Fellowship.\n\n\n
+ https://cpsc.yale.edu/event/cs-talk-qi-lei
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-qi-lei
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Talk - Maria Brbic
 DTSTART;VALUE=DATE-TIME:20220214T210000
 DTEND;VALUE=DATE-TIME:20220214T220000
