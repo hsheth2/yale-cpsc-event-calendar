@@ -234,10 +234,161 @@ BEGIN:VEVENT
 SUMMARY:CS Talk - Erik Waingarten
 DTSTART;VALUE=DATE-TIME:20220216T210000
 DTEND;VALUE=DATE-TIME:20220216T220000
-DESCRIPTION:Event description:\nDetails coming soon.\n\nHost: Richard Yang
- \n\n\nhttps://cpsc.yale.edu/event/cs-talk-erik-waingarten
+DESCRIPTION:Event description:\nCS Talk\nErik Waingarten\n\nHost: Yang Cai
+ \n\nTitle: Sublinear Algorithms for Massive Datasets\n\nAbstract:\n\nThe i
+ nflux of massive data systems poses a unique challenge for algorithms rese
+ arch. In this modern era\, the classical theory of algorithms is often ins
+ ufficient\, and our goal is to develop the theory of sublinear computation
+ .\n\nThis talk will cover various scenarios where the resources used by an
+  algorithm (running time\, memory\, number of measurements\, … etc) shou
+ ld be significantly smaller than the input size. We will spend most of the
+  time on\nsublinear time\nalgorithms for similarity search in high-dimensi
+ onal spaces and\nsublinear space\nalgorithms for the optimal transport pro
+ blem\, where we will present new algorithmic and analytical techniques for
+  tackling these questions. A central theme throughout the talk is the noti
+ on of randomized space partitions\, and how they lead to algorithms which 
+ are simple\, have provable guarantees\, and are extremely useful.\n\nBio:\
+ n\nErik Waingarten is an NSF Postdoctoral Fellow at Stanford University’
+ s Computer Science department hosted by Moses Charikar. Prior to that\, h
+ e was a research fellow at the Simons Institute for the Theory of Computin
+ g. He obtained his PhD from Columbia University\, where he was advised by 
+ Xi Chen and Rocco Servedio. He is interested in the design and analysis of
+  algorithms for massive datasets\, with a particular focus on the interpla
+ y of high-dimensional geometry\, sketching\, and property testing.\n\n\nht
+ tps://cpsc.yale.edu/event/cs-talk-erik-waingarten
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-erik-waingarten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Daniel Rakita
+DTSTART;VALUE=DATE-TIME:20220221T210000
+DTEND;VALUE=DATE-TIME:20220221T220000
+DESCRIPTION:Event description:\nCS Talk\nDaniel Rakita\n\nHost: Marynel V
+ ázquez\n\nTitle: Intuitive Robot Shared-Control Interfaces via Real-time 
+ Motion Planning and Optimization\n\nAbstract:\n\nMy research focuses on ma
+ king robots intuitive to control and work alongside for as many people as 
+ possible\, specifically in areas where people are understaffed or overwork
+ ed such as nursing\, homecare\, and manufacturing.  In this talk\, I will
+  overview numerous robot shared-control interfaces I have developed to be 
+ intuitive and easy-to-use\, even for novice users\, by blending users’ i
+ nputs with robot autonomy on-the-fly.  I will highlight novel motion plan
+ ning and motion optimization methods that enable these interfaces by quick
+ ly synthesizing smooth\, feasible\, and safe motions that effectively refl
+ ect objectives specified by the user and robot autonomy signals in real-ti
+ me.  I will comment on my ongoing and future work that will push the pote
+ ntial of these technical methods and physical robot systems\, all striving
+  towards broad and motivating applications such as remote homecare\, tele-
+ nursing\, and assistive technologies.\n\nBio:\n\nDaniel Rakita is a Ph.D. 
+ candidate of computer science at the University of Wisconsin-Madison.  Hi
+ s research involves creating motion optimization approaches that allow rob
+ ot manipulators to move smoothly\, safely\, and accurately in real-time. 
+  Using these motion algorithms as core components\, he subsequently develo
+ ps and evaluates robot shared-control interfaces that are intuitive and ea
+ sy to use\, even for novice users.  Previously\, he received his Master
+ ’s Degree in Computer Science from the University of Wisconsin-Madison a
+ nd a Bachelors of Music Performance from the Indiana University Jacobs Sch
+ ool of Music.  His work has been supported by a Microsoft PhD Fellowship 
+ (2019-2021) and a Cisco Graduate Student Fellowship (2021-2022).  He is a
+ dvised by Michael Gleicher and Bilge Mutlu.\n\n\nhttps://cpsc.yale.edu/eve
+ nt/cs-talk-daniel-rakita
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-daniel-rakita
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Xinyun Chen
+DTSTART;VALUE=DATE-TIME:20220222T210000
+DTEND;VALUE=DATE-TIME:20220222T220000
+DESCRIPTION:Event description:\nCS Talk\nXinyun Chen\n\nHost: Dragomir Rad
+ ev\n\nTitle:Learning-Based Program Synthesis: Learning for Program Synthes
+ is and Program Synthesis for Learning\n\nAbstract:\n\nWith the advancement
+  of modern technologies\, programming becomes ubiquitous not only among pr
+ ofessional software developers\, but also for general computer users. Howe
+ ver\, gaining programming expertise is time-consuming and challenging. The
+ refore\, program synthesis has many applications\, where the computer auto
+ matically synthesizes programs from specifications such as natural languag
+ e descriptions and input-output examples. In this talk\, I will present my
+  work on learning-based program synthesis\, where I have developed deep le
+ arning techniques for various program synthesis problems. Despite the rema
+ rkable success of deep neural networks for many domains\, including natura
+ l language processing and computer vision\, existing deep neural networks 
+ are still insufficient for handling challenging symbolic reasoning and gen
+ eralization problems.\n\nMy learning-based program synthesis research lies
+  in two folds: (1) learning to synthesize programs from potentially ambigu
+ ous and complex specifications\; and (2) neural-symbolic learning for lang
+ uage understanding. I will first talk about program synthesis applications
+ \, where my work demonstrates the applicability of learning-based program 
+ synthesizers for production usage. I will then present my work on neural-s
+ ymbolic frameworks that integrate symbolic components into neural networks
+ \, which achieve better reasoning and generalization capabilities. In clos
+ ing\, I will discuss the challenges and opportunities of further improving
+  the complexity and generalizability of learning-based program synthesis f
+ or future work.\n\nBio:\n\nXinyun Chen is a Ph.D. candidate at UC Berkeley
+ \, working with Prof. Dawn Song. Her research lies at the intersection of 
+ deep learning\, programming languages\, and security. Her recent research 
+ focuses on learning-based program synthesis and adversarial machine learni
+ ng. She received the Facebook Fellowship in 2020. She was selected for Ris
+ ing Stars in EECS in 2020 and 2021\, and Rising Stars in Machine Learning 
+ in 2021.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-xinyun-chen
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-xinyun-chen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Maria Pacheco
+DTSTART;VALUE=DATE-TIME:20220223T210000
+DTEND;VALUE=DATE-TIME:20220223T220000
+DESCRIPTION:Event description:\nCS Talk\nMaria Pacheco\n\nHost: Marynel V
+ ázquez\n\nDetails coming soon.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-m
+ aria-pacheco
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-maria-pacheco
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Arman Cohan
+DTSTART;VALUE=DATE-TIME:20220228T210000
+DTEND;VALUE=DATE-TIME:20220228T220000
+DESCRIPTION:Event description:\nCS Talk\n\nArman\nCohan\n\nHost: Dragomir 
+ Radev\n\nDetails coming soon.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-arm
+ an-cohan
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-arman-cohan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Matthew Mirman
+DTSTART;VALUE=DATE-TIME:20220310T153000
+DTEND;VALUE=DATE-TIME:20220310T163000
+DESCRIPTION:Event description:\nCS Talk\nMatthew Mirman\n\nHost: Abhishek 
+ Bhattacharjee\n\nTitle: Trustworthy Deep Learning: methods\, systems and t
+ heory\n\nAbstract:\n\nDeep learning models are quickly becoming an integra
+ l part of a plethora of high stakes applications\, including autonomous dr
+ iving and health care.  As the discovery of vulnerabilities and flaws in 
+ these models has become frequent\, so has the interest in ensuring their s
+ afety\, robustness and reliability.  My research addresses this need by i
+ ntroducing new core methods and systems that can establish desirable mathe
+ matical guarantees of deep learning models.\n\nIn the first part of my tal
+ k I will describe how we leverage abstract interpretation to scale verific
+ ation to orders of magnitude larger deep neural networks than prior work\,
+  at the same time demonstrating the correctness of significantly more prop
+ erties.  I will then show how these techniques can be extended to ensure\
+ , for the first time\, formal guarantees of probabilistic semantic specifi
+ cations using generative models.\n\nIn the second part\, I will show how t
+ o fuse abstract interpretation with the training phase so as to improve a 
+ model’s amenability to certification\, allowing us to guarantee orders o
+ f magnitude more properties than possible with prior work.  Finally\, I w
+ ill discuss exciting theoretical advances which address fundamental questi
+ ons on the very existence of certified deep learning.\n\nBio:\n\nMatthew M
+ irman is a final-year PhD student at ETH Zürich\, supervised by Martin Ve
+ chev. His main research interests sit at the intersection of programming l
+ anguages\, machine learning\, and theory with applications to creating saf
+ e and reliable artificial intelligence systems. Prior to ETH\, he complete
+ d his B.Sc. and M.Sc. at Carnegie-Mellon University supervised by Frank Pf
+ enning.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-matthew-mirman
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-matthew-mirman
 END:VEVENT
 END:VCALENDAR
