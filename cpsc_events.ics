@@ -35,8 +35,8 @@ DESCRIPTION:Event description:\nCS Talk\nIrene Chen\n\nHost: Steven Zucker
  een covered by media outlets including MIT Tech Review\, NPR/WGBH\, and St
  at News. She has been named a Rising Star in EECS by University of Califor
  nia Berkeley\, Harvard\, and University of Maryland. Prior to her PhD\, Ir
- ene received her AB/SM from Harvard and worked at Dropbox.\n\n\nhttps://cp
- sc.yale.edu/event/cs-talk-irene-chen
+ ene received her AB/SM from Harvard and worked at Dropbox.\n\nTalk flyer\n
+ \n\nhttps://cpsc.yale.edu/event/cs-talk-irene-chen
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-irene-chen
@@ -76,18 +76,50 @@ DESCRIPTION:Event description:\nCS Talk\nQi Lei\n\nHost: Andre Wibisono\n\
  e the theoretical and empirical gap in machine learning. Qi has received s
  everal awards\, including the Outstanding Dissertation Award\, National In
  itiative for Modeling and Simulation Graduate Research Fellowship\, Comput
- ing Innovative Fellowship\, and Simons-Berkeley Research Fellowship.\n\n\n
- https://cpsc.yale.edu/event/cs-talk-qi-lei
+ ing Innovative Fellowship\, and Simons-Berkeley Research Fellowship.\n\nTa
+ lk Flyer\n\n\nhttps://cpsc.yale.edu/event/cs-talk-qi-lei
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-qi-lei
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cs Talk - Jiaoyang Li
+SUMMARY:CS Talk - Jiaoyang Li
 DTSTART;VALUE=DATE-TIME:20220208T210000
 DTEND;VALUE=DATE-TIME:20220208T220000
-DESCRIPTION:Event description:\nDetails coming soon.\n\nHost: Brian Scasse
- llati\n\n\nhttps://cpsc.yale.edu/event/cs-talk-jiaoyang-li
+DESCRIPTION:Event description:\nCS Talk\nJiaoyang Li\n\nHost: Brian Scasse
+ llati\n\nTitle: Intelligent Planning for Large-Scale Multi-Agent Coordinat
+ ion\n\nAbstract:\n\nThere is no doubt that robots will play a crucial role
+  in the future and need to work as a team in increasingly more complex app
+ lications. Advances in robotics have laid the hardware foundations for bui
+ lding large-scale multi-robot systems\, such as for mobile robots and dron
+ es. But how to coordinate robots intelligently is a difficult problem: Exa
+ ct methods\, such as integer programming and A*\, do not scale as the join
+ t-state space increases exponentially with the number of robots\, while he
+ uristic methods\, such as reactive methods and end-to-end learning\, may l
+ ead to deadlocks or traffic congestion.\n\nIn this talk\, I will introduce
+  intelligent planning algorithms for solving this challenge with a focus o
+ n one fundamental problem: letting a large team of agents navigate without
+  collisions in congested environments while minimizing their travel times.
+  I will present principled planning algorithms that can efficiently coordi
+ nate hundreds of agents while providing rigorous guarantees on completenes
+ s and even optimality. I will also present techniques to apply these algor
+ ithms to real-world problems with robustness guarantees\, such as warehous
+ e robot coordination\, multi-robot motion planning\, railway planning\, an
+ d airport surface operation.\n\nBio:\n\nJiaoyang Li is a Ph.D. candidate i
+ n the Department of Computer Science at the University of Southern Califor
+ nia (USC). Her research lies in the intersection of artificial intelligenc
+ e\, robotics\, and optimization\, with a focus on coordinating large teams
+  of autonomous agents to accomplish collaborative tasks intelligently. She
+  has published her research at top venues for AI planning and multi-agent 
+ systems (such as AAAI\, IJCAI\, ICAPS\, and AAMAS) and received press cove
+ rage for it. She has also received a Technology Commercialization Award fr
+ om the USC Stevens Center for Innovation in 2018\, an Outstanding Student 
+ Paper Award from ICAPS’20\, a Best System Demonstration Award from ICAPS
+ ’21\, and a Best Research Assistant Award from USC in 2021. She recently
+  led a team that won the NeurIPS’20 Flatland Challenge on railway planni
+ ng and was selected to participate in Rising Stars in EECS 2021. More info
+ rmation can be found on her webpage\nhttps://jiaoyangli.me/\n.\n\n\nhttps:
+ //cpsc.yale.edu/event/cs-talk-jiaoyang-li
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-jiaoyang-li
