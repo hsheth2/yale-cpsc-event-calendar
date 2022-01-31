@@ -392,4 +392,40 @@ LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-matthew-mirman
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Yue Wang
+DTSTART;VALUE=DATE-TIME:20220315T200000
+DTEND;VALUE=DATE-TIME:20220315T210000
+DESCRIPTION:Event description:\nCS Talk\nYue Wang\n\nHost: Steven Zucker\n
+ \nTitle: Learning 3D representations with minimal supervision\n\nAbstract:
+ \n\nDeep learning has demonstrated considerable success embedding images a
+ nd more general 2D representations into compact feature spaces for downstr
+ eam tasks like recognition\, registration\, and generation. Learning on 3D
+  data\, however\, is the missing piece needed for embodied agents to perce
+ ive their surrounding environments. To bridge the gap between 3D perceptio
+ n and robotic intelligence\, my present efforts focus on learning 3D repre
+ sentations with minimal supervision.\n\nIn this talk\, I will discuss two 
+ key aspects to reduce the amount of human supervision in current 3D deep l
+ earning algorithms. First\, I will talk about how to recover structures fr
+ om 3D data such as point clouds and incorporate such inductive bias into p
+ oint cloud learning pipelines. Second\, I will present our works on levera
+ ging natural supervision in point clouds to perform self-supervised learni
+ ng. In addition\, I will discuss how these 3D learning algorithms enable h
+ uman-level perception for robotic applications such as self-driving cars.
+   Finally\, the talk will conclude with a discussion about future inquiri
+ es to design complete and active 3D learning systems.\n\nBio:\n\nYue Wang 
+ is a final year PhD student with Prof. Justin Solomon at MIT. His research
+  interests lie in the intersection of computer vision\, computer graphics\
+ , and machine learning. His major field is learning from point clouds. His
+  paper “Dynamic Graph CNN” has been widely adopted in 3D visual comput
+ ing and other fields. He is a recipient of the Nvidia Fellowship and is na
+ med the first place recipient of the William A. Martin Master’s Thesis A
+ ward for 2021. Yue received his BEng from Zhejiang University and MS from 
+ University of California\, San Diego. He has spent time at Nvidia Research
+ \, Google Research and Salesforce Research.\n\n\nhttps://cpsc.yale.edu/eve
+ nt/cs-talk-yue-wang
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-yue-wang
+END:VEVENT
 END:VCALENDAR
