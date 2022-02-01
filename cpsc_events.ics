@@ -302,36 +302,37 @@ SUMMARY:CS Talk - Xinyun Chen
 DTSTART;VALUE=DATE-TIME:20220222T210000
 DTEND;VALUE=DATE-TIME:20220222T220000
 DESCRIPTION:Event description:\nCS Talk\nXinyun Chen\n\nHost: Dragomir Rad
- ev\n\nTitle:Learning-Based Program Synthesis: Learning for Program Synthes
- is and Program Synthesis for Learning\n\nAbstract:\n\nWith the advancement
-  of modern technologies\, programming becomes ubiquitous not only among pr
- ofessional software developers\, but also for general computer users. Howe
- ver\, gaining programming expertise is time-consuming and challenging. The
- refore\, program synthesis has many applications\, where the computer auto
- matically synthesizes programs from specifications such as natural languag
- e descriptions and input-output examples. In this talk\, I will present my
-  work on learning-based program synthesis\, where I have developed deep le
- arning techniques for various program synthesis problems. Despite the rema
- rkable success of deep neural networks for many domains\, including natura
- l language processing and computer vision\, existing deep neural networks 
- are still insufficient for handling challenging symbolic reasoning and gen
- eralization problems.\n\nMy learning-based program synthesis research lies
-  in two folds: (1) learning to synthesize programs from potentially ambigu
- ous and complex specifications\; and (2) neural-symbolic learning for lang
- uage understanding. I will first talk about program synthesis applications
- \, where my work demonstrates the applicability of learning-based program 
- synthesizers for production usage. I will then present my work on neural-s
- ymbolic frameworks that integrate symbolic components into neural networks
- \, which achieve better reasoning and generalization capabilities. In clos
- ing\, I will discuss the challenges and opportunities of further improving
-  the complexity and generalizability of learning-based program synthesis f
- or future work.\n\nBio:\n\nXinyun Chen is a Ph.D. candidate at UC Berkeley
- \, working with Prof. Dawn Song. Her research lies at the intersection of 
- deep learning\, programming languages\, and security. Her recent research 
- focuses on learning-based program synthesis and adversarial machine learni
- ng. She received the Facebook Fellowship in 2020. She was selected for Ris
- ing Stars in EECS in 2020 and 2021\, and Rising Stars in Machine Learning 
- in 2021.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-xinyun-chen
+ ev\n\nTitle: Learning-Based Program Synthesis: Learning for Program Synthe
+ sis and Program Synthesis for Learning\n\nAbstract:\n\nWith the advancemen
+ t of modern technologies\, programming becomes ubiquitous not only among p
+ rofessional software developers\, but also for general computer users. How
+ ever\, gaining programming expertise is time-consuming and challenging. Th
+ erefore\, program synthesis has many applications\, where the computer aut
+ omatically synthesizes programs from specifications such as natural langua
+ ge descriptions and input-output examples. In this talk\, I will present m
+ y work on learning-based program synthesis\, where I have developed deep l
+ earning techniques for various program synthesis problems. Despite the rem
+ arkable success of deep neural networks for many domains\, including natur
+ al language processing and computer vision\, existing deep neural networks
+  are still insufficient for handling challenging symbolic reasoning and ge
+ neralization problems.\n\nMy learning-based program synthesis research lie
+ s in two folds: (1) learning to synthesize programs from potentially ambig
+ uous and complex specifications\; and (2) neural-symbolic learning for lan
+ guage understanding. I will first talk about program synthesis application
+ s\, where my work demonstrates the applicability of learning-based program
+  synthesizers for production usage. I will then present my work on neural-
+ symbolic frameworks that integrate symbolic components into neural network
+ s\, which achieve better reasoning and generalization capabilities. In clo
+ sing\, I will discuss the challenges and opportunities of further improvin
+ g the complexity and generalizability of learning-based program synthesis 
+ for future work.\n\nBio:\n\nXinyun Chen is a Ph.D. candidate at UC Berkele
+ y\, working with Prof. Dawn Song. Her research lies at the intersection of
+  deep learning\, programming languages\, and security. Her recent research
+  focuses on learning-based program synthesis and adversarial machine learn
+ ing. She received the Facebook Fellowship in 2020. She was selected for Ri
+ sing Stars in EECS in 2020 and 2021\, and Rising Stars in Machine Learning
+  in 2021.\n\nTalk flyer\n\n\nhttps://cpsc.yale.edu/event/cs-talk-xinyun-ch
+ en
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-xinyun-chen
