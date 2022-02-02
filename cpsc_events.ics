@@ -302,11 +302,38 @@ SUMMARY:CS Talk - Maria Pacheco
 DTSTART;VALUE=DATE-TIME:20220223T210000
 DTEND;VALUE=DATE-TIME:20220223T220000
 DESCRIPTION:Event description:\nCS Talk\nMaria Pacheco\n\nHost: Marynel V
- ázquez\n\nDetails coming soon.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-m
- aria-pacheco
-LOCATION:TBA
+ ázquez\n\nTitle: Neural-Symbolic Modeling for Natural Language Discourse
+ \n\nAbstract:\n\nLanguage “in the wild” is complex and ambiguous and r
+ elies on a shared understanding of the world for its interpretation. Most 
+ current NLP methods represent language by learning word co-occurrence patt
+ erns from massive amounts of linguistic data. This representation can be v
+ ery powerful\, but it is insufficient to capture the meaning behind writte
+ n and spoken communication. In this talk\, I will motivate neural-symbolic
+  representations for dealing with these challenges. On the one hand\, symb
+ ols have inherent explanatory power\, and they can help us express domain 
+ knowledge and enforce consistency across different decisions. On the other
+  hand\, expressive distributed representations allow us to leverage the st
+ rengths of statistical language models to make sense of large amounts of l
+ inguistic data.\n\nIn this talk\, I will introduce a holistic framework th
+ at covers all stages of the neural-symbolic pipeline: modeling\, learning\
+ , inference\, and its application for analyzing discourse in real-world sc
+ enarios and show its advantages with respect to end-to-end neural approach
+ es and traditional statistical relational learning methods.\n\nBio\n:\n\nM
+ aria Pacheco is a PhD Candidate in the Department of Computer Science at P
+ urdue University. Her research focuses broadly on neural-symbolic methods
+  to model natural language discourse scenarios\, such as analyzing convers
+ ations\, argumentation\, and narratives. Before joining Purdue\, she spent
+  a couple of years working as a data scientist and software engineer for v
+ arious startups in her hometown of Caracas\, Venezuela. She has published 
+ in top Natural Language Processing conferences and journals and has delive
+ red tutorials on neural-symbolic modeling for NLP to diverse audiences\, i
+ ncluding an IJCAI ‘21 tutorial and an upcoming COLING ‘22 tutorial. Ma
+ ria is a recipient of the 2021 Microsoft Research Dissertation Grant\, and
+  one of the main organizers of the LatinX in AI events in NLP.\n\nTalk fly
+ er\n\n\nhttps://cpsc.yale.edu/event/cs-talk-maria-pacheco-0
+LOCATION:Zoom Presentation
 STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-maria-pacheco
+URL:https://cpsc.yale.edu/event/cs-talk-maria-pacheco-0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Talk - Arman Cohan
@@ -348,7 +375,8 @@ DESCRIPTION:Event description:\nCS Talk\nMatthew Mirman\n\nHost: Abhishek
  anguages\, machine learning\, and theory with applications to creating saf
  e and reliable artificial intelligence systems. Prior to ETH\, he complete
  d his B.Sc. and M.Sc. at Carnegie-Mellon University supervised by Frank Pf
- enning.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-matthew-mirman
+ enning.\n\nTalk flyer\n\n\nhttps://cpsc.yale.edu/event/cs-talk-matthew-mir
+ man
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-matthew-mirman
@@ -383,8 +411,8 @@ DESCRIPTION:Event description:\nCS Talk\nYue Wang\n\nHost: Steven Zucker\n
  med the first place recipient of the William A. Martin Master’s Thesis A
  ward for 2021. Yue received his BEng from Zhejiang University and MS from 
  University of California\, San Diego. He has spent time at Nvidia Research
- \, Google Research and Salesforce Research.\n\n\nhttps://cpsc.yale.edu/eve
- nt/cs-talk-yue-wang
+ \, Google Research and Salesforce Research.\n\nTalk flyer\n\n\nhttps://cps
+ c.yale.edu/event/cs-talk-yue-wang
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-yue-wang
