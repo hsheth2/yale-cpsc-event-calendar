@@ -1,4 +1,30 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
+BEGIN:VEVENT
+SUMMARY:Related Talk: The Coloniality of Data Work by Julian Posada\, Univ
+ ersity of Toronto
+DTSTART;VALUE=DATE-TIME:20220202T220000
+DTEND;VALUE=DATE-TIME:20220202T230000
+DESCRIPTION:Event description\nTitle: The Coloniality of Data Work\n\nThi
+ s\nevent is a job talk in American Studies by Julian Posada. Julian Posada
+  is a PhD candidate at the Faculty of Information\, University of Toronto\
+ , and a fellow of the Schwartz Reisman Institute for Technology and Societ
+ y. He is also affiliated with New York University’s Center for Critical 
+ Race and Digital Studies. His research investigates the relationship betwe
+ en labor and data production and how data-driven technologies perpetuate s
+ ocial inequalities. His doctoral work\, funded by the International Develo
+ pment Research Centre of Canada\, studies the experiences of Latin America
+ n workers who produce data for machine learning through online platforms. 
+ He holds degrees in sociology (EHESS) and the humanities (Sorbonne) and pr
+ eviously worked at the Laboratory of Computer Science of the French Nation
+ al Centre for Scientific Research (CNRS).\n\n\nPlease visit\nhere\n\nto re
+ gister for the event.\n\n\nhttps://computationsociety.yale.edu/event/relat
+ ed-talk-the-coloniality-of-data-work-by-julian-posada-university-of-toront
+ o
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/related-talk-the-coloniality
+ -of-data-work-by-julian-posada-university-of-toronto
+END:VEVENT
 END:VCALENDAR
