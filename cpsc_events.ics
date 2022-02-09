@@ -264,6 +264,92 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-arman-cohan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dissertation Defense - Matthew Amodio
+DTSTART;VALUE=DATE-TIME:20220308T200000
+DTEND;VALUE=DATE-TIME:20220308T210000
+DESCRIPTION:Event description:\nDissertation Defense\nMatthew Amodio\n\nTi
+ tle: Deep Learning for Embedding and Integrating Multimodal Biomedical Dat
+ a\n\nAdvisor\n:\nSmita Krishnaswamy\n\nOther committee members:\n\nRonald 
+ Coifman\nVladimir Rokhlin\n\nAbstract:\n\nBiomedical data is being generat
+ ed in extremely high throughput and high dimension by technologies in area
+ s ranging from single-cell genomics\, proteomics\, and transcriptomics (cy
+ tometry\, single-cell RNA and ATAC sequencing) to neuroscience and cogniti
+ on (fMRI and PET) to pharmaceuticals (drug perturbations and interactions)
+ . These new and emerging technologies and the datasets they create give an
+  unprecedented view into the workings of their respective biological entit
+ ies. However\, there is a large gap between the information contained in t
+ hese datasets and the insights that current machine learning methods can e
+ xtract from them.\n\nThis is especially the case when multiple technologie
+ s can measure the same underlying biological entity or system. By separate
+ ly analyzing the same system but from different views gathered by differen
+ t data modalities\, patterns are left unobserved if they only emerge from 
+ the multi-dimensional joint representation of all of the modalities togeth
+ er. Through an interdisciplinary approach that emphasizes active collabora
+ tion with data domain experts\, my research has developed models for \\tex
+ tbf{data integration}\, extracting important insights through the joint an
+ alysis of varied data sources.\n\nIn this thesis\, I discuss models that a
+ ddress this task of multi-modal data integration\, especially generative a
+ dversarial networks (GANs) and autoencoders (AEs). My research has been fo
+ cused on using both of these models in a generative way for concrete probl
+ ems in cutting-edge scientific applications rather than the exclusive focu
+ s on the generation of high-resolution natural images. The research in thi
+ s thesis is united around ideas of building models that can extract new kn
+ owledge from scientific data inaccessible to currently existing methods.\n
+ \n\nhttps://cpsc.yale.edu/event/dissertation-defense-matthew-amodio
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/dissertation-defense-matthew-amodio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissertation Defense - William Hallahan
+DTSTART;VALUE=DATE-TIME:20220309T210000
+DTEND;VALUE=DATE-TIME:20220309T220000
+DESCRIPTION:Event description:\nDissertation Defense\nWilliam Hallahan\n\n
+ Title: Automated Approaches for Program Verification and Repair\n\nAdviso
+ r\n:\nRuzica Piskac\n\nOther committee members:\nZhong Shao\nAbhishek Bhat
+ tacharjee\nNate Foster (Cornell University)\n\nAbstract:\n\nFormal methods
+  techniques such as verification\, analysis\, and synthesis allow programm
+ ers to prove properties of their programs\, or automatically derive progra
+ ms from specifications. This dissertation presents automated analysis and 
+ synthesis techniques to ease the debugging of modular verification systems
+ \, allow easy access to constraint solvers from functional code\, and to r
+ educe the burden of network administrators writing and analyzing firewalls
+ .\n\nWe describe the design and implementation of a symbolic execution eng
+ ine\, G2\, for non-strict functional languages such as Haskell. We then ex
+ tended G2 to assist with modular verification. Modular verifiers allow pro
+ grammers to write and prove specifications of their code. When a modular v
+ erifier fails to verify a program\, it could be because of an actual bug i
+ n the program\, but it could also be because a specification somewhere in 
+ the program is too weak. We present a technique\, counterfactual symbolic 
+ execution\, to aid in the debugging of both types of modular verification 
+ failures\, by finding counterexample or counterexample-like explanations o
+ f the failure. Further\, a counterexample-guided inductive synthesis (CEGI
+ S) loop based technique is introduced to fully automate modular verificati
+ on\, by using found counterexamples to automatically infer needed function
+  specifications. The counterfactual symbolic execution and automated speci
+ fication inference techniques are evaluated on existing LiquidHaskell erro
+ rs and programs.\n\nIn addition to leveraging G2 to explain modular verifi
+ cation errors\, we built a library\, G2Q\, which makes it easy for Haskell
+  programmers to call G2 to solve constraint problem written in Haskell. G2
+ Q uses symbolic execution to unroll recursive function definitions\, and g
+ uarantees that the use of G2Q constraints will preserve type correctness.\
+ n\nFinally\, we describe techniques to ease analysis and repair of firewal
+ ls. Firewalls are widely deployed to manage network security. However\, fi
+ rewall systems provide only a primitive interface\, in which the specifica
+ tion is given as an ordered list of rules. This makes it hard to manually 
+ track and maintain the behavior of a firewall. We introduce a formal seman
+ tics for iptables firewall rules via a translation to first-order logic wi
+ th uninterpreted functions and linear integer arithmetic\, which allows en
+ coding of firewalls into a decidable logic. We then describe techniques to
+  automate the analysis and repair of firewalls using SMT solvers\, based o
+ n user provided specifications of the desired behavior. We evaluate this a
+ pproach with real world case studies collected from StackOverflow users.\n
+ \n\nhttps://cpsc.yale.edu/event/dissertation-defense-william-hallahan
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/dissertation-defense-william-hallahan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Talk - Matthew Mirman
 DTSTART;VALUE=DATE-TIME:20220310T153000
 DTEND;VALUE=DATE-TIME:20220310T163000
