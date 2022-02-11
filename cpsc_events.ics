@@ -257,8 +257,39 @@ SUMMARY:CS Talk - Arman Cohan
 DTSTART;VALUE=DATE-TIME:20220228T210000
 DTEND;VALUE=DATE-TIME:20220228T220000
 DESCRIPTION:Event description:\nCS Talk\n\nArman\nCohan\n\nHost: Dragomir 
- Radev\n\nDetails coming soon.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-arm
- an-cohan
+ Radev\n\nTitle: Beyond Sentences and Paragraphs: Towards Document and Mult
+ i-document Understanding\n\nAbstract:\n\nDuring the past few years\, there
+  has been significant progress in natural language understanding\, primari
+ ly due to the advancements in transfer learning methods and the increasing
+  scale of pre-trained language models. However\, the majority of progress 
+ has been made on tasks concerning short texts with sentences or paragraphs
+  as the basic unit of analysis. Yet\, many real-world natural language tas
+ ks require understanding full documents which includes learning effective 
+ representation of documents\, resolving longer range dependencies\, struct
+ ure\, and argumentation. Further\, certain tasks require incorporating add
+ itional context from multiple related documents (e.g.\, understanding a sc
+ ientific paper) and aggregating information across multiple documents. In 
+ this talk\, I will discuss some of our recent works on addressing these ch
+ allenges. I will first discuss general methods for document representation
+  learning that help to achieve strong downstream performance on a variety 
+ of document-level tasks. Then I will focus on how we can have a general pr
+ e-trained language model that can process long documents. Using this frame
+ work\, I will discuss extensions to multi-document natural language unders
+ tanding for a variety of classification\, extraction\, and summarization t
+ asks. I will also briefly discuss a few of our newly developed benchmarks 
+ from challenging domains that enable us to better measure progress on docu
+ ment natural language understanding.\n\nBio:\n\nArman Cohan is a Research 
+ Scientist at the Allen Institute for AI (AI2) and an Affiliate Assistant P
+ rofessor at the University of Washington. His broad research interest is d
+ eveloping natural language processing (NLP) methods for addressing informa
+ tion overload. This includes models and benchmarks for document and multi-
+ document understanding\, natural language generation and summarization\, a
+ s well as information discovery and filtering. He is additionally interest
+ ed in real-world interdisciplinary applications of NLP in the science and 
+ health domains. His research has been recognized with multiple awards\, in
+ cluding a best paper award at EMNLP 2017\, an honorable mention at COLING 
+ 2018\, and the 2019 Harold N. Glassman Distinguished Doctoral Dissertation
+  award.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-arman-cohan
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-arman-cohan
