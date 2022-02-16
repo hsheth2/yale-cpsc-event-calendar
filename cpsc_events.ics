@@ -2,35 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Osbert Bastani
-DTSTART;VALUE=DATE-TIME:20220215T210000
-DTEND;VALUE=DATE-TIME:20220215T220000
-DESCRIPTION:Event description:\nCS Talk\nOsbert Bastani\n\nHost: Abhishek 
- Bhattacharjee\n\nTitle: Trustworthy Machine Learning Systems via PAC Uncer
- tainty Quantification\n\nAbstract:\n\nMachine learning models are increasi
- ngly being incorporated into real-world systems\, targeting domains such a
- s robotics\, healthcare\, and software systems. A key challenge is ensurin
- g that such systems are trustworthy. I will describe a novel strategy for 
- composing machine learning models while providing provable correctness gua
- rantees. First\, we show how to quantify the uncertainty of any given mode
- l in a way that satisfies PAC correctness guarantees. Second\, we show how
-  to compose guarantees for individual models to obtain a guarantee for the
-  overall system. Then\, I will discuss applications to ensuring safety in 
- reinforcement learning from visual inputs\, and to speeding up inference t
- ime of deep neural networks. I will conclude with ongoing work on preservi
- ng correctness guarantees in the face of distribution shift.\n\nBio:\n\nOs
- bert Bastani is a research assistant professor at the Department of Comput
- er and Information Science at the University of Pennsylvania. He is broadl
- y interested in techniques for designing trustworthy machine learning syst
- ems\, focusing on their correctness\, programmability\, and efficiency. Pr
- eviously\, he completed his Ph.D. in computer science from Stanford and hi
- s A.B. in mathematics from Harvard.\n\nTalk flyer\n\n\nhttps://cpsc.yale.e
- du/event/cs-talk-osbert-bastani
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-osbert-bastani
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Irene Li
 DTSTART;VALUE=DATE-TIME:20220216T170000
 DTEND;VALUE=DATE-TIME:20220216T180000
