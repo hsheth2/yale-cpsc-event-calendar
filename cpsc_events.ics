@@ -377,6 +377,41 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-matthew-mirman
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Talk - Dr. Tesca Fitzgerald
+DTSTART;VALUE=DATE-TIME:20220314T200000
+DTEND;VALUE=DATE-TIME:20220314T210000
+DESCRIPTION:Event description:\nCS Talk\nDr. Tesca Fitzgerald\n\nHost: Bri
+ an Scassellati\n\nTitle: Learning to address novel situations through huma
+ n-robot collaboration\n\nAbstract\n\nAs our expectations for robots’ ada
+ ptive capacities grow\, it will be increasingly important for\nthem to rea
+ son about the novel objects\, tasks\, and interactions inherent to everyda
+ y life. Rather\nthan attempt to pre-train a robot for all potential task v
+ ariations it may encounter\, we can\ndevelop more capable and robust robot
+ s by assuming they will inevitably encounter situations\nthat they are ini
+ tially unprepared to address. My work enables a robot to address these nov
+ el\nsituations by learning from a human teacher’s domain knowledge of th
+ e task\, such as the\ncontextual use of an object or tool. Meeting this ch
+ allenge requires robots to be flexible not only\nto novelty\, but to diffe
+ rent forms of novelty and their varying effects on the robot’s task\ncom
+ pletion. In this talk\, I will focus on (1) the implications of novelty\, 
+ and its various causes\, on\nthe robot’s learning goals\, (2) methods fo
+ r structuring its interaction with the human teacher in\norder to meet tho
+ se learning goals\, and (3) modeling and learning from interaction-derived
+ \ntraining data to address novelty.\n\nBio\n\nDr. Tesca Fitzgerald\nis a P
+ ostdoctoral Fellow in the Robotics Institute at Carnegie Mellon\nUniversit
+ y. Her research is centered around interactive robot learning\, with the a
+ im of developing\nrobots that are adaptive\, robust\, and collaborative wh
+ en faced with novel situations. Before\njoining Carnegie Mellon\, Dr. Fitz
+ gerald received her PhD in Computer Science at Georgia Tech\nand completed
+  her B.Sc at Portland State University. She is an NSF Graduate Research Fe
+ llow\n(2014)\, Microsoft Graduate Women Scholar (2014)\, and IBM Ph.D. Fel
+ low (2017).\n\nTalk flyer\n\n\nhttps://cpsc.yale.edu/event/cs-talk-dr-tesc
+ a-fitzgerald
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-dr-tesca-fitzgerald
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Talk - Yue Wang
 DTSTART;VALUE=DATE-TIME:20220315T200000
 DTEND;VALUE=DATE-TIME:20220315T210000
