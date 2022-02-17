@@ -2,6 +2,35 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
+SUMMARY:Inference Project Virtual Talk:  Causality at the Intersection of 
+ Simulation\, Inference\, Science\, and Learning
+DTSTART;VALUE=DATE-TIME:20220308T210000
+DTEND;VALUE=DATE-TIME:20220308T220000
+DESCRIPTION:Event description:\nThe sciences are replete with high-fidelit
+ y simulators:  computational manifestations of causal\, mechanistic model
+ s.  Ironically\, while these simulators provide our highest-fidelity phys
+ ical models\, they are not well suited for inferring properties of the mod
+ el from data.  Professor Kyle Cranmer of New York University will describ
+ e the emerging area of simulation-based inference and describe how machine
+  learning is being brought to bear on these challenging problems.  It is 
+ then tempting to imagine the path towards developing an autonomous AI scie
+ ntist also responsible for designing experiments and hypothesis generation
+ .  Interestingly\, this framing brings a new perspective on the role of c
+ ausality and agency that incorporates recent advances in machine learning 
+ and artificial intelligence.\n\nThe moderated post-talk conversation with\
+ nZenna Tavares\n\,\nassociate research scientist and Alan Kanzer Innovatio
+ n Scholar\nat the Zuckerman Institute and Data Science Institute of Columb
+ ia University\, is\nexpected to take place on Wednesday\, March 9 at 4 p.m
+ .  Confirmation of this date will follow soon.\n\nRegister in advance for
+  this webinar:\n\n\nhttps://yale.zoom.us/webinar/register/WN_e1tBGVmTT86M0
+ dD6BXTaxA\n\n\n\nhttps://frankeprogram.yale.edu/event/inference-project-vi
+ rtual-talk-causality-intersection-simulation-inference-science-and
+LOCATION:Zoom Webinar
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-virtual-talk-ca
+ usality-intersection-simulation-inference-science-and
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Franke Undergraduate Fellowship Grants for 2021/2022
 DTSTART;VALUE=DATE-TIME:20220311T224500
 DTEND;VALUE=DATE-TIME:20220311T234500
