@@ -152,7 +152,7 @@ DESCRIPTION:Event description:\nCS Talk\n\nArman\nCohan\n\nHost: Dragomir
  health domains. His research has been recognized with multiple awards\, in
  cluding a best paper award at EMNLP 2017\, an honorable mention at COLING 
  2018\, and the 2019 Harold N. Glassman Distinguished Doctoral Dissertation
-  award.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-arman-cohan
+  award.\n\nTalk flyer\n\n\nhttps://cpsc.yale.edu/event/cs-talk-arman-cohan
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-arman-cohan
@@ -391,5 +391,45 @@ DESCRIPTION:Event description:\nCS Talk\nAlane Suhr\n\nHost: Holly Rushmei
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-alane-suhr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Irene Chen
+DTSTART;VALUE=DATE-TIME:20220330T200000
+DTEND;VALUE=DATE-TIME:20220330T210000
+DESCRIPTION:Event description:\nCS Talk\nIrene Chen\n\nHost: Steven Zucker
+ \n\nTitle: Machine learning for equitable healthcare\n\nAbstract:\n\nAdvan
+ ces in machine learning and the explosion of clinical data have demonstrat
+ ed immense potential to fundamentally improve clinical care and deepen our
+  understanding of human health. However\, algorithms for medical intervent
+ ions and scientific discovery in heterogeneous patient populations are par
+ ticularly challenged by the complexities of healthcare data. Not only are 
+ clinical data noisy\, missing\, and irregularly sampled\, but questions of
+  equity and fairness also raise grave concerns and create additional compu
+ tational challenges.\n\nIn this talk\, I present two approaches for levera
+ ging machine learning towards equitable healthcare. First\, I demonstrate 
+ how to adapt disease progression modeling to account for differences in ac
+ cess to care. Using a deep generative model\, we can correct for patient m
+ isalignment in disease onset time to learn more clinically useful disease 
+ subtypes. Second\, I examine how to address algorithmic bias in supervised
+  learning for cost-based metrics discimination. By decomposing discriminat
+ ion into bias\, variance\, and noise components\, I propose tailored actio
+ ns for estimating and reducing each term of the total dscimination. The ta
+ lk concludes with a discussion about how to rethink the entire machine lea
+ rning pipeline with an ethical lens to building algorithms that serve the 
+ entire patient population.\n\nBio:\n\nIrene Chen is a PhD student in the C
+ linical Machine Learning group at MIT’s Computer Science and Artificial 
+ Intelligence Lab (CSAIL)\, advised by David Sontag. Her work centers on ma
+ chine learning methods for improving clinical care and making it more equi
+ table\, as well as auditing and addressing bias in algorithmic models. Her
+  work has been published in machine learning conferences (NeurIPS\, AAAI) 
+ and medical journals (Nature Medicine\, Lancet Digital Health)\, and has b
+ een covered by media outlets including MIT Tech Review\, NPR/WGBH\, and St
+ at News. She has been named a Rising Star in EECS by University of Califor
+ nia Berkeley\, Harvard\, and University of Maryland. Prior to her PhD\, Ir
+ ene received her AB/SM from Harvard and worked at Dropbox.\n\nTalk flyer\n
+ \n\nhttps://cpsc.yale.edu/event/cs-talk-irene-chen
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-irene-chen
 END:VEVENT
 END:VCALENDAR
