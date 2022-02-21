@@ -226,6 +226,36 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/dissertation-defense-matthew-amodio
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Talk - Manolis Zampetakis
+DTSTART;VALUE=DATE-TIME:20220308T210000
+DTEND;VALUE=DATE-TIME:20220308T220000
+DESCRIPTION:Event description:\nCS Talk\nManolis Zampetakis\n\nHost: Yang 
+ Cai\n\nTitle: How to handle Biased Data and Multiple Agents in Machine Lea
+ rning?\n\nAbstract:\n\nModern machine learning (ML) methods commonly postu
+ late strong assumptions such as: (1) access to data that adequately captur
+ es the application environment\, (2) the goal is to optimize the objective
+  function of a single agent\, assuming that the application environment is
+  isolated and is not affected by the outcome chosen by the ML system. In t
+ his talk I will present methods with theoretical guarantees that are appli
+ cable in the absence of (1) and (2) as well as corresponding fundamental l
+ ower bounds. In the context of (1) I will focus on how to deal with trunca
+ tion and self-selection bias and in the context of (2) I will present a fo
+ undational comparison between two-objective and single objective optimizat
+ ion.\n\nBio:\n\nManolis Zampetakis is currently a post-doctoral researcher
+  at the EECS Department of UC Berkeley working with Michael Jordan. He rec
+ eived his PhD from the EECS Department at MIT where he was advised by Cons
+ tantinos Daskalakis. He has been awarded the Google PhD Fellowship and the
+  ACM SIGEcom Doctoral Dissertation Award. He works on the foundations of m
+ achine learning (ML)\, statistics\, and data science\, with focus on stati
+ stical analysis from systematically biased data\, optimization methods for
+  multi-agent environments\, and convergence properties of popular heuristi
+ c methods.\n\nTalk flyer\n\n\nhttps://cpsc.yale.edu/event/cs-talk-manolis-
+ zampetakis
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-manolis-zampetakis
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dissertation Defense - William Hallahan
 DTSTART;VALUE=DATE-TIME:20220309T210000
 DTEND;VALUE=DATE-TIME:20220309T220000
