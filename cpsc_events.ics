@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Daniel Rakita
-DTSTART;VALUE=DATE-TIME:20220221T210000
-DTEND;VALUE=DATE-TIME:20220221T220000
-DESCRIPTION:Event description:\nCS Talk\nDaniel Rakita\n\nHost: Marynel V
- ázquez\n\nTitle: Intuitive Robot Shared-Control Interfaces via Real-time 
- Motion Planning and Optimization\n\nAbstract:\n\nMy research focuses on ma
- king robots intuitive to control and work alongside for as many people as 
- possible\, specifically in areas where people are understaffed or overwork
- ed such as nursing\, homecare\, and manufacturing.  In this talk\, I will
-  overview numerous robot shared-control interfaces I have developed to be 
- intuitive and easy-to-use\, even for novice users\, by blending users’ i
- nputs with robot autonomy on-the-fly.  I will highlight novel motion plan
- ning and motion optimization methods that enable these interfaces by quick
- ly synthesizing smooth\, feasible\, and safe motions that effectively refl
- ect objectives specified by the user and robot autonomy signals in real-ti
- me.  I will comment on my ongoing and future work that will push the pote
- ntial of these technical methods and physical robot systems\, all striving
-  towards broad and motivating applications such as remote homecare\, tele-
- nursing\, and assistive technologies.\n\nBio:\n\nDaniel Rakita is a Ph.D. 
- candidate of computer science at the University of Wisconsin-Madison.  Hi
- s research involves creating motion optimization approaches that allow rob
- ot manipulators to move smoothly\, safely\, and accurately in real-time. 
-  Using these motion algorithms as core components\, he subsequently develo
- ps and evaluates robot shared-control interfaces that are intuitive and ea
- sy to use\, even for novice users.  Previously\, he received his Master
- ’s Degree in Computer Science from the University of Wisconsin-Madison a
- nd a Bachelors of Music Performance from the Indiana University Jacobs Sch
- ool of Music.  His work has been supported by a Microsoft PhD Fellowship 
- (2019-2021) and a Cisco Graduate Student Fellowship (2021-2022).  He is a
- dvised by Michael Gleicher and Bilge Mutlu.\n\nTalk flyer\n\n\nhttps://cps
- c.yale.edu/event/cs-talk-daniel-rakita
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-daniel-rakita
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Xinyun Chen
 DTSTART;VALUE=DATE-TIME:20220222T210000
 DTEND;VALUE=DATE-TIME:20220222T220000
