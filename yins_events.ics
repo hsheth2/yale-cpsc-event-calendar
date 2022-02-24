@@ -1,4 +1,51 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
+BEGIN:VEVENT
+SUMMARY:YINS/EE Seminar: Francesco Bronzino
+DTSTART;VALUE=DATE-TIME:20220228T160000
+DTEND;VALUE=DATE-TIME:20220228T170000
+DESCRIPTION:Event description:\n“Operationalizing machine learning in re
+ al world networks”\n\nSpeaker: Francesco Bronzino\nUniversité Savoie Mo
+ nt Blanc\n\nAbstract:\nApplications of machine learning to networking\, fr
+ om performance diagnosis to security\, have conventionally relied on model
+ s that are trained on offline packet traces\, without regard to the limita
+ tions of existing measurement systems nor the cost of gathering\, computin
+ g\, and storing the corresponding input features. As a result\, there rema
+ ins a significant gap between the development of statistical models for ne
+ twork operations and their application and systemization in practice. In t
+ his talk\, we explore the challenges of operationalizing machine learning 
+ models in real world networks. First\, we develop new models to infer qual
+ ity metrics (i.e.\, startup delay and resolution) for encrypted streaming 
+ video services and demonstrate the models are practical through a 16-month
+  deployment in 66 homes. Building on the lessons learned\, we design and d
+ evelop Traffic Refinery\, a new framework and system that enables a joint 
+ evaluation of both the conventional notions of machine learning performanc
+ e (e.g.\, model accuracy) and the systems-level costs of different represe
+ ntations of network traffic. Traffic Refinery makes it possible to explore
+  different representations for learning\, balancing systems costs related 
+ to feature extraction and model training against model accuracy.\n\nBio: F
+ rancesco Bronzino is an Assistant Professor at Université Savoie Mont Bla
+ nc. His research interests broadly focus on the Internet infrastructure an
+ d the services that populate it\, studying how to leverage emergent techno
+ logies to engineer software systems designed to measure and improve networ
+ k service performance. His work has been published in top-tier conferences
+  such as ACM Sigmetrics\, IEEE/ACM SEC\, and PAM and is currently funded b
+ y two national and international ANR awards. Francesco received his Ph.D. 
+ in Electrical and Computer Engineering from WINLAB at Rutgers University\,
+  working on the design of name based services for future Internet and mobi
+ le network architectures. Before joining Université Savoie Mont Blanc\, h
+ e was a Research Scientist at Nokia Bell Labs as well as Post-Doctoral res
+ earch fellow at Inria Paris\, focusing on network systems for application 
+ quality monitoring and inference.\n\nHYBRID SEMINAR: in-person and on Zoom
+ .\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/
+ 91865938159?pwd=eEVycVR3VFNHQVhhdWl5TVhva0Jldz09\n\nPassword: 292708\nOr T
+ elephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID:
+  918 6593 8159\nInternational numbers available:\nhttps://yale.zoom.us/u/a
+ bwQM1t58\n\n\nHost: Leandros Tassiulas\n\n.\n\n\nhttps://yins.yale.edu/eve
+ nt/yinsee-seminar-francesco-bronzino
+LOCATION:Yale Institute for Network Science
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yinsee-seminar-francesco-bronzino
+END:VEVENT
 END:VCALENDAR
