@@ -46,14 +46,12 @@ DESCRIPTION:Event description:\nThe sciences are replete with high-fidelit
  ntist also responsible for designing experiments and hypothesis generation
  .  Interestingly\, this framing brings a new perspective on the role of c
  ausality and agency that incorporates recent advances in machine learning 
- and artificial intelligence.\n\nThe moderated post-talk conversation with\
- nZenna Tavares\n\,\nassociate research scientist and Alan Kanzer Innovatio
- n Scholar\nat the Zuckerman Institute and Data Science Institute of Columb
- ia University\, is\nexpected to take place on Wednesday\, March 9 at 4 p.m
- .  Confirmation of this date will follow soon.\n\nRegister in advance for
-  this webinar:\n\n\nhttps://yale.zoom.us/webinar/register/WN_e1tBGVmTT86M0
- dD6BXTaxA\n\n\n\nhttps://frankeprogram.yale.edu/event/inference-project-vi
- rtual-talk-causality-intersection-simulation-inference-science-and
+ and artificial intelligence.\n\nThe moderated post-talk conversation\nis\n
+ expected to take place on Wednesday\, March 9 at 4 p.m.  Confirmation of 
+ this date will follow soon.\n\nRegister in advance for this webinar:\n\n\n
+ https://yale.zoom.us/webinar/register/WN_e1tBGVmTT86M0dD6BXTaxA\n\n\n\nhtt
+ ps://frankeprogram.yale.edu/event/inference-project-virtual-talk-causality
+ -intersection-simulation-inference-science-and
 LOCATION:Zoom Webinar
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/inference-project-virtual-talk-ca
@@ -84,5 +82,34 @@ LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/franke-undergraduate-fellowship-g
  rants-20212022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Talk by Carl Zimmer - Life’s Edge:  The Search for What 
+ it Means to be Alive
+DTSTART;VALUE=DATE-TIME:20220330T200000
+DTEND;VALUE=DATE-TIME:20220330T210000
+DESCRIPTION:Event description:\nWe look forward to hosting a virtual talk 
+ by Carl Zimmer\, renowened science writer and author of the “Matter” c
+ olumn at\nThe New York Times\n.  His latest book\,\nLife’s Edge:  The 
+ Search for What it Means to be Alive\n\, will be the subject of this talk.
+ \n\nIn 1708\, the chemist Georg Ernst Stahl posed a question. “Above all
+  else\, consequently\, it comes down to this–to know\, what is life?”\
+ n\nIn 2018\, the biologists Francis Westall and André Brack took stock of
+  what science had learned over the intervening three centuries: “It is c
+ ommonly said that there as many definitions of life as there are people tr
+ ying to define it.”\n\nIn\nLife’s Edge\,\nCarl Zimmer explores the nat
+ ure of life and investigates why scientists have struggled to draw its bou
+ ndaries. He handles pythons\, goes spelunking to visit hibernating bats\, 
+ and even tries his hand at evolution. Zimmer visits scientists making mini
+ ature human brains to ask when life begins\, and follows a voyage that del
+ ivered microscopic animals to the moon\, where they now exist in a state b
+ etween life and death. From the coronavirus to consciousness\, Zimmer demo
+ nstrates that biology\, for all its advances\, has yet to achieve its grea
+ test triumph: a full theory of life.\n\n\nhttps://frankeprogram.yale.edu/e
+ vent/virtual-talk-carl-zimmer-lifes-edge-search-what-it-means-be-alive
+LOCATION:Zoom Webinar
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/virtual-talk-carl-zimmer-lifes-ed
+ ge-search-what-it-means-be-alive
 END:VEVENT
 END:VCALENDAR
