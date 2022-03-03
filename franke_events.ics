@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:The Feather Thief:  Beauty\, Obsession\, and the Natural History H
- eist of the Century
-DTSTART;VALUE=DATE-TIME:20220302T213000
-DTEND;VALUE=DATE-TIME:20220302T223000
-DESCRIPTION:Event description:\nWe are delighted to host a virtual talk on
-  Wednesday\, March 2nd at 4.30 p.m. with acclaimed author Kirk Wallace Joh
- nson\, who will speak on the subject of his celebrated book\nThe Feather T
- hief\n.\n\nIn June 2009\, a young American scaled the walls of the British
-  Museum of Natural History\, broke out a window\, climbed inside\, and sto
- le a million dollars’ worth of dead birds - scientific specimens preserv
- ed over the centuries by a chain of curators who recognized that these bir
- ds held answers to questions that scientists hadn’t even considered.  H
- e stripped them of their tags (bearing information crucial to research)\, 
- and then hacked them to bits with a scalpel\, filling Ziploc bags with tho
- usands of iridescent\, glimmering feathers\, which he sold for hundreds of
-  thousands of dollars to the cultish community of Victorian salmon fly-tie
- rs.  In\nThe Feather Thief\n\, Johnson descends into this ‘feather unde
- rground\,’ tracking down the missing birds across the world in a madcap 
- quest for some kind of justice.\n\nThis American Life\nproduced a special 
- on the book with our guest\;  you may want to listen to it\nhere\n.\n\nWe
-  are indebted to Dr. Mark Adams\, Senior Curator of the Bird Group at the 
- Tring Museum\, for providing\nthis paper\non the subject of the Tring heis
- t and other notable thefts.\n\nRegister in advance for this webinar:\n\nht
- tps://yale.zoom.us/webinar/register/WN_JCgMBe7VRI6K_Hpgpvw20w\n\n\nhttps:/
- /frankeprogram.yale.edu/event/feather-thief-beauty-obsession-and-natural-h
- istory-heist-century
-LOCATION:Zoom Webinar
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/feather-thief-beauty-obsession-an
- d-natural-history-heist-century
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inference Project Virtual Talk:  Causality at the Intersection of 
  Simulation\, Inference\, Science\, and Learning
 DTSTART;VALUE=DATE-TIME:20220309T210000
