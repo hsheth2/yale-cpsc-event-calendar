@@ -184,6 +184,33 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-matthew-mirman
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Talk - Sinho Chewi
+DTSTART;VALUE=DATE-TIME:20220311T200000
+DTEND;VALUE=DATE-TIME:20220311T210000
+DESCRIPTION:Event description:\nCS Talk\nSinho Chewi\n\nHost: Andre Wibiso
+ no\n\nTitle: Recovering and generalizing Caffarelli’s contraction theore
+ m via covariance inequalities\n\nAbstract:\n\nCaffarelli’s contraction 
+ theorem states that the optimal transport map from the standard Gaussian t
+ o an α-strongly log-concave measure is α^{-1/2}-Lipschitz. This is a pow
+ erful result because the existence of a Lipschitz transport map allows one
+  to transfer a number of functional inequalities (e.g. Poincaré inequalit
+ y\, log-Sobolev inequality\, isoperimetric inequalities…) from the sourc
+ e measure to the target measure. However\, the current proofs of this theo
+ rem (e.g. Caffarelli’s original PDE argument\, or the argument of Fathi\
+ , Gozlan\, and Prodhomme via entropic regularization) are somewhat diffic
+ ult. Recently\, Lipschitz transport maps were constructed in other ways (v
+ ia the Follmer process and via the reverse heat flow)\, but it is still of
+  central importance to understand the optimal transport map.\n\nIn this ta
+ lk\, I give a short proof of Caffarelli’s contraction theorem via covar
+ iance inequalities. This is joint work with Aram-Alexandre Pooladian from 
+ NYU.\n\nBio:\n\nSinho Chewi is a fourth year PhD student in the Department
+  of Mathematics at MIT. He is advised by Philippe Rigollet.\n\n\n\n\nhttps
+ ://cpsc.yale.edu/event/cs-talk-sinho-chewi
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-sinho-chewi
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Talk - Dr. Tesca Fitzgerald
 DTSTART;VALUE=DATE-TIME:20220314T200000
 DTEND;VALUE=DATE-TIME:20220314T210000
@@ -368,5 +395,35 @@ DESCRIPTION:Event description:\nCS Talk\nIrene Chen\n\nHost: Steven Zucker
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-irene-chen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Richard L. Sites
+DTSTART;VALUE=DATE-TIME:20220405T200000
+DTEND;VALUE=DATE-TIME:20220405T210000
+DESCRIPTION:Event description:\nCS Colloquium\nRichard L. Sites\n\nHost: M
+ ichael Fischer\n\nTitle: Making the Invisible Visible\nObserving Complex S
+ oftware Dynamics\n\nAbstract\n\nFrom mobile and cloud apps to video games 
+ to driverless vehicle control\, more and more software is time-constrained
+ : it must deliver reliable results seamlessly\, consistently\, and virtual
+ ly instantaneously. If it doesn’t\, customers are unhappy–and sometime
+ s lives are put at risk. When complex software underperforms or fails\, id
+ entifying the root causes is difficult and\, historically\, few tools have
+  been available to help\, leaving application developers to guess what mig
+ ht be happening. How can we do better?\n\nThe key is to have low-overhead 
+ observation tools that can show exactly where all the  elapsed time goes 
+ in both normal responses and in delayed responses. Doing so makes visible 
+ each of the seven possible reasons for such delays\, as we show.\n\nBio\n\
+ nRichard L. Sites wrote his first computer program in 1959 and has spent m
+ ost of his career at the boundary between hardware and software\, with a p
+ articular interest in CPU/software performance interactions. His past work
+  includes VAX microcode\, DEC Alpha co-architect\, and inventing the perfo
+ rmance counters found in nearly all processors today. He has done low-over
+ head microcode and software tracing at DEC\, Adobe\, Google\, and Tesla. D
+ r. Sites earned his PhD at Stanford in 1974\; he holds 66 patents and is a
+  member of the US National Academy of Engineering.\n\n\nhttps://cpsc.yale.
+ edu/event/cs-colloquium-richard-l-sites
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-richard-l-sites
 END:VEVENT
 END:VCALENDAR
