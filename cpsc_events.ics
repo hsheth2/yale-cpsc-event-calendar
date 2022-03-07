@@ -36,35 +36,36 @@ BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Matthew Amodio
 DTSTART;VALUE=DATE-TIME:20220308T200000
 DTEND;VALUE=DATE-TIME:20220308T210000
-DESCRIPTION:Event description:\nDissertation Defense\nMatthew Amodio\n\nTi
- tle: Deep Learning for Embedding and Integrating Multimodal Biomedical Dat
- a\n\nAdvisor\n:\nSmita Krishnaswamy\n\nOther committee members:\n\nRonald 
- Coifman\nVladimir Rokhlin\n\nAbstract:\n\nBiomedical data is being generat
- ed in extremely high throughput and high dimension by technologies in area
- s ranging from single-cell genomics\, proteomics\, and transcriptomics (cy
- tometry\, single-cell RNA and ATAC sequencing) to neuroscience and cogniti
- on (fMRI and PET) to pharmaceuticals (drug perturbations and interactions)
- . These new and emerging technologies and the datasets they create give an
-  unprecedented view into the workings of their respective biological entit
- ies. However\, there is a large gap between the information contained in t
- hese datasets and the insights that current machine learning methods can e
- xtract from them.\n\nThis is especially the case when multiple technologie
- s can measure the same underlying biological entity or system. By separate
- ly analyzing the same system but from different views gathered by differen
- t data modalities\, patterns are left unobserved if they only emerge from 
- the multi-dimensional joint representation of all of the modalities togeth
- er. Through an interdisciplinary approach that emphasizes active collabora
- tion with data domain experts\, my research has developed models for \\tex
- tbf{data integration}\, extracting important insights through the joint an
- alysis of varied data sources.\n\nIn this thesis\, I discuss models that a
- ddress this task of multi-modal data integration\, especially generative a
- dversarial networks (GANs) and autoencoders (AEs). My research has been fo
- cused on using both of these models in a generative way for concrete probl
- ems in cutting-edge scientific applications rather than the exclusive focu
- s on the generation of high-resolution natural images. The research in thi
- s thesis is united around ideas of building models that can extract new kn
- owledge from scientific data inaccessible to currently existing methods.\n
- \n\nhttps://cpsc.yale.edu/event/dissertation-defense-matthew-amodio
+DESCRIPTION:Event description:\nDissertation Defense\nMatthew Amodio\n\nDi
+ ssertation Title: Deep Learning for Embedding and Integrating Multimodal B
+ iomedical Data\n\nAdvisor: Smita Krishnaswamy\n\nOther committee members:\
+ n\nRonald Coifman\nVladimir Rokhlin\nDragomir Radev\n\nAbstract:\n\nBiomed
+ ical data is being generated in extremely high throughput and high dimensi
+ on by technologies in areas ranging from single-cell genomics\, proteomics
+ \, and transcriptomics (cytometry\, single-cell RNA and ATAC sequencing) t
+ o neuroscience and cognition (fMRI and PET) to pharmaceuticals (drug pertu
+ rbations and interactions). These new and emerging technologies and the da
+ tasets they create give an unprecedented view into the workings of their r
+ espective biological entities. However\, there is a large gap between the 
+ information contained in these datasets and the insights that current mach
+ ine learning methods can extract from them.\n\nThis is especially the case
+  when multiple technologies can measure the same underlying biological ent
+ ity or system. By separately analyzing the same system but from different 
+ views gathered by different data modalities\, patterns are left unobserved
+  if they only emerge from the multi-dimensional joint representation of al
+ l of the modalities together. Through an interdisciplinary approach that e
+ mphasizes active collaboration with data domain experts\, my research has 
+ developed models for data integration\, extracting important insights thro
+ ugh the joint analysis of varied data sources.\n\nIn this thesis\, I discu
+ ss models that address this task of multi-modal data integration\, especia
+ lly generative adversarial networks (GANs) and autoencoders (AEs). My rese
+ arch has been focused on using both of these models in a generative way fo
+ r concrete problems in cutting-edge scientific applications rather than th
+ e exclusive focus on the generation of high-resolution natural images. The
+  research in this thesis is united around ideas of building models that ca
+ n extract new knowledge from scientific data inaccessible to currently exi
+ sting methods.\n\n\n\n\nhttps://cpsc.yale.edu/event/dissertation-defense-m
+ atthew-amodio
 LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/dissertation-defense-matthew-amodio
