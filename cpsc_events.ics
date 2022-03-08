@@ -2,37 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Suguman Bansal
-DTSTART;VALUE=DATE-TIME:20220307T210000
-DTEND;VALUE=DATE-TIME:20220307T220000
-DESCRIPTION:Event description:\nCS Talk\nSuguman Bansal\n\nHost: Ruzica Pi
- skac\n\nTitle: Specification-Guided Policy Synthesis\n\nAbstract:\n\nPolic
- y synthesis\nor algorithms to design policies for computational systems is
-  one of the fundamental problems in computer science. Standing on the shou
- lders of simplified yet concise\ntask-specification\nusing high-level logi
- cal specification languages\, this talk will cover synthesis algorithms us
- ing two contrasting approaches. First\, the classical logic-based approach
-  of reactive synthesis\; Second\, the modern learning-based approach of re
- inforcement learning. This talk will cover our scalable and efficient stat
- e-of-the-art algorithms for synthesis from high-level specifications using
-  both these approaches\, and investigate whether formal guarantees are pos
- sible. We will conclude with a forward-looking view of these contributions
-  to trustworthy AI.\n\nBio:\n\nSuguman Bansal\nis an NSF/CRA Computing Inn
- ovation Postdoctoral Fellow at the University of Pennsylvania\, mentored b
- y Prof. Rajeev Alur. Her primary area of research is Formal Methods and Pr
- ogramming Langauge\, and her secondary area of research is Artificial Inte
- lligence.\n\nShe is the recipient of the 2020 NSF CI Fellowship and has be
- en named a 2021 MIT EECS Rising Star. Her research has appeared at venues 
- in formal methods and programming languages (CAV\, POPL\, TACAS)\, and art
- ificial intelligence and machine learning (AAAI\, NeurIPS). She completed 
- her Ph.D. in 2020\, advised by Prof. Moshe Y. Vardi\, from Rice University
- . She received B.S. with Honors in 2014 from Chennai Mathematical Institut
- e.\n\nTalk flyer\n\n\nhttps://cpsc.yale.edu/event/cs-talk-suguman-bansal
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-suguman-bansal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Matthew Amodio
 DTSTART;VALUE=DATE-TIME:20220308T200000
 DTEND;VALUE=DATE-TIME:20220308T210000
