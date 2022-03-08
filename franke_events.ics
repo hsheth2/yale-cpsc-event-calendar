@@ -19,12 +19,12 @@ DESCRIPTION:Event description:\nThe sciences are replete with high-fidelit
  ausality and agency that incorporates recent advances in machine learning 
  and artificial intelligence.\n\nThe moderated post-talk conversation\nwill
   take place one week later on\nWednesday\, March 16 at 4 p.m.  Dr. Zenna 
- Tavares\, Associate Research Scientist at the Zukerman Institute and Data 
- Science Institute of Columbia University\, will be the conversant.\n\nRegi
- ster in advance for this webinar:\n\n\nhttps://yale.zoom.us/webinar/regist
- er/WN_e1tBGVmTT86M0dD6BXTaxA\n\n\n\nhttps://frankeprogram.yale.edu/event/i
- nference-project-virtual-talk-causality-intersection-simulation-inference-
- science-and
+ Tavares\, Associate Research Scientist at the Zuckerman Institute and Data
+  Science Institute of Columbia University\, will be the conversant.\n\nReg
+ ister in advance for this webinar:\n\n\nhttps://yale.zoom.us/webinar/regis
+ ter/WN_e1tBGVmTT86M0dD6BXTaxA\n\n\n\nhttps://frankeprogram.yale.edu/event/
+ inference-project-virtual-talk-causality-intersection-simulation-inference
+ -science-and
 LOCATION:Zoom Webinar
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/inference-project-virtual-talk-ca
@@ -55,6 +55,35 @@ LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/franke-undergraduate-fellowship-g
  rants-20212022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inference Project Virtual Talk:  Causality at the Intersection of 
+ Simulation\, Inference\, Science\, and Learning
+DTSTART;VALUE=DATE-TIME:20220309T210000
+DTEND;VALUE=DATE-TIME:20220309T220000
+DESCRIPTION:Event description:\nThe sciences are replete with high-fidelit
+ y simulators:  computational manifestations of causal\, mechanistic model
+ s.  Ironically\, while these simulators provide our highest-fidelity phys
+ ical models\, they are not well suited for inferring properties of the mod
+ el from data.  Professor Kyle Cranmer of New York University will describ
+ e the emerging area of simulation-based inference and describe how machine
+  learning is being brought to bear on these challenging problems.  It is 
+ then tempting to imagine the path towards developing an autonomous AI scie
+ ntist also responsible for designing experiments and hypothesis generation
+ .  Interestingly\, this framing brings a new perspective on the role of c
+ ausality and agency that incorporates recent advances in machine learning 
+ and artificial intelligence.\n\nThe moderated post-talk conversation\nwill
+  take place one week later on\nWednesday\, March 16 at 4 p.m.  Dr. Zenna 
+ Tavares\, Associate Research Scientist at the Zuckerman Institute and Data
+  Science Institute of Columbia University\, will be the conversant.\n\nReg
+ ister in advance for this webinar:\n\n\nhttps://yale.zoom.us/webinar/regis
+ ter/WN_e1tBGVmTT86M0dD6BXTaxA\n\n\n\nhttps://frankeprogram.yale.edu/event/
+ inference-project-virtual-talk-causality-intersection-simulation-inference
+ -science-and
+LOCATION:Zoom Webinar
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-virtual-talk-ca
+ usality-intersection-simulation-inference-science-and
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual Talk by Carl Zimmer - Life’s Edge:  The Search for What 
