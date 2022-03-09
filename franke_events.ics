@@ -31,34 +31,6 @@ URL:https://frankeprogram.yale.edu/event/inference-project-virtual-talk-ca
  usality-intersection-simulation-inference-science-and
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Causality at the Intersection of Simulation\, Inference\, Science\
- , and Learning
-DTSTART;VALUE=DATE-TIME:20220309T210000
-DTEND;VALUE=DATE-TIME:20220309T220000
-DESCRIPTION:Event description:\nThe sciences are replete with high-fidelit
- y simulators:  computational manifestations of causal\, mechanistic models
- .  Ironically\, while these simulators provide our highest-fidelity physic
- al models\, they are not well suited for inferring properties of the model
-  from data.  Professor Kyle Cranmer of New York University will describe t
- he emerging area of simulation-based inference and describe how machine le
- arning is being brought to bear on these challenging problems.  It is then
-  tempting to imagine the path towards developing an autonomous AI scientis
- t also responsible for designing experiments and hypothesis generation.  I
- nterestingly\, this framing brings a new perspective on the role of causal
- ity and agency that incorporates recent advances in machine learning and a
- rtificial intelligence.\nThe moderated post-talk conversation will take pl
- ace one week later on Wednesday\, March 16 at 4 p.m.  Dr. Zenna Tavares\, 
- Associate Research Scientist at the Zuckerman Institute and Data Science I
- nstitute of Columbia University\, will be the conversant.\nRegister in adv
- ance for this webinar:\n\nhttps://yale.zoom.us/webinar/register/WN_e1tBGVm
- TT86M0dD6BXTaxA\n\n\nhttps://frankeprogram.yale.edu/event/causality-inters
- ection-simulation-inference-science-and-learning
-LOCATION:53 Wall Street (WALL53)\, Auditorium
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/causality-intersection-simulation
- -inference-science-and-learning
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Franke Undergraduate Fellowship Grants for 2021/2022
 DTSTART;VALUE=DATE-TIME:20220311T224500
 DTEND;VALUE=DATE-TIME:20220311T234500
@@ -143,5 +115,32 @@ LOCATION:Zoom Webinar
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/virtual-talk-carl-zimmer-lifes-ed
  ge-search-what-it-means-be-alive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mapping a Polycentric History of Renaissance Sound\, Virtual Talk
+DTSTART;VALUE=DATE-TIME:20220412T200000
+DTEND;VALUE=DATE-TIME:20220412T210000
+DESCRIPTION:Event description:\nThe act of creating an inclusive and conne
+ ctive network of all musical practices – sung\, played\, written\, and u
+ nwritten ­– quickly reveals flaws in the hierarchies and priorities tha
+ t have largely mapped the geography of Early Modern music history.  But s
+ uch charting can also offer the chance for revision\, that is\, to move ac
+ ross the historically constructed (and still not outdated) boundaries of 
+ “central” and “peripheral” styles\, “greater” and “lesser”
+  composers\, singular and plural modes of performance\, notated and improv
+ ised practices\, and the border between original compositions and their ad
+ aptations.  In this talk\, Professor Victor Coelho of Boston University p
+ roposes a more “polycentric” template for understanding music history 
+ between ca. 1420-1600\, drawing on several case-studies dealing with perfo
+ rmance\, sound\, notation\, and transmission as examples of why a history 
+ formed of many discrete parts with their individual stylistic constellatio
+ ns may be preferable than attempts at constructing a unified musical unive
+ rse.\n\nRegister in advance for this webinar:\n\nhttps://yale.zoom.us/webi
+ nar/register/WN_plWEygx_QMiIqw7tFpSFlA\n\n\nhttps://frankeprogram.yale.edu
+ /event/mapping-polycentric-history-renaissance-sound-virtual-talk
+LOCATION:Zoom Webinar
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/mapping-polycentric-history-renai
+ ssance-sound-virtual-talk
 END:VEVENT
 END:VCALENDAR
