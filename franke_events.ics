@@ -143,4 +143,30 @@ STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/mapping-polycentric-history-renai
  ssance-sound-virtual-talk
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mapping a Polycentric History of Renaissance Sound
+DTSTART;VALUE=DATE-TIME:20220412T200000
+DTEND;VALUE=DATE-TIME:20220412T210000
+DESCRIPTION:Event description:\nThe act of creating an inclusive and conne
+ ctive network of all musical practices – sung\, played\, written\, and u
+ nwritten ­– quickly reveals flaws in the hierarchies and priorities tha
+ t have largely mapped the geography of Early Modern music history.  But su
+ ch charting can also offer the chance for revision\, that is\, to move acr
+ oss the historically constructed (and still not outdated) boundaries of 
+ “central” and “peripheral” styles\, “greater” and “lesser”
+  composers\, singular and plural modes of performance\, notated and improv
+ ised practices\, and the border between original compositions and their ad
+ aptations.  In this talk\, Professor Victor Coelho of Boston University pr
+ oposes a more “polycentric” template for understanding music history b
+ etween ca. 1420-1600\, drawing on several case-studies dealing with perfor
+ mance\, sound\, notation\, and transmission as examples of why a history f
+ ormed of many discrete parts with their individual stylistic constellation
+ s may be preferable than attempts at constructing a unified musical univer
+ se.\n\n\nhttps://frankeprogram.yale.edu/event/mapping-polycentric-history-
+ renaissance-sound
+LOCATION:53 Wall Street (WALL53)\, Auditorium
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/mapping-polycentric-history-renai
+ ssance-sound
+END:VEVENT
 END:VCALENDAR
