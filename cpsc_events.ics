@@ -2,41 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Matthew Mirman
-DTSTART;VALUE=DATE-TIME:20220310T153000
-DTEND;VALUE=DATE-TIME:20220310T163000
-DESCRIPTION:Event description:\nCS Talk\nMatthew Mirman\n\nHost: Abhishek 
- Bhattacharjee\n\nTitle: Trustworthy Deep Learning: methods\, systems and t
- heory\n\nAbstract:\n\nDeep learning models are quickly becoming an integra
- l part of a plethora of high stakes applications\, including autonomous dr
- iving and health care.  As the discovery of vulnerabilities and flaws in 
- these models has become frequent\, so has the interest in ensuring their s
- afety\, robustness and reliability.  My research addresses this need by i
- ntroducing new core methods and systems that can establish desirable mathe
- matical guarantees of deep learning models.\n\nIn the first part of my tal
- k I will describe how we leverage abstract interpretation to scale verific
- ation to orders of magnitude larger deep neural networks than prior work\,
-  at the same time demonstrating the correctness of significantly more prop
- erties.  I will then show how these techniques can be extended to ensure\
- , for the first time\, formal guarantees of probabilistic semantic specifi
- cations using generative models.\n\nIn the second part\, I will show how t
- o fuse abstract interpretation with the training phase so as to improve a 
- model’s amenability to certification\, allowing us to guarantee orders o
- f magnitude more properties than possible with prior work.  Finally\, I w
- ill discuss exciting theoretical advances which address fundamental questi
- ons on the very existence of certified deep learning.\n\nBio:\n\nMatthew M
- irman is a final-year PhD student at ETH Zürich\, supervised by Martin Ve
- chev. His main research interests sit at the intersection of programming l
- anguages\, machine learning\, and theory with applications to creating saf
- e and reliable artificial intelligence systems. Prior to ETH\, he complete
- d his B.Sc. and M.Sc. at Carnegie-Mellon University supervised by Frank Pf
- enning.\n\nTalk flyer\n\n\nhttps://cpsc.yale.edu/event/cs-talk-matthew-mir
- man
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-matthew-mirman
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Sinho Chewi
 DTSTART;VALUE=DATE-TIME:20220311T200000
 DTEND;VALUE=DATE-TIME:20220311T210000
