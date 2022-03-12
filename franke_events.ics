@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Franke Undergraduate Fellowship Grants for 2021/2022
-DTSTART;VALUE=DATE-TIME:20220311T224500
-DTEND;VALUE=DATE-TIME:20220311T234500
-DESCRIPTION:Event description:\nThe Franke Program in Science and the Huma
- nities is pleased to award the Franke Fellowship in Science and the Human
- ities\, which is made possible by the generous support of Mr. and Mrs. Ric
- hard (‘53) and Barbara Franke. Three to five fellowships of $2\,000 will
-  be awarded to rising seniors to support senior essay\, research\, or art 
- project proposals that explore new and productive intellectual connections
-  between science and the humanities. Interdisciplinary research or art pro
- jects should explicitly engage both scientific and humanistic issues or co
- ntent. Awards are intended to support research during the summer between j
- unior and senior year\, or during the following academic year.\n\nAwardees
-  will be asked to participate in dinners with Franke Program faculty and o
- ur benefactors to discuss the proposed projects (in the fall) and to prese
- nt the final results of their work (during the spring semester).\n\nFellow
- ship monies are intended to offset costs related to the proposed research 
- or project. These include travel costs\, accommodation\, and supplies and 
- materials.\n\nApply here:\nhttp://bit.ly/3jfV9sS\n\n\n\nhttps://frankeprog
- ram.yale.edu/event/franke-undergraduate-fellowship-grants-20212022
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/franke-undergraduate-fellowship-g
- rants-20212022
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inference Project Virtual Talk:  Causality at the Intersection of 
  Simulation\, Inference\, Science\, and Learning
 DTSTART;VALUE=DATE-TIME:20220309T210000

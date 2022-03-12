@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Sinho Chewi
-DTSTART;VALUE=DATE-TIME:20220311T200000
-DTEND;VALUE=DATE-TIME:20220311T210000
-DESCRIPTION:Event description:\nCS Talk\nSinho Chewi\n\nHost: Andre Wibiso
- no\n\nTitle: Recovering and generalizing Caffarelli’s contraction theore
- m via covariance inequalities\n\nAbstract:\n\nCaffarelli’s contraction 
- theorem states that the optimal transport map from the standard Gaussian t
- o an α-strongly log-concave measure is α^{-1/2}-Lipschitz. This is a pow
- erful result because the existence of a Lipschitz transport map allows one
-  to transfer a number of functional inequalities (e.g. Poincaré inequalit
- y\, log-Sobolev inequality\, isoperimetric inequalities…) from the sourc
- e measure to the target measure. However\, the current proofs of this theo
- rem (e.g. Caffarelli’s original PDE argument\, or the argument of Fathi\
- , Gozlan\, and Prodhomme via entropic regularization) are somewhat diffic
- ult. Recently\, Lipschitz transport maps were constructed in other ways (v
- ia the Follmer process and via the reverse heat flow)\, but it is still of
-  central importance to understand the optimal transport map.\n\nIn this ta
- lk\, I give a short proof of Caffarelli’s contraction theorem via covar
- iance inequalities. This is joint work with Aram-Alexandre Pooladian from 
- NYU.\n\nBio:\n\nSinho Chewi is a fourth year PhD student in the Department
-  of Mathematics at MIT. He is advised by Philippe Rigollet.\n\nTalk flyer\
- n\n\n\nhttps://cpsc.yale.edu/event/cs-talk-sinho-chewi
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-sinho-chewi
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Dr. Tesca Fitzgerald
 DTSTART;VALUE=DATE-TIME:20220314T200000
 DTEND;VALUE=DATE-TIME:20220314T210000
