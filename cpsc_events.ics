@@ -2,48 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Alane Suhr
-DTSTART;VALUE=DATE-TIME:20220317T143000
-DTEND;VALUE=DATE-TIME:20220317T153000
-DESCRIPTION:Event description:\nCS Talk\nAlane Suhr\n\nHost: Holly Rushmei
- er\n\nTitle: Reasoning and Learning in Interactive Natural Language System
- s\n\nAbstract\n\nSystems that support expressive\, situated natural langua
- ge interactions are essential for expanding access to complex computing sy
- stems\, such as robots and databases\, to non-experts. Reasoning and learn
- ing in such natural language interactions is a challenging open problem. F
- or example\, resolving sentence meaning requires reasoning not only about 
- word meaning\, but also about the interaction context\, including the hist
- ory of the interaction and the situated environment. In addition\, the seq
- uential dynamics that arise between user and system in and across interact
- ions make learning from static data\, i.e.\, supervised data\, both challe
- nging and ineffective. However\, these same interaction dynamics result in
-  ample opportunities for learning from implicit and explicit feedback that
-  arises naturally in the interaction. This lays the foundation for systems
-  that continually learn\, improve\, and adapt their language use through i
- nteraction\, without additional annotation effort. In this talk\, I will f
- ocus on these challenges and opportunities. First\, I will describe our wo
- rk on modeling dependencies between language meaning and interaction conte
- xt when mapping natural language in interaction to executable code. In the
-  second part of the talk\, I will describe our work on language understand
- ing and generation in collaborative environments\, focusing on continual l
- earning from explicit and implicit user feedback.\n\nBio\n\nAlane Suhr is 
- a PhD Candidate in the Department of Computer Science at Cornell Universit
- y\,  advised by Yoav Artzi. Her research spans natural language processin
- g\, machine learning\, and computer vision\, with a focus on building syst
- ems that participate and continually learn in situated natural language in
- teractions with human users. Alane’s work has been recognized by paper a
- wards at ACL and NAACL\, and has been supported by fellowships and grants\
- , including an NSF Graduate Research Fellowship\, a Facebook PhD Fellowshi
- p\, and research awards from AI2\, ParlAI\, and AWS. Alane has also co-org
- anized multiple workshops and tutorials appearing at NeurIPS\, EMNLP\, NAA
- CL\, and ACL. Previously\, Alane received a BS in Computer Science and Eng
- ineering as an Eminence Fellow at the Ohio State University.\n\nTalk flyer
- \n\n\nhttps://cpsc.yale.edu/event/cs-talk-alane-suhr
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-alane-suhr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Alex Wong
 DTSTART;VALUE=DATE-TIME:20220328T200000
 DTEND;VALUE=DATE-TIME:20220328T210000
