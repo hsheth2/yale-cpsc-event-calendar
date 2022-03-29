@@ -2,48 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Alex Wong
-DTSTART;VALUE=DATE-TIME:20220328T200000
-DTEND;VALUE=DATE-TIME:20220328T210000
-DESCRIPTION:Event description:\nCS Talk\nAlex Wong\n\nHost: Steve Zucker\n
- \nTitle: Towards Depth Perception for Embodied Cognition\n\nAbstract:\n\nE
- mbodied cognition entails the ability to adapt one’s understanding of th
- e physical world through interactions with the surrounding space. Amongst 
- the many aspects of intelligence encompassed by embodied cognition\, we fo
- cus on depth perception to support agents performing spatial tasks. While 
- deep learning has seen a number of empirical successes\, many of the exist
- ing works are not suitable for realizing embodied cognition due to (i) the
- ir computational requirements i.e. model sizes up to trillions of paramete
- rs\, (ii) their need for expensive human annotations as supervision\, and 
- (iii) their sensitivity to small perturbations in their inputs. To address
-  these areas\, we begin by proposing a method that enables an agent to lea
- rn to infer the structure of the 3-dimensional scene from multi-sensory ob
- servations – online\, causally\, and without human supervision. By lever
- aging priors about our physical world during the learning process or as an
-  inductive bias\, we show that it is not only possible to reduce the model
-  size\, but also gain performance to yield real-time depth perception syst
- ems with state-of-the-art accuracies. These priors can also improve the ro
- bustness of such systems against common perturbations of their inputs as w
- ell as adversarial perturbations that are designed to disrupt their normal
-  operations. The culmination of our work is being realized in an interdepa
- rtmental collaboration at UCLA to build the first fully autonomous catarac
- t surgery robot. We plan to take another step towards embodied cognition b
- y building on top of my progress in depth perception to enable an agent to
-  learn the semantics of objects populating the scene without human interve
- ntion.\n\nBio:\n\nAlex Wong is a postdoctoral scholar at the University of
-  California\, Los Angeles (UCLA) under the guidance of Stefano Soatto. He 
- received his Ph.D. from UCLA\, and was co-advised by Stefano Soatto and Al
- an Yuille. His research lies in the intersection of machine learning\, com
- puter vision\, and robotics. His work has received the outstanding student
-  paper award at the Conference on Neural Information Processing Systems (N
- eurIPS) 2011 and the best paper award in robot vision at the International
-  Conference on Robotics and Automation (ICRA) 2019.\n\nTalk flyer\n\n\nhtt
- ps://cpsc.yale.edu/event/cs-talk-alex-wong
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-alex-wong
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Hao Peng
 DTSTART;VALUE=DATE-TIME:20220329T200000
 DTEND;VALUE=DATE-TIME:20220329T210000
