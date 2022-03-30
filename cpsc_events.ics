@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Hao Peng
-DTSTART;VALUE=DATE-TIME:20220329T200000
-DTEND;VALUE=DATE-TIME:20220329T210000
-DESCRIPTION:Event description:\nCS Talk\nHao Peng\n\nHost: Dragomir Radev\
- n\nTitle: Towards Efficient and Generalizable Natural Language Processing\
- n\nAbstract:\n\nLarge-scale deep learning models have become the foundatio
- n of today’s natural language processing (NLP). Despite their recent\, t
- remendous success\, they struggle with generalization in real-world settin
- gs\, like their predecessors. Besides\, their sheer scale brings new chall
- enges—the increasing computational cost heightens the barriers to entry 
- to NLP research.\n\nThe first part of the talk will discuss innovations in
-  neural architectures that can help address the efficiency concerns of tod
- ay’s NLP. I will present algorithms that reduce state-of-the-art NLP mod
- els’ overhead from quadratic to linear in input lengths without hurting 
- accuracy. Second\, I will turn to inductive biases grounded in the inheren
- t structure of natural language sentences\, which can help machine learnin
- g models generalize. I will discuss the integration of discrete\, symbolic
-  structure prediction into modern deep learning.\n\nI will conclude with f
- uture directions towards making cutting-edge NLP more efficient\, and impr
- oving NLP’s generalization to serve today’s language technology applic
- ations and those to come in the future.\n\nBio:\n\nHao Peng is a final yea
- r PhD student in Computer Science & Engineering at the University of Washi
- ngton\, advised by Noah A. Smith. His research focuses on building efficie
- nt\, generalizable\, and interpretable machine learning models for natural
-  language processing. His research has been presented at top-tier natural 
- language processing and machine learning venues\, and recognized with a Go
- ogle PhD fellowship and an honorable mention for the best paper at ACL 201
- 8.\n\nTalk flyer\n\n\nhttps://cpsc.yale.edu/event/cs-talk-hao-peng
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-hao-peng
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Richard L. Sites
 DTSTART;VALUE=DATE-TIME:20220405T200000
 DTEND;VALUE=DATE-TIME:20220405T210000
