@@ -1,4 +1,48 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
+BEGIN:VEVENT
+SUMMARY:YINS Seminar: Meet the IID Lab
+DTSTART;VALUE=DATE-TIME:20220406T160000
+DTEND;VALUE=DATE-TIME:20220406T170000
+DESCRIPTION:Event description:\nYINS Seminar: Meet the Inference\, Informa
+ tion and Decision Lab\n\nPI: Amin Karbasi\n\nSpeakers: Jane Lee\, Grigori
+ s Velegkas\, Insu Han\, Javid Dadashkarimi\n\nJoin from PC\, Mac\, Linux\,
+  iOS or Android:\nhttps://yale.zoom.us/j/96636785808\nOr Telephone：203-4
+ 32-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 966 3678 5808\n
+ International numbers available:\nhttps://yale.zoom.us/u/acQvsP7Hvr\n\nJan
+ e Lee: “Exact Gradient Computation for Spiking Neural Networks through F
+ orward Propagation”\n\nAbstract: Due to potential reset operations in sp
+ iking neural networks (SNN)\, most prior literature believes gradients can
+ not be computed for training such networks. Prior works have developed met
+ hods like surrogate gradients\, ANN-SNN conversion\, heuristic rules\, etc
+ . to train SNN. By investigating the dynamics of SNN in continuous time\, 
+ invoking the implicit function theorem\, and exploiting the causal structu
+ re of such a network\, we are able to show that we can compute exact gradi
+ ents and suggest a novel algorithm called forward propagation for computin
+ g them.\n\nBio: Jane is a first year student in the Computer Science depar
+ tment. Prior\, she studied mathematics and computer science at University 
+ of Pennsylvania. Her general research interests are in machine learning th
+ eory.\n\nAdditional speakers:\n\nGrigoris Velegkas\n\nInsu Han\n\nJavid Da
+ dashkarimi\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-meet-iid-lab
+LOCATION:Yale Institute for Network Science
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-meet-iid-lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS Seminar: Pramod Viswanath
+DTSTART;VALUE=DATE-TIME:20220413T160000
+DTEND;VALUE=DATE-TIME:20220413T170000
+DESCRIPTION:Event description:\nYINS Seminar: Pramod Viswanath\nGilmore Fa
+ mily Endowed Professor\nUniversity of Illinois at Urbana\n\nTitle TBD\n\nB
+ io:\nhttp://pramodv.ece.illinois.edu\n\nJoin from PC\, Mac\, Linux\, iOS o
+ r Android:\nhttps://yale.zoom.us/j/91235200578\n\nOr Telephone：203-432-9
+ 666 (2-ZOOM if on-campus) or 646 568 7788\n\nMeeting ID: 912 3520 0578\n\n
+ International numbers available:\nhttps://yale.zoom.us/u/aQt3cx9L7\n\n\n\n
+ \n\n\n\n\n\n\n\n\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-pramod
+ -viswanath
+LOCATION:Yale Institute For Network Science
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-pramod-viswanath
+END:VEVENT
 END:VCALENDAR
