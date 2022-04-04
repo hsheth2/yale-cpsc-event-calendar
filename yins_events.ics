@@ -7,24 +7,43 @@ DTSTART;VALUE=DATE-TIME:20220406T160000
 DTEND;VALUE=DATE-TIME:20220406T170000
 DESCRIPTION:Event description:\nYINS Seminar: Meet the Inference\, Informa
  tion and Decision Lab\n\nPI: Amin Karbasi\n\nSpeakers: Jane Lee\, Grigori
- s Velegkas\, Insu Han\, Javid Dadashkarimi\n\nJoin from PC\, Mac\, Linux\,
-  iOS or Android:\nhttps://yale.zoom.us/j/96636785808\nOr Telephone：203-4
- 32-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting ID: 966 3678 5808\n
- International numbers available:\nhttps://yale.zoom.us/u/acQvsP7Hvr\n\nJan
- e Lee: “Exact Gradient Computation for Spiking Neural Networks through F
- orward Propagation”\n\nAbstract: Due to potential reset operations in sp
- iking neural networks (SNN)\, most prior literature believes gradients can
- not be computed for training such networks. Prior works have developed met
- hods like surrogate gradients\, ANN-SNN conversion\, heuristic rules\, etc
- . to train SNN. By investigating the dynamics of SNN in continuous time\, 
- invoking the implicit function theorem\, and exploiting the causal structu
- re of such a network\, we are able to show that we can compute exact gradi
- ents and suggest a novel algorithm called forward propagation for computin
- g them.\n\nBio: Jane is a first year student in the Computer Science depar
- tment. Prior\, she studied mathematics and computer science at University 
- of Pennsylvania. Her general research interests are in machine learning th
- eory.\n\nAdditional speakers:\n\nGrigoris Velegkas\n\nInsu Han\n\nJavid Da
- dashkarimi\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-meet-iid-lab
+ s Velegkas\, Insu Han\, Javid Dadashkarimi\n\nJane Lee:\n“Exact Gradient
+  Computation for Spiking Neural Networks through Forward Propagation”\n\
+ nAbstract:\nDue to potential reset operations in spiking neural networks (
+ SNN)\, most prior literature believes gradients cannot be computed for tra
+ ining such networks. Prior works have developed methods like surrogate gra
+ dients\, ANN-SNN conversion\, heuristic rules\, etc. to train SNN. By inve
+ stigating the dynamics of SNN in continuous time\, invoking the implicit f
+ unction theorem\, and exploiting the causal structure of such a network\, 
+ we are able to show that we can compute exact gradients and suggest a nove
+ l algorithm called forward propagation for computing them.\n\nBio:\nJane L
+ ee is a first year student in the Computer Science department. Prior\, she
+  studied mathematics and computer science at University of Pennsylvania. H
+ er general research interests are in machine learning theory.\n\nInsu Han:
+ \n“Scalable Sampling for Nonsymmetric Determinantal Point Processes”\n
+ \nAbstract:\nA determinantal point process (DPP) is a probabilistic model 
+ that assigns a probability to every subset of those items. It is conventio
+ nally parameterized by a symmetric matrix but recent work shows that remov
+ ing the symmetry constraint can lead to significant predictive performance
+  gains for machine learning applications. We first propose a linear-time s
+ ampling algorithm for kernels with low-rank structures.  Furthermore\, we
+  develop a scalable sublinear-time rejection sampling algorithm by constru
+ cting a novel proposal distribution.  Additionally\, we show that imposin
+ g certain structural constraints on the NDPP kernel enables us to bound th
+ e rejection rate in a way that depends only on the kernel rank.\n\nBio:\nI
+ nsu Han is a postdoc in the Department of Electrical Engineering at Yale U
+ niversity\, working with Prof. Amin Karbasi. Previously\, he obtained my P
+ h.D. degree in the School of Electrical Engineering at Korea Advanced Inst
+ itute of Science and Technology (KAIST)\, advised by Jinwoo Shin. His rese
+ arch interests focus on approximate algorithm design and analysis for larg
+ e-scale machine learning and its applications.\n\nAdditional speakers:\n\n
+ Grigoris Velegkas\n\nJavid Dadashkarimi\n\nThis will be an in-person semin
+ ar\, but zoom access for the Yale community is available here:\n\nJoin fro
+ m PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.zoom.us/j/96636785808\n
+ Or Telephone：203-432-9666 (2-ZOOM if on-campus) or 646 568 7788\nMeeting
+  ID: 966 3678 5808\nInternational numbers available:\nhttps://yale.zoom.us
+ /u/acQvsP7Hvr\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-meet-iid-
+ lab
 LOCATION:Yale Institute for Network Science
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-meet-iid-lab
