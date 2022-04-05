@@ -64,4 +64,102 @@ LOCATION:Yale Institute For Network Science
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-pramod-viswanath
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissertation Defense: Jacob Derechin
+DTSTART;VALUE=DATE-TIME:20220406T183000
+DTEND;VALUE=DATE-TIME:20220406T193000
+DESCRIPTION:Event description:\nDissertation Defense!\n\nJacob Derechin\,\
+ n“Essays in Social Coordination”\n\nIn-person attendance is welcome\, 
+ but attendees are requested to wear masks.\n\nVia Zoom:\nhttps://yale.zoom
+ .us/j/94759113033\n\nAbstract: Social Coordination is an essential feature
+  of any social system. Coordination is a precondition for certain kinds of
+  cooperation\, as cooperation implies agents working together for a common
+  cause\, while coordination only implies agents synchronizing their behavi
+ or. For example\, social contagion suggests a mechanism for groups to soci
+ ally coordinate without necessarily cooperating. When behaviors spread acr
+ oss social ties the people may not be actively intending to spread the beh
+ avior\, so they are not always cooperating The necessity of coordination d
+ oes not imply that it is easy to achieve. In Chapter 1\, I survey two theo
+ retical frameworks for operationalizing the challenges to coordination: Th
+ e Prisoner’s Dilemma Game and The Generals Problem. In the Prisoner’s 
+ Dilemma game\, the agents will both be better off if they cooperate but ha
+ ve strong incentives to betray each other. In this classic case coordinati
+ on is expected but it is not Pareto-optimal\, highlighting the differences
+  between agents simply coordinating (both playing the same strategy) and c
+ ooperation for each other’s benefit. Here\, the impediment to cooperatio
+ n is that of misaligned incentives. The General’s Problem presents a dif
+ ferent barrier to coordination: unreliable communication channels. The Gen
+ erals all have aligned incentives to coordinate and work together\, but du
+ e to the chance that messages may fail to be transmitted\, they are unable
+  to effectively do so. The Byzantine Generals Problem in effect combines t
+ he challenges of coordinating with both misaligned incentives and faulty c
+ ommunication. In this setting\, some of the agents are trying to prevent t
+ he rest of the group from reach consensus.\n\nChapter 2 is a global consen
+ sus experiment in a “Byzantine” setting. The players have 10 rounds of
+  communication to reach consensus among a set of arbitrary identifiers. Th
+ e players are able to send full text messages to each other. This setting 
+ is Byzantine because some of the players disconnect from the game either t
+ hrough technical problems on their end or through failing to send their me
+ ssages in enough time. Additionally\, we found that a subset of the player
+ s did not perfectly understand the instructions of the game and made error
+ s\, thus demonstrating that players can engage in Byzantine behavior. The 
+ players were arranged into a Watts-Strogatz network and one of the interve
+ ntions was altering the fraction of odd vertices in these graphs. The othe
+ r intervention was to alter the instructions so as to change the story the
+  players were told about why they were trying to reach consensus. We found
+  that groups were more likely to reach consensus in groups with a lower fr
+ action of odd vertices\, but did not find the changing story about why pla
+ yers were coordinating had much impact. We found that the human consensus 
+ does exhibit some byzantine fault tolerance. For example the effect of pla
+ yers dropping out of the game\, a classic type of byzantine fault\, had a 
+ negligible effect on the outcome. However\, we also found that the fractio
+ n of players with misunderstandings or errors negatively impacted the cons
+ ensus process. The players did demonstrate the ability to correct misunder
+ standings in others\, but sometimes misunderstandings were contagious. Not
+ ably the effect of misunderstandings is comparable to effect of the fracti
+ on of players trying to vote for the first identifier in alphabetical orde
+ r. This suggests that in this setting using a bad protocol is comparable i
+ n effect to a byzantine fault.\n\nChapter 3 is a methodological exploratio
+ n of creating preference-indifferent identifiers. Throughout the testing o
+ f identifiers to use in the consensus experiment in Chapter 1\, we found t
+ hat the players expressed preferences over random strings of letters and n
+ umbers. To remedy this\, we generated nonsense words with an alternating v
+ owel and consonant pattern to make them easily pronounceable to English sp
+ eakers. We developed a software platform for users to evaluate these nonce
+  words as forced-choice paired comparisons. We then used the Elo algorithm
+  to generate scores for each of these words. We also developed techniques 
+ to find unobserved heterogeneity in ratings for this setting. We found tha
+ t human raters do indeed have significant preferences even over these nons
+ ense words\, implying that even if the identifiers are randomly generated\
+ , they are not necessarily preference-equivalent. We also compared the pre
+ ferences we observed with the predictions of Phonological Cure Theory and 
+ found that our results were not entirely consistent. While this was not in
+ itially devised as a Phonology experiment\, the platform we develop may ha
+ ve benefits for conducting Phonology experiments.\n\nChapter 4 is an agent
+ -based model assessing the impact of capacity constraints in a threshold c
+ ontagion model. Many sorts of contagious phenomenon\, such as music\, do n
+ ot exist in isolation but as part of a competitive marketplace. In these s
+ ettings there are often superstars with out-sized popularity along with a 
+ large number of flops with little popularity. I suggest that capacity cons
+ traints may be a structural factor that influences these disparities. In t
+ his model\, there are multiple potentially cascading states that the agent
+  can potentially occupy. The agents have a certain capacity of states that
+  they can occupy at once. For example\, suppose someone has a workout play
+ list that lasts 1 hour. As they discover new music to add to the playlist\
+ , they have to remove songs currently in the playlist to keep the playlist
+  1 hour. Thus\, in this setting\, the states indirectly trade off with eac
+ h other by virtue of the capacity constraint. Increasing the number of sta
+ tes in excess of capacity increased the unpredictability of which states b
+ ecome popular as well as increased the disparities between popular and unp
+ opular states. This suggests that capacity constraints may play a role in 
+ explaining market concentration and superstar phenomenon.\n\nBio:\nJacob D
+ erechin is a PhD student in Sociology. He earned a Bachelor of Science in 
+ Physics and Economics from Rensselaer Polytechnic Institute and Master of 
+ Arts in Economics from Yale. His research interests include Information Fl
+ ow on Graphs\, Games on Graphs\, Evolutionary Game Theory and Methods.\n\n
+ .\n\n\nhttps://yins.yale.edu/event/dissertation-defense-jacob-derechin
+LOCATION:Human Nature Lab at YINS
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/dissertation-defense-jacob-derechin
+END:VEVENT
 END:VCALENDAR
