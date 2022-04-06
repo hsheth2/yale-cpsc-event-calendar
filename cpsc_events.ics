@@ -1,34 +1,4 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
-BEGIN:VEVENT
-SUMMARY:CS Colloquium - Richard L. Sites
-DTSTART;VALUE=DATE-TIME:20220405T200000
-DTEND;VALUE=DATE-TIME:20220405T210000
-DESCRIPTION:Event description:\nCS Colloquium\nRichard L. Sites\n\nHost: M
- ichael Fischer\n\nTitle: Making the Invisible Visible\nObserving Complex S
- oftware Dynamics\n\nAbstract\n\nFrom mobile and cloud apps to video games 
- to driverless vehicle control\, more and more software is time-constrained
- : it must deliver reliable results seamlessly\, consistently\, and virtual
- ly instantaneously. If it doesn’t\, customers are unhappy–and sometime
- s lives are put at risk. When complex software underperforms or fails\, id
- entifying the root causes is difficult and\, historically\, few tools have
-  been available to help\, leaving application developers to guess what mig
- ht be happening. How can we do better?\n\nThe key is to have low-overhead 
- observation tools that can show exactly where all the  elapsed time goes 
- in both normal responses and in delayed responses. Doing so makes visible 
- each of the seven possible reasons for such delays\, as we show.\n\nBio\n\
- nRichard L. Sites wrote his first computer program in 1959 and has spent m
- ost of his career at the boundary between hardware and software\, with a p
- articular interest in CPU/software performance interactions. His past work
-  includes VAX microcode\, DEC Alpha co-architect\, and inventing the perfo
- rmance counters found in nearly all processors today. He has done low-over
- head microcode and software tracing at DEC\, Adobe\, Google\, and Tesla. D
- r. Sites earned his PhD at Stanford in 1974\; he holds 66 patents and is a
-  member of the US National Academy of Engineering.\n\n\nhttps://cpsc.yale.
- edu/event/cs-colloquium-richard-l-sites
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-richard-l-sites
-END:VEVENT
 END:VCALENDAR
