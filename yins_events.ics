@@ -6,15 +6,72 @@ SUMMARY:YINS Seminar: Pramod Viswanath
 DTSTART;VALUE=DATE-TIME:20220413T160000
 DTEND;VALUE=DATE-TIME:20220413T170000
 DESCRIPTION:Event description:\nYINS Seminar: Pramod Viswanath\nGilmore Fa
- mily Endowed Professor\nUniversity of Illinois at Urbana\n\nTitle TBD\n\nB
- io:\nhttp://pramodv.ece.illinois.edu\n\nJoin from PC\, Mac\, Linux\, iOS o
- r Android:\nhttps://yale.zoom.us/j/91235200578\n\nOr Telephone：203-432-9
- 666 (2-ZOOM if on-campus) or 646 568 7788\n\nMeeting ID: 912 3520 0578\n\n
- International numbers available:\nhttps://yale.zoom.us/u/aQt3cx9L7\n\n\n\n
- \n\n\n\n\n\n\n\n\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-pramod
- -viswanath
+ mily Endowed Professor\nUniversity of Illinois at Urbana-Champaign\n\n“K
+ O Codes”\n\nAbstract:\nLandmark codes underpin reliable physical layer c
+ ommunication\, e.g.\, Reed-Muller\, BCH\, Convolution\, Turbo\, LDPC and P
+ olar codes: each is a linear code and represents a mathematical breakthrou
+ gh. The impact on humanity is huge: each of these codes has been used in g
+ lobal wireless communication standards (satellite\, WiFi\, cellular). Reli
+ ability of communication over the classical additive white Gaussian noise 
+ (AWGN) channel enables benchmarking and ranking of the different codes. In
+  this talk\, we construct KO codes\, a computationally efficient family of
+  deep-learning driven (encoder\, decoder) pairs that outperform the state-
+ of-the-art reliability performance on the standardized AWGN channel. KO co
+ des beat state-of-the-art Reed-Muller and Polar codes\, under the low-comp
+ lexity successive cancellation decoding\, in the challenging short-to-medi
+ um block length regime on the AWGN channel. We show that the gains of KO c
+ odes are primarily due to the nonlinear mapping of information bits direct
+ ly to transmit symbols (bypassing modulation) and yet possess an efficient
+ \, high performance decoder. The key technical innovation that renders thi
+ s possible is the design of a novel family of neural architectures inspire
+ d by the computation tree of the Kronecker Operation (KO) central to Reed-
+ Muller and Polar codes. These architectures pave the way for the discovery
+  of a much richer class of hitherto unexplored nonlinear algebraic structu
+ res. The code is available at\nhttps://github.com/deepcomm/KOcodes\n\nThis
+  is joint work with A. Makkuva\, X. Liu\, V. Jamali\, S. Mahdavifar and S.
+  Oh.\n\nSpeaker bio:\nPramod Viswanath received the Ph.D. degree in electr
+ ical engineering and computer science from University of California at Ber
+ keley in 2000. From 2000 to 2001\, he was a member of research staff at Fl
+ arion technologies\, NJ. From 2001-2022\, he was on the faculty at the Uni
+ versity of Illinois at Urbana Champaign in Electrical and Computer Enginee
+ ring. He is joining Princeton in summer of 2022.  His current research in
+ terests are in blockchains. He is co-founder and CEO of Kaleidoscope Block
+ chain Inc\, a crypto startup company.\nhttp://pramodv.ece.illinois.edu\n\n
+ \nOur speaker will be attending remotely\, but we’ll be watching in-pers
+ on at YINS.\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.
+ zoom.us/j/91235200578\n\n\n\n\n\n\n\n\n\n\n\n\n\n.\n\n\nhttps://yins.yale.
+ edu/event/yins-seminar-pramod-viswanath
 LOCATION:Yale Institute For Network Science
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-pramod-viswanath
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YINS Guest Speaker: Navid Ardeshir (Columbia)
+DTSTART;VALUE=DATE-TIME:20220427T160000
+DTEND;VALUE=DATE-TIME:20220427T170000
+DESCRIPTION:Event description:\n“A geometrical phenomenon: support vecto
+ r machines and linear regression coincides with very high-dimensional feat
+ ures”\n\nSpeaker: Navid Ardeshir\n\nAbstract:\nThe support vector machin
+ e (SVM) and minimum Euclidean norm least squares regression are two fundam
+ entally different approaches to fitting linear models\, but they have rece
+ ntly been connected in models for very high-dimensional data (d > n log(n)
+ ) through a phenomenon of support vector proliferation\, where every train
+ ing example used to fit an SVM becomes a support vector. In this talk I wi
+ ll start by connecting these classifiers to the implicit bias of optimizat
+ ion procedures trained using certain loss functions\, present a geometrica
+ l interpretation of this phenomenon (SVM=OLS)\, and explore the generality
+  of it. Furthermore\, I will state some implications of this coincidence o
+ n the generalization bounds for maximum margin estimators in certain high 
+ dimensional regimes which could not be captured by the existing margin bou
+ nds in the literature.  Based on joint works with Clayton Sanford and Dan
+ iel Hsu.\n\nSpeaker bio:\nNavid Ardeshir is a third year PhD student in st
+ atistics at Columbia University under the supervision of Daniel Hsu and Ar
+ ian Maleki. Prior to Columbia\, he completed his bachelor’s in Electrica
+ l Engineering at Sharif University in 2019.\n\nWebsite:\nhttps://mathblasp
+ hemy.netlify.app\n\n.\n\n\nhttps://yins.yale.edu/event/yins-guest-speaker-
+ navid-ardeshir-columbia
+LOCATION:Yale Institute for Network Science
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-guest-speaker-navid-ardeshir-columbia
 END:VEVENT
 END:VCALENDAR
