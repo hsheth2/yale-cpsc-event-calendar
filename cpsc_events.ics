@@ -1,4 +1,26 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
+BEGIN:VEVENT
+SUMMARY:CS Talk - Aram-Alexandre Pooladian
+DTSTART;VALUE=DATE-TIME:20220422T190000
+DTEND;VALUE=DATE-TIME:20220422T200000
+DESCRIPTION:Event description:\nCS Talk\nAram-Alexandre Pooladian\n\nHost:
+  Andre Wibisono\n\nTitle: Entropic estimation of optimal transport maps\n
+ \nAbstract:\n\nWe develop a computationally tractable method for estimatin
+ g the optimal mapbetween two distributions over R^d with rigorous finite
+ -sample guarantees. Leveraging an entropic version of Brenier’s theorem
+ \, we show that our estimator is easy to compute using Sinkhorn’s algor
+ ithm. As a result\, unlike current approaches for map estimation\, which 
+ are slow to evaluate when the dimension or number of samples is large\, o
+ ur approach is parallelizable and extremely efficient even for massive da
+ ta sets. Under smoothness assumptions on the optimal map\, we show that o
+ ur estimator enjoys comparable statistical performance to other estimator
+ s in the literature\, but with much lower computational cost. This is join
+ t work with Jonathan Niles-Weed.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-
+ aram-alexandre-pooladian
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-aram-alexandre-pooladian
+END:VEVENT
 END:VCALENDAR
