@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Mapping a Polycentric History of Renaissance Sound\, Virtual Talk
-DTSTART;VALUE=DATE-TIME:20220412T200000
-DTEND;VALUE=DATE-TIME:20220412T210000
-DESCRIPTION:Event description:\nThe act of creating an inclusive and conne
- ctive network of all musical practices – sung\, played\, written\, and u
- nwritten ­– quickly reveals flaws in the hierarchies and priorities tha
- t have largely mapped the geography of Early Modern music history.  But s
- uch charting can also offer the chance for revision\, that is\, to move ac
- ross the historically constructed (and still not outdated) boundaries of 
- “central” and “peripheral” styles\, “greater” and “lesser”
-  composers\, singular and plural modes of performance\, notated and improv
- ised practices\, and the border between original compositions and their ad
- aptations.  In this talk\, Professor Victor Coelho of Boston University p
- roposes a more “polycentric” template for understanding music history 
- between ca. 1420-1600\, drawing on several case-studies dealing with perfo
- rmance\, sound\, notation\, and transmission as examples of why a history 
- formed of many discrete parts with their individual stylistic constellatio
- ns may be preferable than attempts at constructing a unified musical unive
- rse.\n\nRegister in advance for this webinar:\n\nhttps://yale.zoom.us/webi
- nar/register/WN_plWEygx_QMiIqw7tFpSFlA\n\n\nhttps://frankeprogram.yale.edu
- /event/mapping-polycentric-history-renaissance-sound-virtual-talk
-LOCATION:Zoom Webinar
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/mapping-polycentric-history-renai
- ssance-sound-virtual-talk
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Collective Pulse: Uncovering the Hidden Lives of Animals through M
  usic Theory and Artificial Intelligence
 DTSTART;VALUE=DATE-TIME:20220420T200000
