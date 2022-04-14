@@ -2,50 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Pramod Viswanath
-DTSTART;VALUE=DATE-TIME:20220413T160000
-DTEND;VALUE=DATE-TIME:20220413T170000
-DESCRIPTION:Event description:\nYINS Seminar: Pramod Viswanath\nGilmore Fa
- mily Endowed Professor\nUniversity of Illinois at Urbana-Champaign\n\n“K
- O Codes”\n\nAbstract:\nLandmark codes underpin reliable physical layer c
- ommunication\, e.g.\, Reed-Muller\, BCH\, Convolution\, Turbo\, LDPC and P
- olar codes: each is a linear code and represents a mathematical breakthrou
- gh. The impact on humanity is huge: each of these codes has been used in g
- lobal wireless communication standards (satellite\, WiFi\, cellular). Reli
- ability of communication over the classical additive white Gaussian noise 
- (AWGN) channel enables benchmarking and ranking of the different codes. In
-  this talk\, we construct KO codes\, a computationally efficient family of
-  deep-learning driven (encoder\, decoder) pairs that outperform the state-
- of-the-art reliability performance on the standardized AWGN channel. KO co
- des beat state-of-the-art Reed-Muller and Polar codes\, under the low-comp
- lexity successive cancellation decoding\, in the challenging short-to-medi
- um block length regime on the AWGN channel. We show that the gains of KO c
- odes are primarily due to the nonlinear mapping of information bits direct
- ly to transmit symbols (bypassing modulation) and yet possess an efficient
- \, high performance decoder. The key technical innovation that renders thi
- s possible is the design of a novel family of neural architectures inspire
- d by the computation tree of the Kronecker Operation (KO) central to Reed-
- Muller and Polar codes. These architectures pave the way for the discovery
-  of a much richer class of hitherto unexplored nonlinear algebraic structu
- res. The code is available at\nhttps://github.com/deepcomm/KOcodes\n\nThis
-  is joint work with A. Makkuva\, X. Liu\, V. Jamali\, S. Mahdavifar and S.
-  Oh.\n\nSpeaker bio:\nPramod Viswanath received the Ph.D. degree in electr
- ical engineering and computer science from University of California at Ber
- keley in 2000. From 2000 to 2001\, he was a member of research staff at Fl
- arion technologies\, NJ. From 2001-2022\, he was on the faculty at the Uni
- versity of Illinois at Urbana Champaign in Electrical and Computer Enginee
- ring. He is joining Princeton in summer of 2022.  His current research in
- terests are in blockchains. He is co-founder and CEO of Kaleidoscope Block
- chain Inc\, a crypto startup company.\nhttp://pramodv.ece.illinois.edu\n\n
- \nOur speaker will be attending remotely\, but we’ll be watching in-pers
- on at YINS.\n\nJoin from PC\, Mac\, Linux\, iOS or Android:\nhttps://yale.
- zoom.us/j/91235200578\n\n\n\n\n\n\n\n\n\n\n\n\n\n.\n\n\nhttps://yins.yale.
- edu/event/yins-seminar-pramod-viswanath
-LOCATION:Yale Institute For Network Science
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-pramod-viswanath
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:YINS Guest Speaker: Navid Ardeshir (Columbia)
 DTSTART;VALUE=DATE-TIME:20220427T160000
 DTEND;VALUE=DATE-TIME:20220427T170000
