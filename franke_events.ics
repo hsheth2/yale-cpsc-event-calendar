@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Collective Pulse: Uncovering the Hidden Lives of Animals through M
- usic Theory and Artificial Intelligence
-DTSTART;VALUE=DATE-TIME:20220420T200000
-DTEND;VALUE=DATE-TIME:20220420T210000
-DESCRIPTION:Event description:\nWe are delighted to present a talk by Dieg
- o Ellis-Soto\, a current Franke Fellow now in his second year with our pro
- gram.\n\nThe movement of large groups of animals – such as flocks of bir
- ds or schooling of fish – often appears harmonic and soothing to the eye
- \, almost as if animal collectives were dancing to some musical rules not 
- visible to the human eye.  Yet at the same time\, the sound of the natura
- l world is increasingly shaped by the timber of the drums of human activit
- ies and habitat destruction across the world.  In this talk\, Ellis-Soto 
- combines new cutting edge technology\, with biological principles and musi
- cal theory to take a dive into representing the lives of animal collective
- s through art and music.  From music on a farm\, art exhibitions\, up to 
- involving of local youth\, we invite you to take the plunge into the sound
- s of animals collectives and ecosystems.\n\nRegister in advance for this w
- ebinar:\n\nhttps://yale.zoom.us/webinar/register/WN_xefUuLGWQfms9Kgc1m8d5g
- \n\n\nhttps://frankeprogram.yale.edu/event/collective-pulse-uncovering-hid
- den-lives-animals-through-music-theory-and-artificial
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/collective-pulse-uncovering-hidde
- n-lives-animals-through-music-theory-and-artificial
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Social and Structural Contours of Marginalization in the Context o
  f COVID-19
 DTSTART;VALUE=DATE-TIME:20220427T200000
