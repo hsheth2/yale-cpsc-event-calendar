@@ -23,4 +23,40 @@ LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-aram-alexandre-pooladian
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS/YQI Colloquium - Xiaodi Wu\, University of Maryland
+DTSTART;VALUE=DATE-TIME:20220429T160000
+DTEND;VALUE=DATE-TIME:20220429T170000
+DESCRIPTION:Event description:\nCS/YQI Colloquium - Xiaodi Wu\, University
+  of Maryland\n\n\n\n\n\n\n\n\nTitle: Toward Applications and Toolchains of
+  Analog Quantum Computing\n\nAbstract:\n\nAnalog computing predates digita
+ l computing and remains a compelling computational paradigm for several do
+ main applications in the post-Moore era.  A similar story has been observ
+ ed in quantum computing where analog (or pulse-controllable) quantum devic
+ es likely offer much more computing power than circuit-based digital quant
+ um machines\, especially in the near term. However\, some paradigm change 
+ is necessary before we can fully leverage analog quantum computing\, as mo
+ st quantum applications and toolchains nowadays are designed with the mind
+ set of digital quantum computing.\n\nIn this talk\, I will present two pro
+ jects toward this paradigm change. First\, we present quantum Hamiltonian 
+ descent (QHD)\, a proposal of a truly quantum counterpart of classical gra
+ dient methods for continuous optimization. QHD is derived by a path integr
+ al quantization of certain dynamical systems governed by classical physics
+ \, which are shown recently as the continuous-time limit of classical grad
+ ient methods. We develop an analog implementation of the resultant QHD alg
+ orithm and empirically observe QHD’s performance on randomly generated n
+ on-convex quadratic programming instances up to 75 dimensions\, which sign
+ ificantly outperforms a selection of state-of-the-art classical solvers an
+ d the quantum adiabatic algorithm. Second\, we present a domain-specific l
+ anguage for quantum simulation\, called SIMUQ\, which supports a direct co
+ mpilation from the description of Hamiltonian evolution to the pulse-level
+  schedule of heterogeneous analog quantum simulators.\n\nhttps://quantumin
+ stitute.yale.edu/event/csyqi-colloquium-xiaodi-wu-university-maryland\n\n\
+ nhttps://cpsc.yale.edu/event/csyqi-colloquium-xiaodi-wu-university-marylan
+ d
+LOCATION:YQI Seminar Room + Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/csyqi-colloquium-xiaodi-wu-university-mary
+ land
+END:VEVENT
 END:VCALENDAR
