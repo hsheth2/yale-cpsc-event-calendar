@@ -1,4 +1,35 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
+BEGIN:VEVENT
+SUMMARY:Announcement:  Graduate Student and Postdoctoral Fellowship Compet
+ ition Opening Soon
+DTSTART;VALUE=DATE-TIME:20220805T163000
+DTEND;VALUE=DATE-TIME:20220805T173000
+DESCRIPTION:Event description:\nPlease note that we shall soon open our Gr
+ aduate Student and Postdoctoral Fellowship competition.  The application 
+ will be made available for both on this page in June.\n\nAcademic speciali
+ zation increasingly leads to isolation among scholars and the disciplines 
+ they study\, resulting in misunderstanding and the erosion of common intel
+ lectual goals.  We hold that this isolation is also a barrier to research
+  progress on interdisciplinary questions situated between traditional area
+ s of study.  The Franke Program in Science and the Humanities is founded 
+ on the twin convictions that the fundamental questions that engage humanis
+ ts must be informed by basic insights of science and that meaningful scien
+ tific inquiry in turn deepens with humanistic knowledge.\n\nWe plan to sel
+ ect up to five interdisciplinary research projects to receive funding of $
+ 2\,000 each ($3\,000 per postdoctoral fellow) to be held during the academ
+ ic year 2022-23.  We welcome proposals that advance our mission of foster
+ ing communication\, mutual understanding\, collaborative research\, and te
+ aching among diverse scientific and humanistic disciplines.  Research pro
+ posals are required to have two faculty members from different departments
+ /disciplines as intellectual mentors.  Letters of recommendation will be 
+ requested from these faculty mentors for short-listed candidates.\n\n\nhtt
+ ps://frankeprogram.yale.edu/event/announcement-graduate-student-and-postdo
+ ctoral-fellowship-competition-opening-soon
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/announcement-graduate-student-and
+ -postdoctoral-fellowship-competition-opening-soon
+END:VEVENT
 END:VCALENDAR
