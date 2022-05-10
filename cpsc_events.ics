@@ -1,32 +1,4 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
-BEGIN:VEVENT
-SUMMARY:CS Talk - Katerina Sotiraki
-DTSTART;VALUE=DATE-TIME:20220509T200000
-DTEND;VALUE=DATE-TIME:20220509T210000
-DESCRIPTION:Event description:\nCS Talk\nKaterina Sotiraki\n\nHost: Charal
- ampos Papamanthou\n\nTitle: Towards post-quantum cryptography\n\nAbstract:
- \n\nThe advent of quantum computers places many widely used cryptographic 
- protocols at risk.  In response to this threat\, the field of post-quantu
- m cryptography has emerged. The most broadly recognized post-quantum proto
- cols are related to lattices. Beyond their resistance to quantum attacks\,
-  lattices are instrumental tools in cryptography due to their rich mathema
- tical structure. In this talk\, I will present my work on understanding th
- e complexity of lattice problems and on constructing lattice-based cryptog
- raphic protocols useful in practical scenarios. First\, I will present an 
- optimal construction for worst-case collision-resistant hash functions bas
- ed on a lattice problem. Second\, I will show the first lattice-based cons
- truction of cryptographic proofs with minimal communication and zero-knowl
- edge for any language in NP.\n\nBio:\n\nKaterina Sotiraki is currently a p
- ost-doctoral researcher at the EECS Department of UC Berkeley working with
-  Alessandro Chiesa and Raluca Ada Popa. She received her PhD from the EECS
-  Department at MIT where she was advised by Vinod Vaikuntanathan. She work
- s on cryptography\, complexity theory\, and secure computation\, with focu
- s on cryptography based on lattices.\n\nTalk Flyer\n\n\nhttps://cpsc.yale.
- edu/event/cs-talk-katerina-sotiraki
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-katerina-sotiraki
-END:VEVENT
 END:VCALENDAR
