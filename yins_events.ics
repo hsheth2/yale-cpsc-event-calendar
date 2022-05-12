@@ -1,38 +1,4 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
-BEGIN:VEVENT
-SUMMARY:Guest Speaker: Hao Wang (Harvard)
-DTSTART;VALUE=DATE-TIME:20220511T160000
-DTEND;VALUE=DATE-TIME:20220511T170000
-DESCRIPTION:Event description:\n“Information Theory for Trustworthy Mach
- ine Learning”\n\nSpeaker: Hao Wang\nPh.D. candidate\, Harvard Universit
- y\n\nAbstract:\nWe provide an information-theoretic foundation for trustwo
- rthy machine learning (ML). ML algorithms are increasingly used in applica
- tions of significant social consequences. It is crucial to ensure that the
- se algorithms are not just accurate but also generalizable\, fair\, and pr
- ivacy-preserving. By leveraging information-theoretic tools\, we develop r
- igorous performance guarantees for practical ML models and establish proto
- cols to ensure the responsible use of data.   In the first half of the ta
- lk\, we introduce new generalization bounds for understanding the behavior
- s of complex ML models (e.g.\, neural networks). In particular\, we study 
- how the interaction between data distributions and optimization methods in
- fluences generalization. In the second half of the talk\, we characterize 
- a fundamental limit of algorithmic fairness. We provide conditions that en
- sure fair use of group attributes and these theoretical results\, in turn\
- , inspire new algorithms that can repair unfair models without retraining 
- a new one.\n\nSpeaker bio:\nHao Wang is currently a last-year Ph.D. candid
- ate at Harvard University. He received his M.S. degree in applied mathemat
- ics from Harvard University in 2019. In 2016\, he received his B.S. degree
-  in mathematics from the University of Science and Technology of China (US
- TC). He was awarded the 35th Guo Moruo Scholarship which is the highest ho
- nor at USTC. His research interests include information theory\, statistic
- al learning theory\, and trustworthy machine learning.\n\nThis talk will b
- e in-person\, but may also be accessed via zoom:\nhttps://yale.zoom.us/j/9
- 6140327355\n\n.\n\n\nhttps://yins.yale.edu/event/guest-speaker-hao-wang-ha
- rvard
-LOCATION:Yale Institute for Network Science
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/guest-speaker-hao-wang-harvard
-END:VEVENT
 END:VCALENDAR
