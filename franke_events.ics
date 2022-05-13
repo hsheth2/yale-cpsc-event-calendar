@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:YQI/Franke Program Nontechnical Talk - Fear of a Black Universe:  
- An Outsider’s Guide to the Future of Physics
-DTSTART;VALUE=DATE-TIME:20220512T210000
-DTEND;VALUE=DATE-TIME:20220512T220000
-DESCRIPTION:Event description:\nJoin us for the 13th talk of Yale Quantum 
- Institute series of nontechnical talks aiming to bring a new regard to qua
- ntum physics and STEM by having experts cast new light on often-overlooked
-  aspects of scientific work.\n\nYears ago\, physicist Stephon Alexander re
- ceived life-changing advice: to discover real physics\, he needed to stop 
- memorizing and start taking risks. For this public talk based on his book 
- Fear of a Black Universe\, Professor Alexander shows that great physics re
- quires us to think outside the mainstream – to improvise and rely on int
- uition. His approach led him to three principles that shape all theories o
- f the universe: the principle of invariance\, the quantum principle\, and 
- the principle of emergence. Professor Alexander uses them to explore some 
- of physics’ greatest mysteries\, from what happened before the big bang 
- to how the universe makes consciousness possible. Drawing on his experienc
- e as a Black physicist\, he makes a powerful case for diversifying our sci
- entific communities. Compelling and empowering\, Fear of a Black Universe 
- offers remarkable insight into the art of physics.\n\nDue to the Yale Covi
- d policies\, only members of the Yale Community can attend this event in p
- erson. The event will be livestreamed here for all to enjoy.\n\nREGISTER T
- O RECEIVE THE LINK FOR THE LIVESTREAM HERE\n\nThis event is co-sponsored b
- y\nThe Franke Program in Science and the Humanities\n.\n\n\nhttps://franke
- program.yale.edu/event/yqifranke-program-nontechnical-talk-fear-black-univ
- erse-outsiders-guide-future-physics
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/yqifranke-program-nontechnical-ta
- lk-fear-black-universe-outsiders-guide-future-physics
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Announcement:  Graduate Student and Postdoctoral Fellowship Compet
  ition Opening Soon
 DTSTART;VALUE=DATE-TIME:20220805T163000
