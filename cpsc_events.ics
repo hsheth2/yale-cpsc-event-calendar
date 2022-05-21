@@ -1,38 +1,4 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
-BEGIN:VEVENT
-SUMMARY:CS/YQI Colloquium - Steven Flammia - AWS Center for Quantum Comput
- ing
-DTSTART;VALUE=DATE-TIME:20220520T160000
-DTEND;VALUE=DATE-TIME:20220520T170000
-DESCRIPTION:Event description:\nCS/YQI Colloquium\n\nSteven Flammia\nAWS C
- enter for Quantum Computing\n\nScalable noise metrology for quantum device
- s\n\nEstimating and characterizing noise in quantum devices is essential f
- or progress toward a fault-tolerant quantum computer. However\, most appro
- aches to estimating noise only work on a few qubits at a time owing to the
-  difficulty of the solving a many-body problem. In this talk\, I will desc
- ribe ACES\, a method for scalable noise metrology of quantum circuits that
-  stands for Averaged Circuit Eigenvalue Sampling. It simultaneously estima
- tes the individual error rates of all the gates in collections of quantum 
- circuits\, and can even account for space and time correlations between th
- ese gates. ACES strictly generalizes the commonly used methods of randomiz
- ed benchmarking (RB)\, interleaved RB\, simultaneous RB\, and several othe
- r related techniques. However\, ACES provides much more information and pr
- ovably works under strictly weaker assumptions than these techniques. Fina
- lly\, ACES is extremely scalable: we demonstrate with numerical simulation
- s that it simultaneously and precisely estimates all the Pauli error rates
-  on every gate and measurement in a 100 qubit quantum device using fewer t
- han 20 relatively shallow Clifford circuits and an experimentally feasible
-  number of samples. By learning the detailed gate errors for large quantum
-  devices\, ACES opens new possibilities for error mitigation\, bespoke qua
- ntum error correcting codes and decoders\, customized compilers\, and more
- .\n\nLivestream the event on Zoom\n(Yale login required)\n\n\n\n\nhttps://
- cpsc.yale.edu/event/csyqi-colloquium-steven-flammia-aws-center-quantum-com
- puting
-LOCATION:YQI Seminar Room + Zoom
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/csyqi-colloquium-steven-flammia-aws-center
- -quantum-computing
-END:VEVENT
 END:VCALENDAR
