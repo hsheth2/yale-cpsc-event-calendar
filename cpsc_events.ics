@@ -1,4 +1,98 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
+BEGIN:VEVENT
+SUMMARY:CS Seminar - Linhai Song\, Pennsylvania State University
+DTSTART;VALUE=DATE-TIME:20220610T160000
+DTEND;VALUE=DATE-TIME:20220610T170000
+DESCRIPTION:Event description:\nCS Seminar\nLinhai Song\, Pennsylvania Sta
+ te University\n\nHost: Lin Zhong\n\nTitle: Detecting Concurrency Bugs in G
+ o Software Systems\n\nAbstract:\n\nGo is a statically-typed programming la
+ nguage that aims to provide a simple\, efficient\, and safe way to impleme
+ nt concurrent programs. To achieve its design purpose\, Go recommends pass
+ ing messages through channels as a less error-prone means of thread commun
+ ication and also provides several new concurrency mechanisms and libraries
+  to ease multi-threading programming. Since its creation in 2009\, Go has 
+ become increasingly popular and has already been adopted to build many imp
+ ortant software infrastructures. Unfortunately\, Go concurrency bugs\, esp
+ ecially those due to misuse of channels\, still exist widely\, severely hu
+ rting the reliability of Go software systems.\n\nIn this talk\, I will pre
+ sent our recent research work on fighting Go concurrency bugs. We first em
+ pirically studied 171 concurrency bugs from six famous\, open-source Go so
+ ftware\, including Docker\, Kubernetes\, and gRPC to compare message passi
+ ng and shared memory concurrency. Inspired by the study\, we then built a 
+ static concurrency bug detection system\, GCatch\, to effectively identify
+  block bugs due to misuse of channels. To avoid fundamental limitations of
+  static analysis and capture more concurrency bugs\, we further designed a
+  dynamic detection system\, GFuzz. Both GCatch and GFuzz pinpointed hundre
+ ds of previously unknown concurrency bugs from famous Go software. Many of
+  those detected bugs have already been fixed by programmers based on our r
+ eporting.\n\nBio:\n\nLinhai Song is an Assistant Professor at the Pennsylv
+ ania State University. Linhai received his Ph.D. at the University of Wisc
+ onsin-Madison in 2015. His research interests include systems\, programmin
+ g languages\, software engineering\, and security. Linhai won an NSF Caree
+ r Award in 2022\, the MICRO Best Paper Runner Up in 2014\, and the ACM SIG
+ PLAN Research Highlights Award in 2011.\n\n\n\nhttps://cpsc.yale.edu/event
+ /cs-seminar-linhai-song-pennsylvania-state-university
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-seminar-linhai-song-pennsylvania-state-
+ university
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissertation Defense - Nicole Salomons
+DTSTART;VALUE=DATE-TIME:20220707T140000
+DTEND;VALUE=DATE-TIME:20220707T150000
+DESCRIPTION:Event description:\nDissertation Defense\nNicole Salomons\n\nT
+ itle: Robots that Tutor in Complex and Dynamic Environments\n\nAdvisor: Br
+ ian Scassellati\n\nOther committee members:\n\nMarynel Vázquez\nJulian Ja
+ ra-Ettinger\nTony Belpaeme (Ghent University)\n\nAbstract:\n\nRobots have 
+ shown great promise in being effective tutors for both children and adults
+ . They have been shown to be successful in a variety of domains\, includin
+ g math tutoring for children\, interruptions training for adults with Auti
+ sm Spectrum Disorder\, and assisting the elderly while exercising. Despite
+  the great potential of tutoring robots\, most studies have focused on pro
+ viding short-term tutoring either in a laboratory or a school while the re
+ searcher is present. For robots to be more broadly successful\, users need
+  to be able to practice skills on a more prolonged basis. This requires ro
+ botic systems to tutor in unstructured settings\, such as in homes and sch
+ ools. Furthermore\, robots need to autonomously model the user and provide
+  personalized help without needing a researcher’s presence.\n\nIn this d
+ issertation\, we investigate several aspects of how to create robots that 
+ can autonomously tutor in complex and dynamic environments. Our work start
+ s by expanding the types of tasks that robots can train. Current robotic s
+ ystems mainly focus on simple tasks. We present two algorithms that allow 
+ robots to tutor more complex tasks: C-BKT and BKT-POMDP. C-BKT enables a s
+ ystem to model a user’s skills over time\, providing opportunities for a
+  robot to offer earlier personalized help actions compared to prior soluti
+ ons. BKT-POMDP provides a policy for which task to give users to test thei
+ r skills and which task should be chosen to maximize teaching when there a
+ re multiple skills per task. Throughout the dissertation\, we provide exam
+ ples of how we modeled complex tasks\, including electronic circuits\, soc
+ ial skills\, and exercise forms.\n\nIn sequence\, we investigate which rob
+ ot characteristics allow for successful tutoring. We explore how the role 
+ of a robot influences the interaction when tutoring adults. We compare a r
+ obot that takes on the role of a peer to taking on the role of a tradition
+ al instructor. Our work provides evidence that a peer robot increases lear
+ ning for a subset of the population and that it is generally viewed more f
+ avorably than an instructor robot. We also investigated how robots indirec
+ tly influence those around them by showing that robots can cause conformit
+ y. People are willing to rely on information provided by robots when they 
+ are unsure of the answer themselves. We also show that robots cause peer p
+ ressure on participants.\n\nFinally\, we demonstrate two long-term systems
+  where peer robots operated autonomously in participants’ homes. We show
+  that robots successfully tutored and influenced participants in their hom
+ es while maintaining engagement. In the first system\, a robot provided ad
+ ults with motivation and coaching while doing dumbbell exercises. We show 
+ that an embodied robot is more effective than the same robot shown in a vi
+ deo on a tablet screen. In the second system\, we built a robotic system t
+ hat provided dyadic tutoring to children with Autism Spectrum Disorder and
+  their caregivers. The robot engaged the user in social skills training vi
+ a interactive games. Our clinical measures show that the robot increased c
+ hildren’s social skills during the 30-day robotic intervention.\n\n\nhtt
+ ps://cpsc.yale.edu/event/dissertation-defense-nicole-salomons
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/dissertation-defense-nicole-salomons
+END:VEVENT
 END:VCALENDAR
