@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Seminar - Linhai Song\, Pennsylvania State University
-DTSTART;VALUE=DATE-TIME:20220610T160000
-DTEND;VALUE=DATE-TIME:20220610T170000
-DESCRIPTION:Event description:\nCS Seminar\nLinhai Song\, Pennsylvania Sta
- te University\n\nHost: Lin Zhong\n\nTitle: Detecting Concurrency Bugs in G
- o Software Systems\n\nAbstract:\n\nGo is a statically-typed programming la
- nguage that aims to provide a simple\, efficient\, and safe way to impleme
- nt concurrent programs. To achieve its design purpose\, Go recommends pass
- ing messages through channels as a less error-prone means of thread commun
- ication and also provides several new concurrency mechanisms and libraries
-  to ease multi-threading programming. Since its creation in 2009\, Go has 
- become increasingly popular and has already been adopted to build many imp
- ortant software infrastructures. Unfortunately\, Go concurrency bugs\, esp
- ecially those due to misuse of channels\, still exist widely\, severely hu
- rting the reliability of Go software systems.\n\nIn this talk\, I will pre
- sent our recent research work on fighting Go concurrency bugs. We first em
- pirically studied 171 concurrency bugs from six famous\, open-source Go so
- ftware\, including Docker\, Kubernetes\, and gRPC to compare message passi
- ng and shared memory concurrency. Inspired by the study\, we then built a 
- static concurrency bug detection system\, GCatch\, to effectively identify
-  block bugs due to misuse of channels. To avoid fundamental limitations of
-  static analysis and capture more concurrency bugs\, we further designed a
-  dynamic detection system\, GFuzz. Both GCatch and GFuzz pinpointed hundre
- ds of previously unknown concurrency bugs from famous Go software. Many of
-  those detected bugs have already been fixed by programmers based on our r
- eporting.\n\nBio:\n\nLinhai Song is an Assistant Professor at the Pennsylv
- ania State University. Linhai received his Ph.D. at the University of Wisc
- onsin-Madison in 2015. His research interests include systems\, programmin
- g languages\, software engineering\, and security. Linhai won an NSF Caree
- r Award in 2022\, the MICRO Best Paper Runner Up in 2014\, and the ACM SIG
- PLAN Research Highlights Award in 2011.\n\n\n\nhttps://cpsc.yale.edu/event
- /cs-seminar-linhai-song-pennsylvania-state-university
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-seminar-linhai-song-pennsylvania-state-
- university
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Nicole Salomons
 DTSTART;VALUE=DATE-TIME:20220707T140000
 DTEND;VALUE=DATE-TIME:20220707T150000
