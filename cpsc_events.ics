@@ -2,6 +2,46 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:Linguistics and Computer Science Dissertation Defense
+DTSTART;VALUE=DATE-TIME:20220629T140000
+DTEND;VALUE=DATE-TIME:20220629T150000
+DESCRIPTION:Event description:\nLinguistics and Computer Science PhD Disse
+ ration Defense\nSophie Hao\n\nTitle: Theory and Applications of Attributio
+ n for Interpretable Language Technology\n\nCo-Advisors: Dana Angluin (Comp
+ uter Science)\, Bob Frank (Linguistics)\, Vladimir Rokhlin (advisor of rec
+ ord)\n\nOther committee members:\n\nJohn Lafferty Jason Shaw Yoav Goldberg
+  (Bar-Ilan University)\n\nAbstract:\n\nAttribution methods\n(Lipovetsky an
+ d Conklin\, 2001\; Štrumbelj et al.\, 2009\; Simonyan et al.\, 2014\; Ze
+ iler and Fergus\, 2014\; Bach et al.\, 2015\; Ribeiro et al.\, 2016\; Shri
+ kumar et al.\, 2017a\; Murdoch et al.\, 2018\; Sundararajan et al.\, 2017\
+ ; Sundararajan and Najmi\, 2020\,\ninter alia\n) are a family of local int
+ erpretability techniques that measure the “contribution” of input feat
+ ures towards an individual model output. In natural language processing (N
+ LP)\, attribution methods are often used to identify input tokens (e.g.\, 
+ Li et al.\, 2016\, 2017\; Arras et al.\, 2017b\; Jumelet et al.\, 2019) or
+  neural network units (e.g.\, Lakretz et al.\, 2019\; Serrano and Smith\, 
+ 2019) that strongly impact the overall behavior of a model. This dissertat
+ ion takes steps towards developing a conceptual framework designed to guid
+ e the development and evaluation of attribution methods\, with particular 
+ focus on NLP applications. We begin with an intrinsic evaluation of five a
+ ttribution methods\, which shows that the notion of “contribution” for
+ malized by attribution methods does not match our intuitive understanding 
+ thereof. We argue that these results are due to an incongruence between th
+ e theories of causation that underlie the design of attribution methods an
+ d the vaguely-defined goals of explanation against which attribution metho
+ ds are evaluated. We then explore two applications of attribution methods:
+  one that seeks to explain the behavior of an LSTM language model and one 
+ that uses measurements of causation in a downstream task. We conclude with
+  a reflection of the conceptual structures and evaluation criteria imposed
+  on attribution methods by these two applications\, and propose a program 
+ for application-oriented research in attribution.\n\n\nhttps://cpsc.yale.e
+ du/event/linguistics-and-computer-science-dissertation-defense
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/linguistics-and-computer-science-dissertat
+ ion-defense
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Nicole Salomons
 DTSTART;VALUE=DATE-TIME:20220707T140000
 DTEND;VALUE=DATE-TIME:20220707T150000
