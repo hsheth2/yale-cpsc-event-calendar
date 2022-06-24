@@ -2,34 +2,69 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Announcement:  Graduate Student and Postdoctoral Fellowship Compet
- ition Opening Soon
-DTSTART;VALUE=DATE-TIME:20220805T163000
-DTEND;VALUE=DATE-TIME:20220805T173000
-DESCRIPTION:Event description:\nPlease note that we shall soon open our Gr
- aduate Student and Postdoctoral Fellowship competition.  The application 
- will be made available for both on this page in June.\n\nAcademic speciali
- zation increasingly leads to isolation among scholars and the disciplines 
- they study\, resulting in misunderstanding and the erosion of common intel
- lectual goals.  We hold that this isolation is also a barrier to research
-  progress on interdisciplinary questions situated between traditional area
- s of study.  The Franke Program in Science and the Humanities is founded 
- on the twin convictions that the fundamental questions that engage humanis
- ts must be informed by basic insights of science and that meaningful scien
- tific inquiry in turn deepens with humanistic knowledge.\n\nWe plan to sel
- ect up to five interdisciplinary research projects to receive funding of $
- 2\,000 each ($3\,000 per postdoctoral fellow) to be held during the academ
- ic year 2022-23.  We welcome proposals that advance our mission of foster
- ing communication\, mutual understanding\, collaborative research\, and te
- aching among diverse scientific and humanistic disciplines.  Research pro
- posals are required to have two faculty members from different departments
- /disciplines as intellectual mentors.  Letters of recommendation will be 
- requested from these faculty mentors for short-listed candidates.\n\n\nhtt
- ps://frankeprogram.yale.edu/event/announcement-graduate-student-and-postdo
- ctoral-fellowship-competition-opening-soon
+SUMMARY:For the Hapless Dreamers:  Digital Art Meets Quantum Simulations
+DTSTART;VALUE=DATE-TIME:20220630T160000
+DTEND;VALUE=DATE-TIME:20220630T170000
+DESCRIPTION:No description provided\n\nhttps://frankeprogram.yale.edu/even
+ t/hapless-dreamers-digital-art-meets-quantum-simulations
+LOCATION:YQI Seminar Room
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/hapless-dreamers-digital-art-meet
+ s-quantum-simulations
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Applications Now Available:  Graduate Student and Postdoctoral Fel
+ lowships
+DTSTART;VALUE=DATE-TIME:20220716T033000
+DTEND;VALUE=DATE-TIME:20220716T043000
+DESCRIPTION:Event description:\nThe Franke Program in Science and the Huma
+ nities at Yale is excited to announce the launch of the Franke Graduate St
+ udent Research Award.  In summer 2022\, the Program will select a few int
+ erdisciplinary research projects to receive funding of $2K each and $3K ea
+ ch for postdoctoral fellows.  Preference will be given to scholars whose 
+ areas of research and methods advance our mission of fostering communicati
+ on\, mutual understanding\, collaborative research\, and teaching among di
+ verse scientific and humanistic disciplines.  Funding should be used to d
+ evelop an interdisciplinary aspect of a fellow’s current research progra
+ m.\n\nPlease complete and submit the application below electronically to t
+ he Program’s Assistant Director\, Ty Kamp (\nty.kamp@yale.edu\n)\, along
+  with your project proposal\, by Friday\, July 15\, 2022.  Successful app
+ licants will be informed by Friday\, August 19\, 2022.\n\nAcademic special
+ ization increasingly leads to isolation among scholars and the disciplines
+  they study\, resulting in misunderstanding and the erosion of common inte
+ llectual goals.  We hold that this isolation is also a barrier to researc
+ h progress on interdisciplinary questions situated between traditional are
+ as of study.  The Franke Program in Science and the Humanities is founded
+  on the twin convictions that the fundamental questions that engage humani
+ sts must be informed by basic insights of science and that meaningful scie
+ ntific inquiry depends on humanistic knowledge.  Our goal is to build an 
+ intellectual community of scholars who think in a pan-disciplinary manner 
+ as we believe that this mind-set generates original\, creative and innovat
+ ive breakthroughs.  The Franke Program sponsors lectures\, colloquia\, co
+ nferences\, undergraduate courses\, faculty seminars\, and performances\, 
+ as well as independent research projects devised by undergraduate and grad
+ uate students.  Once selected\, awardees are expected to participate in o
+ ur public events and attend a dinner conversation and presentation once a 
+ semester with the entire cohort of Franke undergraduate and graduate resea
+ rch fellows.  Upon completion of the work\, a detailed summary of the pro
+ ject and outcomes is to be submitted to the Program.  Note that all funde
+ d projects must cite the support of The Franke Program in Science and the 
+ Humanities in all advertising materials and products.\n\nFRANKE GRADUATE S
+ TUDENT RESEARCH AWARD APPLICATION 2022 – 2023\n\nYour application should
+  include the following components:\n\nName of Applicant and Yale Affiliati
+ on:\n\nTitle of Proposed Project:\n\nBudget with Description:\n\nTimeline 
+ for Project:\n\nLetter of Recommendation in support of project work:\n\n(T
+ his letter should be from current faculty mentor\, and the letter should i
+ ndicate that the proposed research does not conflict with the postdoc’s 
+ primary research goals\n\nDescription of Project (in no more than 1\,000 w
+ ords):\n\nNB:  We anticipate receiving a large number of submissions\, so
+  please format the file name of your submitted application in this way:\n\
+ nFrankeProgram.PostDocAward.[FirstNameLastName].Date\n\n\nhttps://frankepr
+ ogram.yale.edu/event/applications-now-available-graduate-student-and-postd
+ octoral-fellowships
 LOCATION:TBA
 STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/announcement-graduate-student-and
- -postdoctoral-fellowship-competition-opening-soon
+URL:https://frankeprogram.yale.edu/event/applications-now-available-gradua
+ te-student-and-postdoctoral-fellowships
 END:VEVENT
 END:VCALENDAR
