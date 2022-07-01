@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:For the Hapless Dreamers:  Digital Art Meets Quantum Simulations
-DTSTART;VALUE=DATE-TIME:20220630T160000
-DTEND;VALUE=DATE-TIME:20220630T170000
-DESCRIPTION:No description provided\n\nhttps://frankeprogram.yale.edu/even
- t/hapless-dreamers-digital-art-meets-quantum-simulations
-LOCATION:YQI Seminar Room
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/hapless-dreamers-digital-art-meet
- s-quantum-simulations
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Applications Now Available:  Graduate Student and Postdoctoral Fel
  lowships
 DTSTART;VALUE=DATE-TIME:20220716T033000
