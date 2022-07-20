@@ -1,4 +1,80 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
+BEGIN:VEVENT
+SUMMARY:Dissertation Defense - Meiying Qin
+DTSTART;VALUE=DATE-TIME:20220818T140000
+DTEND;VALUE=DATE-TIME:20220818T150000
+DESCRIPTION:Event description:\nDissertation Defense\nMeiying Qin\n\nTitle
+ : Robot Tool Use\n\nAdvisor: Brian Scassellati\n\nOther committee members:
+ \nAaron Dollar\nDragomir Radev\nGoldie Nejat (University of Toronto)\n\nAb
+ stract:\n\nUsing human tools can significantly benefit robots in many appl
+ ication domains. It will endow a home robot with the ability to carry out 
+ everyday household activities such as cleaning. It will enable an industri
+ al robot to work in manufacturing or maintenance using human tools such as
+  screwdrivers. It will allow a robot to perform experiments using existing
+  human lab tools in a chemistry lab. Such ability would allow robots to so
+ lve problems that they were unable to without tools.\n\nHowever\, robot to
+ ol use is a challenging task. Tool use was initially considered to be the 
+ ability that distinguishes human beings from other animals (Oakley\, 1944)
+ . Robot tool use has three challenges: perception\, manipulation\, and cog
+ nition. While both general manipulation tasks and tool use tasks require t
+ he same level of perception accuracy\, there are unique manipulation and c
+ ognition challenges in robot tool use.\n\nIn this dissertation\, we first 
+ define robot tool use and compile a taxonomy of robot tool use. We identif
+ y required skills for each sub-type in the taxonomy and review previous st
+ udies on robot tool use based on the taxonomy. Next\, we demonstrate our w
+ ork on solving some of the sub-types of robot tool use. We present an inte
+ grated system that trains a robot with tool use\, transfers the learned sk
+ ills to novel objects\, and can even improvise the usage of novel tools. T
+ he robot that utilizes this system can also generalize the learned skills 
+ to other robot platforms without additional training. We then investigate 
+ more complicated forms of robot tool use. Specifically\, we explore how a 
+ robot can plan sequential tool use so that the robot can use one tool to r
+ etrieve another tool in order to complete a task. We also examine how a ro
+ bot should choose the most appropriate tool from many possible tool option
+ s. Finally\, we investigate the application of learned tool use skills in 
+ related applications such as human-robot collaborations.\n\nWe conclude th
+ is dissertation with the contributions and limitations of our work. We als
+ o identify open challenges that remain to be solved as future directions.\
+ n\n\nhttps://cpsc.yale.edu/event/dissertation-defense-meiying-qin
+LOCATION:AKW 200 and Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/dissertation-defense-meiying-qin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissertation Defense - Wolf Honoré
+DTSTART;VALUE=DATE-TIME:20220819T140000
+DTEND;VALUE=DATE-TIME:20220819T150000
+DESCRIPTION:Event description:\nDissertation Defense\nWolf Honoré\n\nTitl
+ e: The Atomic Distributed Object Model for Distributed System Verification
+ \n\nAdvisor: Zhong Shao\n\nOther committee members:\nRuzica Piskac\nJames 
+ Aspnes\nBenjamin Pierce (University of Pennsylvania)\n\nAbstract:\n\nDistr
+ ibuted systems are at the heart of most web-based applications and are res
+ ponsible for replicating and maintaining critical data. Unfortunately\, th
+ eir inherent concurrency combined with an asynchronous and unreliable netw
+ ork makes them prone to implementation bugs that can have serious real-wor
+ ld consequences. Formal verification can offer strong assurances of correc
+ tness\; however\, despite recent advances\, reasoning directly about a sys
+ tem’s implementation remains prohibitively complex. The key is to find t
+ he right abstraction that faithfully models a system’s behaviors\, while
+  avoiding irrelevant implementation details.\n\nThis dissertation presents
+  such an abstraction called the atomic distributed object (ADO) model\, wh
+ ich hides the existence of the network and reduces all behaviors to three 
+ atomic operations. This not only makes the ADO model simpler\, which enabl
+ es more scalable verification\, but it also means it is general enough to 
+ capture a wide variety of systems. We describe three verification framewor
+ ks built around the ADO model\, each implemented in the Coq proof assistan
+ t and targeted at different problems. The first\, Advert\, supports compos
+ itional reasoning about distributed objects\, which can be combined to bui
+ ld more complex applications. The second\, Adore\, proves the safety of a 
+ general class of reconfiguration schemes\, which is an essential\, but oft
+ en overlooked\, operation for practical distributed systems. Finally\, Ado
+ B shows that the ADO model can be used for liveness reasoning\, and can ex
+ press both benign and byzantine failure models in a unified manner.\n\n\nh
+ ttps://cpsc.yale.edu/event/dissertation-defense-wolf-honore
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/dissertation-defense-wolf-honore
+END:VEVENT
 END:VCALENDAR
