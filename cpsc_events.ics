@@ -77,4 +77,47 @@ LOCATION:Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/dissertation-defense-wolf-honore
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissertation Defense - Zeyu Wang
+DTSTART;VALUE=DATE-TIME:20220830T140000
+DTEND;VALUE=DATE-TIME:20220830T150000
+DESCRIPTION:Event description:\nDissertation Defense\nZeyu Wang\n\nTitle: 
+ Enhancing the Creative Process in Digital Prototyping\n\nAdvisor: Julie Do
+ rsey\n\nOther Committee Members:\nHolly Rushmeier\nSteven Zucker\nLeonard 
+ McMillan (The University of North Carolina at Chapel Hill)\n\nAbstract:\n\
+ nDespite advances in computer-aided design (CAD) systems and video editing
+  software\, digital content creation for design\, storytelling\, and inter
+ active experiences remains a challenging problem. This dissertation introd
+ uces a series of studies\, techniques\, and systems along three thrusts th
+ at engage creators more directly and enhance the user experience in author
+ ing digital content.\n\nFirst\, we present a drawing dataset and spatiotem
+ poral analysis that provide insight into how people draw by comparing trac
+ ing\, freehand drawing\, and computer-generated approximations. We found a
+  high degree of similarity in stroke placement and types of strokes used o
+ ver time\, which informs methods for customized stroke treatment and emula
+ ting drawing processes. We also propose a deep learning-based technique fo
+ r line drawing synthesis from animated 3D models\, where our learned style
+  space and optimization-based embedding enable the generation of line draw
+ ing animations while allowing interactive user control across frames.\n\nS
+ econd\, we demonstrate the importance of utilizing spatial context in the 
+ creative process in augmented reality through two tablet-based interfaces.
+  DistanciAR enables designers to create site-specific AR experiences for r
+ emote environments using LiDAR capture and new authoring modes\, such as D
+ ollhouse and Peek. PointShopAR integrates point cloud capture and editing 
+ in a single AR workflow to help users quickly prototype design ideas in th
+ eir spatial context. Our user studies show that LiDAR capture and the poin
+ t cloud representation in these systems can make rapid AR prototyping more
+  accessible and versatile.\n\nLast\, we introduce two procedural methods t
+ o generate time-based media for visual communication and storytelling. Ani
+ Code supports authoring and on-the-fly consumption of personalized animati
+ ons in a network-free environment via a printed code. CHER-Ob generates vi
+ deo flythroughs for storytelling from annotated heterogeneous 2D and 3D da
+ ta for cultural heritage. Our user studies show that these methods can ben
+ efit the video-oriented digital prototyping experience and facilitate the 
+ dissemination of creative and cultural ideas.\n\n\nhttps://cpsc.yale.edu/e
+ vent/dissertation-defense-zeyu-wang
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/dissertation-defense-zeyu-wang
+END:VEVENT
 END:VCALENDAR
