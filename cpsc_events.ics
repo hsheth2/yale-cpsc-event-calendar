@@ -2,47 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:Dissertation Defense - Meiying Qin
-DTSTART;VALUE=DATE-TIME:20220818T140000
-DTEND;VALUE=DATE-TIME:20220818T150000
-DESCRIPTION:Event description:\nDissertation Defense\nMeiying Qin\n\nTitle
- : Robot Tool Use\n\nAdvisor: Brian Scassellati\n\nOther committee members:
- \nAaron Dollar\nDragomir Radev\nGoldie Nejat (University of Toronto)\n\nAb
- stract:\n\nUsing human tools can significantly benefit robots in many appl
- ication domains. It will endow a home robot with the ability to carry out 
- everyday household activities such as cleaning. It will enable an industri
- al robot to work in manufacturing or maintenance using human tools such as
-  screwdrivers. It will allow a robot to perform experiments using existing
-  human lab tools in a chemistry lab. Such ability would allow robots to so
- lve problems that they were unable to without tools.\n\nHowever\, robot to
- ol use is a challenging task. Tool use was initially considered to be the 
- ability that distinguishes human beings from other animals (Oakley\, 1944)
- . Robot tool use has three challenges: perception\, manipulation\, and cog
- nition. While both general manipulation tasks and tool use tasks require t
- he same level of perception accuracy\, there are unique manipulation and c
- ognition challenges in robot tool use.\n\nIn this dissertation\, we first 
- define robot tool use and compile a taxonomy of robot tool use. We identif
- y required skills for each sub-type in the taxonomy and review previous st
- udies on robot tool use based on the taxonomy. Next\, we demonstrate our w
- ork on solving some of the sub-types of robot tool use. We present an inte
- grated system that trains a robot with tool use\, transfers the learned sk
- ills to novel objects\, and can even improvise the usage of novel tools. T
- he robot that utilizes this system can also generalize the learned skills 
- to other robot platforms without additional training. We then investigate 
- more complicated forms of robot tool use. Specifically\, we explore how a 
- robot can plan sequential tool use so that the robot can use one tool to r
- etrieve another tool in order to complete a task. We also examine how a ro
- bot should choose the most appropriate tool from many possible tool option
- s. Finally\, we investigate the application of learned tool use skills in 
- related applications such as human-robot collaborations.\n\nWe conclude th
- is dissertation with the contributions and limitations of our work. We als
- o identify open challenges that remain to be solved as future directions.\
- n\n\nhttps://cpsc.yale.edu/event/dissertation-defense-meiying-qin
-LOCATION:AKW 200 and Zoom
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/dissertation-defense-meiying-qin
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Wolf Honoré
 DTSTART;VALUE=DATE-TIME:20220819T140000
 DTEND;VALUE=DATE-TIME:20220819T150000
