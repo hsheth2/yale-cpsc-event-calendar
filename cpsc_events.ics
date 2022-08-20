@@ -2,41 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:Dissertation Defense - Wolf Honoré
-DTSTART;VALUE=DATE-TIME:20220819T140000
-DTEND;VALUE=DATE-TIME:20220819T150000
-DESCRIPTION:Event description:\nDissertation Defense\nWolf Honoré\n\nTitl
- e: The Atomic Distributed Object Model for Distributed System Verification
- \n\nAdvisor: Zhong Shao\n\nOther committee members:\nRuzica Piskac\nJames 
- Aspnes\nBenjamin Pierce (University of Pennsylvania)\n\nAbstract:\n\nDistr
- ibuted systems are at the heart of most web-based applications and are res
- ponsible for replicating and maintaining critical data. Unfortunately\, th
- eir inherent concurrency combined with an asynchronous and unreliable netw
- ork makes them prone to implementation bugs that can have serious real-wor
- ld consequences. Formal verification can offer strong assurances of correc
- tness\; however\, despite recent advances\, reasoning directly about a sys
- tem’s implementation remains prohibitively complex. The key is to find t
- he right abstraction that faithfully models a system’s behaviors\, while
-  avoiding irrelevant implementation details.\n\nThis dissertation presents
-  such an abstraction called the atomic distributed object (ADO) model\, wh
- ich hides the existence of the network and reduces all behaviors to three 
- atomic operations. This not only makes the ADO model simpler\, which enabl
- es more scalable verification\, but it also means it is general enough to 
- capture a wide variety of systems. We describe three verification framewor
- ks built around the ADO model\, each implemented in the Coq proof assistan
- t and targeted at different problems. The first\, Advert\, supports compos
- itional reasoning about distributed objects\, which can be combined to bui
- ld more complex applications. The second\, Adore\, proves the safety of a 
- general class of reconfiguration schemes\, which is an essential\, but oft
- en overlooked\, operation for practical distributed systems. Finally\, Ado
- B shows that the ADO model can be used for liveness reasoning\, and can ex
- press both benign and byzantine failure models in a unified manner.\n\n\nh
- ttps://cpsc.yale.edu/event/dissertation-defense-wolf-honore
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/dissertation-defense-wolf-honore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Zeyu Wang
 DTSTART;VALUE=DATE-TIME:20220830T140000
 DTEND;VALUE=DATE-TIME:20220830T150000
