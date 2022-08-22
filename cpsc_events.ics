@@ -2,6 +2,75 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:CS Talk - Maria Paola Bonacina\, Università degli Studi di Verona
+DTSTART;VALUE=DATE-TIME:20220822T200000
+DTEND;VALUE=DATE-TIME:20220822T210000
+DESCRIPTION:Event description:\nCS Talk\n\nMaria Paola Bonacina\n\, Univer
+ sità degli Studi di Verona\n\nHost: Ruzica Piskac\n\nTitle: CDSAT for non
+ disjoint theories with shared predicates\n\nAbstract:\n\nMany approaches t
+ o the analysis\, verification\, and synthesis of programs require automate
+ d reasoning support in the form of decision procedures for satisfiability 
+ modulo a combination of theories (SMT). The classical -Oppen scheme for th
+ eory combination assumes that the theories are disjoint\, meaning they do 
+ not share symbols other than equality. However\, it suffices to enrich the
+  theory of arrays with a length function to make it share symbols with ano
+ ther theory (e.g.\, linear arithmetic).\n\nIn this talk I present the CDSA
+ T paradigm for theory combination and its extension to theories that share
+  predicate symbols. CDSAT (Conflict-Driven Satisfiability) handles problem
+ s with assignments to first-order variables (satisfiability modulo assignm
+ ents)\, works by coordinating theory modules to reason in a conflict-drive
+ n manner\, and subsumes the Nelson-Oppen scheme. The extension to shared p
+ redicates requires only minimal changes\, and is exemplified for a theory 
+ of arrays with extensionality and abstract length. The notion of abstract 
+ length admits the traditional interpretation where a length is an integer 
+ and the indices of an array form an interval\, but it has also other inter
+ pretations. It is precisely this abstraction that makes it possible to sol
+ ve the problem by sharing only one predicate symbol.\n\n(Joint work with S
+ téphane Graham-Lengrand and Natarajan Shankar)\n\nBio:\n\nMaria Paola Bon
+ acina is Professor of Computer Science at the Università degli Studi di V
+ erona and International Fellow at the Computer Science Laboratory of SRI I
+ nternational (sabbatical year 2021/22). Maria Paola received a Laurea and 
+ a Doctorate from the Università degli Studi di Milano\, and a PhD from th
+ e State University of New York at Stony Brook. After postdoc’s at the Ar
+ gonne National Laboratory and INRIA Lorraine\, she started her career at t
+ he University of Iowa\, where she was first Assistant Professor and then A
+ ssociate Professor of Computer Science\, receiving NSF RIA and CAREER awar
+ ds and a Dean Scholar Award. She was Visiting Professor at the Technische 
+ Universität Dresden and at the University of Manchester\, and Visiting Re
+ search Scholar at the Isaac Newton Institute (University of Cambridge) and
+  at Microsoft Research Redmond. Her research area overlaps with both artif
+ icial intelligence and computational logic\, as she works in automated rea
+ soning\, including theorem proving\, satisfiability modulo theories\, and 
+ their applications.\n\nShe was invited speaker at STRATEGIES (Strategies i
+ n Automated Deduction)\, PPDP (Principles and Practice of Declarative Prog
+ ramming)\, TABLEAUX (Automated Reasoning by Analytic Tableaux and Related 
+ Methods)\, PCR (Parallel Constraint Reasoning)\, FroCoS (Frontiers of Comb
+ ining Systems)\, and PxTP (Proof eXchange for Theorem Proving)\, among oth
+ er events. She visited many research sites\, including LORIA Nancy\, Unive
+ rsität Koblenz-Landau\, MPI Saarbrücken\, Tel Aviv University\, King’s
+  College\, EPFL\, ETHZ\, Chalmers University of Technology\, and Universit
+ é Paris XI Orsay\, in Europe\; the University of Illinois at Urbana-Champ
+ aign\, the University of Oregon\, the Argonne National Laboratory\, Stanfo
+ rd University\, Iowa State University\, the University of Colorado at Denv
+ er\, the University of Idaho\, and CUNY Graduate College\, in America\; th
+ e Chinese Academy of Sciences\, East China Normal University\, Tsinghua Un
+ iversity\, and National Taiwan University\, in Asia.\n\nShe organizes the 
+ 2021 and 2023 seminars on automated deduction at Schloss Dagstuhl\, and sh
+ e chaired the Skolem Award Committee 2021. She serves regularly on the Pro
+ gram Committee of IJCAR (International Joint Conference on Automated Reaso
+ ning)\, CADE (Conference on Automated Deduction) for which she was also pr
+ ogram chair\, and several other conferences. She was elected thrice to the
+  Board of Trustees of CADE Inc.\, and twice President of the Board: in thi
+ s capacity\, she chaired the committee that assigns the Herbrand Award\, a
+ nd she instituted the CADE Best Paper and the Skolem (test of time) awards
+ .\n\n\nhttps://cpsc.yale.edu/event/cs-talk-maria-paola-bonacina-universita
+ -degli-studi-di-verona
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-maria-paola-bonacina-universita-de
+ gli-studi-di-verona
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Zeyu Wang
 DTSTART;VALUE=DATE-TIME:20220830T140000
 DTEND;VALUE=DATE-TIME:20220830T150000
