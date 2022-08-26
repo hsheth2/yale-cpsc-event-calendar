@@ -83,6 +83,36 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/dissertation-defense-zeyu-wang
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Talk - Chenkai Weng
+DTSTART;VALUE=DATE-TIME:20220830T170000
+DTEND;VALUE=DATE-TIME:20220830T180000
+DESCRIPTION:Event description:\nCS Talk\nChenkai Weng\n\n\nHost: Ruzica Pi
+ skac\n\nIf you would like to meet with the speaker\, please let Ruzica kno
+ w.\n\n\n\nHybrid:\n\nIn person: AKW 200\n\nZoom link:\nhttps://yale.zoom.u
+ s/j/99867912124\n\n\n\n\nTitle:\nEfficient Interactive Zero Knowledge Proo
+ f  Based on VOLE\n\n\n\nAbstract:\n\n\nRecent works on interactive zero-k
+ nowledge (ZK) protocols provide a new paradigm with high efficiency and sc
+ alability. However\, these protocols suffer from high communication overhe
+ ad\, often linear to the circuit size. In this talk\, I will first revisit
+  prior state-of-the-art VOLE-based ZK protocol Quicksilver. Then I will co
+ ver our new protocol Antman\, which is the first VOLE-based ZK protocol th
+ at achieves communication overhead sublinear to the circuit size\, while m
+ aintaining a similar level of computational efficiency.\n\nQuicksilver:\n\
+ nhttps://eprint.iacr.org/2021/076\n\nAntman:\n\nhttps://eprint.iacr.org/20
+ 22/566\n\n\n\nShort Bio:\n\n\nChenkai Weng is a PhD student at the Departm
+ ent of Computer Science in Northwestern University. He is advised by Profe
+ ssor Xiao Wang. His research focuses on secure multi-party computation and
+  zero-knowledge proofs. His prior works include concrete security analysis
+  of the garbled circuits protocol\, efficient correlated oblivious transfe
+ r and VOLE-based zero-knowledge proofs. He was a research intern at Micros
+ oft Research in 2021 and is currently a summer associate at the cryptograp
+ hic team in JPMorgan Chase.\n\n\n\nWebsite:\n\nhttps://ckweng.github.io\n\
+ n\nhttps://cpsc.yale.edu/event/cs-talk-chenkai-weng
+LOCATION:Hybrid - AKW 200 and Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-chenkai-weng
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Jason Weston\, Facebook AI & NYU Visiting Research
   Professor
 DTSTART;VALUE=DATE-TIME:20220913T200000
