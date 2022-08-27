@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS/YQI Colloquium - Jakub Szefer\, Yale University
-DTSTART;VALUE=DATE-TIME:20220826T160000
-DTEND;VALUE=DATE-TIME:20220826T170000
-DESCRIPTION:Event description:\nCS/YQI Colloquium\nJakub Szefer\, Yale Uni
- versity\n\n\n\n\n\n\n\n\n\n\n\nQuantum Computer Cybersecurity\n\nAs Quantu
- m Computer device research continues to advance rapidly\, there are also a
- dvances at the other levels of the computer system stack that involve thes
- e devices. In particular\, more and more of the Quantum Computer devices a
- re becoming available as cloud-based services through IBM Quantum\, Amazon
-  Braket\, Microsoft Azure\, and others. In parallel\, researchers have put
-  forward ideas about multi-programming of the Quantum Computer devices whe
- re single device can be shared by multiple programs\, or even multiple use
- rs. While all of the advances make the Quantum Computer devices more easil
- y accessible and increase utilization\, they open up the devices to variou
- s security threats. Especially\, with cloud-based access and multi-tenancy
- \, different\, remove\, and untrusted users could abuse the Quantum Comput
- er devices to leak information from other users using the shared devices\,
-  map or learn about the Quantum Computer infrastructure itself\, or even p
- ossibly try to damage the infrastructure or the devices. This talk will ai
- m to provide some background on security lessons that Computer Architectur
- e and Hardware Security community has learned from the past decades explor
- ing hardware-related security issues in classical computers. It will then 
- motivate the need to think about Quantum Computer cybersecurity now\, to m
- ake sure that security is first-class objective when designing and deployi
- ng these devices in cloud-based settings. The talk will then present recen
- t research on security attacks on Quantum Computer devices in IBM Quantum 
- cloud-based computers\, as well as preliminary developments of defensive t
- echniques. The end goal of the presentation is to motivate discussion abou
- t Quantum Computer Cybersecurity and make connections between the Quantum 
- Computer research community and the Hardware Security research community.\
- n\nLivestream the talk on Zoom here (Yale login required)\n\n\n\n\n\nhttps
- ://cpsc.yale.edu/event/csyqi-colloquium-jakub-szefer-yale-university
-LOCATION:YQI Seminar Room/Zoom
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/csyqi-colloquium-jakub-szefer-yale-univers
- ity
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Zeyu Wang
 DTSTART;VALUE=DATE-TIME:20220830T140000
 DTEND;VALUE=DATE-TIME:20220830T150000
