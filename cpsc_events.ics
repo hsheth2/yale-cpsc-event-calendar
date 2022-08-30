@@ -101,7 +101,8 @@ URL:https://cpsc.yale.edu/event/cs-colloquium-jason-weston-facebook-ai-nyu
  -visiting-research-professor
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Joohyung Kim
+SUMMARY:CS Colloquium - Joohyung Kim\, University of Illinois at Urbana-Ch
+ ampaign
 DTSTART;VALUE=DATE-TIME:20220920T200000
 DTEND;VALUE=DATE-TIME:20220920T210000
 DESCRIPTION:Event description:\nCS Colloquium\nJoohyung Kim\, University o
@@ -128,9 +129,11 @@ DESCRIPTION:Event description:\nCS Colloquium\nJoohyung Kim\, University o
  ersity for DARPA Robotics Challenge in 2013. From 2009 to 2012\, he was a 
  Research Staff Member in Samsung Advanced Institute of Technology\, Korea\
  , developing biped walking controllers for humanoid robots.\n\n\nhttps://c
- psc.yale.edu/event/cs-colloquium-joohyung-kim
+ psc.yale.edu/event/cs-colloquium-joohyung-kim-university-illinois-urbana-c
+ hampaign
 LOCATION:AKW 200
 STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-joohyung-kim
+URL:https://cpsc.yale.edu/event/cs-colloquium-joohyung-kim-university-illi
+ nois-urbana-champaign
 END:VEVENT
 END:VCALENDAR
