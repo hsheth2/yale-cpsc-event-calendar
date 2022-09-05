@@ -30,8 +30,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Joohyung Kim\, University of Illinois at Urbana-Ch
  ampaign
-DTSTART;VALUE=DATE-TIME:20220920T200000
-DTEND;VALUE=DATE-TIME:20220920T210000
+DTSTART;VALUE=DATE-TIME:20220920T143000
+DTEND;VALUE=DATE-TIME:20220920T153000
 DESCRIPTION:Event description:\nCS Colloquium\nJoohyung Kim\, University o
  f Illinois at Urbana-Champaign\n\nHost: Marynel Vazquez\n\nTitle: Towards 
  Human-Friendly Robots\n\nAbstract:\n\nThe demand for robots which can work
