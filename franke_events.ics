@@ -21,4 +21,22 @@ STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/film-screening-unconformity-and-c
  onversation-writer-and-director-jonathan-dimaio
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talk by Acclaimed Journalist Esther Honig
+DTSTART;VALUE=DATE-TIME:20221116T210000
+DTEND;VALUE=DATE-TIME:20221116T220000
+DESCRIPTION:Event description:\nJoin us on Wednesday\, November 16 at 4 p.
+ m. for a remarkable talk on how the discovery of a massive bed of callo de
+  hacha\, a prized sea scallop\, could have saved a struggling Mexican fish
+ ing village.\nEsther Honig\nwill tell the tragic story of how it did not a
+ nd offer ruminations on the place of journalism in exposing stories of env
+ ironmental degradation as it affects agriculture and farming.\n\nRegister 
+ in advance for this webinar:\n\nhttps://yale.zoom.us/webinar/register/WN_W
+ sH_7sUNSkSEidjp-7PQVQ\n\n\nhttps://frankeprogram.yale.edu/event/talk-accla
+ imed-journalist-esther-honig
+LOCATION:Zoom Webinar
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/talk-acclaimed-journalist-esther-
+ honig
+END:VEVENT
 END:VCALENDAR
