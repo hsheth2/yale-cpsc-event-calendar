@@ -22,6 +22,38 @@ URL:https://frankeprogram.yale.edu/event/film-screening-unconformity-and-c
  onversation-writer-and-director-jonathan-dimaio
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inference Project Talk and Discussion:  Alexander Paseau
+DTSTART;VALUE=DATE-TIME:20220928T190000
+DTEND;VALUE=DATE-TIME:20220928T200000
+DESCRIPTION:Event description:\nWe look forward to continuing our Nature o
+ f Inference colloquium series with a virtual talk by Alexander Paseau\, Pr
+ ofessor of Mathematical Philosophy at the University of Oxford.\n\nThe tit
+ le of Professor Paseau’s talk is Inference: A Logical-Philosophical Per
+ spective.\n\nRegister in advance for this webinar:\n\nhttps://yale.zoom.us
+ /webinar/register/WN_FR7wIzPaSva4Z7Y8RbFpHQ\n\n\nhttps://frankeprogram.yal
+ e.edu/event/inference-project-talk-and-discussion-alexander-paseau
+LOCATION:Zoom Webinar
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
+ sion-alexander-paseau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inference Project Talk and Discussion:  Alexander Paseau
+DTSTART;VALUE=DATE-TIME:20220928T190000
+DTEND;VALUE=DATE-TIME:20220928T200000
+DESCRIPTION:Event description:\nWe look forward to continuing our Nature o
+ f Inference colloquium series with a virtual talk by Alexander Paseau\, Pr
+ ofessor of Mathematical Philosophy at the University of Oxford.\n\nThe tit
+ le of Professor Paseau’s talk is Inference: A Logical-Philosophical Per
+ spective.\n\nRegister in advance for this webinar:\n\nhttps://yale.zoom.us
+ /webinar/register/WN_FR7wIzPaSva4Z7Y8RbFpHQ\n\n\nhttps://frankeprogram.yal
+ e.edu/event/inference-project-talk-and-discussion-alexander-paseau
+LOCATION:Zoom Webinar
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
+ sion-alexander-paseau
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Talk by Acclaimed Journalist Esther Honig
 DTSTART;VALUE=DATE-TIME:20221116T210000
 DTEND;VALUE=DATE-TIME:20221116T220000
@@ -38,5 +70,37 @@ LOCATION:Zoom Webinar
 STATUS:CONFIRMED
 URL:https://frankeprogram.yale.edu/event/talk-acclaimed-journalist-esther-
  honig
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inference Project Talk and Discussion:  Brian Cantwell Smith
+DTSTART;VALUE=DATE-TIME:20221207T200000
+DTEND;VALUE=DATE-TIME:20221207T210000
+DESCRIPTION:Event description:\nOur December 2022 Understanding the Nature
+  of Inference colloquium talk will be given by Brian Cantwell Smith\, the 
+ Reid Hoffman Professor of Artificial Intelligence and the Human at the Uni
+ versity of Toronto.  The title of this talk and subsequent discussion is 
+ “Inference in a Non-Conceptual World.”\n\nDetails to follow soon.\n\n\
+ nhttps://frankeprogram.yale.edu/event/inference-project-talk-and-discussio
+ n-brian-cantwell-smith
+LOCATION:Zoom Webinar
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
+ sion-brian-cantwell-smith
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inference Project Talk and Discussion:  Brian Cantwell Smith
+DTSTART;VALUE=DATE-TIME:20221207T200000
+DTEND;VALUE=DATE-TIME:20221207T210000
+DESCRIPTION:Event description:\nOur December 2022 Understanding the Nature
+  of Inference colloquium talk will be given by Brian Cantwell Smith\, the 
+ Reid Hoffman Professor of Artificial Intelligence and the Human at the Uni
+ versity of Toronto.  The title of this talk and subsequent discussion is 
+ “Inference in a Non-Conceptual World.”\n\nDetails to follow soon.\n\n\
+ nhttps://frankeprogram.yale.edu/event/inference-project-talk-and-discussio
+ n-brian-cantwell-smith
+LOCATION:Zoom Webinar
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
+ sion-brian-cantwell-smith
 END:VEVENT
 END:VCALENDAR
