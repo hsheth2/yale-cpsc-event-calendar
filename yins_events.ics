@@ -28,4 +28,83 @@ STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-distinguished-lecturer-nicholas-chris
  takis
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FDS Seminar: Amin Karbasi
+DTSTART;VALUE=DATE-TIME:20220921T200000
+DTEND;VALUE=DATE-TIME:20220921T210000
+DESCRIPTION:Event description:\nFoundations of Data Science Seminar Series
+ \n\n“Gaming the Learning”\n\nSpeaker: Amin Karbasi\nAssociate Professo
+ r\, Electrical Engineering and Department of Statistics & Data Science\n\n
+ Inference\, Information and Decision Systems Group\n\nAbstract:\nConsider 
+ the task of learning an unknown concept from a given concept class\; to wh
+ at extent does interacting with a domain expert accelerate the learning pr
+ ocess? It is common to measure the effectiveness of learning algorithms by
+  plotting the “learning curve”\, that is\, the decay of the error rate
+  as a function of the algorithm’s resources (examples\, queries\, etc). 
+ Thus\, the overarching question in this presentation is whether interactio
+ n accelerates learning. It turns out the answer is hidden in better unders
+ tanding the two-player infinite games.  So\, if you like games and statis
+ tical learning\, then this talk might be of interest to you.\n\n.\n\n\nhtt
+ ps://yins.yale.edu/event/fds-seminar-amin-karbasi
+LOCATION:DL220
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/fds-seminar-amin-karbasi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FDS Seminar: Daniel A. Spielman
+DTSTART;VALUE=DATE-TIME:20220928T200000
+DTEND;VALUE=DATE-TIME:20220928T210000
+DESCRIPTION:Event description:\nFoundations of Data Science Seminar Series
+ \n\nSpeaker: Daniel A. Spielman\n\nSterling Professor of Computer Science\
+ , Professor Statistics and Data Science and of Mathematics\nDirector\, Yal
+ e Institute for Foundations of Data Science\n\n\nhttps://yins.yale.edu/eve
+ nt/fds-seminar-daniel-spielman
+LOCATION:DL220
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/fds-seminar-daniel-spielman
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FDS Seminar: Rex Ying
+DTSTART;VALUE=DATE-TIME:20221005T200000
+DTEND;VALUE=DATE-TIME:20221005T210000
+DESCRIPTION:Event description:\nFoundations of Data Science Seminar Series
+ \n\nSpeaker: Rex Ying\nAssistant Professor of Computer Science\n\n.\n\n\nh
+ ttps://yins.yale.edu/event/fds-seminar-rex-ying
+LOCATION:DL220
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/fds-seminar-rex-ying
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium\, Jason Weston\, Facebook AI & NYU Visiting Research
+  Professor
+DTSTART;VALUE=DATE-TIME:20220913T200000
+DTEND;VALUE=DATE-TIME:20220913T210000
+DESCRIPTION:Event description:\nCS Colloquium - Jason Weston\, Facebook 
+ AI & NYU Visiting Research Professor\n\n\n\n\n\n\n\n\n\n\n\n“A journey 
+ from ML and NNs to NLP and Beyond: Just more of the same isn’t enough?
+ ”\n\nAbstract: The first half of the talk will look back on the last t
+ wo decades of machine learning\, neural network and natural language proce
+ ssing research for dialogue\, through my personal lens\, to discuss the ad
+ vances that have been made and the circumstances in which they happened 
+ – to try to give clues of what we should be working on for the future. T
+ he second half will dive deeper into some current first steps in those fut
+ ure directions\, in particular trying to fix the problems of neural genera
+ tive models to enable deeper reasoning with short and long-term coherence\
+ , and to ground such dialogue agents to an environment where they can act 
+ and learn. We will argue that just scaling up current techniques\, while a
+  worthy investigation\, will not be enough to solve these problems.\n\n\n\
+ n\n\nCS Talk:\nhttps://yale.zoom.us/j/98168333417?pwd=cGJjUE1uNUUzU2x3QnBG
+ NUYvbXFFQT09\nPassword: 707050\nOr Telephone：203-432-9666 (2-ZOOM if on-
+ campus) or 646 568 7788\nMeeting ID: 981 6833 3417\nInternational numbers 
+ available:\nhttps://yale.zoom.us/u/acY5ReXxjL\n\n\nhttps://cpsc.yale.edu/e
+ vent/cs-colloquium-jason-weston-facebook-ai-nyu-visiting-research-professo
+ r\n\n\n\n\n\nHost: Dragomir Radev\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.\n\n
+ \nhttps://yins.yale.edu/event/cs-colloquium-jason-weston-facebook-ai-nyu-v
+ isiting-research-professor
+LOCATION:https://yale.zoom.us/j/98168333417?pwd=cGJjUE1uNUUzU2x3QnBGNUYvbX
+ FFQT09
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/cs-colloquium-jason-weston-facebook-ai-nyu
+ -visiting-research-professor
+END:VEVENT
 END:VCALENDAR
