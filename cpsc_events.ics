@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Jason Weston\, Facebook AI & NYU Visiting Research
-  Professor
-DTSTART;VALUE=DATE-TIME:20220913T200000
-DTEND;VALUE=DATE-TIME:20220913T210000
-DESCRIPTION:Event description:\nCS Colloquium\nJason Weston\, Facebook AI
-  & NYU Visiting Research Professor\n\nHost: Dragomir Radev\n\nTitle: A jou
- rney from ML and NNs to NLP and Beyond: Just more of the same isn’t enou
- gh?\n\nAbstract:\n\nThe first half of the talk will look back on the las
- t two decades of machine learning\, neural network and natural language pr
- ocessing research for dialogue\, through my personal lens\, to discuss the
-  advances that have been made and the circumstances in which they happened
-  – to try to give clues of what we should be working on for the future. 
- The second half will dive deeper into some current first steps in those fu
- ture directions\, in particular trying to fix the problems of neural gener
- ative models to enable deeper reasoning with short and long-term coherence
- \, and to ground such dialogue agents to an environment where they can act
-  and learn. We will argue that just scaling up current techniques\, while 
- a worthy investigation\, will not be enough to solve these problems.\n\n\n
- https://cpsc.yale.edu/event/cs-colloquium-jason-weston-facebook-ai-nyu-vis
- iting-research-professor
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-jason-weston-facebook-ai-nyu
- -visiting-research-professor
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Joohyung Kim\, University of Illinois at Urbana-Ch
  ampaign
 DTSTART;VALUE=DATE-TIME:20220920T143000
