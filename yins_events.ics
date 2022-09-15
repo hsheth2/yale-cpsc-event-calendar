@@ -57,8 +57,24 @@ DTEND;VALUE=DATE-TIME:20220928T210000
 DESCRIPTION:Event description:\nFoundations of Data Science Seminar Series
  \n\nSpeaker: Daniel A. Spielman\n\nSterling Professor of Computer Science\
  , Professor Statistics and Data Science and of Mathematics\nDirector\, Yal
- e Institute for Foundations of Data Science\n\n\nhttps://yins.yale.edu/eve
- nt/fds-seminar-daniel-spielman
+ e Institute for Foundations of Data Science\n\n“Balancing covariates in 
+ randomized experiments”\n\nAbstract: In randomized experiments\, we rand
+ omly assign the treatment that each experimental subject receives. Randomi
+ zation can help us accurately estimate the difference in treatment effects
+  with high probability. It also helps ensure that the groups of subjects r
+ eceiving each treatment are similar. If we have already measured character
+ istics of our subjects that we think could influence their response to tre
+ atment\, then we can increase the precision of our estimates of treatment 
+ effects by balancing those characteristics between the groups.  We show h
+ ow to use the recently developed Gram-Schmidt Walk algorithm of Bansal\, D
+ adush\, Garg\, and Lovett to efficiently assign treatments to subjects in 
+ a way that balances known characteristics without sacrificing the benefits
+  of randomization. These allow us to obtain more accurate estimates of tre
+ atment effects to the extent that the measured characteristics are predict
+ ive of treatment effects\, while also bounding the worst-case behavior whe
+ n they are not.\n\nThis is joint work with Chris Harshaw\, Fredrik Sävje\
+ , and Peng Zhang.\n\n.\n\n\nhttps://yins.yale.edu/event/fds-seminar-daniel
+ -spielman
 LOCATION:DL220
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/fds-seminar-daniel-spielman
