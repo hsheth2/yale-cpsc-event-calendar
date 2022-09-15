@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Film Screening of Unconformity and Conversation with Writer and Di
- rector Jonathan DiMaio
-DTSTART;VALUE=DATE-TIME:20220914T200000
-DTEND;VALUE=DATE-TIME:20220914T210000
-DESCRIPTION:Event description:\nAn ambitious\, rock-climbing geology stude
- nt defies her imperious advisor to travel to the Nevada high desert\, wher
- e a career-defining discovery and an unexpected friendship with a young ca
- ttle rancher force her to make life-altering decisions. Unconformity is th
- e story of a friendship tested in the American West\, framed by geology\, 
- rock climbing\, land rights\, exploitation in academia\, and the climate c
- risis.\n\nJoin us for a post-film moderated conversation with writer and d
- irector Jonathan DiMaio ‘09.\n\n\nhttps://frankeprogram.yale.edu/event/f
- ilm-screening-unconformity-and-conversation-writer-and-director-jonathan-d
- imaio
-LOCATION:Humanities Quadrangle\, L02
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/film-screening-unconformity-and-c
- onversation-writer-and-director-jonathan-dimaio
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  Alexander Paseau
 DTSTART;VALUE=DATE-TIME:20220928T190000
 DTEND;VALUE=DATE-TIME:20220928T200000
