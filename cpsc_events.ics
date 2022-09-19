@@ -2,36 +2,36 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Joohyung Kim\, University of Illinois at Urbana-Ch
- ampaign
+SUMMARY:CS Colloquium - Joohyung Kim\, University of Illinois Urbana-Champ
+ aign
 DTSTART;VALUE=DATE-TIME:20220920T143000
 DTEND;VALUE=DATE-TIME:20220920T153000
 DESCRIPTION:Event description:\nCS Colloquium\nJoohyung Kim\, University o
- f Illinois at Urbana-Champaign\n\nHost: Marynel Vazquez\n\nTitle: Towards 
- Human-Friendly Robots\n\nAbstract:\n\nThe demand for robots which can work
-  closely and interact physically with human has been growing. Such robots 
- can already be found guiding\, serving\, and entertaining people in some p
- laces\, such as airports\, restaurants\, and amusement parks. However\, de
- spite advances in related technologies\, there are very few robotic applic
- ations to meet the public’s expectations. To make robots help humans in 
- daily life\, we need better understanding of human evironments and tasks\,
-  better methods to perform the tasks through robots\, and better design to
-  interact with human naturally and safely. In this talk\, I will present m
- y works and experience to make human-friendly robots by means of robot des
- ign\, motion control\, and human-robot interaction.\n\nBio:\n\nJoohyung Ki
- m is currently an Associate Professor of Electrical and Computer Engineeri
- ng in University of Illinois at Urbana-Champaign. His research focuses on 
- design and control for humanoid robots\, system for motion learning in rob
- ot hardware\, and safe human-robot interaction. He received BSE and Ph.D. 
- degrees in Electrical Engineering and Computer Science (EECS) from Seoul N
- ational University\, Korea\, in 2001 and 2012. He was with Disney Research
-  as a Research Scientist from 2013 to 2019. Prior to joining Disney\, he w
- as a postdoctoral fellow in the Robotics Institute at Carnegie Mellon Univ
- ersity for DARPA Robotics Challenge in 2013. From 2009 to 2012\, he was a 
- Research Staff Member in Samsung Advanced Institute of Technology\, Korea\
- , developing biped walking controllers for humanoid robots.\n\n\nhttps://c
- psc.yale.edu/event/cs-colloquium-joohyung-kim-university-illinois-urbana-c
- hampaign
+ f Illinois Urbana-Champaign\n\nHost: Marynel Vazquez\n\nTitle: Towards Hum
+ an-Friendly Robots\n\nAbstract:\n\nThe demand for robots which can work cl
+ osely and interact physically with human has been growing. Such robots can
+  already be found guiding\, serving\, and entertaining people in some plac
+ es\, such as airports\, restaurants\, and amusement parks. However\, despi
+ te advances in related technologies\, there are very few robotic applicati
+ ons to meet the public’s expectations. To make robots help humans in dai
+ ly life\, we need better understanding of human evironments and tasks\, be
+ tter methods to perform the tasks through robots\, and better design to in
+ teract with human naturally and safely. In this talk\, I will present my w
+ orks and experience to make human-friendly robots by means of robot design
+ \, motion control\, and human-robot interaction.\n\nBio:\n\nJoohyung Kim i
+ s currently an Associate Professor of Electrical and Computer Engineering 
+ in University of Illinois at Urbana-Champaign. His research focuses on des
+ ign and control for humanoid robots\, system for motion learning in robot 
+ hardware\, and safe human-robot interaction. He received BSE and Ph.D. deg
+ rees in Electrical Engineering and Computer Science (EECS) from Seoul Nati
+ onal University\, Korea\, in 2001 and 2012. He was with Disney Research as
+  a Research Scientist from 2013 to 2019. Prior to joining Disney\, he was 
+ a postdoctoral fellow in the Robotics Institute at Carnegie Mellon Univers
+ ity for DARPA Robotics Challenge in 2013. From 2009 to 2012\, he was a Res
+ earch Staff Member in Samsung Advanced Institute of Technology\, Korea\, d
+ eveloping biped walking controllers for humanoid robots.\n\n\nhttps://cpsc
+ .yale.edu/event/cs-colloquium-joohyung-kim-university-illinois-urbana-cham
+ paign
 LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-joohyung-kim-university-illi
