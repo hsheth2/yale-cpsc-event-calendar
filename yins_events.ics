@@ -2,55 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Distinguished Lecturer: Nicholas Christakis
-DTSTART;VALUE=DATE-TIME:20220921T160000
-DTEND;VALUE=DATE-TIME:20220921T170000
-DESCRIPTION:Event description:\nYINS Distinguished Lecturer: Nicholas Chri
- stakis\n\n“Social Network Interventions”\n\nSpeaker: Nicholas Christak
- is\nSterling Professor of Social and Natural Science at Yale University\n\
- nTalk summary:\nIn this overview talk\, Christakis will review recent work
-  using insights about social networks in order to design interventions to 
- improve health\, wealth\, and communication in human groups.  The interve
- ntions are of three types\, manipulating connection\, contagion\, and posi
- tion.\n\nSpeaker bio:\n\nNicholas A. Christakis\, MD\, PhD\, MPH\,\nis a s
- ocial scientist and physician at Yale University who conducts research in 
- the fields of network science\, biosocial science\, and behavior genetics.
-  His current work focuses on how human biology and health affect\, and are
-  affected by\, social interactions and social networks. He directs the Hum
- an Nature Lab and is the Co-Director of the Yale Institute for Network Sci
- ence. He is the Sterling Professor of Social and Natural Science at Yale U
- niversity\, appointed in the Departments of Sociology\; Medicine\; Ecology
-  and Evolutionary Biology\; Biomedical Engineering\; and the School of Man
- agement.\n\n.\n\n\nhttps://yins.yale.edu/event/yins-distinguished-lecturer
- -nicholas-christakis
-LOCATION:Yale Institute for Network Science
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-distinguished-lecturer-nicholas-chris
- takis
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FDS Seminar: Amin Karbasi
-DTSTART;VALUE=DATE-TIME:20220921T200000
-DTEND;VALUE=DATE-TIME:20220921T210000
-DESCRIPTION:Event description:\nFoundations of Data Science Seminar Series
- \n\n“Gaming the Learning”\n\nSpeaker: Amin Karbasi\nAssociate Professo
- r\, Electrical Engineering and Department of Statistics & Data Science\n\n
- Inference\, Information and Decision Systems Group\n\nAbstract:\nConsider 
- the task of learning an unknown concept from a given concept class\; to wh
- at extent does interacting with a domain expert accelerate the learning pr
- ocess? It is common to measure the effectiveness of learning algorithms by
-  plotting the “learning curve”\, that is\, the decay of the error rate
-  as a function of the algorithm’s resources (examples\, queries\, etc). 
- Thus\, the overarching question in this presentation is whether interactio
- n accelerates learning. It turns out the answer is hidden in better unders
- tanding the two-player infinite games.  So\, if you like games and statis
- tical learning\, then this talk might be of interest to you.\n\n.\n\n\nhtt
- ps://yins.yale.edu/event/fds-seminar-amin-karbasi
-LOCATION:ML211
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/fds-seminar-amin-karbasi
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FDS Seminar: Daniel A. Spielman
 DTSTART;VALUE=DATE-TIME:20220928T200000
 DTEND;VALUE=DATE-TIME:20220928T210000
