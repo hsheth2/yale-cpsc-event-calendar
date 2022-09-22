@@ -58,4 +58,14 @@ LOCATION:DL220
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/fds-seminar-rex-ying
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FDS Seminar: Smita Krishnaswamy
+DTSTART;VALUE=DATE-TIME:20221012T200000
+DTEND;VALUE=DATE-TIME:20221012T210000
+DESCRIPTION:No description provided\n\nhttps://yins.yale.edu/event/fds-sem
+ inar-smita-krishnaswamy
+LOCATION:DL220
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/fds-seminar-smita-krishnaswamy
+END:VEVENT
 END:VCALENDAR
