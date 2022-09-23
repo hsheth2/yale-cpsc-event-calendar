@@ -68,4 +68,14 @@ LOCATION:DL220
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/fds-seminar-smita-krishnaswamy
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FDS Seminar: Priya Panda
+DTSTART;VALUE=DATE-TIME:20221109T210000
+DTEND;VALUE=DATE-TIME:20221109T220000
+DESCRIPTION:No description provided\n\nhttps://yins.yale.edu/event/fds-sem
+ inar-priya-panda
+LOCATION:DL220
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/fds-seminar-priya-panda
+END:VEVENT
 END:VCALENDAR
