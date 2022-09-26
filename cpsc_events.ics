@@ -33,4 +33,51 @@ LOCATION:AKW 200 and Zoom Presentation
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-alex-ozdemir
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS/YQI Colloquium - Margaret Martonosi\, Princeton University
+DTSTART;VALUE=DATE-TIME:20221005T160000
+DTEND;VALUE=DATE-TIME:20221005T170000
+DESCRIPTION:Event description:\nCS/YQI Colloquium - Margaret Martonosi\, P
+ rinceton University\n\nHost: Yongshan Ding\n\nTitle: Mind the Gap: Challen
+ ges and Opportunities in Closing the Algorithms-to-Devices Gap in Quantum 
+ Computing\n\nAbstract:\n\nFrom its initial proposal\, Quantum Computing (Q
+ C) has had captivating potential\, and scientists have worked on advancing
+  towards that potential.  With well-known algorithms as motivation\, and 
+ increasingly capable hardware devices\, QC has now reached an interesting 
+ and important inflection point. The Algorithms-to-Devices gap in QC refers
+  to the orders of magnitude difference between the quantity and quality of
+  resources needed by QC algorithms\, and what has been successfully built 
+ today.\n\nWhat is needed now are computer scientists and engineers to deve
+ lop the crucial intermediate tool flows\, abstraction layers\, and program
+ ming languages that will help QC systems close this gap and reach practica
+ l quantum advantage. My talk will offer some recent results from my group 
+ about new applications\, compiler\, and architecture approaches for bridgi
+ ng the gap. More broadly\, I will advocate for the role that computer scie
+ ntists and engineers—particularly architecture and systems researchers 
+ — must play in order for QC to reach its full potential.\n\nBio:\n\nMarg
+ aret Martonosi is the H.T. Adams ‘35 Professor of Computer Science at Pr
+ inceton University\, where she has been on the faculty since 1994. Martono
+ si’s research interests are in computer architecture and mobile computin
+ g. Her work has included the development of the Wattch power modelling too
+ l and the Princeton ZebraNet mobile sensor network project for the design 
+ and real-world deployment of zebra tracking collars in Kenya. Her current 
+ research focuses on hardware-software interface approaches in both classic
+ al and quantum computing systems.\n\nMartonosi is an elected member of the
+  US National Academy of Engineering and the American Academy of Arts and S
+ ciences. In 2021\, she received computer architecture’s highest honor\, 
+ the ACM/IEEE Eckert-Mauchly Award\, for contributions to the design\, mode
+ ling\, and verification of power-efficient computer architecture. She is a
+  Fellow of IEEE and ACM. Her papers have received numerous long-term impac
+ t awards in the SIGARCH\, SIGMOBILE\, and other communities. Other notable
+  awards include the 2018 IEEE Computer Society Technical Achievement Award
+ \, 2010 Princeton University Graduate Mentoring Award\, and the 2019 ACM S
+ IGARCH Alan D. Berenbaum Distinguished Service Award. Her work with others
+  to co-found the ACM CARES movement was recognized by the Computing Resear
+ ch Association’s 2020 Distinguished Service Award.\n\n\n\nhttps://cpsc.y
+ ale.edu/event/csyqi-colloquium-margaret-martonosi-princeton-university
+LOCATION:Yale Quantum Institute
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/csyqi-colloquium-margaret-martonosi-prince
+ ton-university
+END:VEVENT
 END:VCALENDAR
