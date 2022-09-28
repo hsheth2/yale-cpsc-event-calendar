@@ -42,42 +42,6 @@ URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
  sion-alexander-paseau
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inference Project Virtual Talk and Conversation\, Inference:  A Lo
- gical-Philosophical Perspective
-DTSTART;VALUE=DATE-TIME:20220928T190000
-DTEND;VALUE=DATE-TIME:20220928T200000
-DESCRIPTION:Event description:\nIn this talk\, Professor Paseau will descr
- ibe some of his work on inference within mathematics and more generally. I
- nferences can be usefully divided into deductive or non-deductive. Formal 
- logic studies deductive inference\, the obvious question here being: which
-  formal logic correctly captures it? His view\, defended in his recent mon
- ograph One True Logic (Oxford UP\, co-authored with Owen Griffiths)\, is t
- hat any such logic must be highly infinite. In this Inference Project even
- t\, he shall explain what this means and sketch some arguments for it.\nTh
- e other side of the coin is non-deductive inference. This is much harder t
- o capture precisely\, but many interesting and important things can still 
- be said about it. Professor Paseau will present some of his ideas about no
- n-deductive reasoning in mathematics and explain why\, contrary to current
-  and traditional thinking\, it can be a source not just of justified belie
- f but also knowledge.\nWhat links the two halves of the talk? The idea tha
- t inference\, both deductive and non-deductive\, is more permissive than o
- ften imagined.\nProfessor Gila Sher of the University of California\, San 
- Diego will be the conversant for this event.  As a philosophy professor\, 
- her research interests center on foundational issues in epistemology\, the
-  philosophy of logic\, and the theory of truth. Her books include: The Bou
- nds of Logic: A Generalized Viewpoint (MIT\, 1991)\, Epistemic Friction: A
- n Essay on Knowledge\, Truth\, and Logic (Oxford\, 2016)\, and Logical Con
- sequence (Cambridge\, 2022). She is currently working on a book tentativel
- y titled Truth as a Human Value\, which offers a reconception of the philo
- sophy of truth in light of the post-truth crisis.\n\n\nhttps://frankeprogr
- am.yale.edu/event/inference-project-virtual-talk-and-conversation-inferenc
- e-logical-philosophical-perspective
-LOCATION:Online ()
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/inference-project-virtual-talk-an
- d-conversation-inference-logical-philosophical-perspective
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  Alexander Paseau
 DTSTART;VALUE=DATE-TIME:20220928T190000
 DTEND;VALUE=DATE-TIME:20220928T200000
