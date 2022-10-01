@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Alex Ozdemir
-DTSTART;VALUE=DATE-TIME:20220930T150000
-DTEND;VALUE=DATE-TIME:20220930T160000
-DESCRIPTION:Event description:\nCS Talk\nAlex Ozdemir\n\nHost: Ruzica Pisk
- ac\nIf you would like to meet with Alex\, please let Ruzica know.\n\nTitle
- : CirC: Unifying Compilers for SNARKs\, SMT\, and More [Oakland’22]\nAut
- hors: Alex Ozdemir\, Fraser Brown\, Riad S. Wahby\n\nAbstract:\n\nWe prese
- nt CirC (“SIR-see”): a compiler infrastructure that aims to support ze
- ro-knowledge proof systems\, multi-party computations\, fully homomorphic 
- encryption\, constraint solving\, and optimization. We observe that these 
- seemingly disparate cryptosystems and verification problems share a common
-  model of computation. This model is characterized by being state-free\, n
- on-uniform\, and non-deterministic—we call it the *existentially quantif
- ied circuit (EQC)*. The common model admits a shared compiler infrastructu
- re (CirC) for compiling different high-level languages to different circui
- t representations used by these systems.\n\nWe show:\n(1) CirC makes it ea
- sy to build new compilers for these systems * e.g.\, we reproduce and impr
- ove on a 28k LOC compiler in 700 LOC.\n(2) CirC’s compilers perform well
-  (by leveraging shared optimizations)\n(3) CirC enables “cross-overs” 
- in which different back-end systems are combined in the service of a share
- d optimization\n* SMT+ZKP = zero-knowledge bug bounties\n* SMT+X = SMT ass
- isted optimization\n* …\n\nPresenter:\n\nAlex Ozdemir is a Phd student a
- t Stanford\, studying cryptography and formal methods. Lately\, he’s bee
- n investigating how cryptographic proof systems can be made more useful\, 
- sometimes by using techniques from formal methods and programming language
- s.\n\nPaper link:\nhttps://eprint.iacr.org/2020/1586\n\n\n\nhttps://cpsc.y
- ale.edu/event/cs-talk-alex-ozdemir
-LOCATION:AKW 200 and Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-alex-ozdemir
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS/YQI Colloquium - Margaret Martonosi\, Princeton University
 DTSTART;VALUE=DATE-TIME:20221005T160000
 DTEND;VALUE=DATE-TIME:20221005T170000
