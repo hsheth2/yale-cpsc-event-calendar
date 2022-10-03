@@ -33,8 +33,65 @@ BEGIN:VEVENT
 SUMMARY:FDS Seminar: Smita Krishnaswamy
 DTSTART;VALUE=DATE-TIME:20221012T200000
 DTEND;VALUE=DATE-TIME:20221012T210000
-DESCRIPTION:No description provided\n\nhttps://yins.yale.edu/event/fds-sem
- inar-smita-krishnaswamy
+DESCRIPTION:Event description:\nFDS Seminar Series\n\n“Diffusion Earth M
+ over’s Distance\, Distribution Embeddings and Flows”\n\nSpeaker: Smita
+  Krishnaswamy\nAssociate Professor\, Dept of Computer Science\, Dept. of G
+ enetics\nPrograms for Applied Math\, Computational Biology & Bioinformatic
+ s\, Interdisciplinary Neuroscience\nYale Cancer Center\, Wu Tsai-Institute
+ \n\nAbstract:\nWe propose a new fast method of measuring distances between
+  large numbers of related high dimensional datasets called the Diffusion E
+ arth Mover’s Distance (EMD). We model the datasets as distributions supp
+ orted on a common data graph that is derived from the affinity matrix comp
+ uted on the combined data. In such cases where the graph is a discretizati
+ on of an underlying Riemannian closed manifold\, we prove that Diffusion E
+ MD is topologically equivalent to the standard EMD with a geodesic ground 
+ distance. Diffusion EMD can be computed in {Õ}(n) time and is more accura
+ te than similarly fast algorithms such as tree-based EMDs. We also show Di
+ ffusion EMD is fully differentiable\, making it amenable to future uses in
+  gradient-descent frameworks such as deep neural networks. We demonstrate 
+ an application of Diffusion EMD to single cell data collected from 210 COV
+ ID-19 patient samples at Yale New Haven Hospital. Here\, Diffusion EMD can
+  derive distances between patients on the manifold of cells at least two o
+ rders of magnitude faster than equally accurate methods. This distance mat
+ rix between patients can be embedded into a higher level patient manifold 
+ which uncovers structure and heterogeneity in patients. Finally\, we show 
+ DEMD’s incorporation into a neural ode framework we recently developed c
+ alled MIOFlow (Manifold Interpolating Flows) for learning dynamics from st
+ atic snapshot data. MIOFlow uses an autoencoder with multiscale diffusion 
+ distances to find a manifold embedding of data. Then within this latent sp
+ ace\, we use the neural network to learn a continuous time derivative to p
+ erform dynamic optimal transport of static snapshot measurements of cells 
+ and in the process infer continuous dynamics and single-cell trajectories.
+  We show results of this in a cancer metastasis system measured using sing
+ le-cell RNA-sequencing.\n\nSpeaker bio:\nSmita Krishnaswamy is an Associat
+ e Professor in the department of Genetics at the Yale School of Medicine a
+ nd Department of Computer Science in the Yale School of Applied Science an
+ d Engineering and a core member of the Program in Applied Mathematics. She
+  is also affiliated with the Yale Center for Biomedical Data Science\, Yal
+ e Cancer Center\, and Program in Interdisciplinary Neuroscience. Smita’s
+  research focuses on developing unsupervised machine learning methods (esp
+ ecially graph signal processing and deep-learning) to denoise\, impute\, v
+ isualize and extract structure\, patterns and relationships from big\, hig
+ h throughput\, high dimensional biomedical data. Her methods have been app
+ lied variety of datasets from many systems including embryoid body differe
+ ntiation\, zebrafish development\, the epithelial-to-mesenchymal transitio
+ n in breast cancer\, lung cancer immunotherapy\, infectious disease data\,
+  gut microbiome data and patient data.\n\nSmita teaches three courses: Mac
+ hine Learning for Biology (Fall)\, Deep Learning Theory and applications (
+ spring)\, Advanced Topics in Machine Learning & Data Mining (Spring). She 
+ completed her postdoctoral training at Columbia University in the systems 
+ biology department where she focused on learning computational models of c
+ ellular signaling from single-cell mass cytometry data. She was trained as
+  a computer scientist with a Ph.D. from the University of Michigan’s EEC
+ S department where her research focused on algorithms for automated synthe
+ sis and probabilistic verification of nanoscale logic circuits. Following 
+ her time in Michigan\, Smita spent 2 years at IBM’s TJ Watson Research 
+  Center as a researcher in the systems division where she worked on autom
+ ated bug finding and error correction in logic.\n\nThis presentation will 
+ be live and in-person\, but remote access is available here:\nhttps://yale
+ .hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e3a4115-73f7-4205-976d-a
+ f1c01266047\n\n.\n\n\nhttps://yins.yale.edu/event/fds-seminar-smita-krishn
+ aswamy
 LOCATION:DL220
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/fds-seminar-smita-krishnaswamy
