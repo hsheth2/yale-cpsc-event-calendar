@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Stefan Leue\, Chair for Software and Systems Engineering
- \, University of Konstanz\, Germany
-DTSTART;VALUE=DATE-TIME:20221003T154500
-DTEND;VALUE=DATE-TIME:20221003T164500
-DESCRIPTION:Event description:\nCS Talk\nStefan Leue\nChair for Software a
- nd Systems Engineering\nUniversity of Konstanz\, Germany\n\nHost: Ruzica P
- iskac\n\nPlease let Ruzica know if you would like to meet with the speaker
- .\n\nAutomated Consistency Checking of Legal Contracts\n\nAbstract:\n\nI w
- ill discuss consistency analysis of legal contracts\, in particular sales 
- purchase agreements. During the negotiation phase\, contracts undergo freq
- uent change. At the same time\, sales and purchase agreements often have c
- onsiderable complexity. It is\, hence\, desirable to have automated consis
- tency analysis available so as to avoid inconsistent or non-favorable cont
- ractual agreements. I describe the system LegalCheck. For a contract given
-  in a structured block syntax it synthesizes a logical representation in d
- ecidable fragments of first order logic. It then performs consistency anal
- ysis using SMT solving. ContractCheck can also identify unfavorable contra
- ctual positions using MaxSMT solving.\n\nShort bio:\n\nhttps://www.sen.uni
- -konstanz.de/members/prof-dr-stefan-leue/\n\n\nhttps://cpsc.yale.edu/event
- /cs-talk-stefan-leue-chair-software-and-systems-engineering-university-kon
- stanz-germany
-LOCATION:AKW 307 and Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-stefan-leue-chair-software-and-sys
- tems-engineering-university-konstanz-germany
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS/YQI Colloquium - Margaret Martonosi\, Princeton University
 DTSTART;VALUE=DATE-TIME:20221005T160000
 DTEND;VALUE=DATE-TIME:20221005T170000
