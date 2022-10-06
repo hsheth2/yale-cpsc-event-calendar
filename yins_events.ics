@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:FDS Seminar: Rex Ying
-DTSTART;VALUE=DATE-TIME:20221005T200000
-DTEND;VALUE=DATE-TIME:20221005T210000
-DESCRIPTION:Event description:\nFoundations of Data Science Seminar Series
- \n\nSpeaker: Rex Ying\nAssistant Professor of Computer Science\n\n“Graph
-  Representation Learning: A Geometric Perspective”\n\nAbstract:\nThe tal
- k focuses on geometric embedding approaches to representation learning on 
- graph-structured data. We observe that certain inductive biases of graph d
- ata\, such as hierarchies and transitive closures\, can be modeled more ef
- fectively through different embedding geometries. We leverage hyperbolic e
- mbeddings\, cone embeddings and order embeddings for incorporating these i
- nductive biases of input graph data when learning node and graph represent
- ations for large-scale\, heterogeneous graph data and challenging tasks.\n
- \nSpeaker Bio:\nRex Ying is an assistant professor in the Department of Co
- mputer Science at Yale University. His research focus includes algorithms 
- for graph neural networks\, geometric embeddings\, and trustworthy ML on g
- raphs. He is the author of many widely used GNN algorithms such as GraphSA
- GE\, PinSAGE and GNNExplainer. In addition\, Rex worked on a variety of ap
- plications of graph learning in physical simulations\, social networks\, N
- LP\, knowledge graphs and biology. He developed the first billion-scale gr
- aph embedding services at Pinterest\, and the graph-based anomaly detectio
- n algorithm at Amazon. He is the winner of the dissertation award at KDD 2
- 022.\n\n.\n\n.\n\n\nhttps://yins.yale.edu/event/fds-seminar-rex-ying
-LOCATION:DL220
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/fds-seminar-rex-ying
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FDS Seminar: Smita Krishnaswamy
 DTSTART;VALUE=DATE-TIME:20221012T200000
 DTEND;VALUE=DATE-TIME:20221012T210000
