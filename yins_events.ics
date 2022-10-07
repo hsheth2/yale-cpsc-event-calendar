@@ -69,6 +69,17 @@ STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/fds-seminar-smita-krishnaswamy
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:YINS Seminar: Vardis Kandiros (MIT)
+DTSTART;VALUE=DATE-TIME:20221102T160000
+DTEND;VALUE=DATE-TIME:20221102T170000
+DESCRIPTION:Event description:\nYINS Seminar: Vardis Kandiros\n\nSpeaker: 
+ Vardis Kandiros\nMIT\n\n\nhttps://yins.yale.edu/event/yins-seminar-vardis-
+ kandiros-mit
+LOCATION:Yale Institute for Network Science
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/yins-seminar-vardis-kandiros-mit
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FDS Seminar: Priya Panda
 DTSTART;VALUE=DATE-TIME:20221109T210000
 DTEND;VALUE=DATE-TIME:20221109T220000
