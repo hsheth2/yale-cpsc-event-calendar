@@ -2,32 +2,34 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Talk by Acclaimed Journalist Esther Honig
+SUMMARY:White Gold Fever:  The Story of Deep Sea Treasure and Environmenta
+ l Tragedy
 DTSTART;VALUE=DATE-TIME:20221116T210000
 DTEND;VALUE=DATE-TIME:20221116T220000
-DESCRIPTION:Event description:\nJoin us on Wednesday\, November 16 at 4 p.
- m. for a remarkable talk by journalist\nEsther Honig\n.\n\nIt was early sp
- ring\, nearly 15 years ago\, when Belen Delgado made the discovery of a li
- fetime. As a fisherman in rural Mexico\, Belen had a hunch that a giant ba
- nk of Callo de Hacha\, a rare and incredibly expensive shellfish\, lay jus
- t off the shore of his small coastal town. Together with friends\, he hire
- d a diver to plunge 70 feet below the surface and when he emerged the dive
- r confirmed Belen’s suspicion\, “wherever you step\,” he said\, “t
- here’s callo.” The colony of Callo de Hacha covered 30 miles of ocean 
- floor and was worth millions of dollars. This was the financial windfall t
- he town desperately needed\, but Belen wasn’t prepared for the chaos and
-  greed that soon followed as his fellow fishermen succumbed to the “Whit
- e Gold Fever.” This story was produced for the podcast Snap Judgment in 
- partnership with FERN\, the Food and Environment Reporting Network. It exp
- lores overfishing\, climate change and the limitation of government regula
- tions when matched against the needs of people who are working to put food
-  on the table.\n\nRegister in advance for this webinar:\n\nhttps://yale.zo
- om.us/webinar/register/WN_WsH_7sUNSkSEidjp-7PQVQ\n\n\nhttps://frankeprogra
- m.yale.edu/event/talk-acclaimed-journalist-esther-honig
+DESCRIPTION:Event description:\nJoin us on ZOOM on Wednesday\, November 16
+  at 4 p.m. for a remarkable talk by journalist\nEsther Honig\n.\n\nIt was 
+ early spring\, nearly 15 years ago\, when Belen Delgado made the discovery
+  of a lifetime. As a fisherman in rural Mexico\, Belen had a hunch that a 
+ giant bank of Callo de Hacha\, a rare and incredibly expensive shellfish\,
+  lay just off the shore of his small coastal town. Together with friends\,
+  he hired a diver to plunge 70 feet below the surface and when he emerged 
+ the diver confirmed Belen’s suspicion\, “wherever you step\,” he sai
+ d\, “there’s callo.” The colony of Callo de Hacha covered 30 miles o
+ f ocean floor and was worth millions of dollars. This was the financial wi
+ ndfall the town desperately needed\, but Belen wasn’t prepared for the c
+ haos and greed that soon followed as his fellow fishermen succumbed to the
+  “White Gold Fever.” This story was produced for the podcast Snap Judg
+ ment in partnership with FERN\, the Food and Environment Reporting Network
+ . It explores overfishing\, climate change and the limitation of governmen
+ t regulations when matched against the needs of people who are working to 
+ put food on the table.\n\nRegister in advance for this webinar:\n\nhttps:/
+ /yale.zoom.us/webinar/register/WN_WsH_7sUNSkSEidjp-7PQVQ\n\n\nhttps://fran
+ keprogram.yale.edu/event/white-gold-fever-story-deep-sea-treasure-and-envi
+ ronmental-tragedy
 LOCATION:Zoom Webinar
 STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/talk-acclaimed-journalist-esther-
- honig
+URL:https://frankeprogram.yale.edu/event/white-gold-fever-story-deep-sea-t
+ reasure-and-environmental-tragedy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  Brian Cantwell Smith
