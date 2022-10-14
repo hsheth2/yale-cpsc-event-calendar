@@ -16,8 +16,47 @@ BEGIN:VEVENT
 SUMMARY:FDS Seminar: Priya Panda
 DTSTART;VALUE=DATE-TIME:20221109T210000
 DTEND;VALUE=DATE-TIME:20221109T220000
-DESCRIPTION:No description provided\n\nhttps://yins.yale.edu/event/fds-sem
- inar-priya-panda
+DESCRIPTION:Event description:\nFDS Seminar\n\n“Exploring Robustness and
+  Energy-Efficiency in Neural Systems with Spike-based Machine Intelligence
+ ”\n\nSpeaker: Priya Panda\nAssistant Professor\, Electrical Engineering\
+ , Yale University\n\nAbstract:\nSpiking Neural Networks (SNNs) have recent
+ ly emerged as an alternative to deep learning due to their huge energy eff
+ iciency benefits on neuromorphic hardware. In this presentation\, I will t
+ alk about important techniques for training SNNs which bring a huge benefi
+ t in terms of latency\, accuracy\, interpretability\, and robustness. We w
+ ill first delve into how training is performed in SNNs. Training SNNs with
+  surrogate gradients presents computational benefits due to short latency.
+  However\, due to the non-differentiable nature of spiking neurons\, the t
+ raining becomes problematic and surrogate methods have thus been limited t
+ o shallow networks. To address this training issue with surrogate gradient
+ s\, we will go over a recently proposed method Batch Normalization Through
+  Time (BNTT) that allows us to train SNNs from scratch with very low laten
+ cy and enables us to target interesting applications like video segmentati
+ on and beyond traditional learning scenarios\, like federated training. An
+ other critical limitation of SNNs is the lack of interpretability. While a
+  considerable amount of attention has been given to optimizing SNNs\, the 
+ development of explainability still is at its infancy. I will talk about o
+ ur recent work on a bio-plausible visualization tool for SNNs\, called Spi
+ ke Activation Map (SAM) compatible with BNTT training. The proposed SAM hi
+ ghlights spikes having short inter-spike interval\, containing discriminat
+ ive information for classification. Finally\, with proposed BNTT and SAM\,
+  I will highlight the robustness aspect of SNNs with respect to adversaria
+ l attacks. In the end\, I will talk about interesting prospects of SNNs fo
+ r non-conventional learning scenarios such as privacy-preserving distribut
+ ed learning as well as unraveling the temporal correlation in SNNs with fe
+ edback connections. Finally\, time permitting\, I will talk about the pros
+ pects of SNNs for novel and emerging compute-in-memory hardware that can p
+ otentially yield order of magnitude lower power consumption than conventio
+ nal CPUs/GPUs.\n\nBio:\nPriya Panda is an assistant professor in the elect
+ rical engineering department at Yale University\, USA. She received her B.
+ E. and Master’s degree from BITS\, Pilani\, India in 2013 and her PhD fr
+ om Purdue University\, USA in 2019. During her PhD\, she interned in Intel
+  Labs where she developed large scale spiking neural network algorithms fo
+ r benchmarking the Loihi chip. She is the recipient of the 2019 Amazon Res
+ earch Award\, 2022 Google Research Scholar Award\, 2022 DARPA Riser Award.
+  Her research interests lie in Neuromorphic Computing\, energy-efficient a
+ ccelerators\, in-memory processing among others.\n\n.\n\n\nhttps://yins.ya
+ le.edu/event/fds-seminar-priya-panda
 LOCATION:DL220
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/fds-seminar-priya-panda

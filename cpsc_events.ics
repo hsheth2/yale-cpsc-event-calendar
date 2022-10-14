@@ -1,4 +1,40 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Rasmus Kyng\, ETH Zurich
+DTSTART;VALUE=DATE-TIME:20221108T210000
+DTEND;VALUE=DATE-TIME:20221108T220000
+DESCRIPTION:Event description:\nCS Colloquium\nRasmus Kyng\, ETH Zurich\n\
+ nHost: Dan Spielman\n\nAn Almost-Linear Time Algorithm for Maximum Flow an
+ d More\n\nAbstract:\n\nIn this talk\, I will explain a new algorithm for c
+ omputing exact maximum and minimum-cost flows in almost-linear time\, sett
+ ling the time complexity of these basic graph problems up to subpolynomial
+  factors.\n\nOur algorithm uses a novel interior point method that builds 
+ the optimal flow as a sequence of approximate minimum-ratio cycles\, each 
+ of which is computed and processed very efficiently using a new dynamic da
+ ta structure.\n\nBy well-known reductions\, our result implies almost-line
+ ar time algorithms for several problems including bipartite matching\, opt
+ imal transport\, and undirected vertex connectivity. Our framework also ex
+ tends to minimizing general edge-separable convex functions to high accura
+ cy\, yielding the first almost-linear time algorithms for many other probl
+ ems including entropy-regularized optimal transport\, matrix scaling\, p-n
+ orm flows\, and isotonic regression.\n\nThis talk is based on joint work w
+ ith Li Chen\, Yang P. Liu\, Richard Peng\, Maximilian Probst Gutenberg\, a
+ nd Sushant Sachdeva. Our result appeared in FOCS’22 and won the FOCS bes
+ t paper award.\n\nBio:\n\nRasmus Kyng is an assistant professor of theoret
+ ical computer science at ETH Zurich. Before joining the department in 2019
+ \, he was a postdoctoral fellow and Harvard SEAS and the Simons Institute 
+ at UC Berkeley. In 2017\, he received a PhD in computer science from Yale 
+ University\, where he was advised by Daniel Spielman.\n\nHis work focuses 
+ on fast algorithms for solving graph problems\, convex optimization\, and 
+ structured linear equations. In addition\, he develops hardness results fo
+ r basic algorithmic problems and probability theoretic tools for algorithm
+ ic applications. His research has won the FOCS’22 best paper and FOCS’
+ 17 best student paper awards.\n\n\nhttps://cpsc.yale.edu/event/cs-colloqui
+ um-rasmus-kyng-eth-zurich
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-rasmus-kyng-eth-zurich
+END:VEVENT
 END:VCALENDAR
