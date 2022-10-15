@@ -61,39 +61,4 @@ LOCATION:DL220
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/fds-seminar-priya-panda
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yale's Institute for Foundations of Data Science (FDS) Kickoff Eve
- nt
-DTSTART;VALUE=DATE-TIME:20221014T170000
-DTEND;VALUE=DATE-TIME:20221014T180000
-DESCRIPTION:Event description:\n\nRegister to attend the internal launch o
- f Yale’s Institute for Foundations of Data Science (FDS) for a birds-eye
-  view of data science at Yale University presented by faculty from across 
- campus.\n\nRegistration open:\nhttp://fds.yale.edu\n\nYale’s Institute f
- or Foundations of Data Science (FDS) for also known as the Kline Tower Ins
- titute\, was created to advance research in the mathematical\, algorithmic
- \, and statistical foundations of data science and their application to ot
- her disciplines. The institute integrates faculty from departments and sch
- ools across the university to help scholars apply new methods of data scie
- nce to their research. In turn\, exposure to the unmet needs of domain sci
- entists inspires advances in foundational research. The institute will hol
- d its activities at varying venues around campus. In August 2023\, FDS wil
- l move into Kline Tower and provide a venue for data scientists to meet\, 
- learn about recent advances\, discover exciting problems\, host visitors\,
-  and hold seminars\, workshops\, and conferences.\n\nEvent Schedule:\n\n1
- ﻿:00pm Introductory Remarks\n\n\nUniversity President Peter Salovey\n\nU
- niversity Provost Scott Strobel\n\nS﻿terling Professor and FDS Director\
- , Daniel Spielman\n\n\n1:15pm L﻿ightning Round 1\n\n\nRohan Khera\n\nEli
- sa Celis\n\nAmin Karbasi\n\nZhou Fan\n\nPriya Panda\n\nCasey King\n\nForre
- st Crawford\n\nMark Gerstein\n\nJeffrey Park\n\nDragomir Radev\n\n\n2﻿:1
- 5pm Coffee Break\n\n2:45pm L﻿ightning Round 2\n\n\nKaren Seto\n\nFredrik
-  Sävje\n\nIlker Yildirim\n\nLuke Sanford\n\nRoy Lederman\n\nJames S Dunca
- n\n\nXiaohong Chen\n\nCharalampos Papamanthou\n\nDirk Bergemann\n\nSteven 
- Zucker\n\nBryan Kelly\n\n\n\n.\n\n\n\nhttps://yins.yale.edu/event/yales-in
- stitute-foundations-data-science-fds-kickoff-event
-LOCATION:O.C. Marsh Lecture Hall
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yales-institute-foundations-data-science-f
- ds-kickoff-event
-END:VEVENT
 END:VCALENDAR
