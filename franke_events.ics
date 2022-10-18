@@ -2,6 +2,32 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
+SUMMARY:Architecture and Invention\, Talk by James Ramsey ‘99
+DTSTART;VALUE=DATE-TIME:20221110T210000
+DTEND;VALUE=DATE-TIME:20221110T220000
+DESCRIPTION:Event description:\nFollowing curiosity about the world down a
+  rabbit hole without hesitation can lead to innovation and inspiration. Fr
+ om archeology to space exploration to origami\, solutions to design proble
+ ms can often spring from the most unexpected places.\n\nThis in-person tal
+ k will be given by James Ramsey ‘99\, the principal of\nraad\nand the cr
+ eator of the Lowline. James’ experience in design began at Yale Universi
+ ty\, where he won a Bates Fellowship to study cathedral design in Europe. 
+ He then went to work as a satellite engineer for NASA\, where he was a par
+ t of the team that created the Pluto Fast Flyby and the Cassini satellites
+ . After his time at NASA\, James gained large firm experience at DMSAS in 
+ Washington\, DC and small firm knowledge\, upon relocating to New York\, a
+ t the boutique outfit\, Penny Yates Architects. While teaching design at t
+ he Parsons School of Design\, James worked to put the pieces in place to s
+ tart his own design practice in 2004. Raad has since built over a hundred 
+ projects\, both in NYC and across the country. James Ramsey is the invento
+ r of the Remote Skylight and founder of raadStuff.\n\n\nhttps://frankeprog
+ ram.yale.edu/event/architecture-and-invention-talk-james-ramsey-99
+LOCATION:Humanities Quadrangle\, L02
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/architecture-and-invention-talk-j
+ ames-ramsey-99
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:White Gold Fever:  The Story of Deep Sea Treasure and Environmenta
  l Tragedy
 DTSTART;VALUE=DATE-TIME:20221116T210000
