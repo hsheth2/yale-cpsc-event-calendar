@@ -37,4 +37,46 @@ LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-rasmus-kyng-eth-zurich
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Colloquium - Siddharth Srivastava\, Arizona State University
+DTSTART;VALUE=DATE-TIME:20221114T210000
+DTEND;VALUE=DATE-TIME:20221114T220000
+DESCRIPTION:Event description:\nCS Colloquium\nSiddharth Srivastava\, Ariz
+ ona State University\n\nHost: Tesca Fitzgerald\n\nTitle: From Sample-Effic
+ iency to User-Driven AI Assessment:\nLearning Generalizable Knowledge for 
+ Reliable Sequential Decision Making\n\nAbstract:\n\nI will present recent 
+ advances on learning for a range of sequential decision-making problems\, 
+ from generalizable planning and learning for long-horizon tasks in determi
+ nistic and stochastic environments to enabling end-users to assess the lim
+ its and capabilities of their AI systems\, even as these systems adapt and
+  learn. In the first part of the talk I will focus on neuro-symbolic abstr
+ actions for robot planning and our recent work on learning such abstracti
+ ons from scratch. These methods facilitate generalizable learning that can
+  be transferred to much larger problems and they outperform existing appro
+ aches on tasks that were not seen during training. In the second part of t
+ he talk\, I will discuss research challenges and solution approaches for a
+  new\, emerging problem: while we expect AI systems to continually adapt a
+ nd learn\, the problem of enabling end-users to safely determine the limit
+ s and capabilities of their changing AI systems remains largely unaddresse
+ d. I will conclude with some of our recent results on user-driven assessme
+ nt of adaptive black-box AI systems.\n\nBio:\n\nSiddharth Srivastava is an
+  Assistant Professor of Computer Science in the School of Computing and Au
+ gmented Intelligence at Arizona State University. Before joining ASU\, Sid
+ dharth was a Staff Scientist at the United Technologies Research Center in
+  Berkeley. Prior to that\, he was a postdoctoral researcher in the RUGS gr
+ oup at the University of California Berkeley. Siddharth received his PhD i
+ n Computer Science from the University of Massachusetts Amherst. His resea
+ rch interests include robotics and AI\, with a focus on reasoning\, planni
+ ng\, and acting under uncertainty. He is a recipient of the NSF CAREER awa
+ rd\, a Best Paper award at the International Conference on Automated Plann
+ ing and Scheduling (ICAPS) and an Outstanding Dissertation award from the 
+ Department of Computer Science at UMass Amherst. He served as conference c
+ hair for ICAPS 2019 and currently serves as an Associate Editor for the Jo
+ urnal of AI Research.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-siddh
+ arth-srivastava-arizona-state-university
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-siddharth-srivastava-arizona
+ -state-university
+END:VEVENT
 END:VCALENDAR
