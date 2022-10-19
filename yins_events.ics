@@ -5,9 +5,51 @@ BEGIN:VEVENT
 SUMMARY:YINS Seminar: Vardis Kandiros (MIT)
 DTSTART;VALUE=DATE-TIME:20221102T160000
 DTEND;VALUE=DATE-TIME:20221102T170000
-DESCRIPTION:Event description:\nYINS Seminar: Vardis Kandiros\n\nSpeaker: 
- Vardis Kandiros\nMIT\n\n\nhttps://yins.yale.edu/event/yins-seminar-vardis-
- kandiros-mit
+DESCRIPTION:Event description:\nYINS Seminar: Vardis Kandiros\n\n“Learni
+ ng Ising Models from One or Multiple Samples”\n\nSpeaker: Vardis Kandiro
+ s\nMIT\n\nAbstract:\nSamples from high-dimensional distributions can be sc
+ arce or expensive. Can we meaningfully learn such distributions from one o
+ r just a few samples? We answer this question by studying the settings of 
+ classification and regression when the input data consists of one vector\,
+  with dependencies among it’s entries.   For classification\, the probl
+ em can be cast as that of learning Ising models from a single sample. We p
+ rovide a polynomial time algorithm for this task and quantify the estimati
+ on error in terms of the metric entropy of possible interaction matrices. 
+ As a Corollary of our result\, we can recover the network of dependencies 
+ when the graph structure is low dimensional . Furthermore\, our result han
+ dles multiple independent samples by viewing them as one sample from a lar
+ ger model\, and can be used to derive estimation bounds that are qualitati
+ vely similar to state-of-the-art in the multiple-sample literature. We thu
+ s unify two separate strands of work in the literature\, one in Computer S
+ cience on estimating Ising models/MRFs from multiple independent samples a
+ nd one in Probability Theory on estimating them from one sample in restric
+ tive settings. On the technical front\, we reduce our model to a sparsifie
+ d version of it where only weak dependencies exist and exploit novel conce
+ ntration and anti-concentration inequalities for functions of the Ising mo
+ del in that regime. We also study the setting of logistic regression in th
+ e presence of dependencies. This can again be formulated as an Ising model
+  with two possibly multidimensional parameters: one regression parameter a
+ nd one that controls the dependencies. Perhaps surprisingly\, we show that
+  it might only be possible to learn only one of the two parameters. We cha
+ racterize the optimal learning rates for each parameter and provide polyno
+ mial time algorithms for achieving them. This requires proving approximati
+ on guarantees for the naïve mean-field equation from statistical physics 
+ and using it to obtain sharp bounds for the moments of the distribution. B
+ ased on joint work with Yuval Dagan\, Constantinos Daskalakis\, Nishanth D
+ ikkala and Surbhi Goel.​\n\nSpeaker Bio:\nVardis Kandiros is a fourth ye
+ ar graduate student in the Theory Group at MIT EECS\, advised by Constanti
+ nos Daskalakis. Before that\, he obtained his undergraduate diploma in Ele
+ ctrical and Computer Engineering from the National Technical University of
+  Athens. His research interests are in the fields of Statistical Learning 
+ Theory and High Dimensional Probability. He is particularly interested in 
+ designing and analyzing machine learning algorithms that take into account
+  the dependencies between the input data. He is also interested in learnin
+ g latent variable models\, specifically in providing rigorous guarantees f
+ or various heuristic procedures that are commonly used in these settings\,
+  such as Expectation-Maximization. He is a recipient of the Paris Kanellak
+ is Fellowship and the Eric and Wendy Schmidt Center Fellowship at the Broa
+ d Institute of MIT and Harvard. ​\n\n.\n\n\nhttps://yins.yale.edu/event/
+ yins-seminar-vardis-kandiros-mit
 LOCATION:Yale Institute for Network Science
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-vardis-kandiros-mit
@@ -55,8 +97,10 @@ DESCRIPTION:Event description:\nFDS Seminar\n\n“Exploring Robustness and
  r benchmarking the Loihi chip. She is the recipient of the 2019 Amazon Res
  earch Award\, 2022 Google Research Scholar Award\, 2022 DARPA Riser Award.
   Her research interests lie in Neuromorphic Computing\, energy-efficient a
- ccelerators\, in-memory processing among others.\n\n.\n\n\nhttps://yins.ya
- le.edu/event/fds-seminar-priya-panda
+ ccelerators\, in-memory processing among others.\n\nIn-person talk\, but r
+ emote access available here:\nhttps://yale.hosted.panopto.com/Panopto/Page
+ s/Viewer.aspx?id=f20086eb-012d-4ead-a949-af1c01268d6d\n\n.\n\n\nhttps://yi
+ ns.yale.edu/event/fds-seminar-priya-panda
 LOCATION:DL220
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/fds-seminar-priya-panda
