@@ -5,34 +5,34 @@ BEGIN:VEVENT
 SUMMARY:CS Colloquium - Rasmus Kyng\, ETH Zurich
 DTSTART;VALUE=DATE-TIME:20221108T210000
 DTEND;VALUE=DATE-TIME:20221108T220000
-DESCRIPTION:Event description:\nCS Colloquium\nRasmus Kyng\, ETH Zurich\n\
- nHost: Dan Spielman\n\nAn Almost-Linear Time Algorithm for Maximum Flow an
- d More\n\nAbstract:\n\nIn this talk\, I will explain a new algorithm for c
- omputing exact maximum and minimum-cost flows in almost-linear time\, sett
- ling the time complexity of these basic graph problems up to subpolynomial
-  factors.\n\nOur algorithm uses a novel interior point method that builds 
- the optimal flow as a sequence of approximate minimum-ratio cycles\, each 
- of which is computed and processed very efficiently using a new dynamic da
- ta structure.\n\nBy well-known reductions\, our result implies almost-line
- ar time algorithms for several problems including bipartite matching\, opt
- imal transport\, and undirected vertex connectivity. Our framework also ex
- tends to minimizing general edge-separable convex functions to high accura
- cy\, yielding the first almost-linear time algorithms for many other probl
- ems including entropy-regularized optimal transport\, matrix scaling\, p-n
- orm flows\, and isotonic regression.\n\nThis talk is based on joint work w
- ith Li Chen\, Yang P. Liu\, Richard Peng\, Maximilian Probst Gutenberg\, a
- nd Sushant Sachdeva. Our result appeared in FOCS’22 and won the FOCS bes
- t paper award.\n\nBio:\n\nRasmus Kyng is an assistant professor of theoret
- ical computer science at ETH Zurich. Before joining the department in 2019
- \, he was a postdoctoral fellow and Harvard SEAS and the Simons Institute 
- at UC Berkeley. In 2017\, he received a PhD in computer science from Yale 
- University\, where he was advised by Daniel Spielman.\n\nHis work focuses 
- on fast algorithms for solving graph problems\, convex optimization\, and 
- structured linear equations. In addition\, he develops hardness results fo
- r basic algorithmic problems and probability theoretic tools for algorithm
- ic applications. His research has won the FOCS’22 best paper and FOCS’
- 17 best student paper awards.\n\n\nhttps://cpsc.yale.edu/event/cs-colloqui
- um-rasmus-kyng-eth-zurich
+DESCRIPTION:Event description:\n\n\nCS Colloquium\nRasmus Kyng\, ETH Zuric
+ h\n\nHost: Dan Spielman\n\nAn Almost-Linear Time Algorithm for Maximum Flo
+ w and More\n\nAbstract:\n\nIn this talk\, I will explain a new algorithm f
+ or computing exact maximum and minimum-cost flows in almost-linear time\, 
+ settling the time complexity of these basic graph problems up to subpolyno
+ mial factors.\n\nOur algorithm uses a novel interior point method that bui
+ lds the optimal flow as a sequence of approximate minimum-ratio cycles\, e
+ ach of which is computed and processed very efficiently using a new dynami
+ c data structure.\n\nBy well-known reductions\, our result implies almost-
+ linear time algorithms for several problems including bipartite matching\,
+  optimal transport\, and undirected vertex connectivity. Our framework als
+ o extends to minimizing general edge-separable convex functions to high ac
+ curacy\, yielding the first almost-linear time algorithms for many other p
+ roblems including entropy-regularized optimal transport\, matrix scaling\,
+  p-norm flows\, and isotonic regression.\n\nThis talk is based on joint wo
+ rk with Li Chen\, Yang P. Liu\, Richard Peng\, Maximilian Probst Gutenberg
+ \, and Sushant Sachdeva. Our result appeared in FOCS’22 and won the FOCS
+  best paper award.\n\nBio:\n\nRasmus Kyng is an assistant professor of the
+ oretical computer science at ETH Zurich. Before joining the department in 
+ 2019\, he was a postdoctoral fellow and Harvard SEAS and the Simons Instit
+ ute at UC Berkeley. In 2017\, he received a PhD in computer science from Y
+ ale University\, where he was advised by Daniel Spielman.\n\nHis work focu
+ ses on fast algorithms for solving graph problems\, convex optimization\, 
+ and structured linear equations. In addition\, he develops hardness result
+ s for basic algorithmic problems and probability theoretic tools for algor
+ ithmic applications. His research has won the FOCS’22 best paper and FOC
+ S’17 best student paper awards.\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-
+ colloquium-rasmus-kyng-eth-zurich
 LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-rasmus-kyng-eth-zurich
@@ -41,39 +41,39 @@ BEGIN:VEVENT
 SUMMARY:CS Colloquium - Siddharth Srivastava\, Arizona State University
 DTSTART;VALUE=DATE-TIME:20221114T210000
 DTEND;VALUE=DATE-TIME:20221114T220000
-DESCRIPTION:Event description:\nCS Colloquium\nSiddharth Srivastava\, Ariz
- ona State University\n\nHost: Tesca Fitzgerald\n\nTitle: From Sample-Effic
- iency to User-Driven AI Assessment:\nLearning Generalizable Knowledge for 
- Reliable Sequential Decision Making\n\nAbstract:\n\nI will present recent 
- advances on learning for a range of sequential decision-making problems\, 
- from generalizable planning and learning for long-horizon tasks in determi
- nistic and stochastic environments to enabling end-users to assess the lim
- its and capabilities of their AI systems\, even as these systems adapt and
-  learn. In the first part of the talk I will focus on neuro-symbolic abstr
- actions for robot planning and our recent work on learning such abstracti
- ons from scratch. These methods facilitate generalizable learning that can
-  be transferred to much larger problems and they outperform existing appro
- aches on tasks that were not seen during training. In the second part of t
- he talk\, I will discuss research challenges and solution approaches for a
-  new\, emerging problem: while we expect AI systems to continually adapt a
- nd learn\, the problem of enabling end-users to safely determine the limit
- s and capabilities of their changing AI systems remains largely unaddresse
- d. I will conclude with some of our recent results on user-driven assessme
- nt of adaptive black-box AI systems.\n\nBio:\n\nSiddharth Srivastava is an
-  Assistant Professor of Computer Science in the School of Computing and Au
- gmented Intelligence at Arizona State University. Before joining ASU\, Sid
- dharth was a Staff Scientist at the United Technologies Research Center in
-  Berkeley. Prior to that\, he was a postdoctoral researcher in the RUGS gr
- oup at the University of California Berkeley. Siddharth received his PhD i
- n Computer Science from the University of Massachusetts Amherst. His resea
- rch interests include robotics and AI\, with a focus on reasoning\, planni
- ng\, and acting under uncertainty. He is a recipient of the NSF CAREER awa
- rd\, a Best Paper award at the International Conference on Automated Plann
- ing and Scheduling (ICAPS) and an Outstanding Dissertation award from the 
- Department of Computer Science at UMass Amherst. He served as conference c
- hair for ICAPS 2019 and currently serves as an Associate Editor for the Jo
- urnal of AI Research.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-siddh
- arth-srivastava-arizona-state-university
+DESCRIPTION:Event description:\n\n\nCS Colloquium\nSiddharth Srivastava\, 
+ Arizona State University\n\nHost: Tesca Fitzgerald\n\nTitle: From Sample-E
+ fficiency to User-Driven AI Assessment:\nLearning Generalizable Knowledge 
+ for Reliable Sequential Decision Making\n\nAbstract:\n\nI will present rec
+ ent advances on learning for a range of sequential decision-making problem
+ s\, from generalizable planning and learning for long-horizon tasks in det
+ erministic and stochastic environments to enabling end-users to assess the
+  limits and capabilities of their AI systems\, even as these systems adapt
+  and learn. In the first part of the talk I will focus on neuro-symbolic a
+ bstractions for robot planning and our recent work on learning such abstr
+ actions from scratch. These methods facilitate generalizable learning that
+  can be transferred to much larger problems and they outperform existing a
+ pproaches on tasks that were not seen during training. In the second part 
+ of the talk\, I will discuss research challenges and solution approaches f
+ or a new\, emerging problem: while we expect AI systems to continually ada
+ pt and learn\, the problem of enabling end-users to safely determine the l
+ imits and capabilities of their changing AI systems remains largely unaddr
+ essed. I will conclude with some of our recent results on user-driven asse
+ ssment of adaptive black-box AI systems.\n\nBio:\n\nSiddharth Srivastava i
+ s an Assistant Professor of Computer Science in the School of Computing an
+ d Augmented Intelligence at Arizona State University. Before joining ASU\,
+  Siddharth was a Staff Scientist at the United Technologies Research Cente
+ r in Berkeley. Prior to that\, he was a postdoctoral researcher in the RUG
+ S group at the University of California Berkeley. Siddharth received his P
+ hD in Computer Science from the University of Massachusetts Amherst. His r
+ esearch interests include robotics and AI\, with a focus on reasoning\, pl
+ anning\, and acting under uncertainty. He is a recipient of the NSF CAREER
+  award\, a Best Paper award at the International Conference on Automated P
+ lanning and Scheduling (ICAPS) and an Outstanding Dissertation award from 
+ the Department of Computer Science at UMass Amherst. He served as conferen
+ ce chair for ICAPS 2019 and currently serves as an Associate Editor for th
+ e Journal of AI Research.\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloqui
+ um-siddharth-srivastava-arizona-state-university
 LOCATION:TBA
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-siddharth-srivastava-arizona
