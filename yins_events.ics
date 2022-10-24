@@ -55,6 +55,32 @@ STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/yins-seminar-vardis-kandiros-mit
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FDS Seminar: Michael Lopez (NFL)
+DTSTART;VALUE=DATE-TIME:20221102T200000
+DTEND;VALUE=DATE-TIME:20221102T210000
+DESCRIPTION:Event description:\nFDS Seminar\n\n“Analyzing the National F
+ ootball League is challenging\, but player tracking data is here to help
+ ”\n\nSpeaker: Michael Lopez\nSr. Director of Football Data/Analytics\nN
+ ational Football League\n\nAbstract:\nMost historical National Football Le
+ ague (NFL) analysis\, both mainstream and academic\, has relied on play-by
+ -play data to generate team and player-level trends. Given the number of o
+ utside variables that impact on-field results\, such as play call and game
+  situation\, findings are often no more than interesting anecdotes. With t
+ he release of player tracking data\, however\, analysts can appropriately 
+ ask and answer questions that better isolate player skill and coaching str
+ ategy. In this talk\, we highlight the limitations of traditional analyses
+ \, and use a decades-old punching bag for analysts – fourth-down strateg
+ y – as a microcosm for why tracking data is needed. Thanks!\n\nSpeaker B
+ io:\nMichael Lopez is a Senior Director of Football Data and Analytics at 
+ the National Football League. At the National Football League\, his work c
+ enters on how to use data to enhance and better understand the game of foo
+ tball.\n\nThis is an in-person event.\n\n.\n\n\nhttps://yins.yale.edu/even
+ t/fds-seminar-michael-lopez-nfl
+LOCATION:DL220
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/fds-seminar-michael-lopez-nfl
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FDS Seminar: Priya Panda
 DTSTART;VALUE=DATE-TIME:20221109T210000
 DTEND;VALUE=DATE-TIME:20221109T220000
