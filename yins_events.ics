@@ -133,4 +133,49 @@ LOCATION:DL220
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/fds-seminar-priya-panda
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2022 Tanner Lecture\, Fei-Fei Li: “What We See and What We Value
+ : AI with a Human Perspective”
+DTSTART;VALUE=DATE-TIME:20221026T210000
+DTEND;VALUE=DATE-TIME:20221026T220000
+DESCRIPTION:Event description:\n2022 Tanner Lecture on Artificial Intellig
+ ence and Human Values\n\n“What We See and What We Value: AI with a Human
+  Perspective”\n\nSpeaker: Fei-Fei Li\n\nSequoia Professor of Computer 
+ Science at Stanford University\nDenning Co-Director of the Stanford Instit
+ ute for Human-Centered AI\n\nFei-Fei Li of Stanford University will delive
+ r the 2022 Tanner Lecture on Human Values and Artificial Intelligence this
+  fall at the Whitney Humanities Center. The lecture\, “What We See and W
+ hat We Value: AI with a Human Perspective\,” presents a series of AI pro
+ jects—from work on ambient intelligence in healthcare to household robot
+ s—to examine the relationship between visual and artificial intelligence
+ . Visual intelligence has been a cornerstone of animal intelligence\; enab
+ ling machines to see is hence a critical step toward building intelligent 
+ machines. Yet developing algorithms that allow computers to see what human
+ s see—and what they don’t see—raises important social and ethical qu
+ estions.\n\nDr. Fei-Fei Li is the Sequoia Professor of Computer Science at
+  Stanford University and Denning Co-Director of the Stanford Institute for
+  Human-Centered AI (HAI). During her 2017–2018 sabbatical\, Dr. Li was a
+  vice president at Google and chief scientist of Artificial Intelligence/M
+ achine Learning at Google Cloud. She co-founded the national nonprofit AI4
+ ALL\, which trains K-12 students from underprivileged communities to becom
+ e future leaders in AI. Dr. Li also serves on the National AI Research Res
+ ource Task Force commissioned by Congress and the White House and is an el
+ ected member of the National Academy of Engineering\, the National Academy
+  of Medicine\, and the American Academy of Arts and Sciences.\n\nDr. Fei-F
+ ei Li’s talk is one of seven Tanner Lectures on Artificial Intelligence 
+ and Human Values\, which is a special series of the Tanner Lectures on Hum
+ an Values. The Tanner Lectures on Human Values are funded by an endowment 
+ received by the University of Utah from Obert Clark Tanner and Grace Adams
+  Tanner. Established in 1976\, the Tanner Lectures seek to advance and ref
+ lect upon scholarly and scientific learning relating to human values. The 
+ lectures\, which are permanently sponsored at nine institutions\, includin
+ g Yale\, are free and open to the public.\n\nYou can read about it at\nhtt
+ ps://news.yale.edu/2022/10/21/tanner-lecture-ai-expert-examine-what-humans
+ -see-and-dont-see\n\n.\n\n\nhttps://yins.yale.edu/event/2022-tanner-lectur
+ e-fei-fei-li-what-we-see-and-what-we-value-ai-human-perspective
+LOCATION:HQ L02 (HUMANITIES QUADRANGLE\, LOWER-LEVEL LECTURE HALL)
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/2022-tanner-lecture-fei-fei-li-what-we-see
+ -and-what-we-value-ai-human-perspective
+END:VEVENT
 END:VCALENDAR
