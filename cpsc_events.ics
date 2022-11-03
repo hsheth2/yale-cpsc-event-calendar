@@ -2,38 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Priyanka Golia
-DTSTART;VALUE=DATE-TIME:20221102T150000
-DTEND;VALUE=DATE-TIME:20221102T160000
-DESCRIPTION:Event description:\nCS Talk\n\nPriyanka\n\nGolia\n\nHost: Ruzi
- ca Piskac\nPlease contact Ruzica if you would like to meet with the speake
- r\n\nTitle: Functional Synthesis: Formal Methods meets Machine Learning\n\
- nAbstract:\n\nGiven a specification F(X\,Y) over the set of input variable
- s X and output variables Y\, we want the assistant\, aka functional synthe
- sis engine\, to design a function G such that (X\,Y=G(X)) satisfies F. Fun
- ctional synthesis has been studied for over 150 years\, dating back Boole 
- in 1850’s and yet scalability remains a core challenge. Motivated by pro
- gress in machine learning\, we design a new algorithmic framework Manthan\
- , which views functional synthesis as a classification problem\, relying o
- n advances in constrained sampling for data generation\, and advances in a
- utomated reasoning for novel proof-guided refinement and provable verifica
- tion. On an extensive and rigorous evaluation of 609 benchmarks\, we demon
- strate that Manthan significantly improves upon the current state of the a
- rt\, solving 509 benchmarks in comparison to 280\, which is the most solve
- d by a state-of-the-art technique. The significant performance improvement
- s\, along with our detailed analysis\, highlight several exciting avenues 
- of future work in machine learning\, constrained sampling\, and automated 
- reasoning.\n\nBio:\n\nPriyanka\n\nGolia\nis a Ph.D. candidate at National 
- University of Singapore and Indian Institute of Technology Kanpur\, India.
-  Her research interests lie in the area of automated reasoning and formal 
- methods. Specifically\, her work is directed at functional synthesis\, con
- strained sampling\, and knowledge compilation.\n\n\nhttps://cpsc.yale.edu/
- event/cs-talk-priyanka-golia
-LOCATION:AKW 307 and Zoom
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-priyanka-golia
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Rasmus Kyng\, ETH Zurich
 DTSTART;VALUE=DATE-TIME:20221108T210000
 DTEND;VALUE=DATE-TIME:20221108T220000
