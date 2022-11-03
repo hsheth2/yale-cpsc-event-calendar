@@ -106,8 +106,9 @@ DTSTART;VALUE=DATE-TIME:20221207T210000
 DTEND;VALUE=DATE-TIME:20221207T220000
 DESCRIPTION:Event description:\nFDS Seminar\n\nSpeaker: John Langford\nMic
  rosoft Research New York\n\nThis is an in-person seminar\, with remote acc
- ess available.\n\n\nhttps://yins.yale.edu/event/fds-seminar-john-langford-
- microsoft-research
+ ess available:\nhttps://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?
+ id=1a9628bf-c5c4-4830-948b-af420136ee87\n\n\nhttps://yins.yale.edu/event/f
+ ds-seminar-john-langford-microsoft-research
 LOCATION:DL220
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/fds-seminar-john-langford-microsoft-resear
@@ -117,11 +118,48 @@ BEGIN:VEVENT
 SUMMARY:FDS Seminar: Robert Schapire (Microsoft)
 DTSTART;VALUE=DATE-TIME:20221214T210000
 DTEND;VALUE=DATE-TIME:20221214T220000
-DESCRIPTION:Event description:\nFDS Seminar: Robert Schapire (Microsoft Re
- search)\n\n\nhttps://yins.yale.edu/event/fds-seminar-robert-schapire-micro
- soft
+DESCRIPTION:Event description:\nFDS Seminar\n\n“Convex Analysis at Infin
+ ity: An Introduction to Astral Space”\n\nSpeaker: Robert Schapire\nMicr
+ osoft Research\n\nAbstract:\nNot all convex functions have finite minimize
+ rs\; some can only be minimized by a sequence as it heads to infinity.  I
+ n this work\, we aim to develop a theory for understanding such minimizers
+  at infinity.  We study\nastral space\n\, a compact extension of Euclidea
+ n space to which such points at infinity have been added.  Astral space i
+ s constructed to be as small as possible while still ensuring that all lin
+ ear functions can be continuously extended to the new space.  Although no
+ t a vector space\, nor even a metric space\, astral space is nevertheless 
+ so well-structured as to allow useful and meaningful extensions of such co
+ ncepts as convexity\, conjugacy\, and subdifferentials.  We develop these
+  concepts and analyze various properties of convex functions on astral spa
+ ce\, including the detailed structure of their minimizers\, exact characte
+ rizations of continuity\, and convergence of descent algorithms.\n\nThis i
+ s joint work with Miroslav Dudík and Matus Telgarsky.\n\nSpeaker bio:\nRo
+ bert Schapire is a Partner Researcher at Microsoft Research in New York Ci
+ ty.  He received his PhD from MIT in 1991.  After a short postdoc at Har
+ vard\, he joined the technical staff at AT&T Labs (formerly AT&T Bell Labo
+ ratories) in 1991.  In 2002\, he became a Professor of Computer Science 
+ at Princeton University.  He joined Microsoft Research in 2014.  His aw
+ ards include the 1991 ACM Doctoral Dissertation Award\, the 2003 Gödel Pr
+ ize\, and the 2004 Kanelakkis Theory and Practice Award (both of the last 
+ two with Yoav Freund).  He is a fellow of the AAAI\, and a member of both
+  the National Academy of Engineering and the National Academy of Sciences
+ .  His main research interest is in theoretical and applied machine learn
+ ing.\n\nThis is an in-person seminar with a remote access option:\nhttps:/
+ /yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fd7320df-18fc-441e-b
+ 852-af42013692e4\n\n.\n\n\nhttps://yins.yale.edu/event/fds-seminar-robert-
+ schapire-microsoft
 LOCATION:DL220
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/fds-seminar-robert-schapire-microsoft
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science Project Match Event
+DTSTART;VALUE=DATE-TIME:20221213T200000
+DTEND;VALUE=DATE-TIME:20221213T210000
+DESCRIPTION:No description provided\n\nhttps://yins.yale.edu/event/data-sc
+ ience-project-match-event
+LOCATION:Yale Institute for Network Science
+STATUS:CONFIRMED
+URL:https://yins.yale.edu/event/data-science-project-match-event
 END:VEVENT
 END:VCALENDAR
