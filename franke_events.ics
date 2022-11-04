@@ -3,8 +3,8 @@ X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
 SUMMARY:Architecture and Invention\, Talk by James Ramsey ‘99
-DTSTART;VALUE=DATE-TIME:20221110T210000
-DTEND;VALUE=DATE-TIME:20221110T220000
+DTSTART:20221110T210000
+DTEND:20221110T220000
 DESCRIPTION:Event description:\nFollowing curiosity about the world down a
   rabbit hole without hesitation can lead to innovation and inspiration. Fr
  om archeology to space exploration to origami\, solutions to design proble
@@ -28,34 +28,10 @@ URL:https://frankeprogram.yale.edu/event/architecture-and-invention-talk-j
  ames-ramsey-99
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Architecture and Invention
-DTSTART;VALUE=DATE-TIME:20221110T210000
-DTEND;VALUE=DATE-TIME:20221110T220000
-DESCRIPTION:Event description:\nFollowing curiosity about the world down a
-  rabbit hole without hesitation can lead to innovation and inspiration. Fr
- om archeology to space exploration to origami\, solutions to design proble
- ms can often spring from the most unexpected places.\nThis in-person talk 
- will be given by James Ramsey ‘99\, the principal of raad and the creato
- r of the Lowline. James’ experience in design began at Yale University\,
-  where he won a Bates Fellowship to study cathedral design in Europe. He t
- hen went to work as a satellite engineer for NASA\, where he was a part of
-  the team that created the Pluto Fast Flyby and the Cassini satellites. Af
- ter his time at NASA\, James gained large firm experience at DMSAS in Wash
- ington\, DC and small firm knowledge\, upon relocating to New York\, at th
- e boutique outfit\, Penny Yates Architects. While teaching design at the P
- arsons School of Design\, James worked to put the pieces in place to start
-  his own design practice in 2004. Raad has since built over a hundred proj
- ects\, both in NYC and across the country.\n\n\nhttps://frankeprogram.yale
- .edu/event/architecture-and-invention
-LOCATION:Humanities Quadrangle (HQ)\, L02
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/architecture-and-invention
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:White Gold Fever:  The Story of Deep Sea Treasure and an Environme
  ntal Tragedy
-DTSTART;VALUE=DATE-TIME:20221116T210000
-DTEND;VALUE=DATE-TIME:20221116T220000
+DTSTART:20221116T210000
+DTEND:20221116T220000
 DESCRIPTION:Event description:\nJoin us on ZOOM on Wednesday\, November 16
   at 4 p.m. for a remarkable talk by journalist\nEsther Honig\n.\n\nIt was 
  early spring\, nearly 15 years ago\, when Belén Delgado made the discover
@@ -79,8 +55,8 @@ URL:https://frankeprogram.yale.edu/event/white-gold-fever-story-deep-sea-t
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  Brian Cantwell Smith
-DTSTART;VALUE=DATE-TIME:20221207T200000
-DTEND;VALUE=DATE-TIME:20221207T210000
+DTSTART:20221207T200000
+DTEND:20221207T210000
 DESCRIPTION:Event description:\nOur December 2022 Understanding the Nature
   of Inference colloquium talk will be given by Brian Cantwell Smith\, the 
  Reid Hoffman Professor of Artificial Intelligence and the Human at the Uni
@@ -96,8 +72,8 @@ URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  Brian Cantwell Smith
-DTSTART;VALUE=DATE-TIME:20221207T200000
-DTEND;VALUE=DATE-TIME:20221207T210000
+DTSTART:20221207T200000
+DTEND:20221207T210000
 DESCRIPTION:Event description:\nOur December 2022 Understanding the Nature
   of Inference colloquium talk will be given by Brian Cantwell Smith\, the 
  Reid Hoffman Professor of Artificial Intelligence and the Human at the Uni

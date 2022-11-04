@@ -3,8 +3,8 @@ X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
 SUMMARY:FDS Seminar: Priya Panda
-DTSTART;VALUE=DATE-TIME:20221109T210000
-DTEND;VALUE=DATE-TIME:20221109T220000
+DTSTART:20221109T210000
+DTEND:20221109T220000
 DESCRIPTION:Event description:\nFDS Seminar\n\n“Exploring Robustness and
   Energy-Efficiency in Neural Systems with Spike-based Machine Intelligence
  ”\n\nSpeaker: Priya Panda\nAssistant Professor\, Electrical Engineering\
@@ -54,8 +54,8 @@ URL:https://yins.yale.edu/event/fds-seminar-priya-panda
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:YINS Seminar: Florian Ederer
-DTSTART;VALUE=DATE-TIME:20221130T170000
-DTEND;VALUE=DATE-TIME:20221130T180000
+DTSTART:20221130T170000
+DTEND:20221130T180000
 DESCRIPTION:Event description:\nYINS Seminar\n\n“A Tale of Two Networks:
   Common Ownership and Product Market Rivalry”\n\nSpeaker: Florian Ederer
  \nAssociate Professor of Economics\, Yale School of Management\n\n\n\nAbst
@@ -102,8 +102,8 @@ URL:https://yins.yale.edu/event/yins-seminar-florian-ederer
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FDS Seminar: John Langford (Microsoft Research)
-DTSTART;VALUE=DATE-TIME:20221207T210000
-DTEND;VALUE=DATE-TIME:20221207T220000
+DTSTART:20221207T210000
+DTEND:20221207T220000
 DESCRIPTION:Event description:\nFDS Seminar\n\nSpeaker: John Langford\nMic
  rosoft Research New York\n\nThis is an in-person seminar\, with remote acc
  ess available:\nhttps://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?
@@ -116,8 +116,8 @@ URL:https://yins.yale.edu/event/fds-seminar-john-langford-microsoft-resear
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FDS Seminar: Robert Schapire (Microsoft)
-DTSTART;VALUE=DATE-TIME:20221214T210000
-DTEND;VALUE=DATE-TIME:20221214T220000
+DTSTART:20221214T210000
+DTEND:20221214T220000
 DESCRIPTION:Event description:\nFDS Seminar\n\n“Convex Analysis at Infin
  ity: An Introduction to Astral Space”\n\nSpeaker: Robert Schapire\nMicr
  osoft Research\n\nAbstract:\nNot all convex functions have finite minimize
@@ -154,8 +154,8 @@ URL:https://yins.yale.edu/event/fds-seminar-robert-schapire-microsoft
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data Science Project Match Event
-DTSTART;VALUE=DATE-TIME:20221213T200000
-DTEND;VALUE=DATE-TIME:20221213T210000
+DTSTART:20221213T200000
+DTEND:20221213T210000
 DESCRIPTION:No description provided\n\nhttps://yins.yale.edu/event/data-sc
  ience-project-match-event
 LOCATION:Yale Institute for Network Science

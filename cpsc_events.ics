@@ -3,8 +3,8 @@ X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Rasmus Kyng\, ETH Zurich
-DTSTART;VALUE=DATE-TIME:20221108T210000
-DTEND;VALUE=DATE-TIME:20221108T220000
+DTSTART:20221108T210000
+DTEND:20221108T220000
 DESCRIPTION:Event description:\n\n\nCS Colloquium\nRasmus Kyng\, ETH Zuric
  h\n\nHost: Dan Spielman\n\nAn Almost-Linear Time Algorithm for Maximum Flo
  w and More\n\nAbstract:\n\nIn this talk\, I will explain a new algorithm f
@@ -39,8 +39,8 @@ URL:https://cpsc.yale.edu/event/cs-colloquium-rasmus-kyng-eth-zurich
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Colloquium - Siddharth Srivastava\, Arizona State University
-DTSTART;VALUE=DATE-TIME:20221114T210000
-DTEND;VALUE=DATE-TIME:20221114T220000
+DTSTART:20221114T210000
+DTEND:20221114T220000
 DESCRIPTION:Event description:\n\n\nCS Colloquium\nSiddharth Srivastava\, 
  Arizona State University\n\nHost: Tesca Fitzgerald\n\nTitle: From Sample-E
  fficiency to User-Driven AI Assessment:\nLearning Generalizable Knowledge 
@@ -81,8 +81,8 @@ URL:https://cpsc.yale.edu/event/cs-colloquium-siddharth-srivastava-arizona
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Ning Luo
-DTSTART;VALUE=DATE-TIME:20221201T180000
-DTEND;VALUE=DATE-TIME:20221201T190000
+DTSTART:20221201T180000
+DTEND:20221201T190000
 DESCRIPTION:Event description:\nDissertation Defense\nNing Luo\n\nTime is 
  tentative\n\nTitle: Privacy-preserving formal methods\n\nAdvisor: Ruzica P
  iskac\n\nOther Committee Members:\n\nTimos Antonopoulos\nClark Barrett (St
