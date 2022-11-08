@@ -2,6 +2,40 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:Rising Stars Lecture Series - Silvia Sellan\, University of Toront
+ o
+DTSTART:20221108T181500
+DTEND:20221108T191500
+DESCRIPTION:Event description:\nRising Stars Lecture Series\nSilvia Sellan
+ \, University of Toronto\n\nHost: Theodore Kim\n\nTitle: Moving fast\, bre
+ aking things\, and putting them back together\n\nAbstract:\n\nDrawing a di
+ rect analogy with the well-studied vibration or elastic modes\, we introdu
+ ce an object’s fracture modes\, which constitute its preferred or most n
+ atural ways of breaking. We formulate a sparsified eigenvalue problem\, wh
+ ich we solve iteratively to obtain the n lowest-energy modes. These can be
+  precomputed for a given shape to obtain a prefracture pattern that can su
+ bstitute the state of the art for realtime applications at no runtime cost
+  but significantly greater realism. Furthermore\, any realtime impact can 
+ be projected onto our modes to obtain impact-dependent fracture patterns w
+ ithout the need for any online crack propagation simulation. Our fracture 
+ modes can be used for realtime fracture simulation as well as to train alg
+ orithms for robotic geometric reassembly.\n\nBio:\n\nSilvia is a fourth ye
+ ar Computer Science PhD student at the University of Toronto. She is advis
+ ed by Alec Jacobson and working in Computer Graphics and Geometry Process
+ ing. She is an NSERC Vanier Doctoral Scholar\, an Adobe Research Fellow a
+ nd the winner of the 2021 University of Toronto Arts & Science Dean’s Do
+ ctoral Excellence Scholarship. She has interned twice at Adobe Research a
+ nd twice at the Fields Institute of Mathematics. She is also a founder and
+  organizer of the Toronto Geometry Colloquium and a member of WiGRAPH. She
+  is currently looking to survey potential future postdoc and faculty posit
+ ions\, starting Fall 2024.\n\n\nhttps://cpsc.yale.edu/event/rising-stars-l
+ ecture-series-silvia-sellan-university-toronto
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/rising-stars-lecture-series-silvia-sellan-
+ university-toronto
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Rasmus Kyng\, ETH Zurich
 DTSTART:20221108T210000
 DTEND:20221108T220000
