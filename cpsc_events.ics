@@ -114,6 +114,67 @@ URL:https://cpsc.yale.edu/event/cs-colloquium-siddharth-srivastava-arizona
  -state-university
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Tushar Krishna\, Georgia Tech
+DTSTART:20221115T210000
+DTEND:20221115T220000
+DESCRIPTION:Event description:\nCS Colloquium\nTushar Krishna\, Georgia Te
+ ch\n\nHost: Abhishek Bhattacharjee\n\nTitle: Communication-centric System
+  Architectures for AI Acceleration\n\nAbstract:\n\nAI has become pervasive
+  in our lives today. Given the heavy computational demands for AI\, there 
+ has been a sustained investment from industry\, academia and government pr
+ ograms in creating specialized compute acceleration systems for running AI
+  efficiently across edge\, HPC and datacenters. There are several open cha
+ llenges and emerging opportunities in designing efficient AI systems. On t
+ he workload end\, emerging AI models are increasingly complex with diverse
+  shapes and sparsity-levels\, driven in part by techniques like neural arc
+ hitecture search\, and are increasingly memory-bound. The size of AI model
+ s has also been exponentially increasing\, especially for domains like lan
+ guage translation and recommendations. These trends necessitate careful pa
+ rtitioning of AI models and/or datasets across multiple AI accelerators\, 
+ and stage data accesses through the memory hierarchy on to the compute uni
+ ts. Unfortunately\, the resultant data movement is a key bottleneck in AI 
+ systems today - showing up as energy and performance overheads. On the tec
+ hnology end\, recent trends such as chiplets\, wafer-scale architectures\,
+  CXL-based memory-pools\, all open up several novel avenues for system opt
+ imization. The resultant design-spaces\, especially for HW-SW co-design\, 
+ are extremely large\, necessitating sample-efficient search techniques to 
+ find optimized design-points.\n\nIn my talk\, I will present my vision to 
+ address the aforementioned challenges via a systematic “communication-ce
+ ntric” approach to AI system design\, where we proposed configurable com
+ munication fabric(s) within the system and co-optimize it along with the r
+ est of the HW-SW stack. We have demonstrated several instances of this app
+ roach to tackle diverse AI workloads and scales (on-chip\, on-package\, on
+ -wafer\, on-rack) across both inference and training. I will also briefly 
+ present some open-source simulation infrastructures we developed and relea
+ sed to enable this research\, that are now being actively used by academia
+ \, industry and national labs.\n\nBio:\n\nTushar Krishna is an Associate P
+ rofessor in the School of Electrical and Computer Engineering at Georgia T
+ ech. He also serves as an Associate Director for the Center for Research i
+ nto Novel Computing Hierarchies (CRNCH). He held the ON Semiconductor (End
+ owed) Junior Professorship from 2019-2021. He has a Ph.D. in Electrical En
+ gineering and Computer Science from MIT (2014)\, a M.S.E in Electrical Eng
+ ineering from Princeton University (2009)\, and a B.Tech in Electrical Eng
+ ineering from the Indian Institute of Technology (IIT) Delhi (2007). Befor
+ e joining Georgia Tech in 2015\, Dr. Krishna spent a year as a researcher 
+ at the VSSAD group at Intel\, Massachusetts.\n\nDr. Krishna’s research s
+ pans computer architecture\, interconnection networks\, networks-on-chip (
+ NoC)\, and deep learning accelerators – with a focus on optimizing data 
+ movement in modern computing systems. His research is funded via multiple 
+ awards from NSF\, DARPA\, IARPA\, Department of Energy\, Intel\, Google\, 
+ Facebook\, Qualcomm\, TSMC and SRC. His papers have been cited over 11\,00
+ 0 times. Three of his papers have been selected for IEEE Micro’s Top Pic
+ ks from Computer Architecture\, one more received an honorable mention\, a
+ nd four have won best paper awards. He was inducted into the HPCA Hall of 
+ Fame in 2022. He received the “Class of 1940 Course Survey Teaching Effe
+ ctiveness” Award from Georgia Tech in 2018 and the “Roger P. Webb Outs
+ tanding Junior Faculty Award” from the School of ECE in Georgia Tech in 
+ 2021.\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-tushar-krishna-georgi
+ a-tech
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-tushar-krishna-georgia-tech
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Ning Luo
 DTSTART:20221201T180000
 DTEND:20221201T190000
