@@ -105,6 +105,31 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-tushar-krishna-georgia-tech
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS/YQI Colloquium - Hsin Yuan (Robert) Huang\, Caltech
+DTSTART:20221118T170000
+DTEND:20221118T180000
+DESCRIPTION:Event description:\nCS/YQI Colloquium\nHsin Yuan (Robert) Huan
+ g\, Caltech\n\nTitle:\nLearning in the quantum universe\n\nAbstract:\n\nI 
+ will present recent progress in building a mathematical theory for underst
+ anding how scientists\, machines\, and future quantum computers could lea
+ rn models of our inherently quantum universe. The talk will review an exp
+ erimentally feasible procedure for learning a succinct classical represent
+ ation\, the classical shadow\, of a quantum state. Classical shadows can 
+ be applied to predict efficiently many properties of interest\, including
+  expectation values of few-body observables and subsystem entanglement en
+ tropy. The theoretical insights obtained from classical shadow tomography
+  enable us to rigorously answer two fundamental questions at the intersect
+ ion of machine learning and quantum physics: Can classical machines learn
+  to solve challenging problems in quantum physics? Can quantum machines l
+ earn exponentially faster than classical machines?\n\nLunch will be provid
+ ed.\n\n\nhttps://cpsc.yale.edu/event/csyqi-colloquium-hsin-yuan-robert-hua
+ ng-caltech
+LOCATION:YQI Seminar Room and Zoom
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/csyqi-colloquium-hsin-yuan-robert-huang-ca
+ ltech
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Ning Luo
 DTSTART:20221201T180000
 DTEND:20221201T190000
