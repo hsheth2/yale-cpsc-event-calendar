@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:White Gold Fever:  The Story of Deep Sea Treasure and an Environme
- ntal Tragedy
-DTSTART:20221116T210000
-DTEND:20221116T220000
-DESCRIPTION:Event description:\nJoin us on ZOOM on Wednesday\, November 16
-  at 4 p.m. for a remarkable talk by journalist\nEsther Honig\n.\n\nIt was 
- early spring\, nearly 15 years ago\, when Belén Delgado made the discover
- y of a lifetime. As a fisherman in rural Mexico\, Belén had a hunch that 
- a giant bank of Callo de Hacha\, a rare and incredibly expensive shellfish
- \, lay just off the shore of his small coastal town. Together with friends
- \, he hired a diver to plunge 70 feet below the surface\, and when he emer
- ged\, the diver confirmed Belén’s suspicion.  “Wherever you step\,
- ” he said\, “there’s callo.” The colony of Callo de Hacha covered 
- 30 miles of ocean floor and was worth millions of dollars. This was the fi
- nancial windfall the town desperately needed\, but Belén wasn’t prepare
- d for the chaos and greed that soon followed as his fellow fishermen succu
- mbed to the “White Gold Fever.”\n\nRegister in advance for this webina
- r:\n\nhttps://yale.zoom.us/webinar/register/WN_WsH_7sUNSkSEidjp-7PQVQ\n\n\
- nhttps://frankeprogram.yale.edu/event/white-gold-fever-story-deep-sea-trea
- sure-and-environmental-tragedy
-LOCATION:Zoom Webinar
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/white-gold-fever-story-deep-sea-t
- reasure-and-environmental-tragedy
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  Brian Cantwell Smith
 DTSTART:20221207T200000
 DTEND:20221207T210000
