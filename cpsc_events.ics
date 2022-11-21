@@ -2,6 +2,56 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Henry Corrigan-Gibbs\, MIT
+DTSTART:20221129T210000
+DTEND:20221129T220000
+DESCRIPTION:Event description:\nCS Colloquium\nHenry Corrigan-Gibbs\, MIT\
+ n\nHost: Charalampos Papamanthou\n\nTitle: Simple and Fast Private Informa
+ tion Retrieval\n\nAbstract:\n\nPrivate-information-retrieval protocols all
+ ow a client to query a database server without revealing its query to the 
+ server. With private information retrieval\, a client can\, for example\, 
+ download an article from Wikipedia without revealing which article it fetc
+ hed. Existing schemes for private information retrieval require large amou
+ nts of computation – both asymptotically and concretely. Computational c
+ ost is the major barrier to the use of private information retrieval in pr
+ actice.\n\nThis talk will present SimplePIR\, the fastest single-server pr
+ ivate-information-retrieval scheme known to date. SimplePIR improves the p
+ erformance of state-of-the-art schemes by over 30x and can answer private 
+ queries to a 1 GB database in under 100ms using a single CPU core. The sch
+ eme is simple to describe and easy to implement\, which gives us hope that
+  it will see adoption in industry. After describing the new scheme\, I wil
+ l discuss how we might apply it to strengthen privacy protections in the C
+ hrome web browser. The talk will conclude with a discussion of the scheme
+ ’s limitations\, along with a few open problems in the area.\n\nThis tal
+ k is based on joint work with Alexandra Henzinger (MIT)\, Matthew Hong (MI
+ T)\, Sarah Meiklejohn (Google)\, and Vinod Vaikuntanathan (MIT).\n\nBio:\n
+ \nHenry Corrigan-Gibbs (he/him) is an assistant professor at MIT in the De
+ partment of Electrical Engineering and Computer Science. Henry builds comp
+ uter systems that provide strong security and privacy properties using ide
+ as from cryptography\, computer security\, and computer systems. Henry com
+ pleted his PhD in the Applied Cryptography Group at Stanford\, where he wa
+ s advised by Dan Boneh. Henry was an undergrad at Yale\, and he ended up s
+ tudying computer science by accident after shopping CPSC 201 with Dana Ang
+ luin. His teachers there – including Stanley Eisenstat\, Daniel Spielman
+ \, and Michael Fischer – set the standard for computer-science education
+  that he someday hopes to meet. Henry got involved in research through an 
+ undergrad project at Yale with Bryan Ford\, who showed him how much fun re
+ search can be.\n\nFor their efforts\, Henry and his collaborators have rec
+ eived an Honorable Mention for the ACM Doctoral Dissertation Award\, three
+  IACR Best Young Researcher Paper Awards (at Eurocrypt in 2020\, the Theor
+ y of Cryptography Conference in 2019 and at Eurocrypt in 2018)\, the 2016 
+ Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technolo
+ gies\, and the 2015 IEEE Security and Privacy Distinguished Paper Award. H
+ enry’s work has influenced IETF and NIST standards\, and his Prio system
+  for privacy-preserving telemetry data collection is used today in the Fir
+ efox web browser\, Apple’s iOS\, and Google’s Android operating system
+ .\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-colloquium-henry-corrigan-gibbs-
+ mit
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-henry-corrigan-gibbs-mit
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Poynter Fellowship in Journalism - Anjali Singhvi\, Reporter and G
  raphics Editor\, The New York Times
 DTSTART:20221130T200000
