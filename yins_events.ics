@@ -2,55 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:YINS Seminar: Florian Ederer
-DTSTART:20221130T170000
-DTEND:20221130T180000
-DESCRIPTION:Event description:\nYINS Seminar\n\n“A Tale of Two Networks:
-  Common Ownership and Product Market Rivalry”\n\nSpeaker: Florian Ederer
- \nAssociate Professor of Economics\, Yale School of Management\n\n\n\nAbst
- ract:\nWe study the welfare implications of the rise of common ownership i
- n the United States from 1994 to 2018. We build a general equilibrium mode
- l with a hedonic demand system in which firms compete in a network game of
-  oligopoly. Firms are connected through two large networks: the first refl
- ects ownership overlap\, the second product market rivalry. In our model\,
-  common ownership of competing firms induces unilateral incentives to soft
- en competition. The magnitude of the common ownership effect depends on ho
- w much the two networks overlap. We estimate our model for the universe of
-  U.S. public corporations using a combination of firm financials\, investo
- r holdings\, and text-based product similarity data. We perform counterfac
- tual calculations to evaluate how the efficiency and the distributional im
- pact of common ownership have evolved over time. According to our baseline
-  estimates the welfare cost of common ownership\, measured as the ratio of
-  deadweight loss to total surplus\, has increased nearly tenfold (from 0.3
- % to over 4%) between 1994 and 2018. Under alternative assumptions about g
- overnance\, the deadweight loss ranges between 1.9% and 4.4% of total surp
- lus in 2018. The rise of common ownership has also resulted in a significa
- nt reallocation of surplus from consumers to producers.\n\n\n\nhttps://www
- .nber.org/papers/w30004\n\n\n\nSpeaker Bio:\nFlorian Ederer is an Associat
- e Professor of Economics at the Yale School of Management\, a Research Sta
- ff Member at the Cowles Foundation for Research in Economics\, and an NBER
-  faculty research fellow. Professor Ederer’s research\, which has been w
- idely published in leading journals\, is in the areas of organizational ec
- onomics\, innovation\, and antitrust. Some of his recent work explores the
-  impact of networks of common ownership on managerial compensation and pro
- duct market competition and the existence and pervasiveness of “killer a
- cquisitions” that prevent startups from challenging dominant market incu
- mbents. In his academic work he draws on a broad set of tools often combin
- ing theoretical models\, experimental methods\, and empirical analysis. Pr
- ior to joining the Yale School of Management Professor Ederer was a facult
- y member of the UCLA Anderson School of Management. He earned his doctorat
- e in economics at the Massachusetts Institute for Technology and his maste
- r’s and undergraduate degrees from the University of Oxford.\n\n\n\nThis
-  is an in-person event\, with remote access available here:\nhttps://yale.
- hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e08bc99-13d1-4da1-9e8d-af
- 4100f1e59f\n\n\n\n\nAdd event to calendar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
- n\n\n\n\n\n\n\n\n\n\n\n\n.\n\n\nhttps://yins.yale.edu/event/yins-seminar-f
- lorian-ederer
-LOCATION:Yale Institute for Network Science
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/yins-seminar-florian-ederer
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FDS Seminar: John Langford (Microsoft Research)
 DTSTART:20221207T210000
 DTEND:20221207T220000

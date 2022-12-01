@@ -2,36 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:Poynter Fellowship in Journalism - Anjali Singhvi\, Reporter and G
- raphics Editor\, The New York Times
-DTSTART:20221130T200000
-DTEND:20221130T210000
-DESCRIPTION:Event description:\nPoynter Fellowship in Journalism\nAnjali S
- inghvi\, Reporter and Graphics Editor\, The New York Times\n\n\n\n\nVisual
-  Investigations and Spatial Techniques\n\n\n\n\n\n\n\nCo-sponsored by\nFra
- nke Family Digital Humanities Laboratory\, Yale Computer Science\, Yale 
- WGiCS\, and\nfSTS@Yale\nCollective\n\n\n\n\n\n\n\nAbout Anjali Singhvi\n\n
- Anjali Singhvi is a reporter and graphics editor for The New York Times. S
- he covers a variety of topics and her work primarily focuses on investigat
- ive visual journalism. She is a trained architect and holds a master’s d
- egree in Urban Planning/Urban Analytics from Columbia University in New Yo
- rk. Some of the stories she’s covered include an investigation on chemic
- al weapons attack in Syria\, the Tulsa Race Massacre and the shooting of B
- reonna Taylor. Anjali specializes in forensic 3-D reconstructions of crime
-  scenes.\n\nHer stories at the Times have won multiple awards including se
- veral News and Documentary Emmys®\, Online Journalism awards (OJA)\, The 
- National Press Photographers Association awards\, Scripps Howard Award\, S
- ociety of News Design (SND) awards\, Malofiej International Infographic aw
- ards and Pulitzer finalist citations (2022\, 2020 and 2018).\n\n\n\n\n\n\n
- https://cpsc.yale.edu/event/poynter-fellowship-journalism-anjali-singhvi-r
- eporter-and-graphics-editor-new-york-times
-LOCATION:Franke Family Digital Humanities Laboratory\, Sterling Memorial L
- ibrary
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/poynter-fellowship-journalism-anjali-singh
- vi-reporter-and-graphics-editor-new-york-times
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dissertation Defense - Ning Luo
 DTSTART:20221201T180000
 DTEND:20221201T190000
