@@ -37,6 +37,36 @@ URL:https://frankeprogram.yale.edu/event/inference-project-talk-and-discus
  sion-brian-cantwell-smith
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inference Project Virtual Talk:  Inference in a Nonconceptual Worl
+ d
+DTSTART:20221207T200000
+DTEND:20221207T210000
+DESCRIPTION:Event description:\nClassical models of inference\, such as th
+ ose based on logic\, take inference to be *conceptual* – i.e.\, to invol
+ ve representations formed of terms\, predicates\, relation symbols\, and t
+ he like.  Conceptual representation of this sort is assumed to reflect the
+  structure of the world: objects of various types\, exemplifying propertie
+ s\, standing in relations\, grouped together in sets\, etc.  These paired 
+ roughly algebraic assumptions (one epistemic\, the other ontological) form
+  the basis of classical logic and traditional AI (GOFAI).\nIn this talk\, 
+ Professor Smith will argue that the world itself is not conceptual\, in th
+ e sense of not consisting (at least au fond) of objects\, properties\, rel
+ ations\, etc.  That is\, he will argue against the ontological assumption.
+   Rather\, he believes that taking the world to consist of the familiar on
+ tological furniture of objects\, properties\, etc. results from epistemic 
+ processes of abstraction and idealization.  Denser representations with so
+ -called “nonconceptual content” can be closer to what is known as “g
+ round truth”.  Deep learning models and other developments in contempora
+ ry AI can therefore be understood as initial steps to understand inference
+  over surpassingly rich fields of undiscretized features.\n\n\nhttps://fra
+ nkeprogram.yale.edu/event/inference-project-virtual-talk-inference-nonconc
+ eptual-world
+LOCATION:Online ()
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/inference-project-virtual-talk-in
+ ference-nonconceptual-world
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Inference Project Talk and Discussion:  Brian Cantwell Smith
 DTSTART:20221207T200000
 DTEND:20221207T210000
