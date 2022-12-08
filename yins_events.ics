@@ -2,45 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:FDS Seminar: John Langford (Microsoft Research)
-DTSTART:20221207T210000
-DTEND:20221207T220000
-DESCRIPTION:Event description:\nFDS Seminar\n\n“Discovering an Agent’s
-  Configuration Space”\n\nSpeaker:\nJohn Langford\nMicrosoft Research New
-  York\n\n\nAbstract:\nGiven potentially very rich and redundant sensory in
- formation which an agent receives\, can the agent discover a configuration
-  space summarizing all the configurations it can achieve in an environment
- ?  In 2-d free space this could be x\,y\,theta\, but in environments with
-  walls\, movable objects\, and other agents how can this be done?  I’ll
-  discuss a basic principle\, theory\, and experimental results suggesting 
- this may be viable for _all_ agents with relatively few environment intera
- ctions.\n\nBio:\nJohn Langford is a computer scientist working in machine 
- learning and learning theory\, a field that he says “is shifting from an
-  academic discipline to an industrial tool”.\n\n\n\nHe is well known for
-  work on the Isomap embedding algorithm\, CAPTCHA challenges\, Cover Trees
-  for nearest neighbor search\, Contextual Bandits (which he coined) for re
- inforcement learning applications\, and learning reductions.\n\n\n\nJohn i
- s the author of the blog hunch.net and the principal developer of Vowpal W
- abbit. He works at Microsoft Research New York\, of which he was one of th
- e founding members\, and was previously affiliated with Yahoo! Research\, 
- Toyota Technological Institute at Chicago\, and IBM’s Watson Research Ce
- nter. He studied Physics and Computer Science at the California Institute 
- of Technology\, earning a double bachelor’s degree in 1997\, and he rece
- ived his Ph.D. in Computer Science from Carnegie Mellon University in the 
- year of 2002.\n\n\n\nJohn was the program co-chair for the 2012 Internatio
- nal Conference on Machine Learning (ICML)\, general chair for the 2016 ICM
- L\, and is the President of ICML from 2019–2021.\n\n\n\nWebsite:\n\nhttp
- s://hunch.net/~jl/\n\n\n\nThis is an in-person seminar\, with remote acces
- s available:\n\nhttps://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?
- id=1a9628bf-c5c4-4830-948b-af420136ee87\n\nAdd event to calendar\n\n\n\n\n
- \n\n\n.\n\n\nhttps://yins.yale.edu/event/fds-seminar-john-langford-microso
- ft-research
-LOCATION:DL220
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/fds-seminar-john-langford-microsoft-resear
- ch
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FDS Seminar: Robert Schapire (Microsoft)
 DTSTART:20221214T210000
 DTEND:20221214T220000
