@@ -50,155 +50,183 @@ DESCRIPTION:Event description:\nData Science Project Match\n\nIn-person ev
  i Professor of Computer Science\n\ndragomir.radev@yale.edu\n|\nhttps://yal
  e-lily.github.io/\n\nZhuoran Yang\nAssistant Professor\, Statistics and Da
  ta Science\n\nzhuoran.yang@yale.edu\n|\nhttps://dblp.org/pid/172/1424.html
- \n\nDonna Spiegelman\, Sc.D.\nSusan Dwight Bliss Professor of Biostatistic
- s\, Yale School of Public Health\nDirector\, Center on Methods for Impleme
- ntation and Prevention Science (CMIPS)\nhttps://publichealth.yale.edu/cmip
- s\nProfessor\, Department of Statistics and Data Science\nDirector\, Inter
- disciplinary Methods Core\, Center for Interdisciplinary Research on AIDS\
- nAssistant Director\, Global Oncology\, Yale Cancer Center\n\ndonna.spiege
- lman@yale.edu\n|\nhttps://publichealth.yale.edu/people/donna_spiegelman.pr
- ofile\n\n“LAGO design”\n\nDavid van Dijk\, Ph.D.\nAssistant Professor 
- of Medicine\, Yale School of Medicine\nAssistant Professor of Computer Sci
- ence\n\ndavid.vandijk@yale.edu\n|\nhttp://vandijklab.org\n\nSpatiotemporal
-  graph-neural networks for brain dynamics and spatial genomics\n\nGraph-ne
- ural networks (or geometric deep learning) are revolutionizing machine lea
- rning and data science. They combine ideas from graph theory\, geometry\, 
- topology\, and deep learning to learn powerful non-linear models on graphi
- cal data. In the Van Dijk Lab we are developing several new types of graph
-  neural networks\, based on ideas from dynamical systems\, computer vision
- \, and natural language processing\, and apply these to diverse biomedical
-  applications. In one application\, we are using graph neural networks to 
- model spatiotemporal brain activity data\, such as whole-cortex calcium im
- aging and fMRI recordings. In a second application\, we are using graph ne
- ural networks to model spatial transcriptomic data – a new technology fo
- r the measurement of high-dimensional gene expression at the single-cell l
- evel with spatial resolution. Using our algorithm\, we infer cell-cell int
- eractions in measurements from kidney cancer and brain tissue of multiple 
- sclerosis patients. In these projects\, there is the opportunity to focus 
- more on the algorithmic side or on the application\, and you will work clo
- sely with postdocs and grad students in the lab.\n\nMark Gerstein\nAlbert 
- L Williams Professor of Biomedical Informatics\nProfessor of Molecular Bio
- physics & Biochemistry\, of Computer Science\, and of Statistics & Data Sc
- ience\n\nProject presented by Can Koçkan\n\, Postdoctoral Associate\, Ger
- stein Lab\n\nmark@gersteinlab.org\n\,\ncan.kockan@yale.edu\n|\nhttp://gers
- teinlab.org\n\nPrivacy-Preserving and Secure Genome Analysis\n\nWe are cur
- rently approaching the broad topic of genome privacy and security from two
-  different angles. First\, we are trying to assess the risks presented by 
- public genome databases and other genomic information floating around to i
- ndividuals. We are interested in coming up with ways to quantify the infor
- mation leakage in different scenarios\, such as how many SNPs would be nee
- ded at minimum to identify a person accurately from a DNA sample taken fro
- m a coffee cup they recently left behind. Second\, we are evaluating the p
- erformance of different techniques to enable privacy-preserving genome ana
- lysis on cloud computing environments such as AWS\, Azure\, and Google Clo
- ud Platform. These techniques include Homomorphic Encryption\, Secure Mult
- iparty Computing\, and Trusted Execution Environments such as the Intel SG
- X. Each of these techniques involve certain advantages and disadvantages c
- ompared to the others when it comes to security and protection guarantees 
- and strength\, runtime performance\, ease-of-use\, etc. We are always tryi
- ng to come up with efficient algorithms and data structures that allow the
-  use of these techniques to aid with core bioinformatics tasks such as gen
- otype imputation and genome-wide association studies.\n\nJulian Posada\nIn
- coming Assistant Professor\, American Studies\n\njulian.posada@yale.edu\n|
- \nhttps://posada.website/\n\nStudying an Invisible Population: Mapping the
-  Availability of Online Data Work\n\nMany organizations that develop data-
- intensive technologies outsource data generation\, annotation\, and verifi
- cation processes through online platforms like Amazon Mechanical Turk\, Re
- motasks\, and Appen. Data workers are an invisible population because plat
- form companies often conceal information about their contractual workers t
- o researchers. Other options to study this invisible population using comp
- utational social research methods exist\, including analyzing web traffic 
- data to understand the geography of data work. This talk presents an ongoi
- ng project to study the coloniality of data work\, a crucial step in under
- standing the social conditions in which many data sets are developed. The 
- preliminary results show the existence of a North-South divide in data pro
- duction\, in which most of the demand for data work comes from the United 
- States and the supply from a handful of countries with particular social\,
-  economic\, and infrastructural conditions. I collected web traffic data f
- rom 93 platforms in 2019-2021 and found that most of the workers’ traffi
- c comes from Venezuela\, a country experiencing the highest levels of infl
- ation in the world. However\, there was a decline in traffic from this cou
- ntry in favor of Kenya during the last recorded time period (Summer 2021).
-  Future work will consider how the Russian invasion of Ukraine and the imp
- ending global financial crisis have and will affect the geography of data 
- work in 2022 and early 2023.\n\nNils Rudi\nProfessor\, Yale School of Mana
- gement\n\nnils.rudi@yale.edu\n\nSoccer in-play probabilities\n\nThe questi
- on this project look at is how to forecast win probabilities and goal dist
- ribution during a game of soccer. The difference of two Poisson processes 
- calibrated from betting odds provides a simple and quite good model to est
- imate soccer in-play win probabilities. In earlier work\, we studied such 
- models including some analytical properties and extensions to time-depende
- nt and score dependent goal arrival rates. This project aims at extending 
- these models to take into account various elements\, including: –Red car
- ds –Other factors for pre-game prediction –Uncertainty (error) in para
- meter estimates –Updating –Metrics for forecasting accuracy\, mainly b
- ased on scoring rules (Brier score is a simple example). The project will 
- require good mastery or R and preferably Python and will mainly use method
- s from Stochastic Processes\, Markov Chains and Bayesian Methods.\n\nJenni
- fer Marlon\nSenior Research Scientist\, School of the Environment\nDirecto
- r of Data Science\, Yale Program on Climate Change Communication\nLecturer
- \, Department of Molecular\, Cellular and Developmental Biology\n\njennife
- r.marlon@yale.edu\n|\nhttps://environment.yale.edu/profile/jennifer-marlon
- \n\nPredicting public climate change beliefs\, attitudes\, policy support\
- , and behavior\n\nTwo project options exist. The first is already underway
-  and focuses on assessing the effect of extreme weather on individual and 
- neighborhood-level climate change vulnerability and adaptation efforts. Th
- e second opportunity is starting in January and includes a meta-analysis o
- f hundreds of RCT climate change message experiments across the US and pre
- dictive modeling of national climate change advertising campaign effective
- ness\, including behavioral outcomes.    Description for Project #1:  I
- n the US\, ideology and demographic factors are the primary determinants o
- f individual’s climate-change related attitudes and behaviors\; for exam
- ple Democrats are more worried than Republicans and younger Americans are 
- more worried than older Americans. Other factors\, including personal expe
- rience and local environmental changes have smaller but significant influe
- nces. Importantly\, unlike ideology and demographics\, these latter factor
- s change over time and may provide windows of opportunity to encourage ind
- ividual and collective adaptation and mitigation on climate change. In add
- ition\, such factors play a much larger role in determining attitudes and 
- behaviors outside the U.S. This project aims to identify 1) how much varia
- tion in Americans’ climate attitudes is explained by geography and local
-  environmental changes\; 2) which climate hazards are perceived as most se
- rious in different regions\; and 3) how perceptions compare with actual ri
- sks\; and 4) how these gaps affect preparedness and adaptation behaviors f
- or different subpopulations. Analysis will be based on a rich US survey da
- taset (N > 11\,000) of georeferenced respondents coupled with census\, eco
- nomic\, political\, weather\, geographic\, and other data. Machine learnin
- g will be used to develop and validate multilevel regression and poststrat
- ification (MRP) models for different hazards and subpopulations. The model
- s will identify individual and higher spatial level contextual predictors 
- of risk and responses at multiple spatial scales. The MRP models will then
-  be applied to create neighborhood-level vulnerability maps based on perce
- ption as well as traditional data (i.e.\, physical and sociodemographic fa
- ctors). This project is focused on the US\, but will have data from India 
- and the UK for similar analyses.     Details for Project #2 are in deve
- lopment!\n\nWalter Jetz\nProfessor of Ecology & Evolutionary Biology\, For
- estry & Environmental Studies\, Yale Center for Biodiversity and Global Ch
- ange\nMax Planck-Yale Center for Biodiversity Movement and Global Change\n
- \nPresented and managed by Kevin Winner\n\, Postdoc and Modeling Project L
- ead\, Yale Center for Biodiversity and Global Change\n\nkevin.winner@yale.
- edu\n|\nhttps://jetzlab.yale.edu/\n\nhttp://kwinner.github.io\n\nModeling 
- the geographical and environmental distribution of all species on the plan
- et at 1km^2\n\nMuch of modern ecology and conservation relies on accurate 
- and reliable predictions of the current spatial distribution of species\, 
- the environmental “niche” of those species\, and how both of these thi
- ngs might change under potential climate change scenarios. On my team\, an
- d alongside our partners\, we are currently well underway with the effort 
- to produce these models (Species Distribution Models\, SDMs) across all te
- rrestrial plant and animal species in North America at 1km^2. Modeling spe
- cies distributions at such a (relatively) fine resolution means the impact
-  of ecological processes such as dispersal limitations\, biotic interactio
- ns\, and more begin to play a more significant role than in coarser resolu
- tion models\, meaning we need to develop more sophisticated statistical mo
- dels capable of capturing these processes. At the same time\, the broad sc
- ope of our study has introduced a wide array of computational challenges t
- o making this entire effort tractable. Our team also uses these SDM produc
- ts to quantify species’ vulnerability to climate change and habitat loss
-  and to derive optimal conservation strategies jointly across all species 
- and ecosystems. These analyses as well as our primary SDMs are also made a
- vailable to our governmental partners and the public via the Yale Map of L
- ife at\nhttps://mol.org\n.\n\n.\n\n\nhttps://yins.yale.edu/event/data-scie
- nce-project-match-event
+ \n\nNavigating a maze efficiently with deep reinforcement learning\n\nHow 
+ do we use a map to guide us to a desired place? First\, we locate ourselve
+ s on the map by looking at the surroundings. Then\, we find a path on the 
+ map that connects our current spot and the target spot\, and follow the pa
+ th. But what if we don’t have a map at hand? Deep reinforcement learning
+  is a class of algorithms that exactly deals with such a challenging scena
+ rio.\n\nIn specific\, deep reinforcement learning consists of three compon
+ ents — (i) exploration\, (ii) representation learning\, (iii) decision-m
+ aking. Exploration module specifies how the algorithm collects the data 
+ — wandering around to see the neighborhood. Representation learning modu
+ le extracts useful representations from the observations — building a ma
+ p in our mind based on the gathered data. Decision making module learns th
+ e optimal decisions based on the representation model – finding a path o
+ n the learned map and start the navigation.\n\nIn this project\, we aim to
+  implement deep reinforcement learning algorithms for solving a stylized n
+ avigation problem on partially observable mazes\, where the observations a
+ re the surroundings. We will explore how different the choices of the thre
+ e components affect the performance of the deep reinforcement learning alg
+ orithm. For example\, in terms of exploration\, we can use epsilon-greedy\
+ , UCB\, and Thompson sampling\; in terms of representation learning\, we c
+ an use VAE and contrastive learning\; and in terms of decision making\, we
+  can use actor-critic or Q-learning. We aim to gain some understanding of 
+ how to design an efficient deep reinforcement learning algorithm in a prin
+ cipled manner.\n\nDavid van Dijk\, Ph.D.\nAssistant Professor of Medicine\
+ , Yale School of Medicine\nAssistant Professor of Computer Science\n\ndavi
+ d.vandijk@yale.edu\n|\nhttp://vandijklab.org\n\nSpatiotemporal graph-neura
+ l networks for brain dynamics and spatial genomics\n\nGraph-neural network
+ s (or geometric deep learning) are revolutionizing machine learning and da
+ ta science. They combine ideas from graph theory\, geometry\, topology\, a
+ nd deep learning to learn powerful non-linear models on graphical data. In
+  the Van Dijk Lab we are developing several new types of graph neural netw
+ orks\, based on ideas from dynamical systems\, computer vision\, and natur
+ al language processing\, and apply these to diverse biomedical application
+ s. In one application\, we are using graph neural networks to model spatio
+ temporal brain activity data\, such as whole-cortex calcium imaging and fM
+ RI recordings. In a second application\, we are using graph neural network
+ s to model spatial transcriptomic data – a new technology for the measur
+ ement of high-dimensional gene expression at the single-cell level with sp
+ atial resolution. Using our algorithm\, we infer cell-cell interactions in
+  measurements from kidney cancer and brain tissue of multiple sclerosis pa
+ tients. In these projects\, there is the opportunity to focus more on the 
+ algorithmic side or on the application\, and you will work closely with po
+ stdocs and grad students in the lab.\n\nMark Gerstein\nAlbert L Williams P
+ rofessor of Biomedical Informatics\nProfessor of Molecular Biophysics & Bi
+ ochemistry\, of Computer Science\, and of Statistics & Data Science\n\nPro
+ ject presented by Can Koçkan\n\, Postdoctoral Associate\, Gerstein Lab\n\
+ nmark@gersteinlab.org\n\,\ncan.kockan@yale.edu\n|\nhttp://gersteinlab.org\
+ n\nPrivacy-Preserving and Secure Genome Analysis\n\nWe are currently appro
+ aching the broad topic of genome privacy and security from two different a
+ ngles. First\, we are trying to assess the risks presented by public genom
+ e databases and other genomic information floating around to individuals. 
+ We are interested in coming up with ways to quantify the information leaka
+ ge in different scenarios\, such as how many SNPs would be needed at minim
+ um to identify a person accurately from a DNA sample taken from a coffee c
+ up they recently left behind. Second\, we are evaluating the performance o
+ f different techniques to enable privacy-preserving genome analysis on clo
+ ud computing environments such as AWS\, Azure\, and Google Cloud Platform.
+  These techniques include Homomorphic Encryption\, Secure Multiparty Compu
+ ting\, and Trusted Execution Environments such as the Intel SGX. Each of t
+ hese techniques involve certain advantages and disadvantages compared to t
+ he others when it comes to security and protection guarantees and strength
+ \, runtime performance\, ease-of-use\, etc. We are always trying to come u
+ p with efficient algorithms and data structures that allow the use of thes
+ e techniques to aid with core bioinformatics tasks such as genotype imputa
+ tion and genome-wide association studies.\n\nJulian Posada\nIncoming Assis
+ tant Professor\, American Studies\n\njulian.posada@yale.edu\n|\nhttps://po
+ sada.website/\n\nStudying an Invisible Population: Mapping the Availabilit
+ y of Online Data Work\n\nMany organizations that develop data-intensive te
+ chnologies outsource data generation\, annotation\, and verification proce
+ sses through online platforms like Amazon Mechanical Turk\, Remotasks\, an
+ d Appen. Data workers are an invisible population because platform compani
+ es often conceal information about their contractual workers to researcher
+ s. Other options to study this invisible population using computational so
+ cial research methods exist\, including analyzing web traffic data to unde
+ rstand the geography of data work. This talk presents an ongoing project t
+ o study the coloniality of data work\, a crucial step in understanding the
+  social conditions in which many data sets are developed. The preliminary 
+ results show the existence of a North-South divide in data production\, in
+  which most of the demand for data work comes from the United States and t
+ he supply from a handful of countries with particular social\, economic\, 
+ and infrastructural conditions. I collected web traffic data from 93 platf
+ orms in 2019-2021 and found that most of the workers’ traffic comes from
+  Venezuela\, a country experiencing the highest levels of inflation in the
+  world. However\, there was a decline in traffic from this country in favo
+ r of Kenya during the last recorded time period (Summer 2021). Future work
+  will consider how the Russian invasion of Ukraine and the impending globa
+ l financial crisis have and will affect the geography of data work in 2022
+  and early 2023.\n\nNils Rudi\nProfessor\, Yale School of Management\n\nni
+ ls.rudi@yale.edu\n\nSoccer in-play probabilities\n\nThe question this proj
+ ect look at is how to forecast win probabilities and goal distribution dur
+ ing a game of soccer. The difference of two Poisson processes calibrated f
+ rom betting odds provides a simple and quite good model to estimate soccer
+  in-play win probabilities. In earlier work\, we studied such models inclu
+ ding some analytical properties and extensions to time-dependent and score
+  dependent goal arrival rates. This project aims at extending these models
+  to take into account various elements\, including: –Red cards –Other 
+ factors for pre-game prediction –Uncertainty (error) in parameter estima
+ tes –Updating –Metrics for forecasting accuracy\, mainly based on scor
+ ing rules (Brier score is a simple example). The project will require good
+  mastery or R and preferably Python and will mainly use methods from Stoch
+ astic Processes\, Markov Chains and Bayesian Methods.\n\nJennifer Marlon\n
+ Senior Research Scientist\, School of the Environment\nDirector of Data Sc
+ ience\, Yale Program on Climate Change Communication\nLecturer\, Departmen
+ t of Molecular\, Cellular and Developmental Biology\n\njennifer.marlon@yal
+ e.edu\n|\nhttps://environment.yale.edu/profile/jennifer-marlon\n\nPredicti
+ ng public climate change beliefs\, attitudes\, policy support\, and behavi
+ or\n\nTwo project options exist. The first is already underway and focuses
+  on assessing the effect of extreme weather on individual and neighborhood
+ -level climate change vulnerability and adaptation efforts. The second opp
+ ortunity is starting in January and includes a meta-analysis of hundreds o
+ f RCT climate change message experiments across the US and predictive mode
+ ling of national climate change advertising campaign effectiveness\, inclu
+ ding behavioral outcomes.    Description for Project #1:  In the US\, i
+ deology and demographic factors are the primary determinants of individual
+ ’s climate-change related attitudes and behaviors\; for example Democrat
+ s are more worried than Republicans and younger Americans are more worried
+  than older Americans. Other factors\, including personal experience and l
+ ocal environmental changes have smaller but significant influences. Import
+ antly\, unlike ideology and demographics\, these latter factors change ove
+ r time and may provide windows of opportunity to encourage individual and 
+ collective adaptation and mitigation on climate change. In addition\, such
+  factors play a much larger role in determining attitudes and behaviors ou
+ tside the U.S. This project aims to identify 1) how much variation in Amer
+ icans’ climate attitudes is explained by geography and local environment
+ al changes\; 2) which climate hazards are perceived as most serious in dif
+ ferent regions\; and 3) how perceptions compare with actual risks\; and 4)
+  how these gaps affect preparedness and adaptation behaviors for different
+  subpopulations. Analysis will be based on a rich US survey dataset (N > 1
+ 1\,000) of georeferenced respondents coupled with census\, economic\, poli
+ tical\, weather\, geographic\, and other data. Machine learning will be us
+ ed to develop and validate multilevel regression and poststratification (M
+ RP) models for different hazards and subpopulations. The models will ident
+ ify individual and higher spatial level contextual predictors of risk and 
+ responses at multiple spatial scales. The MRP models will then be applied 
+ to create neighborhood-level vulnerability maps based on perception as wel
+ l as traditional data (i.e.\, physical and sociodemographic factors). This
+  project is focused on the US\, but will have data from India and the UK f
+ or similar analyses.     Details for Project #2 are in development!\n\n
+ Walter Jetz\nProfessor of Ecology & Evolutionary Biology\, Forestry & Envi
+ ronmental Studies\, Yale Center for Biodiversity and Global Change\nMax Pl
+ anck-Yale Center for Biodiversity Movement and Global Change\n\nPresented 
+ and managed by Kevin Winner\n\, Postdoc and Modeling Project Lead\, Yale C
+ enter for Biodiversity and Global Change\n\nkevin.winner@yale.edu\n|\nhttp
+ s://jetzlab.yale.edu/\n\nhttp://kwinner.github.io\n\nModeling the geograph
+ ical and environmental distribution of all species on the planet at 1km^2\
+ n\nMuch of modern ecology and conservation relies on accurate and reliable
+  predictions of the current spatial distribution of species\, the environm
+ ental “niche” of those species\, and how both of these things might ch
+ ange under potential climate change scenarios. On my team\, and alongside 
+ our partners\, we are currently well underway with the effort to produce t
+ hese models (Species Distribution Models\, SDMs) across all terrestrial pl
+ ant and animal species in North America at 1km^2. Modeling species distrib
+ utions at such a (relatively) fine resolution means the impact of ecologic
+ al processes such as dispersal limitations\, biotic interactions\, and mor
+ e begin to play a more significant role than in coarser resolution models\
+ , meaning we need to develop more sophisticated statistical models capable
+  of capturing these processes. At the same time\, the broad scope of our s
+ tudy has introduced a wide array of computational challenges to making thi
+ s entire effort tractable. Our team also uses these SDM products to quanti
+ fy species’ vulnerability to climate change and habitat loss and to deri
+ ve optimal conservation strategies jointly across all species and ecosyste
+ ms. These analyses as well as our primary SDMs are also made available to 
+ our governmental partners and the public via the Yale Map of Life at\nhttp
+ s://mol.org\n.\n\n\n\nEmma Xiaolu Zang\, Ph.D.\nAssistant Professor of Soc
+ iology\, Biostatistics (Secondary)\, and Global Affairs (Secondary)\n\ndew
+ elve@gmail.com\n|\nhttp://www.emmazang.net/\n\n\n\nInnovative Approaches t
+ o Modeling Migration During the Pandemic\n\nIn this project\, we will deve
+ lop innovative approaches to modeling US domestic migration during the pan
+ demic\, using multiple data sources. These data sources include VIIRS nigh
+ t light data\, cell phone data\, Zillow housing price data\, longitudinal 
+ survey data\, USPS change of addresses data\, and potentially a couple of 
+ others. Ideal candidates should have the expertise and strong interests in
+  spatial analyses\, data visualization\, and panel analyses using R\, Stat
+ a\, ArcGIS\, or Python. I will also introduce many other data our team has
+  for other projects\, which can be explored if the candidate has an intere
+ sting idea.\n\n\n.\n\n\nhttps://yins.yale.edu/event/data-science-project-m
+ atch-event
 LOCATION:Yale Institute for Network Science
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/data-science-project-match-event
