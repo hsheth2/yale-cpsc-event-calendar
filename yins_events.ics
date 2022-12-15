@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:Canceled: FDS Seminar: Robert Schapire (Microsoft)
-DTSTART:20221214T210000
-DTEND:20221214T220000
-DESCRIPTION:Event description:\nUpdate: This event has been postponed unti
- l spring.\n\nFDS Seminar\n\n“Convex Analysis at Infinity: An Introductio
- n to Astral Space”\n\nSpeaker: Robert Schapire\nMicrosoft Research\n\nA
- bstract:\nNot all convex functions have finite minimizers\; some can only 
- be minimized by a sequence as it heads to infinity.  In this work\, we ai
- m to develop a theory for understanding such minimizers at infinity.  We 
- study\nastral space\n\, a compact extension of Euclidean space to which su
- ch points at infinity have been added.  Astral space is constructed to be
-  as small as possible while still ensuring that all linear functions can b
- e continuously extended to the new space.  Although not a vector space\, 
- nor even a metric space\, astral space is nevertheless so well-structured 
- as to allow useful and meaningful extensions of such concepts as convexity
- \, conjugacy\, and subdifferentials.  We develop these concepts and analy
- ze various properties of convex functions on astral space\, including the 
- detailed structure of their minimizers\, exact characterizations of contin
- uity\, and convergence of descent algorithms.\n\nThis is joint work with M
- iroslav Dudík and Matus Telgarsky.\n\nSpeaker bio:\nRobert Schapire is a 
- Partner Researcher at Microsoft Research in New York City.  He received h
- is PhD from MIT in 1991.  After a short postdoc at Harvard\, he joined th
- e technical staff at AT&T Labs (formerly AT&T Bell Laboratories) in 1991.
-   In 2002\, he became a Professor of Computer Science at Princeton Unive
- rsity.  He joined Microsoft Research in 2014.  His awards include the 1
- 991 ACM Doctoral Dissertation Award\, the 2003 Gödel Prize\, and the 2004
-  Kanelakkis Theory and Practice Award (both of the last two with Yoav Freu
- nd).  He is a fellow of the AAAI\, and a member of both the National Aca
- demy of Engineering and the National Academy of Sciences.  His main resea
- rch interest is in theoretical and applied machine learning.\n\nThis is an
-  in-person seminar with a remote access option:\nhttps://yale.hosted.panop
- to.com/Panopto/Pages/Viewer.aspx?id=fd7320df-18fc-441e-b852-af42013692e4\n
- \nAdd event to calendar\n\n\n\n\n\n\n\n.\n\n\nhttps://yins.yale.edu/event/
- canceled-fds-seminar-robert-schapire-microsoft
-LOCATION:DL220
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/canceled-fds-seminar-robert-schapire-micro
- soft
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FDS Seminar: Yuchen Wu
 DTSTART:20221216T180000
 DTEND:20221216T190000
