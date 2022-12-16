@@ -101,51 +101,8 @@ DESCRIPTION:Event description:\nFDS Seminar: Alkis Kalavasis\n\n“Efficie
  . In the end of the talk\, we will shortly discuss some on-going work on t
  he complexity of min-max optimization\, a fundamental problem in the area 
  of equilibrium computation in multi-agent environments.\n\nAdd event to ca
- lendar\n\n\n\n\n\n\n\n\nhttps://yins.yale.edu/event/fds-seminar-alkis-kala
- vasis
-LOCATION:https://yale.zoom.us/j/92839684012
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/fds-seminar-alkis-kalavasis
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FDS Seminar: Alkis Kalavasis
-DTSTART:20221219T173000
-DTEND:20221219T183000
-DESCRIPTION:Event description:\nFDS Seminar: Alkis Kalavasis\n\n“Efficie
- nt Algorithms and Computational Barriers in Reliable Machine Learning”\n
- \nOnline only. Click here for Webcast\n\nSpeaker: Alkis Kalavasis\nNationa
- l Technical University of Athens\n\nAbstract:\nIn this talk\, we will disc
- uss the computational challenges arising in various problems in Reliable M
- achine Learning. Reliable ML aims at the design of computationally efficie
- nt algorithms that provide guarantees such as robustness to biased data\, 
- reproducibility and privacy.  We firstly focus on the design of algorithm
- s robust to biased and corrupted observations. We begin with the problem o
- f learning from coarse data. The motivation behind this problem is that in
-  many learning tasks one may not have access to fine grained label informa
- tion\; e.g.\, an image can be labeled as husky\, dog\, or even animal depe
- nding on the expertise of the annotator. We formalize these settings from 
- the viewpoint of computational learning theory and provide efficient algor
- ithms and computational hardness results. We then continue with the task o
- f learning noisy linear label rankings. Label ranking is the supervised ta
- sk of learning a sorting function that maps feature vectors to rankings ov
- er a finite set of labels. We provide the first efficient algorithms for l
- earning linear sorting functions in the presence of bounded noise (an exte
- nsion of the Massart noise condition to label rankings) under Gaussian mar
- ginals. Next\, we consider questions regarding responsibility aspects of M
- L systems. We study the important problem of reproducibility as an algorit
- hmic property in decision-making settings. We introduce the notion of repr
- oducible policies in the context of stochastic bandits\, one of the canoni
- cal problems in interactive learning. A policy in the bandit environment i
- s called reproducible if it pulls\, with high probability\, the exact same
-  sequence of arms in two different and independent executions (under indep
- endent reward realizations and shared internal randomness). We show that n
- ot only do reproducible policies exist\, but also they achieve almost the 
- same optimal (non-reproducible) regret bounds in terms of the time horizon
- . In the end of the talk\, we will shortly discuss some on-going work on t
- he complexity of min-max optimization\, a fundamental problem in the area 
- of equilibrium computation in multi-agent environments.\n\nAdd event to ca
- lendar\n\n\n\n\n\n\n\n\nhttps://yins.yale.edu/event/fds-seminar-alkis-kala
- vasis
+ lendar\n\n\n\n\n\n\n\n.\n\n\nhttps://yins.yale.edu/event/fds-seminar-alkis
+ -kalavasis
 LOCATION:https://yale.zoom.us/j/92839684012
 STATUS:CONFIRMED
 URL:https://yins.yale.edu/event/fds-seminar-alkis-kalavasis
