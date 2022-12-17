@@ -2,69 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Institute for Network Sciences (YINS)
 X-WR-CALNAME:YINS Events
 BEGIN:VEVENT
-SUMMARY:FDS Seminar: Yuchen Wu
-DTSTART:20221216T180000
-DTEND:20221216T190000
-DESCRIPTION:Event description:\nFDS Seminar: Yuchen Wu\n\n“Fundamental L
- imits of Low-Rank Matrix Estimation: Information-Theoretic and Computation
- al Perspectives”\n\nSpeaker: Yuchen Wu\nStanford University\n\nWebcast\n
- \nAbstract:\nMany statistical estimation problems can be reduced to the re
- construction of a low-rank n×d matrix when observed through a noisy chann
- el. While tremendous positive results have been established\, relatively f
- ew works focus on understanding the fundamental limitations of the propose
- d models and algorithms. Understanding such limitations not only provides 
- practitioners with guidance on algorithm selection\, but also spurs the de
- velopment of cutting-edge methodologies.   In this talk\, I will present 
- some recent progress in this direction from two perspectives in the contex
- t of low-rank matrix estimation. From an information-theoretic perspective
- \, I will give an exact characterization of the limiting minimum estimatio
- n error. Our results apply to the high-dimensional regime n\,d→∞ and d
- /n→∞ (or d/n→0) and generalize earlier works that focus on the propo
- rtional asymptotics n\,d→∞\, d/n→δ∈(0\,∞). From an algorithmic 
- perspective\, large-dimensional matrices are often processed by iterative 
- algorithms like power iteration and gradient descent\, thus encouraging th
- e pursuit of understanding the fundamental limits of these approaches. We 
- introduce a class of general first order methods (GFOM)\, which is broad e
- nough to include the aforementioned algorithms and many others. I will des
- cribe the asymptotic behavior of any GFOM\, and provide a sharp characteri
- zation of the optimal error achieved by the GFOM class.\n\nThis is based o
- n joint works with Michael Celentano and Andrea Montanari.\n\nAdd event to
-  calendar\n\n\n\n\n\n\n\n.\n\n\nhttps://yins.yale.edu/event/fds-seminar-yu
- chen-wu
-LOCATION:https://yale.zoom.us/j/96639120946
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/fds-seminar-yuchen-wu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FDS Seminar: Aditi Laddha
-DTSTART:20221216T200000
-DTEND:20221216T210000
-DESCRIPTION:Event description:\nFDS Seminar: Aditi Laddha\n\n“High-Dime
- nsional Markov Chains and Applications”\n\nSpeaker: Aditi Laddha\n\nWeb
- cast.\n\nAbstract:\nA Markov chain is a random process in which the next s
- tate is chosen according to some probability distribution that depends onl
- y on the current state. In a high-dimensional setting\, Markov chains are 
- essential tools for understanding the geometry of the space and form the b
- ackbone of many efficient randomized algorithms for tasks like optimizatio
- n\, integration\, linear programming\, approximate counting\, etc. In this
-  talk\, I will provide an overview of my research on “High-Dimensional M
- arkov Chains\,” with a focus on the geometric aspects of the chains.\n\n
- I will describe two results that illustrate the importance of Markov chain
- s for designing efficient algorithms. First\, I will discuss my work on a 
- barrier-based random walk for bounding the discrepancy of set systems. I w
- ill then present a general framework for bounding discrepancy in various s
- ettings. Second\, I will describe two Markov chains\, the Weighted Dikin W
- alk and Coordinate Hit-and-Run for sampling convex bodies\, and discuss ne
- w techniques for bounding their convergence rates.    You are invited to
-  a scheduled Zoom meeting. Zoom is Yale’s audio and visual conferencing 
- platform.    Topic: FDS Seminar: Aditi Laddha  Time: Dec 16\, 2022 03:0
- 0 PM Eastern Time (US and Canada)\n\nAdd event to calendar\n\n\n\n\n\n\n\n
- .\n\n\nhttps://yins.yale.edu/event/fds-seminar-aditi-laddha
-LOCATION:https://yale.zoom.us/j/95124210485
-STATUS:CONFIRMED
-URL:https://yins.yale.edu/event/fds-seminar-aditi-laddha
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FDS Seminar: Alkis Kalavasis
 DTSTART:20221219T173000
 DTEND:20221219T183000
