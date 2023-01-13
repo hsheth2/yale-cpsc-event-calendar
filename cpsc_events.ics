@@ -2,29 +2,41 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
+SUMMARY:CS Colloquium - Abhishek Bhattachargee\, Yale University Computer 
+ Science
+DTSTART:20230124T210000
+DTEND:20230124T220000
+DESCRIPTION:Event description:\nDetails coming soon.\n\n\nhttps://cpsc.yal
+ e.edu/event/cs-colloquium-abhishek-bhattachargee-yale-university-computer-
+ science
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-colloquium-abhishek-bhattachargee-yale-
+ university-computer-science
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Colloquium - Ajay Rayasam\, Osage University Partners
 DTSTART:20230127T170000
 DTEND:20230127T180000
 DESCRIPTION:Event description:\nIntro to Venture Capital – Part I (aka V
  C101)\n- Intended for new entrepreneurs\, VC101 has educated many universi
  ty researchers during the past few years on how venture capital works.\n\n
- Yale invites you to join this free seminar that will help you understand v
- enture capital with respect to entrepreneurship. The seminar will explore 
- these questions:\n\n\nDoes your newco have what it takes to secure VC fina
- ncing?\n\nWho is investing in academic startups?\n\nWhat technology sector
- s are most likely to get funded?\n\nHow should you and your colleagues app
- roach potential investors?\n\nWhen should you seek funding from non-diluti
- ve sources\, family and friends\, angels\, crowdfunding?\n\nWho should be 
- the CEO?\n\n\nIntro to Startups - Part II Getting Your Startup from Idea t
- o Funding\n- A primer on startups that is targeted to students and researc
- hers new to the startup world\, this presentation covers company formation
- \, capital considerations\, pitch deck information\, and venture capital c
- oncerns.\n\nYale invites you to join this free seminar that will help you 
- understand the current startup company process from idea to fundable entit
- y. The seminar will explore these areas:\n\n\nEssential elements of a star
- tup\n\nCompany formation and organization\n\nFunding\n\nPitch deck and exe
- cutive summary\n\nInvestment Memo\n\n\n\nhttps://cpsc.yale.edu/event/cs-co
- lloquium-ajay-rayasam-osage-university-partners
+ This seminar will help you understand venture capital with respect to entr
+ epreneurship. The seminar will explore these questions:\n\n\nDoes your new
+ co have what it takes to secure VC financing?\n\nWho is investing in acade
+ mic startups?\n\nWhat technology sectors are most likely to get funded?\n\
+ nHow should you and your colleagues approach potential investors?\n\nWhen 
+ should you seek funding from non-dilutive sources\, family and friends\, a
+ ngels\, crowdfunding?\n\nWho should be the CEO?\n\n\nIntro to Startups - P
+ art II Getting Your Startup from Idea to Funding\n- A primer on startups t
+ hat is targeted to students and researchers new to the startup world\, thi
+ s presentation covers company formation\, capital considerations\, pitch d
+ eck information\, and venture capital concerns.\n\nThis seminar will help 
+ you understand the current startup company process from idea to fundable e
+ ntity. The seminar will explore these areas:\n\n\nEssential elements of a 
+ startup\n\nCompany formation and organization\n\nFunding\n\nPitch deck and
+  executive summary\n\nInvestment Memo\n\n\n\nhttps://cpsc.yale.edu/event/c
+ s-colloquium-ajay-rayasam-osage-university-partners
 LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-ajay-rayasam-osage-universit
