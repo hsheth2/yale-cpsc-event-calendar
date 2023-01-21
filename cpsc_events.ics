@@ -2,37 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Dragana Milovančević
-DTSTART:20230121T040000
-DTEND:20230121T050000
-DESCRIPTION:Event description:\nCS Talk\nDragana Milovančević\n\nHost: 
- Ruzica Piskac\n\nTitle: Proving Equivalence of Functional Programming Assi
- gnments\n\nAbstract:\n\nIn this talk\, we present an automated approach fo
- r verifying the correctness of programming assignments\, such as ones aris
- ing in a functional programming course. Our approach takes a small set of 
- reference solutions and a set of student submissions and checks\, for each
-  submission\, whether it is provably correct. A program is considered corr
- ect if it is shown equivalent to a reference solution either directly or i
- ndirectly through some other intermediate solution. We first show how equi
- valence checking automatically matches function calls\, generates inductiv
- e proof attempts and checks them using function unfolding and SMT solving.
-  We then demonstrate the effectiveness of our approach in practice\, on pr
- ograms drawn from a functional programming course and from the equivalence
-  checking literature. Our results show that our system is capable of provi
- ng program correctness by generating inductive equivalence proofs\, as wel
- l as providing counterexamples in case of incorrect implementations\, with
-  a high success rate.\n\nBio:\n\nDragana Milovančević is a PhD student 
- in the LARA group at EPFL\, under the supervision of Viktor Kunčak. Previ
- ously\, she received her master’s degree from the University of Belgrade
- \, where she was working as a Teaching Assistant. Her research interests a
- re in the field of formal verification\, where she applies equivalence che
- cking to a variety of domains\, including automated grading.\n\n\nhttps://
- cpsc.yale.edu/event/cs-talk-dragana-milovancevic
-LOCATION:AKW 307
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-dragana-milovancevic
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Abhishek Bhattacharjee\, Department of Computer Sc
  ience\, Yale University
 DTSTART:20230124T210000
