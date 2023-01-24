@@ -1,4 +1,31 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
+BEGIN:VEVENT
+SUMMARY:Competition Now Open:  Franke Undergraduate Fellowship in Science 
+ and the Humanities
+DTSTART:20230310T220000
+DTEND:20230310T230000
+DESCRIPTION:Event description:\nThe Franke Program in Science and the Huma
+ nities is pleased to award the\nFranke Fellowship in Science and the Human
+ ities\n\, which is made possible by the generous support of Mr. and Mrs. R
+ ichard (‘53) and Barbara Franke. Three to five fellowships of $2\,000 wi
+ ll be awarded to rising seniors to support senior essay\, research\, or ar
+ t project proposals that explore new and productive intellectual connectio
+ ns between science and the humanities. Interdisciplinary research or art p
+ rojects should explicitly engage both scientific and humanistic issues or 
+ content. Awards are intended to support research during the summer between
+  junior and senior year\, or during the following academic year.\n\nAwarde
+ es will be asked to participate in dinners with Franke Program faculty and
+  Mrs. Franke to discuss the proposed projects (in the fall) and to present
+  the final results of their work (during the spring semester).\n\nFellowsh
+ ip monies are intended to offset costs related to the proposed research or
+  project. These include travel costs\, accommodation\, and supplies and ma
+ terials.\n\n\nhttps://frankeprogram.yale.edu/event/competition-now-open-fr
+ anke-undergraduate-fellowship-science-and-humanities
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/competition-now-open-franke-under
+ graduate-fellowship-science-and-humanities
+END:VEVENT
 END:VCALENDAR
