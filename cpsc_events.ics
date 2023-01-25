@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Abhishek Bhattacharjee\, Department of Computer Sc
- ience\, Yale University
-DTSTART:20230124T210000
-DTEND:20230124T220000
-DESCRIPTION:Event description:\nCS Colloquium\nAbhishek Bhattacharjee\nDep
- artment of Computer Science\, Yale University\n\nTitle: Computer Architect
- ures for Mind-Machine Teaming\n\nAbstract:\n\nDirect brain-computer commun
- ication promises to help treat neurological disorders\, explain brain func
- tion\, and augment human cognition and decision-making. The promise of min
- d-machine teaming hinges on computer systems that delicately balance the t
- ight power\, latency\, and bandwidth trade-offs needed to decode brain act
- ivity\, stimulate biological neurons\, and control assistive devices most 
- effectively.\n\nThis talk presents the design of two systems that unlock s
- everal brain-computer interactions while navigating the power and performa
- nce trade-offs posed by brain interfacing. The first system\, HALO\, is an
-  accelerator-rich processing fabric that enables flexible single-brain-sit
- e interfacing at high data rates using only tens of milliwatts of power. T
- he second system\, Hull\, realizes multi-brain-site interfacing using a di
- stributed system of networked accelerator-rich processing fabrics built at
- op HALO. Driven by important brain-computer interface applications (e.g.\,
-  epilepsy\, movement disorders\, paralysis)\, we explore systems research 
- questions pertaining to the design and integration of hardware accelerator
- s\, co-design of hardware accelerators with networking & storage stacks\, 
- and clean interfaces/abstractions for programmability. Key insights are un
- dergirded via chip tape-outs in a 12nm CMOS process.\n\n\nhttps://cpsc.yal
- e.edu/event/cs-colloquium-abhishek-bhattacharjee-department-computer-scien
- ce-yale-university
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-abhishek-bhattacharjee-depar
- tment-computer-science-yale-university
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Ajay Rayasam\, Osage University Partners
 DTSTART:20230127T170000
 DTEND:20230127T180000
