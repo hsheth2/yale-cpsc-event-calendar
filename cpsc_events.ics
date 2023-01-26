@@ -22,4 +22,33 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-colloquium-ajay-rayasam-osage-universit
  y-partners
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Ishan Agarwal
+DTSTART:20230131T153000
+DTEND:20230131T163000
+DESCRIPTION:Event description:\nCS Talk\nIshan Agarwal\n\nHost: Holly Rush
+ meier\n\nTitle: An Introduction to Recursion\n\nAbstract:\n\nRecursion is 
+ a powerful idea which shows up not only in computer science\, but also i
+ n other fields. It forms the basis of many interesting structures and pro
+ blem solving approaches\, a few of which we will see in this talk. We will
+  look at how recursion can be used to define functions\, mathematical obje
+ cts and data structures\, as well as how it can be a powerful problem solv
+ ing tool\; often allowing us to come up with clear and intelligible soluti
+ ons to problems that are otherwise hard to attack. You can also expect 
+ to see some other fun instances of recursion\, which might surprise you!\
+ n\nBio:\n\nI’m Ishan Agarwal\, a final year PhD student at NYU. I have a
+  broad interest in theoretical computer science. The areas I have explored
+  so far include various topics in algorithmic game theory (my thesis work
+  is on stable matchings and more generally matching markets)\, metric geom
+ etry (low distortion lattice embeddings) and computational geometry (color
+ ings of point sets in the plane). Currently I am working on novel variatio
+ ns of the online matching problem.\n\nPerhaps even more so than research\,
+  I am very passionate about teaching. I have had the good fortune to have 
+ several rewarding teaching experiences at NYU and I am aiming to make the 
+ focus of my career going forward.\n\n\nhttps://cpsc.yale.edu/event/cs-talk
+ -ishan-agarwal
+LOCATION:Zoom Presentation
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-ishan-agarwal
+END:VEVENT
 END:VCALENDAR
