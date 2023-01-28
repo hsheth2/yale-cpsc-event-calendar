@@ -2,27 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Colloquium - Ajay Rayasam\, Osage University Partners
-DTSTART:20230127T170000
-DTEND:20230127T180000
-DESCRIPTION:Event description:\nCS Colloquium - Ajay Rayasam\, Osage Unive
- rsity Partners\n\nHost: Anurag Khandelwal\n\nIntro to Venture Capital – 
- (aka VC101)\n- Intended for new entrepreneurs\, VC101 has educated many un
- iversity researchers during the past few years on how venture capital work
- s.\n\nThis seminar will help you understand venture capital with respect t
- o entrepreneurship. The seminar will explore these questions:\n\n\nDoes yo
- ur newco have what it takes to secure VC financing?\n\nWho is investing in
-  academic startups?\n\nWhat technology sectors are most likely to get fund
- ed?\n\nHow should you and your colleagues approach potential investors?\n\
- nWhen should you seek funding from non-dilutive sources\, family and frien
- ds\, angels\, crowdfunding?\n\nWho should be the CEO?\n\n\n\nhttps://cpsc.
- yale.edu/event/cs-colloquium-ajay-rayasam-osage-university-partners
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-colloquium-ajay-rayasam-osage-universit
- y-partners
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Ishan Agarwal
 DTSTART:20230131T153000
 DTEND:20230131T163000
