@@ -2,6 +2,35 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
+SUMMARY:Thinking with Bees\, Thursday\, February 16
+DTSTART:20230216T213000
+DTEND:20230216T223000
+DESCRIPTION:Event description:\nThinking Environment in Early Modernity\ni
+ s a speaker series focused on intermedial problems of conceptualizing and 
+ representing the environment\, both in the Early Modern period and in tran
+ shistorical contexts. To start off the series\, Joseph Campana (Rice Unive
+ rsity) will deliver a talk entitled\, “Thinking with Bees” on\nThursda
+ y\, February 16\nth\nat 4:30pm in PH 207 (Phelps Hall).\n\nJoseph Campana 
+ is a poet\, arts writer\, and scholar of the literature and culture of Ear
+ ly Modern England. His books include\nThe Pain of Reformation: Spenser\, V
+ ulnerability\, and the Ethics of Masculinity\nand\nRenaissance Posthumanis
+ m\n(co-edited with Scott Maisano). “Thinking with Bees” will incorpora
+ te materials from Campana’s upcoming two-volume\nLesser Living Creatures
+  of the Renaissance\n(co-edited with Keith Botelho).\n\nIn April\, the ser
+ ies will continue with a talk on Munbangdo by Eleanor Soo-ah Hyun (Associa
+ te Curator for Korean Art\, The Metropolitan Museum of Art).\n\nThinking E
+ nvironment in Early Modernity is co-sponsored by the Franke Program in Sci
+ ence and the Humanities\, the Program in Early Modern Studies\, and the Co
+ uncil for East Asian Studies. For more information on the series\, please 
+ contact John Hoffmeyer (\njohn.hoffmeyer@yale.edu\n) or Taylor Yoonji Kang
+  (\ntaylor.kang@yale.edu\n).\n\n\nhttps://frankeprogram.yale.edu/event/thi
+ nking-bees-thursday-february-16
+LOCATION:Phelps Hall 207
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/thinking-bees-thursday-february-1
+ 6
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kingdom of Characters:  Book Talk by Professor Jing Tsu
 DTSTART:20230222T210000
 DTEND:20230222T220000
