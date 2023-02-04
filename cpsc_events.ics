@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Vikram V. Ramaswamy
-DTSTART:20230203T153000
-DTEND:20230203T163000
-DESCRIPTION:Event description:\nCS Talk\nVikram V. Ramaswamy\n\nHost: Holl
- y Rushmeier\n\nTitle: Measuring machine learning models for fairness\n\nAb
- stract:\n\nCurrent machine learning models are now incredibly powerful and
-  can be used for tasks that make important decisions about people. In this
-  lecture\, we’ll discuss three different metrics to evaluate these model
- s for fairness: demographic parity\, equalized odds and parity of predicti
- ve values\, and show that they are very often incompatible with each other
- . We’ll reason about what normative standards each of these metrics set\
- , and finally\, see how they interact with the larger space of machine lea
- rning fairness.\n\nBio:\n\nVikram V. Ramaswamy is a PhD candidate at Princ
- eton University\, working with Olga Russakovsky. He is interested in fairn
- ess and interpretability in machine learning\, and how it applies to visua
- l systems. In addition to his research and teaching\, he is passionate abo
- ut increasing diversity in higher education and has participated in numero
- us programs for the same\, including the Princeton Freshman Scholars Initi
- ative\, a program for first gen / low-income students\, and Princeton AI4A
- ll\, a program for high school students aimed at increasing diversity in A
- I.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-vikram-v-ramaswamy
-LOCATION:Zoom Presentation
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-vikram-v-ramaswamy
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Sebastian Caldas
 DTSTART:20230209T153000
 DTEND:20230209T163000
