@@ -2,51 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
 BEGIN:VEVENT
-SUMMARY:Colloquium on Power and Prediction - The Disruptive Economics of A
- rtificial Intelligence - by Avi Goldfarb
-DTSTART:20230210T160000
-DTEND:20230210T170000
-DESCRIPTION:Event description\nSpeaker:\nAvi Goldfarb\n\, Rotman Chair in 
- Artificial Intelligence and Healthcare and Professor of marketing at the R
- otman School of Management\, University of Toronto.\n\nTitle:\nPower and P
- rediction - The Disruptive Economics of Artificial Intelligence\n\nHost:\n
- K. Sudhir\n\nAbstract:\nArtificial intelligence presents an extraordinary 
- opportunity and an extraordinary threat. But not in the way that might be 
- expected. Today’s AI is best understood as prediction technology rather 
- than a machine that can do everything humans do. Prediction technology can
-  nevertheless transform industries. It does this by decoupling prediction 
- from the other aspects of decision making\, thereby creating new ways of d
- elivering value. Unleashing this potential requires the invention of new w
- ays of operating\, many of which remain undiscovered. Today\, we sit in a 
- striking phase in the development of this technology\, The Between Times a
- fter witnessing AI’s potential\, but before its widespread impact. On th
- e other side of The Between Times\, when this process of invention is comp
- lete\, the changes in decisions will mean changes in power. In industry\, 
- power confers profits\; in society\, power confers control.\n\n\n\nSpeaker
-  Biography:   Avi Goldfarb is the Rotman Chair in Artificial Intelligenc
- e and Healthcare\, and Professor of Marketing\, at the Rotman School of Ma
- nagement\, University of Toronto. Avi is also Chief Data Scientist at the 
- Creative Destruction Lab and a Research Associate at the National Bureau o
- f Economic Research. A former Senior Editor at\nMarketing Science\n\, his 
- research focuses on the opportunities and challenges of the digital econom
- y. He has published academic articles in marketing\, computing\, law\, man
- agement\, medicine\, physics\, political science\, public health\, statist
- ics\, and economics. His work on online advertising won the INFORMS Societ
- y of Marketing Science Long Term Impact Award\, and he testified before th
- e U.S. Senate Judiciary Committee on competition and privacy in digital ad
- vertising. Avi received his Ph.D. in economics from Northwestern Universit
- y. He co-authored the bestselling book\nPrediction Machines: The Simple Ec
- onomics of Artificial Intelligence\nand\, more recently\,\nPower and Predi
- ction\n.\n\n\n\nThis is an in-person event and follows Yale University’s
- \nCOVID-19 policy\n.\n\n\n\n\nhttps://computationsociety.yale.edu/event/co
- lloquium-on-power-and-prediction-the-disruptive-economics-of-artificial-in
- telligence-by-avi
-LOCATION:2200 Blumetti Classroom\, Yale School of Management (SOM)
-STATUS:CONFIRMED
-URL:https://computationsociety.yale.edu/event/colloquium-on-power-and-pred
- iction-the-disruptive-economics-of-artificial-intelligence-by-avi
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Colloquium by Catherine Tucker
 DTSTART:20230407T160000
 DTEND:20230407T170000
