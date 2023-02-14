@@ -5,10 +5,31 @@ BEGIN:VEVENT
 SUMMARY:CS Talk Hsin-Yuan (Robert) Huang
 DTSTART:20230214T210000
 DTEND:20230214T220000
-DESCRIPTION:Event description:\nCS Talk Hsin-Yuan (Robert) Huang\n\nDetail
- s coming soon.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-hsin-yuan-robert-h
- uang
-LOCATION:Zoom Presentation
+DESCRIPTION:Event description:\nCS Talk Hsin-Yuan (Robert) Huang\n\nThis w
+ ill be a Zoom presentation with the option of viewing with others in AKW 2
+ 00.\n\nHost: Yongshan Ding\n\nTitle: Learning in the quantum universe\n\nA
+ bstract:\n\nI will present recent progress in building a rigorous theory t
+ o understand how scientists\, machines\, and future quantum computers coul
+ d learn models of our quantum universe. The talk will begin with an exper
+ imentally feasible procedure for converting a quantum many-body system int
+ o a succinct classical description of the system\, its classical shadow. C
+ lassical shadows can be applied to efficiently predict many properties of
+  interest\, including expectation values of local observables and few-body
+  correlation functions. I will then build on the classical shadow formali
+ sm to answer two fundamental questions at the intersection of machine lear
+ ning and quantum physics: Can classical machines learn to solve challengin
+ g problems in quantum physics? And can quantum machines learn exponential
+ ly faster than classical machines?\n\nBio:\n\nHsin-Yuan Huang (Robert) is 
+ a Ph.D. student at Caltech\, advised by John Preskill and Thomas Vidick. H
+ is research focuses on understanding how the theory of learning can provid
+ e new insights into physics\, information\, and quantum computing. His no
+ table works include classical shadow tomography for learning large-scale q
+ uantum systems\, provably efficient machine learning algorithms for solvi
+ ng quantum many-body problems\, and quantum advantages in learning from ex
+ periments. He has been awarded a Google Ph.D. fellowship\, the Quantum Cr
+ eator Prize\, MediaTek research young scholarship\, and the Kortschak scho
+ larship.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-hsin-yuan-robert-huang
+LOCATION:Zoom Presentation viewing in AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-hsin-yuan-robert-huang
 END:VEVENT
