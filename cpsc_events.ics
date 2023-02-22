@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Aldo Pacchiano
-DTSTART:20230221T210000
-DTEND:20230221T220000
-DESCRIPTION:Event description:\nCS Talk\nAldo Pacchiano\n\nHost: Steve Zuc
- ker\n\nTitle: Learning Systems in Adaptive Environments. Theory\, Algorith
- ms and Design\n\nAbstract:\n\nRecent years have seen great successes in th
- e development of learning algorithms in static predictive and generative t
- asks\, where the objective is to learn a model that performs well on a sin
- gle test deployment and in applications with abundant data. Comparatively 
- less success has been achieved in designing algorithms for deployment in a
- daptive scenarios where the data distribution may be influenced by the cho
- ices of the algorithm itself\, the algorithm needs to adaptively learn fro
- m human feedback\, or the nature of the environment is rapidly changing. T
- hese are some of the most important challenges in the development of ML dr
- iven solutions for technologies such as interactive web systems\, ML drive
- n scientific experimentation\, and robotics. To fully realize the potentia
- l of these technologies we will necessitate better ways of identifying pro
- blem domains and designing algorithms for adaptive learning.\n\nTo achieve
-  this\, in this talk I propose adopting a systems view of adaptive learni
- ng mechanisms along with the following algorithm design considerations 1) 
- development of sample efficient and tractable algorithms\, 2) generalizati
- on to unseen domains via effective knowledge transfer and 3) human centric
-  decision making. I will give an overview of my work along each of these a
- xes and introduce a variety of open problems and research directions inspi
- red by this conceptual framing.\n\nBio:\n\nAldo is a Postdoctoral Research
- er at Microsoft Research NYC. He obtained his PhD at UC Berkeley where he 
- was advised by Peter Bartlett and Michael Jordan. His research lies in the
-  areas of Reinforcement Learning\, Online Learning\, Bandits and Algorithm
- ic Fairness. He is particularly interested in furthering our statistical u
- nderstanding of learning phenomena in adaptive environments and use these 
- theoretical insights and techniques to design efficient and safe algorithm
- s for scientific\, engineering\, and large-scale societal applications.\n\
- n\nhttps://cpsc.yale.edu/event/cs-talk-aldo-pacchiano
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-aldo-pacchiano
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Jay Lim
 DTSTART:20230228T210000
 DTEND:20230228T220000
