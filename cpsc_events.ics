@@ -31,6 +31,53 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-jay-lim
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Talk - Nicole Immorlica
+DTSTART:20230307T210000
+DTEND:20230307T220000
+DESCRIPTION:Event description:\nCS Talk\nNiclole Immorlica\n\nHost: Yang C
+ ai\n\nTitle: Incentivizing Exploration with Selective Data Disclosure\n\n
+ Abstract:\n\nWe study the design of rating systems that incentivize effici
+ ent social learning. Agents arrive sequentially and choose actions\, each 
+ of which yields a reward drawn from an unknown distribution. A policy maps
+  the rewards of previously-chosen actions to messages for arriving agents.
+  The regret of a policy is the difference\, over all rounds\, between the 
+ expected reward of the best action and the reward induced by the policy. P
+ rior work proposes policies that recommend a single action to each agent\,
+  obtaining optimal regret under standard rationality assumptions. We inste
+ ad assume a frequentist behavioral model and\, accordingly\, restrict atte
+ ntion to disclosure policies that use messages consisting of the actions a
+ nd rewards from a subsequence of past agents\, chosen ex ante. We design a
+  policy with optimal regret in the worst case over reward distributions. O
+ ur research suggests three components of effective polices: independent fo
+ cus groups\, group aggregators\, and interlaced information structures.\n\
+ nJoint work with Jieming Mao\, Aleksandrs Slivkins\, Zhiwei Steven Wu.\n\
+ nBio:\n\nNicole Immorlica is a senior principal researcher at Microsoft Re
+ search New England (MSR NE) where she leads the economics and computation 
+ group.  She is also chair of SIGecom\, the ACM Special Interest Group on 
+ Economics and Computation\, which fosters world-class research in this int
+ erdisciplinary field through conferences\, awards\, and mentorship program
+ s.  She received her BS in 2000\, MEng in 2001 and PhD in 2005 in theoret
+ ical computer science from MIT in Cambridge\, MA.  She joined MSR NE in 2
+ 012 after completing postdocs at Microsoft in Redmond\, WA and Centruum vo
+ r Wiskunde en Informatics (CWI) in Amsterdam\, Netherlands\, and a profess
+ orship in computer science at Northwestern University.  Nicole’s resear
+ ch interest is in the design and operation of sociotechnical systems. Usin
+ g tools and modeling concepts from both theoretical computer science and e
+ conomics\, Nicole hopes to explain\, predict\, and shape behavioral patter
+ ns in various online and offline systems\, markets\, and games. She is kno
+ wn for her work on social networks\, matching markets\, and mechanism desi
+ gn.  She is the recipient of a number of fellowships and awards including
+  the Sloan Fellowship\, the Microsoft Faculty Fellowship and the NSF CAREE
+ R Award.  She has been on several boards including SIGACT\, the Game Theo
+ ry Society\, and OneChronos\; is an associate editor of Operations Researc
+ h and Transactions on Economics and Computation\, and was program committe
+ e member and chair for several ACM\, IEEE and INFORMS conferences in her a
+ rea.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-nicole-immorlica
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-nicole-immorlica
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Talk - Quanquan Liu
 DTSTART:20230328T143000
 DTEND:20230328T153000
