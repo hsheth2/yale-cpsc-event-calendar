@@ -78,6 +78,42 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-nicole-immorlica
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Talk - Lydia T. Liu
+DTSTART:20230309T153000
+DTEND:20230309T163000
+DESCRIPTION:Event description:\nCS Talk\nLydia T. Liu\n\nHost: Andre Wibis
+ ono\n\nTitle: Towards Responsible Machine Learning in Societal Systems\n\
+ nAbstract:\n\nMachine learning systems are deployed in consequential domai
+ ns such as education\, employment\, and credit\, where decisions have prof
+ ound effects on socioeconomic opportunity and life outcomes. High stakes d
+ ecision settings present new statistical\, algorithmic\, and ethical chall
+ enges. In this talk\, we examine the distributive impact of machine learni
+ ng algorithms in societal contexts\, and investigate the algorithmic and s
+ ociotechnical interventions that bring machine learning systems into align
+ ment with societal values—equity and long-term welfare. First\, we study
+  the dynamic interactions between machine learning algorithms and populati
+ ons\, for the purpose of mitigating disparate impact in applications such 
+ as algorithmic lending and hiring. Next\, we consider data-driven decision
+  systems in competitive environments such as markets\, and devise learning
+  algorithms to ensure efficiency and allocative fairness. We end by outlin
+ ing future directions for responsible machine learning in societal systems
+  that bridge the gap between the optimization of predictive models and the
+  evaluation of downstream decisions and impact.\n\nBio:\n\nLydia T. Liu is
+  a postdoctoral researcher in Computer Science at Cornell University\, wor
+ king with Jon Kleinberg\, Karen Levy\, and Solon Barocas. Her research exa
+ mines the theoretical foundations of machine learning and algorithmic deci
+ sion-making\, with a focus on societal impact and human welfare. She obtai
+ ned her PhD in Electrical Engineering and Computer Sciences from UC Berkel
+ ey\, advised by Moritz Hardt and Michael Jordan\, and has received a Micro
+ soft Ada Lovelace Fellowship\, an Open Philanthropy AI Fellowship\, an NUS
+  Development Grant\, and a Best Paper Award at the International Conferenc
+ e on Machine Learning.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-lydia-t-li
+ u
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-lydia-t-liu
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Talk - Quanquan Liu
 DTSTART:20230328T143000
 DTEND:20230328T153000
