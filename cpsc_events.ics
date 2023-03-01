@@ -2,35 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Jay Lim
-DTSTART:20230228T210000
-DTEND:20230228T220000
-DESCRIPTION:Event description:\nCS Talk\nJay Lim\n\nHost: Ruzica Piskac\n\
- nTitle: Towards Creating Correct Numerics\n\nAbstract:\n\nNumeric applicat
- ion is an integral part of computer science. Real number computations are 
- becoming increasingly important with the rapid development of machine lear
- ning\, high-performance computing\, and simulations. However\, accurate an
- d efficient numerical computations are still open research areas. A proble
- m as simple as efficiently and correctly approximating elementary function
- s is still challenging and mainstream math libraries do not produce correc
- t results.\n\nThis talk presents several challenges in numerical computati
- on and proposes the RLibm project. This project builds efficient correctly
-  rounded elementary functions for multiple representations. It makes a cas
- e for approximating the correctly rounded results of an elementary functio
- n rather than the real value of an elementary function. The talk then expl
- ores how this approach can be applied broadly and discuss future direction
- s to take another step toward correct numerics.\n\nBio:\n\nJay Lim is a 
- Lecturer at Yale University. He received his PhD at Rutgers University und
- er Santosh Nagarakatte. His research interest lies in making all low-level
-  systems correct and secure. These systems include but are not limited to
-  compilers\, cryptographic algorithms\, standard libraries\, numerical app
- lications\, and ML. His dream is to see the day that all systems are free 
- of bugs.\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-talk-jay-lim
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-jay-lim
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Nicole Immorlica
 DTSTART:20230307T210000
 DTEND:20230307T220000
