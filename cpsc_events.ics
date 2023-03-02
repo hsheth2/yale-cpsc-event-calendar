@@ -5,45 +5,45 @@ BEGIN:VEVENT
 SUMMARY:CS Talk - Nicole Immorlica
 DTSTART:20230307T210000
 DTEND:20230307T220000
-DESCRIPTION:Event description:\nCS Talk\nNiclole Immorlica\n\nHost: Yang C
- ai\n\nTitle: Incentivizing Exploration with Selective Data Disclosure\n\n
- Abstract:\n\nWe study the design of rating systems that incentivize effici
- ent social learning. Agents arrive sequentially and choose actions\, each 
- of which yields a reward drawn from an unknown distribution. A policy maps
-  the rewards of previously-chosen actions to messages for arriving agents.
-  The regret of a policy is the difference\, over all rounds\, between the 
- expected reward of the best action and the reward induced by the policy. P
- rior work proposes policies that recommend a single action to each agent\,
-  obtaining optimal regret under standard rationality assumptions. We inste
- ad assume a frequentist behavioral model and\, accordingly\, restrict atte
- ntion to disclosure policies that use messages consisting of the actions a
- nd rewards from a subsequence of past agents\, chosen ex ante. We design a
-  policy with optimal regret in the worst case over reward distributions. O
- ur research suggests three components of effective polices: independent fo
- cus groups\, group aggregators\, and interlaced information structures.\n\
- nJoint work with Jieming Mao\, Aleksandrs Slivkins\, Zhiwei Steven Wu.\n\
- nBio:\n\nNicole Immorlica is a senior principal researcher at Microsoft Re
- search New England (MSR NE) where she leads the economics and computation 
- group.  She is also chair of SIGecom\, the ACM Special Interest Group on 
- Economics and Computation\, which fosters world-class research in this int
- erdisciplinary field through conferences\, awards\, and mentorship program
- s.  She received her BS in 2000\, MEng in 2001 and PhD in 2005 in theoret
- ical computer science from MIT in Cambridge\, MA.  She joined MSR NE in 2
- 012 after completing postdocs at Microsoft in Redmond\, WA and Centruum vo
- r Wiskunde en Informatics (CWI) in Amsterdam\, Netherlands\, and a profess
- orship in computer science at Northwestern University.  Nicole’s resear
- ch interest is in the design and operation of sociotechnical systems. Usin
- g tools and modeling concepts from both theoretical computer science and e
- conomics\, Nicole hopes to explain\, predict\, and shape behavioral patter
- ns in various online and offline systems\, markets\, and games. She is kno
- wn for her work on social networks\, matching markets\, and mechanism desi
- gn.  She is the recipient of a number of fellowships and awards including
-  the Sloan Fellowship\, the Microsoft Faculty Fellowship and the NSF CAREE
- R Award.  She has been on several boards including SIGACT\, the Game Theo
- ry Society\, and OneChronos\; is an associate editor of Operations Researc
- h and Transactions on Economics and Computation\, and was program committe
- e member and chair for several ACM\, IEEE and INFORMS conferences in her a
- rea.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-nicole-immorlica
+DESCRIPTION:Event description:\nCS Talk\nNicole Immorlica\n\nHost: Yang Ca
+ i\n\nTitle: Incentivizing Exploration with Selective Data Disclosure\n\nA
+ bstract:\n\nWe study the design of rating systems that incentivize efficie
+ nt social learning. Agents arrive sequentially and choose actions\, each o
+ f which yields a reward drawn from an unknown distribution. A policy maps 
+ the rewards of previously-chosen actions to messages for arriving agents. 
+ The regret of a policy is the difference\, over all rounds\, between the e
+ xpected reward of the best action and the reward induced by the policy. Pr
+ ior work proposes policies that recommend a single action to each agent\, 
+ obtaining optimal regret under standard rationality assumptions. We instea
+ d assume a frequentist behavioral model and\, accordingly\, restrict atten
+ tion to disclosure policies that use messages consisting of the actions an
+ d rewards from a subsequence of past agents\, chosen ex ante. We design a 
+ policy with optimal regret in the worst case over reward distributions. Ou
+ r research suggests three components of effective polices: independent foc
+ us groups\, group aggregators\, and interlaced information structures.\n\n
+ Joint work with Jieming Mao\, Aleksandrs Slivkins\, Zhiwei Steven Wu.\n\n
+ Bio:\n\nNicole Immorlica is a senior principal researcher at Microsoft Res
+ earch New England (MSR NE) where she leads the economics and computation g
+ roup.  She is also chair of SIGecom\, the ACM Special Interest Group on E
+ conomics and Computation\, which fosters world-class research in this inte
+ rdisciplinary field through conferences\, awards\, and mentorship programs
+ .  She received her BS in 2000\, MEng in 2001 and PhD in 2005 in theoreti
+ cal computer science from MIT in Cambridge\, MA.  She joined MSR NE in 20
+ 12 after completing postdocs at Microsoft in Redmond\, WA and Centruum vor
+  Wiskunde en Informatics (CWI) in Amsterdam\, Netherlands\, and a professo
+ rship in computer science at Northwestern University.  Nicole’s researc
+ h interest is in the design and operation of sociotechnical systems. Using
+  tools and modeling concepts from both theoretical computer science and ec
+ onomics\, Nicole hopes to explain\, predict\, and shape behavioral pattern
+ s in various online and offline systems\, markets\, and games. She is know
+ n for her work on social networks\, matching markets\, and mechanism desig
+ n.  She is the recipient of a number of fellowships and awards including 
+ the Sloan Fellowship\, the Microsoft Faculty Fellowship and the NSF CAREER
+  Award.  She has been on several boards including SIGACT\, the Game Theor
+ y Society\, and OneChronos\; is an associate editor of Operations Research
+  and Transactions on Economics and Computation\, and was program committee
+  member and chair for several ACM\, IEEE and INFORMS conferences in her ar
+ ea.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-nicole-immorlica
 LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-nicole-immorlica
