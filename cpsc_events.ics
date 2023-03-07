@@ -127,4 +127,43 @@ LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-quanquan-liu
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS Talk - Andrea Zanette
+DTSTART:20230411T200000
+DTEND:20230411T210000
+DESCRIPTION:Event description:\nCS Talk\nAndrea Zanette\n\nHost: Yang Cai\
+ n\nTitle: Towards a Statistical Foundation for Reinforcement Learning\n\n
+ Abstract:\n\nIn recent years\, reinforcement learning algorithms have achi
+ eved a number of headline-grabbing empirical successes on various complex 
+ tasks. However\, applying the reinforcement learning paradigm to new probl
+ ems remains highly challenging. In many cases\, the existing algorithms ne
+ ed to be modified\, and new ones may have to be developed to solve the pro
+ blem at hand. In order to do so effectively\, we must gain some understand
+ ing about the foundations of reinforcement learning.\n\nIn this talk I wil
+ l present some recent results of my research towards this goal. I will fir
+ st present an algorithm that can exploit the domain structure to learn muc
+ h faster on easier problems\, while retaining state-of-the art worst-case 
+ guarantees on pathologically hard ones.  Then I will discuss a fundamenta
+ l information-theoretic lower-bound\, which establishes that reinforcement
+  learning can be exponentially harder than supervised learning even when s
+ imple linear predictors are implemented. Finally\, I will discuss a stati
+ stically optimal algorithm to learn from historical data.\n\nBio:\n\nAndr
+ ea Zanette is a postdoctoral scholar in the Department of Electrical Engin
+ eering and Computer Sciences at the University of California\, Berkeley\, 
+ supported by a fellowship from the Foundation of Data Science Institute. 
+ He completed his PhD (2017-2021) in the Institute for Computational and Ma
+ thematical Engineering at Stanford University\, advised by Prof Emma Bruns
+ kill and Mykel J. Kochenderfer. His PhD dissertation investigated modern 
+ Reinforcement Learning challenges such as exploration\, function approxima
+ tion\, adaptivity\, and learning from offline data. His work was supported
+  by a Total Innovation Fellowship and his PhD thesis was awarded the Gene
+  Golub Outstanding Dissertation Award from his department. Andrea’s back
+ ground is in mechanical engineering. Before Stanford\, he worked as a soft
+ ware developer in high-performance computing\, as well as at the von Karma
+ n Institute for Fluid Dynamics\, a NATO-affiliated international research 
+ establishment.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-andrea-zanette
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-andrea-zanette
+END:VEVENT
 END:VCALENDAR
