@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
-SUMMARY:Film Screening of The Lost Leonardo and Post-Film Conversation
-DTSTART:20230308T210000
-DTEND:20230308T220000
-DESCRIPTION:Event description:\nThe Lost Leonardo\nis the inside story beh
- ind the Salvator Mundi\, the most expensive painting ever sold at $450 mil
- lion. From the moment the painting is bought for $1\,175 at a questionable
-  New Orleans auction house  and the restorer discovers masterful Renaissa
- nce brushstrokes under the heavy varnish of its cheap restoration\, the Sa
- lvator Mundi’s fate is determined by an insatiable quest for fame\, mone
- y and power.  As its price soars\, so do questions about its authenticity
- : is this painting really by Leonardo da Vinci?\n\nUnravelling the hidden 
- agendas of the richest men and most powerful art institutions in the world
- \,\nThe Lost Leonardo\nreveals how vested interests in the Salvator Mundi 
- are of such tremendous power that truth becomes secondary.\n\nImmediately 
- following the film\, we shall host a moderated conversation with\nDianne D
- wyer Modestini\n\, the renowned art conservator of Old Master paintings wh
- ose skilled restoration work launched the extraordinary story of the Salva
- tor Mundi.\n\nMore information about the story behind this remarkable pain
- ting is available\nhere\n.\n\n\nhttps://frankeprogram.yale.edu/event/film-
- screening-lost-leonardo-and-post-film-conversation
-LOCATION:Humanities Quadrangle\, L01
-STATUS:CONFIRMED
-URL:https://frankeprogram.yale.edu/event/film-screening-lost-leonardo-and-
- post-film-conversation
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Competition Now Open:  Franke Undergraduate Fellowship in Science 
  and the Humanities
 DTSTART:20230310T220000
