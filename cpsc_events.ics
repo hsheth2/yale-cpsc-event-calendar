@@ -45,6 +45,48 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-quanquan-liu
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Talk - Lauren F. Klein
+DTSTART:20230330T143000
+DTEND:20230330T153000
+DESCRIPTION:Event description:\nCS Talk\nLauren F. Klein\n\nHost: Andre Wi
+ bisono\n\nTitle: Why LLM Research Needs Feminism\n\nAbstract:\n\nAs Large 
+ Language Models (LLMs) are increasingly leveraged by corporations and in a
+ cademic research\, the asymmetrical conditions of their production\, the e
+ xpanding possibilities for their application\, and their potential for har
+ m—to both people and the planet—are becoming increasingly difficult to
+  ignore. How should we think about these possibilities and pitfalls? Who s
+ hould we be thinking with? And what should we be thinking about? In this t
+ alk\, Klein will propose that\nintersectional feminism\ncan help to answer
+  these consequential questions—and potentially point the way to new area
+ s of AI/ML research. Drawing from her recent book\,\nData Feminism\n(MIT P
+ ress\, 2020)\, co-authored with Catherine D’Ignazio\, and her longstandi
+ ng involvement in work at the intersection of NLP and humanities data\, sh
+ e will demonstrate how the attention to asymmetrical power that constitute
+ s the core of feminist thinking can not only be translated into the LLM re
+ search space\, but is in fact necessary if these models are to contribute 
+ to some of today’s most urgent research questions—those having to do w
+ ith increasing social and cultural understanding\, and limiting the potent
+ ial for bias and harm.\n\nBio:\n\nLauren Klein is Winship Distinguished Re
+ search Professor and Associate Professor in the departments of English and
+  Quantitative Theory & Methods at Emory University\, where she also direct
+ s the\nDigital Humanities Lab\n. Before moving to Emory\, she taught in th
+ e School of Literature\, Media\, and Communication at Georgia Tech. Klein
+  works at the intersection of digital humanities\, data science\, and Amer
+ ican culture\, with a research focus on issues of gender and race. She i
+ s the author of several books\, including the award-winning\nData Feminism
+ \n(MIT Press\, 2020)\, co-authored with Catherine D’Ignazio. With Matth
+ ew K. Gold\, she edits\nDebates in the Digital Humanities\n\,\na hybrid pr
+ int-digital publication stream that explores debates in the field as they 
+ emerge. Her work has appeared in leading humanities journals including\nPM
+ LA\, American Literature\,\nand\nAmerican Quarterly\n\; and at technical c
+ onferences including\nNACCL\n\,\nEMNLP\n\, and\nIEEE VIS\n. Her research h
+ as been supported by grants from the NEH and the Mellon Foundation.\n\n\nh
+ ttps://cpsc.yale.edu/event/cs-talk-lauren-f-klein
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-lauren-f-klein
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Talk - Andrea Zanette
 DTSTART:20230411T200000
 DTEND:20230411T210000
@@ -82,5 +124,51 @@ DESCRIPTION:Event description:\nCS Talk\nAndrea Zanette\n\nHost: Yang Cai\
 LOCATION:AKW 200
 STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-andrea-zanette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS/Econ Talk - Aaron Roth
+DTSTART:20230414T143000
+DTEND:20230414T153000
+DESCRIPTION:Event description:\nCS/Econ Talk\nAaron Roth\n\nHost: Yang Cai
+ \n\nTitle: Robust and Equitable Uncertainty Estimation\n\nAbstract:\n\nMac
+ hine learning provides us with an amazing set of tools to make predictions
+ \, but how much should we trust particular predictions? To answer this\, w
+ e need a way of estimating the confidence we should have in particular pre
+ dictions of black-box models. Standard tools for doing this give guarantee
+ s that are averages over predictions. For instance\, in a medical applicat
+ ion\, such tools might paper over poor performance on one medically releva
+ nt demographic group if it is made up for by higher performance on another
+  group. Standard methods also depend on the data distribution being static
+  — in other words\, the future should be like the past.\n\nIn this talk\
+ , I will describe new techniques to address both these problems: a way to 
+ produce prediction sets for arbitrary black-box prediction methods that ha
+ ve correct empirical coverage even when the data distribution might change
+  in arbitrary\, unanticipated ways and such that we have correct coverage 
+ even when we zoom in to focus on demographic groups that can be arbitrary 
+ and intersecting. When we just want correct group-wise coverage and are wi
+ lling to assume that the future will look like the past\, our algorithms a
+ re especially simple. We draw on ideas and techniques from the economic li
+ teratures on calibration\, expert testing\, and property elicitation\, as 
+ well as recent work in algorithmic fairness.\n\nThis talk is based on four
+  papers that are joint works with Osbert Bastani\, Varun Gupta\, Changhwa 
+ Lee\, Chris Jung\, Mallesh Pai\, Georgy Noarov\, Ramya Ramalingam\, and Ra
+ kesh Vohra.\n\nBio:\n\nAaron Roth is the Henry Salvatori Professor of Comp
+ uter and Cognitive Science\, in the Computer and Information Sciences depa
+ rtment at the University of Pennsylvania\, with a secondary appointment in
+  the Wharton statistics department. He is affiliated with the Warren Cente
+ r for Network and Data Science\, and co-director of the Networked and Soci
+ al Systems Engineering (NETS) program.  He is also an Amazon Scholar at A
+ mazon AWS. He is the recipient of a Presidential Early Career Award for Sc
+ ientists and Engineers (PECASE) awarded by President Obama in 2016\, an Al
+ fred P. Sloan Research Fellowship\, an NSF CAREER award\, and research awa
+ rds from Yahoo\, Amazon\, and Google.  His research focuses on the algori
+ thmic foundations of data privacy\, algorithmic fairness\, game theory\, l
+ earning theory\, and machine learning.  Together with Cynthia Dwork\, he 
+ is the author of the book “The Algorithmic Foundations of Differential P
+ rivacy.” Together with Michael Kearns\, he is the author of “The Ethic
+ al Algorithm”.\n\n\nhttps://cpsc.yale.edu/event/csecon-talk-aaron-roth
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/csecon-talk-aaron-roth
 END:VEVENT
 END:VCALENDAR
