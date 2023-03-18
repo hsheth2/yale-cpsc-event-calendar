@@ -2,6 +2,52 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
+SUMMARY:Histories and Counter-Histories of CGI in Movies\, Talk by Theodor
+ e Kim
+DTSTART:20230412T200000
+DTEND:20230412T210000
+DESCRIPTION:Event description:\nThe history of computer-generated imagery 
+ (CGI) in movies is often presented as a hero’s journey. Starting in the 
+ 1980s\, a scrappy group of computer scientists went up against the large\,
+  powerful\, but inert\, Hollywood studio empire\, and forever changed how 
+ movies are made. Our guest\,\nProfessor Theodore Kim\n\, will present that
+  history\, and a counter-history that reads like this:  Starting in the 1
+ 980s\, a scrappy group of computer scientists ensured that historical bias
+ es towards young\, white skin and straight\, blond hair embedded in film a
+ nd photography technology would be carried over from the analog era into t
+ he digital.\n\nKim will conclude with efforts to confront and counter thes
+ e racially charged biases after the murder of George Floyd. This is a mult
+ i-year\, multi-institution effort spanning the sciences\, arts and humanit
+ ies\, and includes his group at Yale.\n\n\nhttps://frankeprogram.yale.edu/
+ event/histories-and-counter-histories-cgi-movies-talk-theodore-kim
+LOCATION:Humanities Quadrangle\, L01
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/histories-and-counter-histories-c
+ gi-movies-talk-theodore-kim
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G-Man:  J. Edgar Hoover and the Making of the American Century
+DTSTART:20230418T200000
+DTEND:20230418T210000
+DESCRIPTION:Event description:\nFor nearly a half-century\, J. Edgar Hoove
+ r was director of the FBI or its precursor. A rabid anti-Communist now kno
+ wn for his own law-breaking — specifically\, for his secret surveillance
+  of American citizens — he is often caricatured as a bulldog.\n\nBut in 
+ her new biography\n“G-Man: J. Edgar Hoover and the Making of the America
+ n Century”\n(Viking)\, Yale historian Beverly Gage reveals new informati
+ on about the legendary government man (“G-man’) and portrays him as a 
+ complicated person\, one full of contradictions. The book was listed among
+  the top 10 books of 2022 by the Washington Post\, the Atlantic\, and Publ
+ ishers Weekly\, and was on The New York Times’ list of the 100 best book
+ s of 2022.  The New Yorker chose it as one of its 24 “Essential Reads
+ ” of 2022.\n\n\nhttps://frankeprogram.yale.edu/event/g-man-j-edgar-hoove
+ r-and-making-american-century
+LOCATION:Humanities Quadrangle\, L01
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/g-man-j-edgar-hoover-and-making-a
+ merican-century
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:We Carry Our World Within Us: Cellular Structures That Allow Us To
   Live in A Hostile Environment
 DTSTART:20230426T200000
