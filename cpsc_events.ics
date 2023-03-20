@@ -87,6 +87,36 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-lauren-f-klein
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Talk - Fatemeh Nargesian
+DTSTART:20230403T200000
+DTEND:20230403T210000
+DESCRIPTION:Event description:\nCS Talk\nFatemeh Nargesian\n\nHost: Anurag
+  Khandelwal\n\nTitle: Data Lakes: Discovery\, Data Debiasing\, and Query A
+ nswering\n\nAbstract:\n\nData for AI is increasingly reliant on the integr
+ ation of multiple sources – sometimes obtained from open data repositori
+ es or data marketplaces. Despite decades of research in data integration a
+ nd cleaning\, we are still not sure how to construct AI-ready structured d
+ atasets – data with descriptive features and representative distribution
+ . In this talk\, first\, I will describe how to discover relevant datasets
+ \, based on join and union operations from large-scale data repositories\,
+  by designing efficient index structures. Next\, I will show how to tailor
+  a dataset with desired distribution requirements from multiple sources\, 
+ in order to construct unbiased datasets. We will also see how to obtain an
+  IID sample over normalized data\, to improve the efficiency of model trai
+ ning and perform approximate query answering. Finally\, I will conclude by
+  discussing distribution-aware and human-centric aspects of the management
+  of data lakes.\n\nBio:\n\nFatemeh Nargesian is an assistant professor of 
+ computer science at the University of Rochester. She obtained her PhD at t
+ he University of Toronto. Her research interests are in data management fo
+ r AI-based data analytics and scientific time-series management. Her work 
+ has appeared at top-tier venues including VLDB\, SIGMOD\, and ICDE\, and h
+ as won the best demo award of VLDB 2017.\n\n\nhttps://cpsc.yale.edu/event/
+ cs-talk-fatemeh-nargesian
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-fatemeh-nargesian
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Talk - Andrea Zanette
 DTSTART:20230411T200000
 DTEND:20230411T210000
