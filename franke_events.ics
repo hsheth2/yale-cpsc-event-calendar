@@ -2,6 +2,37 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Franke Program in Science and the Humanities
 X-WR-CALNAME:Yale Franke Program Events
 BEGIN:VEVENT
+SUMMARY:Nature and Artifice: Korean Munbangdo Painting
+DTSTART:20230406T203000
+DTEND:20230406T213000
+DESCRIPTION:Event description:\nThinking Environment in Early Modernity is
+  a speaker series focused on intermedial problems of conceptualizing and r
+ epresenting the environment\, both in the Early Modern period and in trans
+ historical contexts. Eleanor Soo-ah Hyun (Metropolitan Museum of Art) will
+  deliver a talk entitled\, “Nature and Artifice: Korean Munbangdo Painti
+ ng” on Thursday\, April 6th at 4:30pm in HQ 276 (Humanities Quadrangle).
+  The lecture will also be broadcast over Zoom at\nthis link\n. There will 
+ be a small reception with refreshments afterwards.\n\nMunbangdo is a Korea
+ n still-life painting genre that emerged in the 18th century and continued
+  to be popular into the mid-20th century. The paintings reflect contempora
+ neous global trends of collecting\, display and trade. In addition to intr
+ oducing the genre\, the talk will focus on the depicted naturalia\, their 
+ symbolism and connections to artifice and amusement.\n\nThinking Environme
+ nt in Early Modernity is co-sponsored by The Franke Program in Science and
+  the Humanities\, the Program in Early Modern Studies\, and the Council fo
+ r East Asian Studies. For more information on the series\, please contact 
+ John Hoffmeyer (\njohn.hoffmeyer@yale.edu\n) or Taylor Yoonji Kang (\ntayl
+ or.kang@yale.edu\n" conversion="false" data-linkto="http://" href="http:\n
+ //taylor.kang@yale.edu\n" title="\ntaylor.kang@yale.edu\n">\ntaylor.kang@y
+ ale.edu\n).\n\nArtwork Credit: Unidentified artist\, “\nBooks and Schola
+ rs’ Possessions\n” (early 20th century)\n\n\nhttps://frankeprogram.yal
+ e.edu/event/nature-and-artifice-korean-munbangdo-painting
+LOCATION:Humanities Quadrangle\, 276
+STATUS:CONFIRMED
+URL:https://frankeprogram.yale.edu/event/nature-and-artifice-korean-munban
+ gdo-painting
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Histories and Counter-Histories of CGI in Movies\, Talk by Theodor
  e Kim
 DTSTART:20230412T200000
