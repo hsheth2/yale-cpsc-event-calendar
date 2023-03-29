@@ -2,49 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS Talk - Quanquan Liu
-DTSTART:20230328T143000
-DTEND:20230328T153000
-DESCRIPTION:Event description:\n\n\nCS Talk\nQuanquan Liu\n\nHost: Holly R
- ushmeier\n\nTitle: Scalable Graph Algorithms: Parallel\, Dynamic\, and Pri
- vate\n\nAbstract:\n\nGraph algorithms are ubiquitous in today’s world wh
- ere graph analytics are performed over massive datasets containing potenti
- ally sensitive information. Modern graphs present many new challenges not 
- considered by classic static\, sequential computation models. First\, grap
- hs have up to trillions of edges and are several orders of magnitude large
- r than what traditional sequential algorithms can handle. In addition to s
- cale\, modern graphs are also dynamically evolving with up to millions of 
- changes per second. Second\, data leaks and commercial data trading threat
- en to expose the large volume of sensitive private information contained i
- n these graphs. Third\, the monetary and resource incentives associated wi
- th large distributed graphs (e.g.\, for cryptocurrency) make them vulnerab
- le to malicious adversaries. Thus\, modern graph algorithms must achieve s
- everal simultaneous goals: efficiency\, scalability\, privacy\, and robust
- ness against adversaries.\n\nIn this talk\, I will present algorithms that
-  rise to these aforementioned challenges. I will first present novel scala
- ble algorithms for k-core decomposition and related important problems in 
- computational models that take advantage of modern parallel computing arch
- itectures and dynamic environments. These algorithms not only achieve theo
- retical improvements but also hundreds of times speedups over the state-of
- -the-art in practice. Then\, I will formalize models and give algorithms t
- hat combat broader societal concerns of privacy breaches and susceptibilit
- y to adversarial attacks. Finally\, I’ll discuss my broader research vis
- ion in combining scalability with adversary-robustness.\n\nBio:\n\nQuanqua
- n C. Liu is a postdoctoral scholar at Northwestern University advised by S
- amir Khuller. She completed her PhD in Computer Science at MIT where she w
- as advised by Erik D. Demaine and Julian Shun. Before that\, she obtained 
- her dual bachelor’s degree in computer science and math also at MIT. She
-  has worked on a number of problems in algorithms and the intersection bet
- ween theory and practice. Her most recent work focuses on parallel dynamic
-  and static graph algorithms as well as differentially private graph algor
- ithms. She has earned the Best Paper Award at SPAA 2022\, a NSF Graduate R
- esearch Fellowship\, and participated in the 2021 EECS Rising Stars worksh
- op.\n\n\n\n\nhttps://cpsc.yale.edu/event/cs-talk-quanquan-liu
-LOCATION:AKW 200
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-quanquan-liu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Colloquium - Lauren F. Klein\, Emory University
 DTSTART:20230330T143000
 DTEND:20230330T153000
