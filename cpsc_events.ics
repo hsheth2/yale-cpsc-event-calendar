@@ -112,7 +112,7 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-fatemeh-nargesian
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS Talk - Brian Held
+SUMMARY:CS Talk - David Held
 DTSTART:20230404T200000
 DTEND:20230404T210000
 DESCRIPTION:Event description:\nCS Talk\nDavid Held\n\nHost: Brian Scassel
@@ -141,11 +141,11 @@ DESCRIPTION:Event description:\nCS Talk\nDavid Held\n\nHost: Brian Scassel
  eley\, and he completed his Ph.D. in Computer Science at Stanford Universi
  ty.  David also has a B.S. and M.S. in Mechanical Engineering at MIT.  D
  avid is a recipient of the Google Faculty Research Award in 2017 and the N
- SF CAREER Award in 2021.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-brian-he
+ SF CAREER Award in 2021.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-david-he
  ld
 LOCATION:AKW 200
 STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/cs-talk-brian-held
+URL:https://cpsc.yale.edu/event/cs-talk-david-held
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS Talk - Andrea Zanette
