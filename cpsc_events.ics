@@ -112,6 +112,42 @@ STATUS:CONFIRMED
 URL:https://cpsc.yale.edu/event/cs-talk-fatemeh-nargesian
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS Talk - Brian Held
+DTSTART:20230404T200000
+DTEND:20230404T210000
+DESCRIPTION:Event description:\nCS Talk\nDavid Held\n\nHost: Brian Scassel
+ lati and Tesca Fitzgerald\n\nTitle: Relational Affordance Learning for R
+ obot Manipulation\n\nAbstract:\n\nRobots today are typically confined to i
+ nteract with rigid\, opaque objects with known object models. However\, th
+ e objects in our daily lives are often non-rigid\, can be transparent or r
+ eflective\, and are diverse in shape and appearance. I argue that\, to enh
+ ance the capabilities of robots\, we should develop perception methods tha
+ t estimate what robots need to know to interact with the world. Specifical
+ ly\, I will present novel perception methods that estimate “relational 
+ affordances”: task-specific geometric relationships between objects that
+  allow a robot to determine what actions it needs to take to complete a ta
+ sk. These estimated relational affordances can enable robots to perform
+  complex tasks such as manipulating cloth\, articulated objects\, grasping
+  transparent and reflective objects\, and other manipulation tasks\, gener
+ alizing to unseen objects in a category and unseen object configurations. 
+ By reasoning about relational affordances\, we can achieve robust perfor
+ mance on difficult robot manipulation tasks.\n\nBio:\n\nDavid Held is an a
+ ssistant professor at Carnegie Mellon University in the Robotics Institute
+  and is the director of the RPAD lab: Robots Perceiving And Doing. His res
+ earch focuses on perceptual robot learning\, i.e. developing new methods a
+ t the intersection of robot perception and planning for robots to learn to
+  interact with novel\, perceptually challenging\, and deformable objects. 
+ Prior to coming to CMU\, David was a post-doctoral researcher at U.C. Berk
+ eley\, and he completed his Ph.D. in Computer Science at Stanford Universi
+ ty.  David also has a B.S. and M.S. in Mechanical Engineering at MIT.  D
+ avid is a recipient of the Google Faculty Research Award in 2017 and the N
+ SF CAREER Award in 2021.\n\n\nhttps://cpsc.yale.edu/event/cs-talk-brian-he
+ ld
+LOCATION:AKW 200
+STATUS:CONFIRMED
+URL:https://cpsc.yale.edu/event/cs-talk-brian-held
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CS Talk - Andrea Zanette
 DTSTART:20230411T200000
 DTEND:20230411T210000
