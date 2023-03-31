@@ -1,4 +1,38 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
+BEGIN:VEVENT
+SUMMARY:Colloquium on Data Deserts and Algorithmic Exclusion by Catherine 
+ Tucker
+DTSTART:20230407T150000
+DTEND:20230407T160000
+DESCRIPTION:Event description\nSpeaker:\nCatherine Tucker\n\, Sloan Distin
+ guished Professor of Management Science and Professor of Marketing at MIT 
+ Sloan.\n\nTitle:\nData Deserts and Algorithmic Exclusion\n\nHost:\nK. Sudh
+ ir\n\nSpeaker biography: Catherine Tucker is the Sloan Distinguished Profe
+ ssor of Management and a Professor of Marketing at MIT Sloan. She is the f
+ aculty director of the EMBA program. She has also been the Chair of the MI
+ T Sloan PhD Program. Her research interests lie in how technology allows f
+ irms to use digital data and machine learning to improve performance\, and
+  in the challenges this poses for regulation. Tucker has particular expert
+ ise in online advertising\, digital health\, social media\, and electronic
+  privacy. Her research studies the interface between marketing\, the econo
+ mics of technology\, and law. She has received an NSF CAREER Award for her
+  work on digital privacy\,  the William F. O’Dell Award for most signif
+ icant\, long-term contribution to Marketing\, and the INFORMS Society for 
+ Marketing Science Long Term Impact Award for long-run impact on marketing.
+  She is a cofounder of the MIT Cryptoeconomics Lab which studies the appli
+ cations of blockchain. She has been a Visiting Fellow at All Souls College
+ \, Oxford. She has testified to Congress regarding her work on digital pri
+ vacy and algorithms\, and presented her research to the OECD\, World Bank\
+ , IMF and the ECJ.  She holds a PhD in economics from Stanford University
+  and a BA from the University of Oxford.\n\nThis is an in-person event and
+  follows Yale University’s\nCOVID-19 policy\n.\n\n\nhttps://computations
+ ociety.yale.edu/event/colloquium-on-data-deserts-and-algorithmic-exclusion
+ -by-catherine-tucker
+LOCATION:TBA
+STATUS:CONFIRMED
+URL:https://computationsociety.yale.edu/event/colloquium-on-data-deserts-a
+ nd-algorithmic-exclusion-by-catherine-tucker
+END:VEVENT
 END:VCALENDAR
