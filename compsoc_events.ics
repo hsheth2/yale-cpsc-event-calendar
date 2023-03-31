@@ -1,17 +1,4 @@
 BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Computation and Society Initiative
 X-WR-CALNAME:Computation and Society
-BEGIN:VEVENT
-SUMMARY:Colloquium by Catherine Tucker
-DTSTART:20230407T160000
-DTEND:20230407T170000
-DESCRIPTION:Event description\nSpeaker:\nCatherine Tucker\n\, Sloan Distin
- guished Professor of Management Science and Professor of Marketing at MIT 
- Sloan.\n\nHost:\nK. Sudhir\n\n\n\n\nhttps://computationsociety.yale.edu/ev
- ent/colloquium-by-catherine-tucker
-LOCATION:TBA
-STATUS:CONFIRMED
-URL:https://computationsociety.yale.edu/event/colloquium-by-catherine-tuck
- er
-END:VEVENT
 END:VCALENDAR
