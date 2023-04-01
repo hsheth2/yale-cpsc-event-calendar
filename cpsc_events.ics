@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:Yale Department of Computer Science
 X-WR-CALNAME:Yale CS Events
 BEGIN:VEVENT
-SUMMARY:CS/YQI Quantum Computing Colloquium Hyeongrak “Chuck” Choi\, M
- IT
-DTSTART:20230331T160000
-DTEND:20230331T170000
-DESCRIPTION:Event description:\nCS/YQI Quantum Computing Colloquium\nHyeon
- grak “Chuck” Choi\, MIT\n\nTitle: Fault-Tolerant Non-Clifford State P
- reparation for Arbitrary Rotations\n\nAbstract:\n\nQuantum error correctio
- n is essential for practical quantum computing on noisy quantum hardware.
-  However\, logical operations on error-corrected qubits require a signifi
- cant resource overhead\, especially for high-precision and high-fidelity 
- non-Clifford rotation gates. We propose a postselection-based protocol to
-  resolve this issue. We efficiently prepare the resource states to be gate
- -teleported for small-angle rotations. The preparation of these non-Cliffo
- rd states achieves fault tolerance\, demonstrating the exponential suppre
- ssion of logical error with code distances. The algorithm applies to any s
- tabilizer codes including the codes with multiple logical qubits. We prov
- ide analytical derivations and numerical simulations of the fidelity and 
- success probability of the state preparation. We benchmark the method on 
- surface code and show a factor of 100 to 10\,000 reduction in space-time o
- verhead compared to existing methods. Our approach presents a promising p
- ath to reducing the resource requirement for quantum algorithms on error-
- corrected and noisy intermediate-scale quantum computers.\n\nBio:\n\nHyeon
- grak Choi (Chuck) is a postdoctoral researcher at MIT RLE\, quantum photon
- ics group led by Prof. Dirk Englund. Chuck obtained his PhD in electrical
-  engineering and computer science from MIT in 2021 under the supervision 
- of Prof. Dirk Englund. He was awarded Claude E Shannon Research Fellow in 
- 2019 and supported by a non-committing Samsung Scholarship from 2014-2019
- . His interest is in quantum information science\, quantum computing\, qua
- ntum networks\, and quantum optics.\n\n\n\n\n\n\n\nhttps://cpsc.yale.edu/
- event/csyqi-quantum-computing-colloquium-hyeongrak-chuck-choi-mit
-LOCATION:YQI Seminar Room (4th floor)
-STATUS:CONFIRMED
-URL:https://cpsc.yale.edu/event/csyqi-quantum-computing-colloquium-hyeongr
- ak-chuck-choi-mit
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS Talk - Fatemeh Nargesian
 DTSTART:20230403T200000
 DTEND:20230403T210000
