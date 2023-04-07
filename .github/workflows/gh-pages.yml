@@ -2,7 +2,7 @@ name: gh-pages
 
 on:
   schedule:
-  - cron: "20 */4 * * *"
+  - cron: "20 */12 * * *"
   push:
   pull_request:
 
