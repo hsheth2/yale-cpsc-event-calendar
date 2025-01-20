@@ -5,6 +5,7 @@ on:
   - cron: "20 */12 * * *"
   push:
   pull_request:
+  workflow_dispatch:
 
 jobs:
   build-deploy:
