@@ -1,3 +1,7 @@
+
+> [!IMPORTANT]
+> This project is unmaintained going forwards. I personally don't want to maintain it since I've graduated. The last time the calendar was updated in mid 2023.
+
 # Yale Event Calendars
 
 Problem: wanting Yale events in my Gcal.
